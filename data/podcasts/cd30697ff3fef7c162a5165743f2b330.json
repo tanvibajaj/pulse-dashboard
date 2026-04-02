@@ -1,0 +1,15 @@
+{
+  "title": "How 3 CEOs Use AI to Run $10B in Companies | This Week in AI",
+  "podcast": "This Week in AI",
+  "date": "Wed, 01 Apr 2026 16:36:41 GMT",
+  "duration": "01:11:50",
+  "summary": "Three CEOs managing a combined ~$10B in company value discuss how AI is reshaping enterprise infrastructure across tabular data (Fundamental's LTM/Nexus model for fraud detection, demand forecasting, etc.), AI video for business (Synthesia, 100M+ ARR, 90% of Fortune 100), and photonic computing (Light Matter, using light instead of copper to 3x AI training speeds). The broader theme is that AI is now automating cognition itself \u2014 not just physical labor \u2014 and most people are underestimating how fast the shift is happening.",
+  "keyTakeaways": [
+    "LLMs haven't solved structured/tabular data \u2014 Fundamental is building a purpose-built Large Tabular Model (LTM) with different architecture than transformers, targeting enterprise use cases like fraud detection, demand forecasting, and ETA prediction that still run on pre-LLM ML algorithms.",
+    "OpenAI shutting down Sora signals a strategic retreat to focus: the lesson is that 'doing too many things at once' kills execution, and B2B copilot/coding is the near-term value driver \u2014 Claude Code is the talk of founder circles right now.",
+    "Photonic interconnects (fiber/light vs. copper) are the new Moore's Law bottleneck \u2014 Light Matter claims 3x faster AI training times, meaning early adopters at foundation model companies will compound their advantage dramatically.",
+    "The cognitive automation moment is underappreciated: 70% of workers think AI will hurt others' jobs but only 30% worry about their own \u2014 a dangerous blind spot as white-collar/knowledge work (including accounting) is now directly in scope.",
+    "AI video for business is a proven wedge: Synthesia's bet that enterprises want video-native communication (not docs/slides) has paid off \u2014 100M ARR with 90% Fortune 100 penetration by focusing narrowly rather than chasing Hollywood-quality generation."
+  ],
+  "url": "https://podcasters.spotify.com/pod/show/oliver-k3/episodes/How-3-CEOs-Use-AI-to-Run-10B-in-Companies--This-Week-in-AI-e3h9oau"
+}

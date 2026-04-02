@@ -1,0 +1,15 @@
+{
+  "title": "Live From DAS: Are Tokens Dead? | Roundup",
+  "podcast": "Bell Curve",
+  "date": "Fri, 27 Mar 2026 08:00:00 -0000",
+  "duration": "1874",
+  "summary": "Recorded live at the Digital Asset Summit (DAS), the Bell Curve panel finds institutional adoption accelerating \u2014 with Fidelity, Shopify, UBS, and major banks showing up in force \u2014 but draws a sharp contrast between the thriving tokenization/stablecoin/RWA narrative and the brutal underperformance of native crypto tokens. The panel diagnoses the token market's multi-year decline as structural, driven by dual equity/token incentive conflicts, opaque supply dynamics with cliff unlocks, lack of investor rights, and regulatory ambiguity that prevented even basic disclosures. They argue the next token generation must fix these fundamentals or the most successful projects will simply stay equity.",
+  "keyTakeaways": [
+    "Institutional attention has shifted from Bitcoin/ETH price speculation to tokenization, stablecoins, and agentic commerce \u2014 with Canton and Tempo displacing Ethereum/Solana as the hot infrastructure at DAS.",
+    "The median token (ex-BTC/ETH, inflation-adjusted) is down ~80% over five years \u2014 structural problems, not just macro, are to blame.",
+    "Dual equity+token structures are a core failure mode: misaligned incentives, split teams, and token holders routinely getting zero in M&A events (e.g., Axelar) are still unresolved.",
+    "Regulatory grey zones forced foundations into silence on treasury/supply plans, making tokens effectively ununderwritable \u2014 upcoming regulatory clarity (expected within months) may finally set enforceable standards.",
+    "The next-gen token fix looks like: single incentive structure (token only, \u00e0 la Morpho's PBC model), full supply unlock at TGE, early-stage-appropriate valuations, and real investor relations \u2014 treating token holders more like equity holders."
+  ],
+  "url": ""
+}

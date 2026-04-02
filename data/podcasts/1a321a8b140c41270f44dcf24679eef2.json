@@ -1,0 +1,15 @@
+{
+  "title": "Omer Goldberg: The DeFi Exploit That Exposed a Bigger Problem",
+  "podcast": "The Defiant",
+  "date": "Mon, 30 Mar 2026 19:23:59 GMT",
+  "duration": "00:41:22",
+  "summary": "Omer Goldberg of Chaos Labs breaks down the Resolve exploit where a hacker minted $80M in USR stablecoin and extracted ~$25M in ETH/BTC \u2014 but the real damage came from DeFi's composability turning a contained hack into a multi-protocol crisis. The deeper issue: lending vaults on Morpho, Fluid, and Venus were pricing USR at $1 (or its pre-hack NAV) while the market had it trading at $0.02\u2013$0.25, creating a massive arbitrage window that drained high-quality collateral. Goldberg argues this oracle mispricing problem has caused tens of millions in losses across at least four similar incidents in the past 12 months, and that context-aware risk oracles \u2014 not static or once-daily pricing \u2014 are the fix.",
+  "keyTakeaways": [
+    "Composability is a double-edged sword: USR being whitelisted across Morpho, Curve, Fluid, and Venus meant one exploit cascaded into multi-protocol bad debt \u2014 the attack surface scales with integrations.",
+    "Morpho's 'public reallocation' automation feature acted as an unlimited credit line during the attack \u2014 vaults auto-supplied capital into a high-utilization pool without detecting that the demand spike was exploit-driven, not organic.",
+    "Static or low-frequency oracles (once-daily NAV pricing) are functionally equivalent to hard-coded prices during a crisis \u2014 if the oracle can't reflect reality fast enough under stress, it's a sitting duck.",
+    "The fix isn't binary (real-time vs. hard-coded): risk oracles should be context-dependent \u2014 e.g., requiring a sustained depeg across multiple venues for N blocks before updating, to avoid liquidation cascades from transient price moves.",
+    "Curator/vault models are under scrutiny: the incident raises questions about whether automated capital allocation strategies have sufficient circuit breakers to distinguish genuine yield opportunities from exploit-induced volatility."
+  ],
+  "url": "https://podcasters.spotify.com/pod/show/thedefiant/episodes/Omer-Goldberg-The-DeFi-Exploit-That-Exposed-a-Bigger-Problem-e3h6j7u"
+}

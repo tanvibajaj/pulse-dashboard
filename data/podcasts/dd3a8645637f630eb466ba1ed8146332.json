@@ -1,0 +1,15 @@
+{
+  "title": "SoftBank's $40B OpenAI Investment &amp; Anthropic's Claude Mythos Leak",
+  "podcast": "No Priors",
+  "date": "Fri, 27 Mar 2026 21:57:42 -0000",
+  "duration": "00:13:35",
+  "summary": "This episode covers five major AI stories: humanoid robots appearing at the White House as a signal of physical AI's rapid maturation, SoftBank's $40B OpenAI investment highlighting the massive capital moat forming around frontier labs, OpenAI redirecting Sora's compute to robotics R&D, Apple opening Siri to third-party AI providers in iOS 27, and a leaked Anthropic draft revealing a next-generation model called Claude Mythos \u2014 described internally as a 'step change' capability that poses 'unprecedented cybersecurity risks.' The overarching theme is that the AI race is consolidating fast, with capital, compute, and physical deployment becoming the new competitive moats.",
+  "keyTakeaways": [
+    "Anthropic's leaked 'Claude Mythos' (model tier: Capibara, above Opus) is confirmed real and described internally as outperforming Opus 4.6 on coding, reasoning, and cybersecurity \u2014 with Anthropic itself flagging unprecedented security risks, which rattled crypto and software markets.",
+    "SoftBank's $40B OpenAI round signals that frontier model development is becoming a capital game only a handful of players can afford \u2014 bad news for regional labs like Mistral, good news for end users who benefit from better models.",
+    "OpenAI is pivoting Sora's compute budget directly into robotics R&D, signaling a strategic bet that physical AI (not video generation) is where value creation is headed over the next few years.",
+    "Apple's iOS 27 will open Siri to third-party AI providers via the App Store \u2014 effectively turning Apple into a platform/shell rather than an AI developer, reducing OpenAI dependency and potentially making Siri useful for the first time for 1B+ iPhone users.",
+    "Physical AI is moving faster than expected: Figure 3 humanoid robots demonstrated at the White House, and Agile Robots just partnered with Google DeepMind to embed Gemini into manufacturing and logistics robots \u2014 expect major commercial rollouts by end of 2026."
+  ],
+  "url": ""
+}

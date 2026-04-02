@@ -1,0 +1,15 @@
+{
+  "title": "Success without Dignity?  Nathan finds Hope Amidst Chaos, from The Intelligence Horizon Podcast",
+  "podcast": "Cognitive Revolution",
+  "date": "Wed, 01 Apr 2026 09:39:10 -0000",
+  "duration": "6282",
+  "summary": "Nathan Labenz (Cognitive Revolution host) argues the singularity is near and transformative AI is inevitable \u2014 the debate has shifted from 'will it happen?' to 'how and when?' He places his P(doom) at 10-90% but has grown cautiously optimistic that a defense-in-depth safety strategy (interpretability, AI control, formal verification, pandemic prep) could keep society stable. He also flags geopolitical concerns, arguing US-China cooperation on AI is preferable to an unchecked race.",
+  "keyTakeaways": [
+    "Timeline compression is the one thing experts agree on: 'AGI by 2035' used to be aggressive, now it's the bear case \u2014 the debate has moved to details, not whether transformation happens.",
+    "Scaling RL is likely sufficient for transformative AI, but the question may become moot as new conceptual unlocks (like RL did for pre-training limits) keep moving the goalposts.",
+    "AI systems are 'jagged' \u2014 superhuman in many domains but still adversarially fragile and easier to trick than humans; expect weird edge cases even as capabilities soar.",
+    "A layered safety strategy combining interpretability (Goodfire), AI control (Redwood), formal software verification, and pandemic preparedness is Nathan's best-case path to keeping society on the rails.",
+    "Nathan is more worried about geopolitics than pure technical risk: recent US government moves against Anthropic signal a drift toward adversarial posture that makes human cooperation across borders harder \u2014 and that cooperation matters more than perfect alignment research."
+  ],
+  "url": "https://www.cognitiverevolution.ai/success-without-dignity-nathan-finds-hope-amidst-chaos-from-the-intelligence-horizon-podcast/"
+}
