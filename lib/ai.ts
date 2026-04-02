@@ -85,11 +85,12 @@ Articles:\n${articleList}`,
     const text = response.content[0].type === "text" ? response.content[0].text : "";
     const result: { crypto: { index: number; summary: string }[]; ai: { index: number; summary: string }[] } = JSON.parse(text);
 
-    const mapPicks = (picks: { index: number; summary: string }[]) =>
+    const mapPicks = (picks: { index: number; summary: string }[]): NewsItem[] =>
       picks.slice(0, 5).map((pick) => {
         const item = allItems[pick.index - 1];
-        return item ? { title: item.title, source: item.source, url: item.url, publishedAt: item.publishedAt, summary: pick.summary } : null;
-      }).filter((x): x is NewsItem => x !== null);
+        if (!item) return null;
+        return { title: item.title, source: item.source, url: item.url, publishedAt: item.publishedAt, summary: pick.summary } as NewsItem;
+      }).filter((x) => x !== null) as NewsItem[];
 
     return {
       crypto: mapPicks(result.crypto || []),
