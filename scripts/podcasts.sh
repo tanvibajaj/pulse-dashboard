@@ -14,11 +14,21 @@ mkdir -p "$PODCAST_DIR"
 echo "🎙️  Podcast pipeline starting..."
 
 # --- Podcast RSS feeds (name|url) ---
+# Crypto (5)
 PODCASTS=(
   "Bankless|https://feeds.flightcast.com/p83fuj0y0u58o82l41xei7zo.xml"
-  "All-In Podcast|https://rss.libsyn.com/shows/254861/destinations/1928300.xml"
-  "Lex Fridman|https://lexfridman.com/feed/podcast/"
+  "Unchained|https://feeds.megaphone.fm/LSHML4761942757"
+  "Empire|https://feeds.megaphone.fm/empire"
+  "Bell Curve|https://feeds.megaphone.fm/bellcurve"
+  "The Defiant|https://anchor.fm/s/1bee9344/podcast/rss"
+)
+# AI (5)
+PODCASTS+=(
   "a16z Podcast|https://feeds.simplecast.com/JGE3yC0V"
+  "Latent Space|https://api.substack.com/feed/podcast/1084089.rss"
+  "No Priors|https://rss.art19.com/no-priors-ai"
+  "Cognitive Revolution|https://feeds.megaphone.fm/RINTP3108857801"
+  "This Week in AI|https://anchor.fm/s/10803d078/podcast/rss"
 )
 
 TEMP_DIR=$(mktemp -d)
@@ -30,8 +40,11 @@ for entry in "${PODCASTS[@]}"; do
   podcast_name="${entry%%|*}"
   feed_url="${entry#*|}"
 
-  # Fetch latest episode from RSS
-  EPISODE_DATA=$(curl -s -L --max-time 15 "$feed_url" 2>/dev/null | python3 "$SCRIPT_DIR/parse_podcast_rss.py" "$podcast_name" 2>/dev/null)
+  # Fetch latest episode from RSS (only first 200KB — we only need the first episode)
+  FEED_HASH=$(echo "$podcast_name" | md5 -q 2>/dev/null || echo "$podcast_name" | md5sum | cut -d' ' -f1)
+  FEED_FILE="$TEMP_DIR/feed_${FEED_HASH}.xml"
+  curl -s -L --max-time 20 "$feed_url" 2>/dev/null | head -c 200000 > "$FEED_FILE"
+  EPISODE_DATA=$(python3 "$SCRIPT_DIR/parse_podcast_rss.py" "$podcast_name" < "$FEED_FILE" 2>/dev/null)
 
   if [ -z "$EPISODE_DATA" ] || [ "$EPISODE_DATA" = "{}" ]; then
     echo "  ⏭️  $podcast_name: no episodes found"
