@@ -1,0 +1,15 @@
+{
+  "title": "Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits",
+  "podcast": "All-In Podcast",
+  "date": "Fri, 27 Mar 2026 20:03:00 +0000",
+  "duration": "01:20:11",
+  "summary": "The All-In crew debates Anthropic's impressive product momentum (Claude Code, computer use, agentic features) versus OpenAI's consumer dominance, arguing the two companies are fundamentally different businesses\u2014enterprise API vs. consumer subscriptions\u2014making direct revenue comparisons misleading. Sacks praises Anthropic's technical execution while maintaining philosophical objections to their DC regulatory strategy, and the group warns that OpenAI risks losing focus by spreading itself too thin.",
+  "keyTakeaways": [
+    "Anthropic's bet on coding as the breakout use case was both ideologically driven (path to AGI via self-improvement) and strategically brilliant\u2014code is the gateway to enterprise IT budgets and enabled rapid revenue growth.",
+    "OpenAI vs. Anthropic revenue comparisons are apples-to-oranges: OpenAI is ~75% consumer subscriptions (ChatGPT), Anthropic is ~75% API/enterprise\u2014normalizing for RevRec, OpenAI still dominates total revenue but Anthropic is catching up in enterprise.",
+    "In enterprise AI deployments, Anthropic dominates\u2014the group notes it's 'all Anthropic all the time' through platforms like GitHub Copilot and Cursor, despite cost and token consumption concerns.",
+    "The classic startup lesson applies to OpenAI: focus on one or two things exceptionally well\u2014spreading too thin ('peanut butter smear') risks eroding the core consumer advantage they built with ChatGPT.",
+    "Anthropic's left-leaning brand positioning is both genuine culture and strategic talent acquisition\u2014estimated 90% of target PhD candidates skew left, making the stance a meaningful recruiting moat."
+  ],
+  "url": "https://allinchamathjason.libsyn.com/anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits"
+}

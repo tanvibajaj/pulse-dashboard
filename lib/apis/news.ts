@@ -12,8 +12,15 @@ interface RSSItem {
 const RSS_FEEDS = {
   global: [
     { url: "https://feeds.bbci.co.uk/news/world/rss.xml", source: "BBC" },
-    { url: "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", source: "NYT" },
     { url: "https://feeds.reuters.com/reuters/topNews", source: "Reuters" },
+    { url: "https://www.aljazeera.com/xml/rss/all.xml", source: "Al Jazeera" },
+    { url: "https://apnews.com/index.rss", source: "AP News" },
+  ],
+  crypto: [
+    { url: "https://cointelegraph.com/rss", source: "CoinTelegraph" },
+    { url: "https://www.coindesk.com/arc/outboundfeeds/rss/", source: "CoinDesk" },
+    { url: "https://decrypt.co/feed", source: "Decrypt" },
+    { url: "https://thedefiant.io/feed", source: "The Defiant" },
   ],
   ai: [
     { url: "https://techcrunch.com/category/artificial-intelligence/feed/", source: "TechCrunch" },
@@ -96,10 +103,23 @@ export async function fetchGlobalNews(): Promise<NewsItem[]> {
     RSS_FEEDS.global.map((feed) => fetchRSSFeed(feed.url, feed.source))
   );
 
+  // Fetch more than needed so AI can filter for relevance
   return results
     .flat()
     .sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime())
-    .slice(0, 6);
+    .slice(0, 15);
+}
+
+export async function fetchCryptoNews(): Promise<NewsItem[]> {
+  const results = await Promise.all(
+    RSS_FEEDS.crypto.map((feed) => fetchRSSFeed(feed.url, feed.source))
+  );
+
+  // Fetch more than needed so AI can filter for quality
+  return results
+    .flat()
+    .sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime())
+    .slice(0, 15);
 }
 
 export async function fetchAINews(): Promise<NewsItem[]> {
@@ -107,8 +127,9 @@ export async function fetchAINews(): Promise<NewsItem[]> {
     RSS_FEEDS.ai.map((feed) => fetchRSSFeed(feed.url, feed.source))
   );
 
+  // Fetch more than needed so AI can filter for quality
   return results
     .flat()
     .sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime())
-    .slice(0, 5);
+    .slice(0, 15);
 }

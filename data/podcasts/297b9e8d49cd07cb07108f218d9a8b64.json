@@ -1,0 +1,15 @@
+{
+  "title": "What Happens When a Public Company Goes All In on AI",
+  "podcast": "a16z Podcast",
+  "date": "Wed, 1 Apr 2026 10:00:00 +0000",
+  "duration": "00:27:51",
+  "summary": "Block (parent of Square, Cash App, Afterpay) executed a 40%+ RIF in early 2026, explicitly driven by AI \u2014 not overhiring cleanup \u2014 after a step-change in agentic coding capability in late November/early December 2025 made small squads of 1-6 engineers as productive as teams of 14. Business lead Owen Jennings describes rebuilding the entire org from scratch around small squads, AI agents, and an internal agentic OS, while protecting compliance and customer trust functions. The episode is a rare inside look at what AI-native restructuring actually looks like at a public fintech company.",
+  "keyTakeaways": [
+    "The productivity inflection was abrupt: a specific model capability jump in late Nov/early Dec 2025 (Opus 4.6, Codex 5.3) suddenly made AI agents effective on large, complex existing codebases \u2014 not just greenfield projects \u2014 which is what triggered the decision.",
+    "Cuts were heavily skewed toward engineering/product/design, not ops \u2014 compliance and SDR/BDR teams were barely touched, signaling the RIF was genuinely AI-productivity-driven, not financial engineering.",
+    "The new operating model is async and parallel: individuals now run 8\u201314 concurrent AI agents, context-switching between PRs rather than working linearly \u2014 a fundamental workflow shift for engineers, PMs, and growth marketers alike.",
+    "Block's multi-year AI infrastructure investment (Goose agent harness launched early 2024, internal agentic OS 'G2') was a prerequisite \u2014 companies without that substrate will struggle to replicate this quickly.",
+    "Jennings frames the macro as Jevons paradox: fewer engineers per product, but likely far more products and companies getting built \u2014 net engineering employment impact is uncertain, but per-product headcount is clearly shrinking."
+  ],
+  "url": "https://a16z.simplecast.com/episodes/what-happens-when-a-public-company-goes-all-in-on-ai-cUCWrP64"
+}

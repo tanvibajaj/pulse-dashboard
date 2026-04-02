@@ -1,0 +1,288 @@
+{
+  "lastUpdated": "2026-04-01T22:55:13.330167+00:00",
+  "marketStatus": "After Hours",
+  "globalNews": [
+    {
+      "title": "Smoke and embers seen over Iran's Isfahan after US-Israeli strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/smoke-and-embers-seen-over-irans-isfahan-after-strike?traffic_source=rss",
+      "publishedAt": "2026-04-01T21:01:09Z",
+      "summary": "US-Israeli strike hits Isfahan, Iran, marking major escalation with broad energy and market implications."
+    },
+    {
+      "title": "Trump to give primetime address on war as pressure mounts over next move",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c74vqd8k3g1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-04-01T17:07:51Z",
+      "summary": "Trump faces domestic pressure to avoid prolonged conflict as Iran war escalation dominates foreign policy."
+    },
+    {
+      "title": "SpaceX files to go public, paving way to make Elon Musk first trillionaire",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/1/spacex-files-to-go-public-paving-way-to-make-elon-musk-first-trillionaire?traffic_source=rss",
+      "publishedAt": "2026-04-01T21:12:27Z",
+      "summary": "SpaceX IPO filing could be the largest tech listing in years, reshaping Musk's asset portfolio."
+    },
+    {
+      "title": "Trump's latest NATO comments raise questions over US commitment to the alliance",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c79je4vldq5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-04-01T16:31:17Z",
+      "summary": "Trump signals NATO wavering, criticizing allies over Iran policy and threatening alliance stability."
+    },
+    {
+      "title": "US removes sanctions on Venezuela's interim President Delcy Rodriguez",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/1/us-removes-sanctions-on-venezuelas-interim-president-delcy-rodriguez?traffic_source=rss",
+      "publishedAt": "2026-04-01T22:12:46Z",
+      "summary": "Sanctions relief signals shifting US-Venezuela relations with potential oil supply implications."
+    }
+  ],
+  "cryptoAssets": [
+    {
+      "id": "bitcoin",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "price": 68131,
+      "change24h": 0.01681,
+      "marketCap": 1364359044782,
+      "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
+    },
+    {
+      "id": "ethereum",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "price": 2139.87,
+      "change24h": 2.22238,
+      "marketCap": 258627222521,
+      "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
+    }
+  ],
+  "cryptoNews": [
+    {
+      "title": "Solana DeFi platform Drift confirms 'active attack' as $200M+ leaves platform",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/04/01/solana-defi-platform-drift-investigates-suspicious-activity-tells-users-to-halt-deposits",
+      "publishedAt": "2026-04-01T18:35:27Z",
+      "summary": "Drift Protocol suffers $200M+ exploit via private key leak, halting deposits across the platform."
+    },
+    {
+      "title": "US Treasury seeks public input for state-level stablecoin regulations",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/us-treasury-state-stablecoin-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-01T22:31:34Z",
+      "summary": "Treasury proposes stablecoin rulemaking as the market cap nears $300 billion milestone."
+    },
+    {
+      "title": "EDX seeks OCC trust bank charter for institutional crypto custody",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/citadel-backed-edx-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-01T21:44:04Z",
+      "summary": "Citadel-backed EDX Markets seeks federal bank charter to offer regulated institutional custody services."
+    },
+    {
+      "title": "Quantum computing could break Bitcoin sooner, says Google",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/04/01/the-protocol-quantum-computing-could-break-bitcoin-sooner-says-google",
+      "publishedAt": "2026-04-01T15:59:41Z",
+      "summary": "Google accelerates Q Day timeline, pressuring crypto ecosystems to adopt post-quantum cryptography urgently."
+    },
+    {
+      "title": "Jamie Dimon signals JPMorgan entry into prediction markets as competition surges",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/01/jamie-dimon-signals-jpmorgan-entry-into-prediction-markets-as-competition-surges",
+      "publishedAt": "2026-04-01T15:57:11Z",
+      "summary": "JPMorgan weighs prediction markets entry as Goldman Sachs and crypto firms race to dominate the sector."
+    }
+  ],
+  "aiNews": [
+    {
+      "title": "OpenAI raises $122B from Amazon, Nvidia, and SoftBank at $852B valuation",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+      "publishedAt": "2026-03-31T21:25:04Z",
+      "summary": "OpenAI's monster $122B round including $3B retail tranche sets stage for imminent IPO at near-trillion valuation."
+    },
+    {
+      "title": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
+      "publishedAt": "2026-03-25T15:49:17Z",
+      "summary": "Google urges entire industry to urgently migrate off RSA and elliptic curve encryption ahead of 2029 Q Day."
+    },
+    {
+      "title": "Cognichip raises $60M to use AI for designing AI chips",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
+      "publishedAt": "2026-04-01T16:00:00Z",
+      "summary": "Cognichip claims 75% cost reduction and 50%+ timeline compression for chip development using AI design."
+    },
+    {
+      "title": "Meta's Hyperion AI data center to be powered by 10 new natural gas plants",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
+      "publishedAt": "2026-04-01T18:35:36Z",
+      "summary": "Meta's AI infrastructure buildout rivals a small state's energy consumption, intensifying fossil fuel dependency debate."
+    },
+    {
+      "title": "Mercor hit by cyberattack tied to compromise of open source LiteLLM project",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+      "publishedAt": "2026-04-01T01:42:59Z",
+      "summary": "Supply chain attack via LiteLLM compromise hits AI recruiting startup Mercor in active extortion incident."
+    }
+  ],
+  "techMovers": [
+    {
+      "ticker": "CRM",
+      "name": "Salesforce Inc",
+      "price": 186.24,
+      "change": 0,
+      "changePercent": 0
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc",
+      "price": 255.63,
+      "change": 0,
+      "changePercent": 0
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla Inc",
+      "price": 381.26,
+      "change": 0,
+      "changePercent": 0
+    },
+    {
+      "ticker": "UBER",
+      "name": "Uber Technologies",
+      "price": 71.71,
+      "change": 0,
+      "changePercent": 0
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon.com",
+      "price": 210.57,
+      "change": 0,
+      "changePercent": 0
+    }
+  ],
+  "pulsePicks": [
+    {
+      "ticker": "NVDA",
+      "action": "Watch",
+      "reasoning": "OpenAI's $122B raise led by Amazon, Nvidia, and SoftBank confirms sustained hyperscaler AI capex. Meta's Hyperion data center buildout adds further GPU demand signal. Fear & Greed at 8 creates a potential entry point if broader market stabilizes.",
+      "timeframe": "Medium-term (1-3 months)",
+      "riskLevel": "Medium"
+    },
+    {
+      "ticker": "BTC",
+      "action": "Watch",
+      "reasoning": "Extreme Fear index at 8 historically marks capitulation zones, but Iran war escalation and risk-off sentiment warrant caution. Google's accelerated Q Day timeline (2029) introduces a structural long-term risk for Bitcoin's cryptographic security that the market has not fully priced.",
+      "timeframe": "Short-term (1-2 weeks)",
+      "riskLevel": "High"
+    },
+    {
+      "ticker": "CRM",
+      "action": "Watch",
+      "reasoning": "Salesforce announced 30 new AI features for Slack, signaling a serious AI-native pivot for its enterprise suite. With the broader market in extreme fear, CRM's flat price action today may offer a low-volatility entry ahead of potential AI product momentum. Monitor for follow-through adoption metrics.",
+      "timeframe": "Medium-term (1-3 months)",
+      "riskLevel": "Low"
+    }
+  ],
+  "fearGreedIndex": 8,
+  "visaStock": {
+    "ticker": "V",
+    "name": "Visa Inc",
+    "price": 298.51,
+    "change": 0,
+    "changePercent": 0
+  },
+  "earnings": [],
+  "marketIndicators": [
+    {
+      "label": "S&P 500",
+      "value": "5,264",
+      "change": -0.3
+    },
+    {
+      "label": "VIX",
+      "value": "18.2",
+      "change": 2.1
+    },
+    {
+      "label": "DXY",
+      "value": "104.1",
+      "change": -0.2
+    },
+    {
+      "label": "10Y Yield",
+      "value": "4.32%",
+      "change": 0.0
+    }
+  ],
+  "podcasts": [
+    {
+      "title": "What Happens When a Public Company Goes All In on AI",
+      "podcast": "a16z Podcast",
+      "date": "Wed, 1 Apr 2026 10:00:00 +0000",
+      "duration": "00:27:51",
+      "summary": "Block (parent of Square, Cash App, Afterpay) executed a 40%+ RIF in early 2026, explicitly driven by AI \u2014 not overhiring cleanup \u2014 after a step-change in agentic coding capability in late November/early December 2025 made small squads of 1-6 engineers as productive as teams of 14. Business lead Owen Jennings describes rebuilding the entire org from scratch around small squads, AI agents, and an internal agentic OS, while protecting compliance and customer trust functions. The episode is a rare inside look at what AI-native restructuring actually looks like at a public fintech company.",
+      "keyTakeaways": [
+        "The productivity inflection was abrupt: a specific model capability jump in late Nov/early Dec 2025 (Opus 4.6, Codex 5.3) suddenly made AI agents effective on large, complex existing codebases \u2014 not just greenfield projects \u2014 which is what triggered the decision.",
+        "Cuts were heavily skewed toward engineering/product/design, not ops \u2014 compliance and SDR/BDR teams were barely touched, signaling the RIF was genuinely AI-productivity-driven, not financial engineering.",
+        "The new operating model is async and parallel: individuals now run 8\u201314 concurrent AI agents, context-switching between PRs rather than working linearly \u2014 a fundamental workflow shift for engineers, PMs, and growth marketers alike.",
+        "Block's multi-year AI infrastructure investment (Goose agent harness launched early 2024, internal agentic OS 'G2') was a prerequisite \u2014 companies without that substrate will struggle to replicate this quickly.",
+        "Jennings frames the macro as Jevons paradox: fewer engineers per product, but likely far more products and companies getting built \u2014 net engineering employment impact is uncertain, but per-product headcount is clearly shrinking."
+      ],
+      "url": "https://a16z.simplecast.com/episodes/what-happens-when-a-public-company-goes-all-in-on-ai-cUCWrP64"
+    },
+    {
+      "title": "How Radiant and Heron Are Rethinking Power Generation and Delivery",
+      "podcast": "a16z Podcast",
+      "date": "Tue, 31 Mar 2026 10:04:03 +0000",
+      "duration": "00:49:01",
+      "summary": "The US power grid's core problem isn't generation\u2014it's delivery, and decades of efficiency gains masked the underinvestment until AI, electrified transport, and reshoring created demand that can no longer be ignored. A16Z's Aaron Price-Ride interviews Doug Bernauer (Radiant, building portable factory-made nuclear microreactors) and Drew Beglino (Heron, building solid-state power electronics to modernize grid delivery), both SpaceX/Tesla alumni who see the grid as the defining infrastructure challenge of the next era. Together they argue the grid must be rebuilt from the edge up, with diverse generation sources and intelligent power electronics, not just more centralized capacity.",
+      "keyTakeaways": [
+        "Delivery is the bottleneck, not generation: the US transmission infrastructure is the binding constraint on energy growth, and decades of efficiency improvements have let policymakers and investors ignore it\u2014until now.",
+        "Demand is structurally different this time: AI compute, industrial electrification, and EV adoption are compounding simultaneously, and efficiency gains can no longer offset the load growth the way they did from the 1980s\u20132010s.",
+        "Portable nuclear (Radiant) targets off-grid and edge use cases\u2014trailer-sized microreactors built in a factory, aimed at data centers, defense, and industrial sites that can't wait for grid interconnection queues.",
+        "Solid-state power electronics (Heron) targets the grid itself\u2014modernizing transmission and distribution hardware that has seen almost no innovation while the generation and storage sides advanced dramatically.",
+        "AI is a forcing function for grid investment: it's accelerating awareness that the US needs to relearn how to build large-scale infrastructure, and creating the financial urgency to fund it."
+      ],
+      "url": "https://a16z.simplecast.com/episodes/how-radiant-and-heron-are-rethinking-power-generation-and-delivery-M1HRtAN7"
+    },
+    {
+      "title": "3 Megatrends Every Investor Needs to Know: Demographics, Wealth Inequality, &amp; the End of Labor (with Jeff Park)",
+      "podcast": "Bankless",
+      "date": "Mon, 30 Mar 2026 10:30:00 -0000",
+      "duration": "5256",
+      "summary": "Jeff Park argues that amid macro uncertainty, investors should anchor to three irreversible megatrends: aging demographics, wealth concentration, and the declining value of labor. The episode focuses heavily on the demographic crisis \u2014 top 10 industrial economies are all in population decline, and by 2034 the US will have more adults than children for the first time ever, creating a structural imbalance of asset sellers over buyers that will pressure traditional equity markets for decades. AI and technology accelerate these dynamics by being deflationary forces on labor, while credit creation masks the true pricing impact.",
+      "keyTakeaways": [
+        "Demographic inversion is effectively irreversible \u2014 Japan's elderly dependency ratio is already 55:100 workers and projected to hit 80 by 2050; South Korea's median age will be 56 by 2050. These trends are locked in because the missing workers simply were never born.",
+        "By 2030 all US Baby Boomers will be 65+, and by 2034 there will be more adults than children in America \u2014 meaning sustained asset selling pressure with fewer younger buyers to absorb it, creating a secular headwind for equities.",
+        "Healthcare costs rising from 5% of US GDP (1960s) to 20%+ today signal that people are living longer and spending more in retirement, accelerating asset drawdowns from the older cohort.",
+        "Technology is fundamentally deflationary and is driving labor value toward zero, but credit creation masks this in nominal prices \u2014 the real risk is when credit expansion can no longer offset the deflation.",
+        "Regulators (SEC, CFTC) are quietly expanding permissible capital formation strategies \u2014 including tokenization \u2014 partly as a policy response to entice younger, smaller investors into markets to offset the demographic supply/demand imbalance."
+      ],
+      "url": ""
+    },
+    {
+      "title": "Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits",
+      "podcast": "All-In Podcast",
+      "date": "Fri, 27 Mar 2026 20:03:00 +0000",
+      "duration": "01:20:11",
+      "summary": "The All-In crew debates Anthropic's impressive product momentum (Claude Code, computer use, agentic features) versus OpenAI's consumer dominance, arguing the two companies are fundamentally different businesses\u2014enterprise API vs. consumer subscriptions\u2014making direct revenue comparisons misleading. Sacks praises Anthropic's technical execution while maintaining philosophical objections to their DC regulatory strategy, and the group warns that OpenAI risks losing focus by spreading itself too thin.",
+      "keyTakeaways": [
+        "Anthropic's bet on coding as the breakout use case was both ideologically driven (path to AGI via self-improvement) and strategically brilliant\u2014code is the gateway to enterprise IT budgets and enabled rapid revenue growth.",
+        "OpenAI vs. Anthropic revenue comparisons are apples-to-oranges: OpenAI is ~75% consumer subscriptions (ChatGPT), Anthropic is ~75% API/enterprise\u2014normalizing for RevRec, OpenAI still dominates total revenue but Anthropic is catching up in enterprise.",
+        "In enterprise AI deployments, Anthropic dominates\u2014the group notes it's 'all Anthropic all the time' through platforms like GitHub Copilot and Cursor, despite cost and token consumption concerns.",
+        "The classic startup lesson applies to OpenAI: focus on one or two things exceptionally well\u2014spreading too thin ('peanut butter smear') risks eroding the core consumer advantage they built with ChatGPT.",
+        "Anthropic's left-leaning brand positioning is both genuine culture and strategic talent acquisition\u2014estimated 90% of target PhD candidates skew left, making the stance a meaningful recruiting moat."
+      ],
+      "url": "https://allinchamathjason.libsyn.com/anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits"
+    }
+  ]
+}

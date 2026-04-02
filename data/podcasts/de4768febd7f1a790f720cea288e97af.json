@@ -1,0 +1,15 @@
+{
+  "title": "How Radiant and Heron Are Rethinking Power Generation and Delivery",
+  "podcast": "a16z Podcast",
+  "date": "Tue, 31 Mar 2026 10:04:03 +0000",
+  "duration": "00:49:01",
+  "summary": "The US power grid's core problem isn't generation\u2014it's delivery, and decades of efficiency gains masked the underinvestment until AI, electrified transport, and reshoring created demand that can no longer be ignored. A16Z's Aaron Price-Ride interviews Doug Bernauer (Radiant, building portable factory-made nuclear microreactors) and Drew Beglino (Heron, building solid-state power electronics to modernize grid delivery), both SpaceX/Tesla alumni who see the grid as the defining infrastructure challenge of the next era. Together they argue the grid must be rebuilt from the edge up, with diverse generation sources and intelligent power electronics, not just more centralized capacity.",
+  "keyTakeaways": [
+    "Delivery is the bottleneck, not generation: the US transmission infrastructure is the binding constraint on energy growth, and decades of efficiency improvements have let policymakers and investors ignore it\u2014until now.",
+    "Demand is structurally different this time: AI compute, industrial electrification, and EV adoption are compounding simultaneously, and efficiency gains can no longer offset the load growth the way they did from the 1980s\u20132010s.",
+    "Portable nuclear (Radiant) targets off-grid and edge use cases\u2014trailer-sized microreactors built in a factory, aimed at data centers, defense, and industrial sites that can't wait for grid interconnection queues.",
+    "Solid-state power electronics (Heron) targets the grid itself\u2014modernizing transmission and distribution hardware that has seen almost no innovation while the generation and storage sides advanced dramatically.",
+    "AI is a forcing function for grid investment: it's accelerating awareness that the US needs to relearn how to build large-scale infrastructure, and creating the financial urgency to fund it."
+  ],
+  "url": "https://a16z.simplecast.com/episodes/how-radiant-and-heron-are-rethinking-power-generation-and-delivery-M1HRtAN7"
+}

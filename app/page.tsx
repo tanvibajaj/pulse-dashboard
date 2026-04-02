@@ -1,65 +1,206 @@
-import Image from "next/image";
+"use client";
 
-export default function Home() {
+import { useState, useEffect, useCallback } from "react";
+import { DashboardData } from "@/lib/types";
+import { Header } from "@/components/header";
+import { TickerBar } from "@/components/ticker-bar";
+import { NewsColumn } from "@/components/news-column";
+import { StocksSection } from "@/components/stocks-section";
+import { PulsePicks } from "@/components/pulse-picks";
+import { Earnings } from "@/components/earnings";
+import { MediaSection } from "@/components/media-section";
+import { Globe, Cpu } from "@/components/icons";
+
+function CryptoIcon({ className }: { className?: string }) {
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className={className}>
+      <circle cx="12" cy="12" r="10" />
+      <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3" />
+      <line x1="12" y1="17" x2="12.01" y2="17" />
+    </svg>
+  );
+}
+
+type Tab = "dashboard" | "media";
+
+export default function Dashboard() {
+  const [data, setData] = useState<DashboardData | null>(null);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState<string | null>(null);
+  const [tab, setTab] = useState<Tab>("dashboard");
+
+  const fetchData = useCallback(async (force = false) => {
+    setLoading(true);
+    setError(null);
+    try {
+      const res = await fetch(`/api/refresh${force ? "?force=true" : ""}`);
+      if (!res.ok) throw new Error("Failed to fetch data");
+      const json = await res.json();
+      setData(json);
+    } catch (err) {
+      setError(err instanceof Error ? err.message : "Something went wrong");
+    } finally {
+      setLoading(false);
+    }
+  }, []);
+
+  useEffect(() => {
+    fetchData();
+  }, [fetchData]);
+
+  if (error && !data) {
+    return (
+      <div className="min-h-screen flex items-center justify-center">
+        <div className="text-center">
+          <p className="text-red-500 mb-4">{error}</p>
+          <button
+            onClick={() => fetchData(true)}
+            className="px-4 py-2 bg-gray-900 text-white rounded-lg hover:bg-gray-800 transition-colors"
+          >
+            Retry
+          </button>
+        </div>
+      </div>
+    );
+  }
+
+  return (
+    <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <div className="flex items-end justify-between border-b border-gray-200 pb-6 mb-8">
+        <div>
+          <h1 className="text-3xl font-bold tracking-tight text-gray-900">Pulse</h1>
+          <p className="text-sm text-gray-500 mt-1">
+            {new Date().toLocaleDateString("en-US", { weekday: "long", year: "numeric", month: "long", day: "numeric" })}
           </p>
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
+        <div className="flex items-center gap-6">
+          {/* Tabs */}
+          <nav className="flex gap-1 bg-gray-100 rounded-lg p-1">
+            <button
+              onClick={() => setTab("dashboard")}
+              className={`px-4 py-1.5 text-sm font-medium rounded-md transition-colors ${
+                tab === "dashboard" ? "bg-white text-gray-900 shadow-sm" : "text-gray-500 hover:text-gray-700"
+              }`}
+            >
+              Dashboard
+            </button>
+            <button
+              onClick={() => setTab("media")}
+              className={`px-4 py-1.5 text-sm font-medium rounded-md transition-colors ${
+                tab === "media" ? "bg-white text-gray-900 shadow-sm" : "text-gray-500 hover:text-gray-700"
+              }`}
+            >
+              Media
+            </button>
+          </nav>
+
+          <div className="flex items-center gap-3">
+            <StatusBadge status={data?.marketStatus || "—"} />
+            <span className="text-xs text-gray-400">
+              {data?.lastUpdated ? `Updated ${new Date(data.lastUpdated).toLocaleTimeString("en-US", { hour: "numeric", minute: "2-digit" })}` : ""}
+            </span>
+            <button
+              onClick={() => fetchData(true)}
+              disabled={loading}
+              className="p-2 rounded-lg hover:bg-gray-100 transition-colors disabled:opacity-50"
+              title="Refresh"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className={`w-4 h-4 text-gray-500 ${loading ? "animate-spin" : ""}`}>
+                <path d="M3 12a9 9 0 0 1 9-9 9.75 9.75 0 0 1 6.74 2.74L21 8" />
+                <path d="M21 3v5h-5" />
+                <path d="M21 12a9 9 0 0 1-9 9 9.75 9.75 0 0 1-6.74-2.74L3 16" />
+                <path d="M3 21v-5h5" />
+              </svg>
+            </button>
+          </div>
         </div>
-      </main>
+      </div>
+
+      {loading && !data ? (
+        <LoadingSkeleton />
+      ) : data ? (
+        tab === "dashboard" ? <DashboardTab data={data} /> : <MediaTab data={data} />
+      ) : null}
+    </main>
+  );
+}
+
+function DashboardTab({ data }: { data: DashboardData }) {
+  return (
+    <div className="space-y-5">
+      <TickerBar
+        cryptoAssets={data.cryptoAssets}
+        visaStock={data.visaStock}
+        fearGreedIndex={data.fearGreedIndex}
+        indicators={data.marketIndicators}
+      />
+
+      <div className="grid gap-5 lg:grid-cols-3">
+        <NewsColumn
+          title="Global News"
+          icon={<Globe className="w-4 h-4 text-gray-600" />}
+          news={data.globalNews}
+          accentColor="blue"
+        />
+        <NewsColumn
+          title="Crypto"
+          icon={<CryptoIcon className="w-4 h-4 text-gray-600" />}
+          news={data.cryptoNews}
+          accentColor="orange"
+        />
+        <NewsColumn
+          title="AI & Tech"
+          icon={<Cpu className="w-4 h-4 text-gray-600" />}
+          news={data.aiNews}
+          accentColor="purple"
+        />
+      </div>
+
+      {data.earnings && data.earnings.length > 0 && (
+        <Earnings earnings={data.earnings} />
+      )}
+
+      <StocksSection stocks={data.techMovers} />
+      <PulsePicks picks={data.pulsePicks} />
+    </div>
+  );
+}
+
+function MediaTab({ data }: { data: DashboardData }) {
+  return (
+    <div className="space-y-5">
+      <MediaSection podcasts={data.podcasts || []} />
+    </div>
+  );
+}
+
+function StatusBadge({ status }: { status: string }) {
+  const colors: Record<string, string> = {
+    Open: "bg-green-500",
+    "Pre-Market": "bg-yellow-500",
+    "After Hours": "bg-orange-500",
+    Closed: "bg-gray-400",
+  };
+
+  return (
+    <div className="flex items-center gap-1.5">
+      <span className={`inline-block w-2 h-2 rounded-full ${colors[status] || "bg-gray-400"}`} />
+      <span className="text-sm font-medium text-gray-600">{status}</span>
+    </div>
+  );
+}
+
+function LoadingSkeleton() {
+  return (
+    <div className="space-y-5 animate-pulse">
+      <div className="bg-white rounded-xl border border-gray-200 h-16" />
+      <div className="grid gap-5 lg:grid-cols-3">
+        <div className="bg-white rounded-xl border border-gray-200 h-80" />
+        <div className="bg-white rounded-xl border border-gray-200 h-80" />
+        <div className="bg-white rounded-xl border border-gray-200 h-80" />
+      </div>
+      <div className="bg-white rounded-xl border border-gray-200 h-48" />
+      <div className="bg-white rounded-xl border border-gray-200 h-48" />
     </div>
   );
 }

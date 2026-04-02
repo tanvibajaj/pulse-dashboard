@@ -1,6 +1,6 @@
 import { CryptoAsset } from "../types";
 
-const TRACKED_COINS = "bitcoin,ethereum,solana,ripple,cardano,chainlink,polkadot,avalanche-2,dogecoin,polygon-pos";
+const TRACKED_COINS = "bitcoin,ethereum";
 
 export async function fetchCryptoData(): Promise<CryptoAsset[]> {
   try {
