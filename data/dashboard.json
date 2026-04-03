@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-03T23:13:23.456169+00:00",
-  "marketStatus": "Closed",
+  "lastUpdated": "2026-04-03T23:18:19.018942+00:00",
+  "marketStatus": "After Hours",
   "globalNews": [
     {
       "title": "How elite US teams tackle combat rescue missions",
@@ -43,18 +43,18 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 66879,
-      "change24h": -0.10306,
-      "marketCap": 1338657353118,
+      "price": 66858,
+      "change24h": -0.12974,
+      "marketCap": 1337790231432,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2050.89,
-      "change24h": -0.32416,
-      "marketCap": 247576588026,
+      "price": 2050.49,
+      "change24h": -0.3446,
+      "marketCap": 247451783616,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
@@ -134,37 +134,37 @@
   ],
   "techMovers": [
     {
-      "ticker": "NFLX",
-      "name": "Netflix Inc",
-      "price": 98.66,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corp",
-      "price": 177.39,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "ticker": "MSFT",
-      "name": "Microsoft Corp",
-      "price": 373.46,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 217.5,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
       "ticker": "CRM",
       "name": "Salesforce Inc",
       "price": 187.18,
+      "change": 0,
+      "changePercent": 0
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc",
+      "price": 255.92,
+      "change": 0,
+      "changePercent": 0
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla Inc",
+      "price": 360.59,
+      "change": 0,
+      "changePercent": 0
+    },
+    {
+      "ticker": "UBER",
+      "name": "Uber Technologies",
+      "price": 71.84,
+      "change": 0,
+      "changePercent": 0
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon.com",
+      "price": 209.77,
       "change": 0,
       "changePercent": 0
     }
@@ -234,15 +234,6 @@
       "url": ""
     },
     {
-      "title": "Marc Andreessen on AI Winters and Agent Breakthroughs",
-      "podcast": "a16z Podcast",
-      "date": "Fri, 3 Apr 2026 17:30:00 +0000",
-      "duration": "01:17:28",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": "https://a16z.simplecast.com/episodes/marc-andreessen-on-ai-winters-and-agent-breakthroughs-fsdC0VvN"
-    },
-    {
       "title": "The Chopping Block: Is Canton a Real Blockchain? Ethereum\u2019s Cypherpunk Dilemma, AI Security Chaos",
       "podcast": "Unchained",
       "date": "Fri, 03 Apr 2026 16:00:00 -0000",
@@ -270,6 +261,15 @@
       "url": ""
     },
     {
+      "title": "Marc Andreessen on AI Winters and Agent Breakthroughs",
+      "podcast": "a16z Podcast",
+      "date": "Fri, 3 Apr 2026 17:30:00 +0000",
+      "duration": "01:17:28",
+      "summary": "Summary generation failed.",
+      "keyTakeaways": [],
+      "url": "https://a16z.simplecast.com/episodes/marc-andreessen-on-ai-winters-and-agent-breakthroughs-fsdC0VvN"
+    },
+    {
       "title": "The Bull &amp; Bear Cases For Ethereum | Roundup",
       "podcast": "Bell Curve",
       "date": "Fri, 03 Apr 2026 08:00:00 -0000",
@@ -277,6 +277,36 @@
       "summary": "Summary generation failed.",
       "keyTakeaways": [],
       "url": ""
+    },
+    {
+      "title": "Do Centralized Real World Assets on DeFi Break Ethereum? - Bits + Bips",
+      "podcast": "Unchained",
+      "date": "Wed, 01 Apr 2026 16:30:00 -0000",
+      "duration": "3830",
+      "summary": "The Bits + Bips panel debates the Iran conflict's market implications, with hosts split between near-term bearishness (rising oil at $116/bbl, 10-year yields climbing, stalled negotiations) and medium-term crypto bullishness once the situation resolves. The core tension is whether a negotiated deal is even possible given Iran's fragmented leadership, hardliner incentives, and the regime's economic benefit from current elevated oil prices. Consensus is the conflict will extend well beyond the White House's initial 4-5 week timeline, keeping risk assets under pressure.",
+      "keyTakeaways": [
+        "Defensively position near-term: oil above $116/bbl, 10-year yields at 4.48% (mortgage pressure), dollar strengthening, and inflation rising create a toxic backdrop for risk assets until conflict resolution.",
+        "Negotiations are structurally broken \u2014 the US doesn't have a reliable counterparty; internal IRGC fractures mean the eventual negotiating partner may not even be in power yet, pointing to a 6-12+ month timeline.",
+        "Bitcoin seen as a cyclical buying opportunity once the conflict clears, with hosts citing continued resilience and an inevitable 'catch-up to gold' narrative as a medium-term thesis.",
+        "The conflict is now a global problem, not a US one \u2014 Strait of Hormuz closure is choking Asia and threatening Europe, which increases international pressure for resolution but also raises escalation risk.",
+        "White House credibility with markets is eroding: no Pentagon briefings in 9 days, shifting timelines, and cabinet language suggesting regime change as an unstated objective are fueling uncertainty."
+      ],
+      "url": ""
+    },
+    {
+      "title": "Success without Dignity?  Nathan finds Hope Amidst Chaos, from The Intelligence Horizon Podcast",
+      "podcast": "Cognitive Revolution",
+      "date": "Wed, 01 Apr 2026 09:39:10 -0000",
+      "duration": "6282",
+      "summary": "Nathan Labenz (Cognitive Revolution host) argues the singularity is near and transformative AI is inevitable \u2014 the debate has shifted from 'will it happen?' to 'how and when?' He places his P(doom) at 10-90% but has grown cautiously optimistic that a defense-in-depth safety strategy (interpretability, AI control, formal verification, pandemic prep) could keep society stable. He also flags geopolitical concerns, arguing US-China cooperation on AI is preferable to an unchecked race.",
+      "keyTakeaways": [
+        "Timeline compression is the one thing experts agree on: 'AGI by 2035' used to be aggressive, now it's the bear case \u2014 the debate has moved to details, not whether transformation happens.",
+        "Scaling RL is likely sufficient for transformative AI, but the question may become moot as new conceptual unlocks (like RL did for pre-training limits) keep moving the goalposts.",
+        "AI systems are 'jagged' \u2014 superhuman in many domains but still adversarially fragile and easier to trick than humans; expect weird edge cases even as capabilities soar.",
+        "A layered safety strategy combining interpretability (Goodfire), AI control (Redwood), formal software verification, and pandemic preparedness is Nathan's best-case path to keeping society on the rails.",
+        "Nathan is more worried about geopolitics than pure technical risk: recent US government moves against Anthropic signal a drift toward adversarial posture that makes human cooperation across borders harder \u2014 and that cooperation matters more than perfect alignment research."
+      ],
+      "url": "https://www.cognitiverevolution.ai/success-without-dignity-nathan-finds-hope-amidst-chaos-from-the-intelligence-horizon-podcast/"
     },
     {
       "title": "How Focus Killed Sora and Saved Anthropic | This Week in AI with Victor Riparbelli, Nick Harris & Jeremy Fraenkel",
@@ -301,36 +331,6 @@
         "AI video for business is a proven wedge: Synthesia's bet that enterprises want video-native communication (not docs/slides) has paid off \u2014 100M ARR with 90% Fortune 100 penetration by focusing narrowly rather than chasing Hollywood-quality generation."
       ],
       "url": "https://podcasters.spotify.com/pod/show/oliver-k3/episodes/How-3-CEOs-Use-AI-to-Run-10B-in-Companies--This-Week-in-AI-e3h9oau"
-    },
-    {
-      "title": "Do Centralized Real World Assets on DeFi Break Ethereum? - Bits + Bips",
-      "podcast": "Unchained",
-      "date": "Wed, 01 Apr 2026 16:30:00 -0000",
-      "duration": "3830",
-      "summary": "The Bits + Bips panel debates the Iran conflict's market implications, with hosts split between near-term bearishness (rising oil at $116/bbl, 10-year yields climbing, stalled negotiations) and medium-term crypto bullishness once the situation resolves. The core tension is whether a negotiated deal is even possible given Iran's fragmented leadership, hardliner incentives, and the regime's economic benefit from current elevated oil prices. Consensus is the conflict will extend well beyond the White House's initial 4-5 week timeline, keeping risk assets under pressure.",
-      "keyTakeaways": [
-        "Defensively position near-term: oil above $116/bbl, 10-year yields at 4.48% (mortgage pressure), dollar strengthening, and inflation rising create a toxic backdrop for risk assets until conflict resolution.",
-        "Negotiations are structurally broken \u2014 the US doesn't have a reliable counterparty; internal IRGC fractures mean the eventual negotiating partner may not even be in power yet, pointing to a 6-12+ month timeline.",
-        "Bitcoin seen as a cyclical buying opportunity once the conflict clears, with hosts citing continued resilience and an inevitable 'catch-up to gold' narrative as a medium-term thesis.",
-        "The conflict is now a global problem, not a US one \u2014 Strait of Hormuz closure is choking Asia and threatening Europe, which increases international pressure for resolution but also raises escalation risk.",
-        "White House credibility with markets is eroding: no Pentagon briefings in 9 days, shifting timelines, and cabinet language suggesting regime change as an unstated objective are fueling uncertainty."
-      ],
-      "url": ""
-    },
-    {
-      "title": "What Happens When a Public Company Goes All In on AI",
-      "podcast": "a16z Podcast",
-      "date": "Wed, 1 Apr 2026 10:00:00 +0000",
-      "duration": "00:27:51",
-      "summary": "Block (parent of Square, Cash App, Afterpay) executed a 40%+ RIF in early 2026, explicitly driven by AI \u2014 not overhiring cleanup \u2014 after a step-change in agentic coding capability in late November/early December 2025 made small squads of 1-6 engineers as productive as teams of 14. Business lead Owen Jennings describes rebuilding the entire org from scratch around small squads, AI agents, and an internal agentic OS, while protecting compliance and customer trust functions. The episode is a rare inside look at what AI-native restructuring actually looks like at a public fintech company.",
-      "keyTakeaways": [
-        "The productivity inflection was abrupt: a specific model capability jump in late Nov/early Dec 2025 (Opus 4.6, Codex 5.3) suddenly made AI agents effective on large, complex existing codebases \u2014 not just greenfield projects \u2014 which is what triggered the decision.",
-        "Cuts were heavily skewed toward engineering/product/design, not ops \u2014 compliance and SDR/BDR teams were barely touched, signaling the RIF was genuinely AI-productivity-driven, not financial engineering.",
-        "The new operating model is async and parallel: individuals now run 8\u201314 concurrent AI agents, context-switching between PRs rather than working linearly \u2014 a fundamental workflow shift for engineers, PMs, and growth marketers alike.",
-        "Block's multi-year AI infrastructure investment (Goose agent harness launched early 2024, internal agentic OS 'G2') was a prerequisite \u2014 companies without that substrate will struggle to replicate this quickly.",
-        "Jennings frames the macro as Jevons paradox: fewer engineers per product, but likely far more products and companies getting built \u2014 net engineering employment impact is uncertain, but per-product headcount is clearly shrinking."
-      ],
-      "url": "https://a16z.simplecast.com/episodes/what-happens-when-a-public-company-goes-all-in-on-ai-cUCWrP64"
     }
   ]
 }
