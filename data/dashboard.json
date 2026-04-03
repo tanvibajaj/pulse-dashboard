@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-04-02T20:31:26.968901+00:00",
-  "marketStatus": "After Hours",
+  "lastUpdated": "2026-04-03T22:56:34.430623+00:00",
+  "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "Macron calls Trump's remarks on his marriage 'inelegant'",
+      "title": "How elite US teams tackle combat rescue missions",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/videos/c70dxqp0q2do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 02 Apr 2026 12:33:03 GMT",
-      "summary": "French President Emmanuel Macron has said Donald Trump's comments about his marriage were \"neither elegant nor up to standard\"."
+      "url": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 03 Apr 2026 20:42:56 GMT",
+      "summary": "Air force pararescue units who specialise in CSAR missions are among the most highly trained in the US military."
     },
     {
-      "title": "Man dies in storm as Saharan dust shrouds Crete",
+      "title": "Artemis II crew take 'spectacular' image of Earth",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c070d9g5k7jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 02 Apr 2026 07:54:44 GMT",
-      "summary": "A man dies in flooding near Athens as rain lashes several regions in Greece, while a Saharan dust storm enveloped Crete."
+      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 03 Apr 2026 21:44:31 GMT",
+      "summary": "The snap was taken aboard the Orion capsule by its commander, Reid Wiseman, as the crew head towards the Moon."
     },
     {
-      "title": "Brazil grants joint custody over pets in new law for separated couples",
+      "title": "Burkina Faso must 'forget' about democracy, military leader says",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/ce8jzn180x2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 02 Apr 2026 09:38:08 GMT",
-      "summary": "Lawmakers in the Brazilian Congress on Tuesday viewed the law change as a reflection on the importance people place on their pets. \n\n"
+      "url": "https://www.bbc.com/news/articles/cly0zp1xgz3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 03 Apr 2026 11:11:42 GMT",
+      "summary": "Capt Ibrahim Traor\u00e9, who seized power in 2023, says democratic rule would not work for his country."
     },
     {
-      "title": "US lifts sanctions on Venezuelan interim leader Delcy Rodr\u00edguez",
+      "title": "French-owned ship passes through Strait of Hormuz",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cje4l9de0d1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 02 Apr 2026 11:55:37 GMT",
-      "summary": "It is the latest sign of warming relations between the US and Venezuela after Nicol\u00e1s Maduro was seized in a commando raid."
+      "url": "https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 03 Apr 2026 17:45:46 GMT",
+      "summary": "It appears to be the first ship owned by a major European firm to go through the strait since the conflict began."
     },
     {
-      "title": "Iconic 19th Century painting sets Indian art record with $17.9m sale",
+      "title": "France's Muslim gathering ban overturned by courts",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cje4l98wjzwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 02 Apr 2026 12:30:04 GMT",
-      "summary": "Yashoda and Krishna, painted by Raja Ravi Varma, beat a record set by an MF Husain work last year."
+      "url": "https://www.bbc.com/news/articles/cwyjekvwww0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 03 Apr 2026 12:20:28 GMT",
+      "summary": "The Paris police department had argued that the four-day gathering was a security threat because it could be a target of terrorism."
     }
   ],
   "cryptoAssets": [
@@ -43,128 +43,128 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 66026,
-      "change24h": -3.4566,
-      "marketCap": 1321737800802,
+      "price": 66887,
+      "change24h": -0.19803,
+      "marketCap": 1338325696506,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2024.05,
-      "change24h": -4.80029,
-      "marketCap": 244489528832,
+      "price": 2052.13,
+      "change24h": -0.43434,
+      "marketCap": 247634598502,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Riot wallet outflow adds to selling wave among listed Bitcoin miners",
+      "title": "Ethereum Foundation nearly reaches 70,000 staked ETH goal",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/onchain-data-flags-fresh-riot-500-btc-sale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 02 Apr 2026 13:55:44 +0100",
-      "summary": "Arkham data linked a 500 BTC outflow to Riot Platforms, worth roughly $34 million, as Bitcoin miners and treasury companies navigate listing pressures and volatile market conditions."
+      "url": "https://cointelegraph.com/news/ethereum-foundation-nearly-reaches-70000-staked-eth-goal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 03 Apr 2026 22:31:51 +0100",
+      "summary": "The non-profit foundation has staked 69,500 ETH, nearly reaching the goal it unveiled at the end of February, less than two months ago."
     },
     {
-      "title": "Canada\u2019s bid to ban crypto donations highlights transparency issue",
+      "title": "Cambodian lawmakers propose severe prison time for crypto scammers",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/canada-ban-crypto-donations-transparency-issue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 02 Apr 2026 13:49:29 +0100",
-      "summary": "A new bill in Canada would ban crypto donations to political parties, a move which election overseers have supported in past recommendations to Parliament."
+      "url": "https://cointelegraph.com/news/cambodia-law-prison-crypto-scammers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 03 Apr 2026 21:47:12 +0100",
+      "summary": "The draft bill, yet to be signed into law by the king, marked a significant policy change for Cambodia officials in addressing scam centers."
     },
     {
-      "title": "Liquidity, not novelty, determines tokenization\u2019s value",
+      "title": "Is Bitcoin mispricing a prolonged Iran war? Ex-hedge fund manager weighs in",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/liquidity-determines-tokenization-value?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 02 Apr 2026 13:30:00 +0100",
-      "summary": "High-demand assets enable continuous settlement, collateralization, and network effects. Programmability on dollars and bonds compresses financial frictions where trillions already flow."
+      "url": "https://cointelegraph.com/news/bitcoin-underestimating-prolonged-iran-war-macro-investor-weighs-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 03 Apr 2026 20:04:17 +0100",
+      "summary": "In a recent Cointelegraph interview, macro investor James Lavish explains why markets are pricing in a quick end to the Iran war \u2014 and what could happen if that assumption is wrong."
     },
     {
-      "title": "Polymarket fee expansion boosts revenue amid regulatory pressure",
+      "title": "US community banks oppose OCC's approval of Coinbase trust charter",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/polymarket-fees-revenue-surge-after-pricing-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 02 Apr 2026 11:26:48 +0100",
-      "summary": "Polymarket\u2019s March 30 fee overhaul lifted daily fees and revenue, but how long the spike lasts is unclear as regulatory pressure builds."
+      "url": "https://cointelegraph.com/news/community-banks-oppose-coinbase-trust-charter-approval-occ?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 03 Apr 2026 19:03:48 +0100",
+      "summary": "The Independent Community Bankers of America warns Coinbase\u2019s trust charter falls short of regulatory standards and could pose risks to consumers and the financial system."
     },
     {
-      "title": "Drift explains $280M exploit as critics question Circle over USDC freeze",
+      "title": "Kalshi onboards ex-Democratic strategist amid legal troubles",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/drift-280-million-hack-questions-circle-response?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 02 Apr 2026 11:13:27 +0100",
-      "summary": "Drift said a durable nonce attack helped drive its Solana exploit, as critics questioned why stolen USDC moved for hours without a freeze."
+      "url": "https://cointelegraph.com/news/kalshi-democratic-strategist-lawsuits-state-federal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 03 Apr 2026 18:12:55 +0100",
+      "summary": "Stephanie Cutter will join the prediction markets company as a policy adviser, having previously worked in Democratic lawmakers\u2019 campaigns."
     }
   ],
   "aiNews": [
     {
-      "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code \u2014 a move the company says was an accident",
+      "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead \u2018special projects\u2019",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
-      "publishedAt": "Wed, 01 Apr 2026 22:12:13 +0000",
-      "summary": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices."
+      "url": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+      "publishedAt": "Fri, 03 Apr 2026 20:35:34 +0000",
+      "summary": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows."
     },
     {
-      "title": "Meta\u2019s natural gas binge could power South Dakota",
+      "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
-      "publishedAt": "Wed, 01 Apr 2026 18:35:36 +0000",
-      "summary": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants. "
+      "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+      "publishedAt": "Fri, 03 Apr 2026 20:28:40 +0000",
+      "summary": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer."
     },
     {
-      "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+      "title": "Anthropic ramps up its political activities with a new PAC",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
-      "publishedAt": "Wed, 01 Apr 2026 16:00:00 +0000",
-      "summary": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half.\u00a0"
+      "url": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
+      "publishedAt": "Fri, 03 Apr 2026 20:22:18 +0000",
+      "summary": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda. "
     },
     {
-      "title": "Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
+      "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
-      "publishedAt": "Wed, 01 Apr 2026 14:00:00 +0000",
-      "summary": "StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together on April 30. Space is limited. Register here for your pass."
+      "url": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
+      "publishedAt": "Fri, 03 Apr 2026 19:48:22 +0000",
+      "summary": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it."
     },
     {
-      "title": "Mercor says it was hit by cyberattack tied to compromise of open source LiteLLM project",
+      "title": "People would rather have an Amazon warehouse in their backyard than a data center",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-      "publishedAt": "Wed, 01 Apr 2026 01:42:59 +0000",
-      "summary": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems."
+      "url": "https://techcrunch.com/2026/04/03/people-would-rather-have-an-amazon-warehouse-in-their-backyard-than-a-data-center/",
+      "publishedAt": "Fri, 03 Apr 2026 19:20:36 +0000",
+      "summary": "A new poll shows that the debate over data centers is far from settled."
     }
   ],
   "techMovers": [
     {
-      "ticker": "CRM",
-      "name": "Salesforce Inc",
-      "price": 186.24,
+      "ticker": "NFLX",
+      "name": "Netflix Inc",
+      "price": 98.66,
       "change": 0,
       "changePercent": 0
     },
     {
-      "ticker": "TSLA",
-      "name": "Tesla Inc",
-      "price": 381.26,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "ticker": "UBER",
-      "name": "Uber Technologies",
-      "price": 71.71,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon.com",
-      "price": 210.57,
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp",
+      "price": 177.39,
       "change": 0,
       "changePercent": 0
     },
     {
       "ticker": "MSFT",
       "name": "Microsoft Corp",
-      "price": 369.37,
+      "price": 373.46,
+      "change": 0,
+      "changePercent": 0
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 217.5,
+      "change": 0,
+      "changePercent": 0
+    },
+    {
+      "ticker": "CRM",
+      "name": "Salesforce Inc",
+      "price": 187.18,
       "change": 0,
       "changePercent": 0
     }
@@ -192,11 +192,11 @@
       "riskLevel": "Low"
     }
   ],
-  "fearGreedIndex": 12,
+  "fearGreedIndex": 9,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 298.51,
+    "price": 300.8,
     "change": 0,
     "changePercent": 0
   },
@@ -225,34 +225,67 @@
   ],
   "podcasts": [
     {
-      "title": "Do Centralized Real World Assets on DeFi Break Ethereum? - Bits + Bips",
-      "podcast": "Unchained",
-      "date": "Wed, 01 Apr 2026 16:30:00 -0000",
-      "duration": "3830",
-      "summary": "The Bits + Bips panel debates the Iran conflict's market implications, with hosts split between near-term bearishness (rising oil at $116/bbl, 10-year yields climbing, stalled negotiations) and medium-term crypto bullishness once the situation resolves. The core tension is whether a negotiated deal is even possible given Iran's fragmented leadership, hardliner incentives, and the regime's economic benefit from current elevated oil prices. Consensus is the conflict will extend well beyond the White House's initial 4-5 week timeline, keeping risk assets under pressure.",
-      "keyTakeaways": [
-        "Defensively position near-term: oil above $116/bbl, 10-year yields at 4.48% (mortgage pressure), dollar strengthening, and inflation rising create a toxic backdrop for risk assets until conflict resolution.",
-        "Negotiations are structurally broken \u2014 the US doesn't have a reliable counterparty; internal IRGC fractures mean the eventual negotiating partner may not even be in power yet, pointing to a 6-12+ month timeline.",
-        "Bitcoin seen as a cyclical buying opportunity once the conflict clears, with hosts citing continued resilience and an inevitable 'catch-up to gold' narrative as a medium-term thesis.",
-        "The conflict is now a global problem, not a US one \u2014 Strait of Hormuz closure is choking Asia and threatening Europe, which increases international pressure for resolution but also raises escalation risk.",
-        "White House credibility with markets is eroding: no Pentagon briefings in 9 days, shifting timelines, and cabinet language suggesting regime change as an unstated objective are fueling uncertainty."
-      ],
+      "title": "OpenAI Acquires TBPN: (yes the tech news podcast)",
+      "podcast": "No Priors",
+      "date": "Fri, 03 Apr 2026 21:05:38 -0000",
+      "duration": "00:09:52",
+      "summary": "Summary generation failed.",
+      "keyTakeaways": [],
       "url": ""
     },
     {
-      "title": "Success without Dignity?  Nathan finds Hope Amidst Chaos, from The Intelligence Horizon Podcast",
-      "podcast": "Cognitive Revolution",
-      "date": "Wed, 01 Apr 2026 09:39:10 -0000",
-      "duration": "6282",
-      "summary": "Nathan Labenz (Cognitive Revolution host) argues the singularity is near and transformative AI is inevitable \u2014 the debate has shifted from 'will it happen?' to 'how and when?' He places his P(doom) at 10-90% but has grown cautiously optimistic that a defense-in-depth safety strategy (interpretability, AI control, formal verification, pandemic prep) could keep society stable. He also flags geopolitical concerns, arguing US-China cooperation on AI is preferable to an unchecked race.",
-      "keyTakeaways": [
-        "Timeline compression is the one thing experts agree on: 'AGI by 2035' used to be aggressive, now it's the bear case \u2014 the debate has moved to details, not whether transformation happens.",
-        "Scaling RL is likely sufficient for transformative AI, but the question may become moot as new conceptual unlocks (like RL did for pre-training limits) keep moving the goalposts.",
-        "AI systems are 'jagged' \u2014 superhuman in many domains but still adversarially fragile and easier to trick than humans; expect weird edge cases even as capabilities soar.",
-        "A layered safety strategy combining interpretability (Goodfire), AI control (Redwood), formal software verification, and pandemic preparedness is Nathan's best-case path to keeping society on the rails.",
-        "Nathan is more worried about geopolitics than pure technical risk: recent US government moves against Anthropic signal a drift toward adversarial posture that makes human cooperation across borders harder \u2014 and that cooperation matters more than perfect alignment research."
-      ],
-      "url": "https://www.cognitiverevolution.ai/success-without-dignity-nathan-finds-hope-amidst-chaos-from-the-intelligence-horizon-podcast/"
+      "title": "Marc Andreessen on AI Winters and Agent Breakthroughs",
+      "podcast": "a16z Podcast",
+      "date": "Fri, 3 Apr 2026 17:30:00 +0000",
+      "duration": "01:17:28",
+      "summary": "Summary generation failed.",
+      "keyTakeaways": [],
+      "url": "https://a16z.simplecast.com/episodes/marc-andreessen-on-ai-winters-and-agent-breakthroughs-fsdC0VvN"
+    },
+    {
+      "title": "The Chopping Block: Is Canton a Real Blockchain? Ethereum\u2019s Cypherpunk Dilemma, AI Security Chaos",
+      "podcast": "Unchained",
+      "date": "Fri, 03 Apr 2026 16:00:00 -0000",
+      "duration": "3404",
+      "summary": "Summary generation failed.",
+      "keyTakeaways": [],
+      "url": ""
+    },
+    {
+      "title": "The Two Biggest Issues In Crypto Today | Weekly Roundup",
+      "podcast": "Empire",
+      "date": "Fri, 03 Apr 2026 10:59:00 -0000",
+      "duration": "4466",
+      "summary": "Summary generation failed.",
+      "keyTakeaways": [],
+      "url": ""
+    },
+    {
+      "title": "ROLLUP: Google\u2019s Quantum Warning | Trump\u2019s Iran Speech | Ethereum Economic Zones | Drift Hack",
+      "podcast": "Bankless",
+      "date": "Fri, 03 Apr 2026 10:30:00 -0000",
+      "duration": "3853",
+      "summary": "Summary generation failed.",
+      "keyTakeaways": [],
+      "url": ""
+    },
+    {
+      "title": "The Bull &amp; Bear Cases For Ethereum | Roundup",
+      "podcast": "Bell Curve",
+      "date": "Fri, 03 Apr 2026 08:00:00 -0000",
+      "duration": "2694",
+      "summary": "Summary generation failed.",
+      "keyTakeaways": [],
+      "url": ""
+    },
+    {
+      "title": "How Focus Killed Sora and Saved Anthropic | This Week in AI with Victor Riparbelli, Nick Harris & Jeremy Fraenkel",
+      "podcast": "This Week in AI",
+      "date": "Wed, 01 Apr 2026 16:36:41 GMT",
+      "duration": "01:11:50",
+      "summary": "Summary generation failed.",
+      "keyTakeaways": [],
+      "url": "https://podcasters.spotify.com/pod/show/oliver-k3/episodes/How-Focus-Killed-Sora-and-Saved-Anthropic--This-Week-in-AI-with-Victor-Riparbelli--Nick-Harris--Jeremy-Fraenkel-e3h9oau"
     },
     {
       "title": "How 3 CEOs Use AI to Run $10B in Companies | This Week in AI",
@@ -270,6 +303,21 @@
       "url": "https://podcasters.spotify.com/pod/show/oliver-k3/episodes/How-3-CEOs-Use-AI-to-Run-10B-in-Companies--This-Week-in-AI-e3h9oau"
     },
     {
+      "title": "Do Centralized Real World Assets on DeFi Break Ethereum? - Bits + Bips",
+      "podcast": "Unchained",
+      "date": "Wed, 01 Apr 2026 16:30:00 -0000",
+      "duration": "3830",
+      "summary": "The Bits + Bips panel debates the Iran conflict's market implications, with hosts split between near-term bearishness (rising oil at $116/bbl, 10-year yields climbing, stalled negotiations) and medium-term crypto bullishness once the situation resolves. The core tension is whether a negotiated deal is even possible given Iran's fragmented leadership, hardliner incentives, and the regime's economic benefit from current elevated oil prices. Consensus is the conflict will extend well beyond the White House's initial 4-5 week timeline, keeping risk assets under pressure.",
+      "keyTakeaways": [
+        "Defensively position near-term: oil above $116/bbl, 10-year yields at 4.48% (mortgage pressure), dollar strengthening, and inflation rising create a toxic backdrop for risk assets until conflict resolution.",
+        "Negotiations are structurally broken \u2014 the US doesn't have a reliable counterparty; internal IRGC fractures mean the eventual negotiating partner may not even be in power yet, pointing to a 6-12+ month timeline.",
+        "Bitcoin seen as a cyclical buying opportunity once the conflict clears, with hosts citing continued resilience and an inevitable 'catch-up to gold' narrative as a medium-term thesis.",
+        "The conflict is now a global problem, not a US one \u2014 Strait of Hormuz closure is choking Asia and threatening Europe, which increases international pressure for resolution but also raises escalation risk.",
+        "White House credibility with markets is eroding: no Pentagon briefings in 9 days, shifting timelines, and cabinet language suggesting regime change as an unstated objective are fueling uncertainty."
+      ],
+      "url": ""
+    },
+    {
       "title": "What Happens When a Public Company Goes All In on AI",
       "podcast": "a16z Podcast",
       "date": "Wed, 1 Apr 2026 10:00:00 +0000",
@@ -283,126 +331,6 @@
         "Jennings frames the macro as Jevons paradox: fewer engineers per product, but likely far more products and companies getting built \u2014 net engineering employment impact is uncertain, but per-product headcount is clearly shrinking."
       ],
       "url": "https://a16z.simplecast.com/episodes/what-happens-when-a-public-company-goes-all-in-on-ai-cUCWrP64"
-    },
-    {
-      "title": "How Radiant and Heron Are Rethinking Power Generation and Delivery",
-      "podcast": "a16z Podcast",
-      "date": "Tue, 31 Mar 2026 10:04:03 +0000",
-      "duration": "00:49:01",
-      "summary": "The US power grid's core problem isn't generation\u2014it's delivery, and decades of efficiency gains masked the underinvestment until AI, electrified transport, and reshoring created demand that can no longer be ignored. A16Z's Aaron Price-Ride interviews Doug Bernauer (Radiant, building portable factory-made nuclear microreactors) and Drew Beglino (Heron, building solid-state power electronics to modernize grid delivery), both SpaceX/Tesla alumni who see the grid as the defining infrastructure challenge of the next era. Together they argue the grid must be rebuilt from the edge up, with diverse generation sources and intelligent power electronics, not just more centralized capacity.",
-      "keyTakeaways": [
-        "Delivery is the bottleneck, not generation: the US transmission infrastructure is the binding constraint on energy growth, and decades of efficiency improvements have let policymakers and investors ignore it\u2014until now.",
-        "Demand is structurally different this time: AI compute, industrial electrification, and EV adoption are compounding simultaneously, and efficiency gains can no longer offset the load growth the way they did from the 1980s\u20132010s.",
-        "Portable nuclear (Radiant) targets off-grid and edge use cases\u2014trailer-sized microreactors built in a factory, aimed at data centers, defense, and industrial sites that can't wait for grid interconnection queues.",
-        "Solid-state power electronics (Heron) targets the grid itself\u2014modernizing transmission and distribution hardware that has seen almost no innovation while the generation and storage sides advanced dramatically.",
-        "AI is a forcing function for grid investment: it's accelerating awareness that the US needs to relearn how to build large-scale infrastructure, and creating the financial urgency to fund it."
-      ],
-      "url": "https://a16z.simplecast.com/episodes/how-radiant-and-heron-are-rethinking-power-generation-and-delivery-M1HRtAN7"
-    },
-    {
-      "title": "Copper Founder: Building a Billion Dollar Company &amp; Fixing Crypto Custody",
-      "podcast": "Empire",
-      "date": "Mon, 30 Mar 2026 13:59:00 -0000",
-      "duration": "3217",
-      "summary": "Copper founder Dmitry Tokarev joins Empire live from DAS to reflect on building a $1.25B crypto custody company, the brutal lessons of hypergrowth (36 to 236 employees in a year), and why he stepped down in late 2024 to build his next company Bronze with a lean team under 40 people. He argues the next wave of crypto adoption won't be saved by TradFi institutions \u2014 it'll be built by the same crypto-native players who got here, now targeting tokenized real-world assets.",
-      "keyTakeaways": [
-        "Hire slow: throwing headcount at problems is a trap \u2014 rapid hiring (nearly 1 person/day at Copper's peak) destroys culture and creates colliding subcultures that become unmanageable",
-        "Know your superpower: Tokarev identifies as a builder/product person and learned too late to stop attempting things he wasn't good at \u2014 founders should double down on strengths and hire deliberately for gaps",
-        "AI is changing hiring calculus now: Bronze stopped hiring after adopting Claude Code ~6 weeks ago, staying under 40 people \u2014 a real-time example of AI compressing team size",
-        "Zero-rate era distorted the industry: cheap capital forced custody players into marketing arms races (Copper vs. Fireblocks, Anchorage, BitGo) that had nothing to do with building a better product",
-        "FTX collapse was partly a scaling failure: Tokarev's firsthand account suggests SBF lost operational control with 130+ direct reports before the fraud became irreversible \u2014 scale without structure is existential risk"
-      ],
-      "url": ""
-    },
-    {
-      "title": "Mistral: Voxtral TTS, Forge, Leanstral, & what's next for Mistral 4 \u2014 w/ Pavan Kumar Reddy & Guillaume Lample",
-      "podcast": "Latent Space",
-      "date": "Mon, 30 Mar 2026 19:25:21 GMT",
-      "duration": "2928",
-      "summary": "Mistral announces VoxTral TTS, their first speech generation model \u2014 a 3B parameter model built on Ministral that uses a novel autoregressive flow matching architecture with an in-house neural audio codec. The episode dives deep into the technical decisions behind audio generation, including why flow matching outperforms discrete depth transformers for modeling the distributional entropy of speech inflection. The team frames this as a stepping stone toward a full omni-model (native audio in/out), deliberately shipping transcription first, then TTS, before merging capabilities.",
-      "keyTakeaways": [
-        "VoxTral TTS uses a novel autoregressive flow matching head instead of the common depth transformer approach \u2014 key advantage is dramatically lower latency (4-16 inference steps vs. K auto-regressive steps), making real-time voice agent streaming viable.",
-        "Mistral built a custom neural audio codec that encodes audio into 12.5Hz latent frames, each with both semantic and acoustic tokens \u2014 the codec is trained to be both discrete and continuous, enabling the flow matching head.",
-        "Flow matching wins over discrete token prediction for speech because the same word can be inflected in many ways \u2014 you need to model the distribution and sample from it, not predict a blurred mean.",
-        "The audio AI field has no settled 'winning recipe' yet (unlike text), making it a high-upside research area with many architectural directions still open.",
-        "Mistral's roadmap is deliberately incremental: transcription \u2192 TTS \u2192 real-time duplex (speaking while listening) \u2192 full omni-model, optimizing each capability before merging."
-      ],
-      "url": "https://www.latent.space/p/voxtral"
-    },
-    {
-      "title": "Omer Goldberg: The DeFi Exploit That Exposed a Bigger Problem",
-      "podcast": "The Defiant",
-      "date": "Mon, 30 Mar 2026 19:23:59 GMT",
-      "duration": "00:41:22",
-      "summary": "Omer Goldberg of Chaos Labs breaks down the Resolve exploit where a hacker minted $80M in USR stablecoin and extracted ~$25M in ETH/BTC \u2014 but the real damage came from DeFi's composability turning a contained hack into a multi-protocol crisis. The deeper issue: lending vaults on Morpho, Fluid, and Venus were pricing USR at $1 (or its pre-hack NAV) while the market had it trading at $0.02\u2013$0.25, creating a massive arbitrage window that drained high-quality collateral. Goldberg argues this oracle mispricing problem has caused tens of millions in losses across at least four similar incidents in the past 12 months, and that context-aware risk oracles \u2014 not static or once-daily pricing \u2014 are the fix.",
-      "keyTakeaways": [
-        "Composability is a double-edged sword: USR being whitelisted across Morpho, Curve, Fluid, and Venus meant one exploit cascaded into multi-protocol bad debt \u2014 the attack surface scales with integrations.",
-        "Morpho's 'public reallocation' automation feature acted as an unlimited credit line during the attack \u2014 vaults auto-supplied capital into a high-utilization pool without detecting that the demand spike was exploit-driven, not organic.",
-        "Static or low-frequency oracles (once-daily NAV pricing) are functionally equivalent to hard-coded prices during a crisis \u2014 if the oracle can't reflect reality fast enough under stress, it's a sitting duck.",
-        "The fix isn't binary (real-time vs. hard-coded): risk oracles should be context-dependent \u2014 e.g., requiring a sustained depeg across multiple venues for N blocks before updating, to avoid liquidation cascades from transient price moves.",
-        "Curator/vault models are under scrutiny: the incident raises questions about whether automated capital allocation strategies have sufficient circuit breakers to distinguish genuine yield opportunities from exploit-induced volatility."
-      ],
-      "url": "https://podcasters.spotify.com/pod/show/thedefiant/episodes/Omer-Goldberg-The-DeFi-Exploit-That-Exposed-a-Bigger-Problem-e3h6j7u"
-    },
-    {
-      "title": "3 Megatrends Every Investor Needs to Know: Demographics, Wealth Inequality, &amp; the End of Labor (with Jeff Park)",
-      "podcast": "Bankless",
-      "date": "Mon, 30 Mar 2026 10:30:00 -0000",
-      "duration": "5256",
-      "summary": "Jeff Park argues that amid macro uncertainty, investors should anchor to three irreversible megatrends: aging demographics, wealth concentration, and the declining value of labor. The episode focuses heavily on the demographic crisis \u2014 top 10 industrial economies are all in population decline, and by 2034 the US will have more adults than children for the first time ever, creating a structural imbalance of asset sellers over buyers that will pressure traditional equity markets for decades. AI and technology accelerate these dynamics by being deflationary forces on labor, while credit creation masks the true pricing impact.",
-      "keyTakeaways": [
-        "Demographic inversion is effectively irreversible \u2014 Japan's elderly dependency ratio is already 55:100 workers and projected to hit 80 by 2050; South Korea's median age will be 56 by 2050. These trends are locked in because the missing workers simply were never born.",
-        "By 2030 all US Baby Boomers will be 65+, and by 2034 there will be more adults than children in America \u2014 meaning sustained asset selling pressure with fewer younger buyers to absorb it, creating a secular headwind for equities.",
-        "Healthcare costs rising from 5% of US GDP (1960s) to 20%+ today signal that people are living longer and spending more in retirement, accelerating asset drawdowns from the older cohort.",
-        "Technology is fundamentally deflationary and is driving labor value toward zero, but credit creation masks this in nominal prices \u2014 the real risk is when credit expansion can no longer offset the deflation.",
-        "Regulators (SEC, CFTC) are quietly expanding permissible capital formation strategies \u2014 including tokenization \u2014 partly as a policy response to entice younger, smaller investors into markets to offset the demographic supply/demand imbalance."
-      ],
-      "url": ""
-    },
-    {
-      "title": "SoftBank's $40B OpenAI Investment &amp; Anthropic's Claude Mythos Leak",
-      "podcast": "No Priors",
-      "date": "Fri, 27 Mar 2026 21:57:42 -0000",
-      "duration": "00:13:35",
-      "summary": "This episode covers five major AI stories: humanoid robots appearing at the White House as a signal of physical AI's rapid maturation, SoftBank's $40B OpenAI investment highlighting the massive capital moat forming around frontier labs, OpenAI redirecting Sora's compute to robotics R&D, Apple opening Siri to third-party AI providers in iOS 27, and a leaked Anthropic draft revealing a next-generation model called Claude Mythos \u2014 described internally as a 'step change' capability that poses 'unprecedented cybersecurity risks.' The overarching theme is that the AI race is consolidating fast, with capital, compute, and physical deployment becoming the new competitive moats.",
-      "keyTakeaways": [
-        "Anthropic's leaked 'Claude Mythos' (model tier: Capibara, above Opus) is confirmed real and described internally as outperforming Opus 4.6 on coding, reasoning, and cybersecurity \u2014 with Anthropic itself flagging unprecedented security risks, which rattled crypto and software markets.",
-        "SoftBank's $40B OpenAI round signals that frontier model development is becoming a capital game only a handful of players can afford \u2014 bad news for regional labs like Mistral, good news for end users who benefit from better models.",
-        "OpenAI is pivoting Sora's compute budget directly into robotics R&D, signaling a strategic bet that physical AI (not video generation) is where value creation is headed over the next few years.",
-        "Apple's iOS 27 will open Siri to third-party AI providers via the App Store \u2014 effectively turning Apple into a platform/shell rather than an AI developer, reducing OpenAI dependency and potentially making Siri useful for the first time for 1B+ iPhone users.",
-        "Physical AI is moving faster than expected: Figure 3 humanoid robots demonstrated at the White House, and Agile Robots just partnered with Google DeepMind to embed Gemini into manufacturing and logistics robots \u2014 expect major commercial rollouts by end of 2026."
-      ],
-      "url": ""
-    },
-    {
-      "title": "Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits",
-      "podcast": "All-In Podcast",
-      "date": "Fri, 27 Mar 2026 20:03:00 +0000",
-      "duration": "01:20:11",
-      "summary": "The All-In crew debates Anthropic's impressive product momentum (Claude Code, computer use, agentic features) versus OpenAI's consumer dominance, arguing the two companies are fundamentally different businesses\u2014enterprise API vs. consumer subscriptions\u2014making direct revenue comparisons misleading. Sacks praises Anthropic's technical execution while maintaining philosophical objections to their DC regulatory strategy, and the group warns that OpenAI risks losing focus by spreading itself too thin.",
-      "keyTakeaways": [
-        "Anthropic's bet on coding as the breakout use case was both ideologically driven (path to AGI via self-improvement) and strategically brilliant\u2014code is the gateway to enterprise IT budgets and enabled rapid revenue growth.",
-        "OpenAI vs. Anthropic revenue comparisons are apples-to-oranges: OpenAI is ~75% consumer subscriptions (ChatGPT), Anthropic is ~75% API/enterprise\u2014normalizing for RevRec, OpenAI still dominates total revenue but Anthropic is catching up in enterprise.",
-        "In enterprise AI deployments, Anthropic dominates\u2014the group notes it's 'all Anthropic all the time' through platforms like GitHub Copilot and Cursor, despite cost and token consumption concerns.",
-        "The classic startup lesson applies to OpenAI: focus on one or two things exceptionally well\u2014spreading too thin ('peanut butter smear') risks eroding the core consumer advantage they built with ChatGPT.",
-        "Anthropic's left-leaning brand positioning is both genuine culture and strategic talent acquisition\u2014estimated 90% of target PhD candidates skew left, making the stance a meaningful recruiting moat."
-      ],
-      "url": "https://allinchamathjason.libsyn.com/anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits"
-    },
-    {
-      "title": "Live From DAS: Are Tokens Dead? | Roundup",
-      "podcast": "Bell Curve",
-      "date": "Fri, 27 Mar 2026 08:00:00 -0000",
-      "duration": "1874",
-      "summary": "Recorded live at the Digital Asset Summit (DAS), the Bell Curve panel finds institutional adoption accelerating \u2014 with Fidelity, Shopify, UBS, and major banks showing up in force \u2014 but draws a sharp contrast between the thriving tokenization/stablecoin/RWA narrative and the brutal underperformance of native crypto tokens. The panel diagnoses the token market's multi-year decline as structural, driven by dual equity/token incentive conflicts, opaque supply dynamics with cliff unlocks, lack of investor rights, and regulatory ambiguity that prevented even basic disclosures. They argue the next token generation must fix these fundamentals or the most successful projects will simply stay equity.",
-      "keyTakeaways": [
-        "Institutional attention has shifted from Bitcoin/ETH price speculation to tokenization, stablecoins, and agentic commerce \u2014 with Canton and Tempo displacing Ethereum/Solana as the hot infrastructure at DAS.",
-        "The median token (ex-BTC/ETH, inflation-adjusted) is down ~80% over five years \u2014 structural problems, not just macro, are to blame.",
-        "Dual equity+token structures are a core failure mode: misaligned incentives, split teams, and token holders routinely getting zero in M&A events (e.g., Axelar) are still unresolved.",
-        "Regulatory grey zones forced foundations into silence on treasury/supply plans, making tokens effectively ununderwritable \u2014 upcoming regulatory clarity (expected within months) may finally set enforceable standards.",
-        "The next-gen token fix looks like: single incentive structure (token only, \u00e0 la Morpho's PBC model), full supply unlock at TGE, early-stage-appropriate valuations, and real investor relations \u2014 treating token holders more like equity holders."
-      ],
-      "url": ""
     }
   ]
 }
