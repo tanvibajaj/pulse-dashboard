@@ -201,7 +201,7 @@ RAW_DATA=$(cat "$TEMP_DIR/raw_all.json")
 # Pipe through claude CLI and extract the result field
 RAW_CLI_OUTPUT=$(echo "${PROMPT}
 
-${RAW_DATA}" | claude -p --model sonnet --output-format json 2>/dev/null) || {
+${RAW_DATA}" | python3 "$SCRIPT_DIR/ai_call.py" 2>/dev/null) || {
   echo "⚠️  Claude CLI failed, using raw data without AI filtering"
   RAW_CLI_OUTPUT=""
 }
