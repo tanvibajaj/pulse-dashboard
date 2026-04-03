@@ -29,6 +29,8 @@ jobs:
         run: bash scripts/refresh.sh
 
       - name: Refresh podcasts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: bash scripts/podcasts.sh
         continue-on-error: true  # don't fail the whole run if podcasts error
 
