@@ -1,0 +1,44 @@
+name: Daily Pulse Refresh
+
+on:
+  schedule:
+    - cron: '0 14 * * *'  # 6:00 AM PT (UTC-8)
+  workflow_dispatch:       # allow manual trigger from GitHub UI
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Claude CLI
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Refresh news, crypto & stocks
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: bash scripts/refresh.sh
+
+      - name: Refresh podcasts
+        run: bash scripts/podcasts.sh
+        continue-on-error: true  # don't fail the whole run if podcasts error
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "Pulse Bot"
+          git config user.email "pulse-bot@users.noreply.github.com"
+          git add data/dashboard.json data/podcasts/ 2>/dev/null || true
+          git diff --cached --quiet || (
+            git commit -m "Daily Pulse refresh $(date +%Y-%m-%d)"
+            git push
+          )
+          echo "Done — Vercel will auto-deploy the new data."
