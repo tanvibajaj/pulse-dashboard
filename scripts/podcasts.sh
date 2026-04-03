@@ -41,7 +41,7 @@ for entry in "${PODCASTS[@]}"; do
   feed_url="${entry#*|}"
 
   # Fetch latest episode from RSS (only first 200KB — we only need the first episode)
-  FEED_HASH=$(echo "$podcast_name" | md5 -q 2>/dev/null || echo "$podcast_name" | md5sum | cut -d' ' -f1)
+  FEED_HASH=$(echo "$podcast_name" | md5 -q 2>/dev/null || echo "$podcast_name" | md5sum 2>/dev/null | cut -d' ' -f1)
   FEED_FILE="$TEMP_DIR/feed_${FEED_HASH}.xml"
   curl -s -L --max-time 20 "$feed_url" 2>/dev/null | head -c 200000 > "$FEED_FILE"
   EPISODE_DATA=$(python3 "$SCRIPT_DIR/parse_podcast_rss.py" "$podcast_name" < "$FEED_FILE" 2>/dev/null)
@@ -138,7 +138,7 @@ Return ONLY valid JSON (no markdown):
 }
 SUMMARYEOF2
 
-  RAW_SUMMARY=$(cat "$PROMPT_FILE" | python3 "$SCRIPT_DIR/ai_call.py" 2>/dev/null) || RAW_SUMMARY=""
+  RAW_SUMMARY=$(cat "$PROMPT_FILE" | claude -p --model sonnet --output-format json 2>/dev/null) || RAW_SUMMARY=""
 
   # Parse Claude CLI envelope and save episode JSON
   DURATION=$(echo "$EPISODE_DATA" | python3 -c "import json,sys; print(json.load(sys.stdin).get('duration',''))" 2>/dev/null)
