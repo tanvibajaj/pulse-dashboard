@@ -17,7 +17,7 @@ cat > "$PLIST_PATH" << EOF
     <key>ProgramArguments</key>
     <array>
         <string>/bin/bash</string>
-        <string>${PROJECT_DIR}/scripts/refresh.sh</string>
+        <string>${PROJECT_DIR}/scripts/daily.sh</string>
     </array>
     <key>StartCalendarInterval</key>
     <dict>
@@ -48,4 +48,4 @@ echo "   Schedule: Every day at 6:00 AM PT"
 echo "   Plist: $PLIST_PATH"
 echo ""
 echo "   To uninstall: launchctl unload $PLIST_PATH && rm $PLIST_PATH"
-echo "   To test now:  ./scripts/refresh.sh"
+echo "   To test now:  ./scripts/daily.sh"
