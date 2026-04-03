@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T22:56:34.430623+00:00",
+  "lastUpdated": "2026-04-03T23:00:52.353994+00:00",
   "marketStatus": "Closed",
   "globalNews": [
     {
@@ -43,18 +43,18 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 66887,
-      "change24h": -0.19803,
-      "marketCap": 1338325696506,
+      "price": 66894,
+      "change24h": -0.13778,
+      "marketCap": 1338691943131,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2052.13,
-      "change24h": -0.43434,
-      "marketCap": 247634598502,
+      "price": 2051.96,
+      "change24h": -0.34609,
+      "marketCap": 247668583896,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
