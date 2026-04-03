@@ -23,6 +23,29 @@ jobs:
       - name: Install Claude CLI
         run: npm install -g @anthropic-ai/claude-code
 
+      - name: Test Anthropic API key
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          echo "Testing API key..."
+          python3 -c "
+import urllib.request, json, os
+api_key = os.environ.get('ANTHROPIC_API_KEY', '')
+print(f'Key present: {bool(api_key)}, length: {len(api_key)}')
+req = urllib.request.Request(
+    'https://api.anthropic.com/v1/messages',
+    data=json.dumps({'model':'claude-haiku-4-5-20251001','max_tokens':10,'messages':[{'role':'user','content':'hi'}]}).encode(),
+    headers={'x-api-key': api_key, 'anthropic-version': '2023-06-01', 'content-type': 'application/json'}
+)
+try:
+    with urllib.request.urlopen(req, timeout=15) as r:
+        print('API key VALID:', r.status)
+except urllib.error.HTTPError as e:
+    print('API key ERROR:', e.code, e.read().decode())
+except Exception as e:
+    print('Connection ERROR:', e)
+"
+
       - name: Refresh news, crypto & stocks
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
