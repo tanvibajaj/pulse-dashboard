@@ -1,174 +1,11 @@
 {
-  "lastUpdated": "2026-04-03T23:20:25.791899+00:00",
-  "marketStatus": "After Hours",
-  "globalNews": [
-    {
-      "title": "How elite US teams tackle combat rescue missions",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 03 Apr 2026 20:42:56 GMT",
-      "summary": "Air force pararescue units who specialise in CSAR missions are among the most highly trained in the US military."
-    },
-    {
-      "title": "Artemis II crew take 'spectacular' image of Earth",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 03 Apr 2026 21:44:31 GMT",
-      "summary": "The snap was taken aboard the Orion capsule by its commander, Reid Wiseman, as the crew head towards the Moon."
-    },
-    {
-      "title": "Burkina Faso must 'forget' about democracy, military leader says",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cly0zp1xgz3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 03 Apr 2026 11:11:42 GMT",
-      "summary": "Capt Ibrahim Traor\u00e9, who seized power in 2023, says democratic rule would not work for his country."
-    },
-    {
-      "title": "French-owned ship passes through Strait of Hormuz",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 03 Apr 2026 17:45:46 GMT",
-      "summary": "It appears to be the first ship owned by a major European firm to go through the strait since the conflict began."
-    },
-    {
-      "title": "France's Muslim gathering ban overturned by courts",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cwyjekvwww0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 03 Apr 2026 12:20:28 GMT",
-      "summary": "The Paris police department had argued that the four-day gathering was a security threat because it could be a target of terrorism."
-    }
-  ],
-  "cryptoAssets": [
-    {
-      "id": "bitcoin",
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "price": 66860,
-      "change24h": -0.12671,
-      "marketCap": 1337953581903,
-      "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
-    },
-    {
-      "id": "ethereum",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "price": 2050.66,
-      "change24h": -0.33622,
-      "marketCap": 247464189396,
-      "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
-    }
-  ],
-  "cryptoNews": [
-    {
-      "title": "Ethereum Foundation nearly reaches 70,000 staked ETH goal",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ethereum-foundation-nearly-reaches-70000-staked-eth-goal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 03 Apr 2026 22:31:51 +0100",
-      "summary": "The non-profit foundation has staked 69,500 ETH, nearly reaching the goal it unveiled at the end of February, less than two months ago."
-    },
-    {
-      "title": "Cambodian lawmakers propose severe prison time for crypto scammers",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/cambodia-law-prison-crypto-scammers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 03 Apr 2026 21:47:12 +0100",
-      "summary": "The draft bill, yet to be signed into law by the king, marked a significant policy change for Cambodia officials in addressing scam centers."
-    },
-    {
-      "title": "Is Bitcoin mispricing a prolonged Iran war? Ex-hedge fund manager weighs in",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-underestimating-prolonged-iran-war-macro-investor-weighs-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 03 Apr 2026 20:04:17 +0100",
-      "summary": "In a recent Cointelegraph interview, macro investor James Lavish explains why markets are pricing in a quick end to the Iran war \u2014 and what could happen if that assumption is wrong."
-    },
-    {
-      "title": "US community banks oppose OCC's approval of Coinbase trust charter",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/community-banks-oppose-coinbase-trust-charter-approval-occ?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 03 Apr 2026 19:03:48 +0100",
-      "summary": "The Independent Community Bankers of America warns Coinbase\u2019s trust charter falls short of regulatory standards and could pose risks to consumers and the financial system."
-    },
-    {
-      "title": "Kalshi onboards ex-Democratic strategist amid legal troubles",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/kalshi-democratic-strategist-lawsuits-state-federal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 03 Apr 2026 18:12:55 +0100",
-      "summary": "Stephanie Cutter will join the prediction markets company as a policy adviser, having previously worked in Democratic lawmakers\u2019 campaigns."
-    }
-  ],
-  "aiNews": [
-    {
-      "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead \u2018special projects\u2019",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
-      "publishedAt": "Fri, 03 Apr 2026 20:35:34 +0000",
-      "summary": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows."
-    },
-    {
-      "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
-      "publishedAt": "Fri, 03 Apr 2026 20:28:40 +0000",
-      "summary": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer."
-    },
-    {
-      "title": "Anthropic ramps up its political activities with a new PAC",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
-      "publishedAt": "Fri, 03 Apr 2026 20:22:18 +0000",
-      "summary": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda. "
-    },
-    {
-      "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
-      "publishedAt": "Fri, 03 Apr 2026 19:48:22 +0000",
-      "summary": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it."
-    },
-    {
-      "title": "People would rather have an Amazon warehouse in their backyard than a data center",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/03/people-would-rather-have-an-amazon-warehouse-in-their-backyard-than-a-data-center/",
-      "publishedAt": "Fri, 03 Apr 2026 19:20:36 +0000",
-      "summary": "A new poll shows that the debate over data centers is far from settled."
-    }
-  ],
-  "techMovers": [
-    {
-      "ticker": "CRM",
-      "name": "Salesforce Inc",
-      "price": 187.18,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "ticker": "AAPL",
-      "name": "Apple Inc",
-      "price": 255.92,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla Inc",
-      "price": 360.59,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "ticker": "UBER",
-      "name": "Uber Technologies",
-      "price": 71.84,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon.com",
-      "price": 209.77,
-      "change": 0,
-      "changePercent": 0
-    }
-  ],
+  "lastUpdated": "2026-04-04T13:01:54.461343+00:00",
+  "marketStatus": "Closed",
+  "globalNews": [],
+  "cryptoAssets": [],
+  "cryptoNews": [],
+  "aiNews": [],
+  "techMovers": [],
   "pulsePicks": [
     {
       "ticker": "NVDA",
@@ -192,14 +29,8 @@
       "riskLevel": "Low"
     }
   ],
-  "fearGreedIndex": 9,
-  "visaStock": {
-    "ticker": "V",
-    "name": "Visa Inc",
-    "price": 300.8,
-    "change": 0,
-    "changePercent": 0
-  },
+  "fearGreedIndex": 50,
+  "visaStock": null,
   "earnings": [],
   "marketIndicators": [
     {
