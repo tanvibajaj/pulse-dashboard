@@ -1,11 +1,174 @@
 {
-  "lastUpdated": "2026-04-06T13:01:40.290794+00:00",
-  "marketStatus": "Pre-Market",
-  "globalNews": [],
-  "cryptoAssets": [],
-  "cryptoNews": [],
-  "aiNews": [],
-  "techMovers": [],
+  "lastUpdated": "2026-04-06T16:44:49.659109+00:00",
+  "marketStatus": "Open",
+  "globalNews": [
+    {
+      "title": "The 40 minutes when the Artemis crew loses contact with the Earth",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cj0vyzmmy50o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 05 Apr 2026 23:02:53 GMT",
+      "summary": "As the astronauts pass behind the Moon they will experience a moment of silence and solitude as communication with the Earth is blocked."
+    },
+    {
+      "title": "How rescue of US airman in remote part of Iran unfolded",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 06 Apr 2026 12:22:21 GMT",
+      "summary": "The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies. "
+    },
+    {
+      "title": "Trump declares victory after rescue but threats to US operation in Iran still loom",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 06 Apr 2026 00:23:16 GMT",
+      "summary": "The rescue could impact how Trump views a ground operation to take Kharg Island or to seize enriched uranium sites."
+    },
+    {
+      "title": "'Really feeling the love' - Savannah Guthrie returns to NBC as search for mother goes on",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c04xqglg7xgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 06 Apr 2026 11:48:29 GMT",
+      "summary": "Nancy Guthrie disappeared from her home in Tucson, Arizona, in what authorities believe was an abduction."
+    },
+    {
+      "title": "Emergency jabs after 100 children die of suspected measles in a month in Bangladesh",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cevkz2z7dm8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 06 Apr 2026 09:59:40 GMT",
+      "summary": "More than 100 people, mostly children, have been killed by measles since mid-March, officials suspect."
+    }
+  ],
+  "cryptoAssets": [
+    {
+      "id": "bitcoin",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "price": 70064,
+      "change24h": 4.10273,
+      "marketCap": 1402108433884,
+      "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
+    },
+    {
+      "id": "ethereum",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "price": 2161.54,
+      "change24h": 5.15861,
+      "marketCap": 260887660360,
+      "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
+    }
+  ],
+  "cryptoNews": [
+    {
+      "title": "Bitcoin profit taking keeps BTC below $70K as Trump doubles down on Iran",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-profit-taking-keeps-btc-below-70k-trump-doubles-down-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 06 Apr 2026 17:03:28 +0100",
+      "summary": "Bitcoin found familiar resistance as it crossed the $70,000 mark to hit new April highs, with analysis blaming \"profit-taking pressure.\""
+    },
+    {
+      "title": "Price predictions 4/6: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/price-predictions-4-6-spx-dxy-btc-eth-bnb-xrp-sol-doge-hype-ada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 06 Apr 2026 16:09:18 +0100",
+      "summary": "Buyers are attempting to push Bitcoin above the $70,000 level, but some analysts believe the upside may be limited and a drop below the $60,000 support is likely."
+    },
+    {
+      "title": "Strategy adds $330M BTC as paper losses top $14.5B in Q1",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/strategy-adds-4871-bitcoin-holdings-766970-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 06 Apr 2026 14:33:07 +0100",
+      "summary": "Strategy resumed Bitcoin purchases, acquiring 4,871 BTC for $329.9 million, while reporting a $14.46 billion unrealized loss and expanding its holdings."
+    },
+    {
+      "title": "New AI cybercrime tool targets crypto, bank KYC systems via deepfakes",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/ai-cybercrime-tool-crypto-bank-kyc-deepfakes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 06 Apr 2026 14:09:00 +0100",
+      "summary": "A darknet threat actor is selling new fraud kit to trick KYC identity verification systems on financial platforms via AI-generated deepfakes and real-time voice altering."
+    },
+    {
+      "title": "The future of institutional crypto runs through prime brokerages",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/future-institutional-crypto-prime-brokerages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 06 Apr 2026 14:00:00 +0100",
+      "summary": "Institutional crypto flows through prime brokerages that enforce TradFi custody standards. Ripple's $1.25B Hidden Road acquisition signals a permanent infrastructure shift."
+    }
+  ],
+  "aiNews": [
+    {
+      "title": "OpenAI\u2019s vision for the AI economy: public wealth funds, robot taxes, and a four-day work week",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
+      "publishedAt": "Mon, 06 Apr 2026 15:55:55 +0000",
+      "summary": "OpenAI proposes taxes on AI profits, public wealth funds, and expanded safety nets to address job loss and inequality, blending redistribution with capitalism as policymakers debate AI\u2019s economic impa"
+    },
+    {
+      "title": "Startup Battlefield 200 applications open: a chance for VC access, TechCrunch coverage, and $100K",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/",
+      "publishedAt": "Mon, 06 Apr 2026 14:30:00 +0000",
+      "summary": "Nominate your startup, or one you know that deserves the spotlight, and finish the process by applying. Selected 200 have a chance at VC access, TechCrunch coverage, and $100K for Startup Battlefield "
+    },
+    {
+      "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/06/how-to-use-chatgpt-apps-doordash-spotify-uber/",
+      "publishedAt": "Mon, 06 Apr 2026 14:11:42 +0000",
+      "summary": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT. "
+    },
+    {
+      "title": "Ticket savings of up to $500 this week for TechCrunch Disrupt 2026",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/06/massive-ticket-savings-of-up-to-500-this-week-for-techcrunch-disrupt-2026/",
+      "publishedAt": "Mon, 06 Apr 2026 14:00:00 +0000",
+      "summary": "Starting today, you have 5 days to save\u00a0nearly $500\u00a0on your ticket to\u00a0TechCrunch\u00a0Disrupt 2026. This offer disappears Friday, April 10, at 11:59 p.m. PT. Register here to secure these low rates."
+    },
+    {
+      "title": "Spain\u2019s Xoople raises $130 million Series B to map the Earth for AI",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/",
+      "publishedAt": "Mon, 06 Apr 2026 13:00:00 +0000",
+      "summary": "The company is also announcing a deal with L3Harris to build the sensors for Xoople's spacecraft."
+    }
+  ],
+  "techMovers": [
+    {
+      "ticker": "CRM",
+      "name": "Salesforce Inc",
+      "price": 186.0,
+      "change": 0,
+      "changePercent": 0
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc",
+      "price": 259.23,
+      "change": 0,
+      "changePercent": 0
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla Inc",
+      "price": 351.29,
+      "change": 0,
+      "changePercent": 0
+    },
+    {
+      "ticker": "UBER",
+      "name": "Uber Technologies",
+      "price": 72.43,
+      "change": 0,
+      "changePercent": 0
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon.com",
+      "price": 212.64,
+      "change": 0,
+      "changePercent": 0
+    }
+  ],
   "pulsePicks": [
     {
       "ticker": "NVDA",
@@ -29,8 +192,14 @@
       "riskLevel": "Low"
     }
   ],
-  "fearGreedIndex": 50,
-  "visaStock": null,
+  "fearGreedIndex": 13,
+  "visaStock": {
+    "ticker": "V",
+    "name": "Visa Inc",
+    "price": 304.19,
+    "change": 0,
+    "changePercent": 0
+  },
   "earnings": [],
   "marketIndicators": [
     {
