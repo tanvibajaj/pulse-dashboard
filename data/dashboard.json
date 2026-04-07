@@ -1,205 +1,36 @@
 {
-  "lastUpdated": "2026-04-06T16:46:41.160833+00:00",
+  "lastUpdated": "2026-04-07T14:50:45.582787+00:00",
   "marketStatus": "Open",
-  "globalNews": [
-    {
-      "title": "Trump threatens to destroy Iran's power plants and bridges by Tuesday deadline",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/6/where-are-irans-power-plants-that-trump-has-threatened-to-destroy?traffic_source=rss",
-      "publishedAt": "Mon, 06 Apr 2026 14:50:22 +0000",
-      "summary": "Trump ultimatum to destroy Iranian infrastructure by 8pm Tuesday unless Strait of Hormuz opens."
-    },
-    {
-      "title": "Ukraine strikes Russian Black Sea energy hub Novorossiysk",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/6/ukraine-strikes-russian-black-sea-energy-hub-novorossiysk?traffic_source=rss",
-      "publishedAt": "Mon, 06 Apr 2026 14:14:32 +0000",
-      "summary": "Ukraine escalates attacks on Russian energy infrastructure to cut war financing."
-    },
-    {
-      "title": "Trump declares victory after US airman rescue from Iran as ground operation threats loom",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 06 Apr 2026 00:23:21 GMT",
-      "summary": "Successful extraction may embolden Trump to consider strikes on Kharg Island or Iranian nuclear sites."
-    },
-    {
-      "title": "In maps and photos: Five Iranian civilian bridges at risk of US strikes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/4/6/in-maps-and-photos-five-iranian-civilian-bridges-at-risk-of-us-strikes?traffic_source=rss",
-      "publishedAt": "Mon, 06 Apr 2026 14:04:59 +0000",
-      "summary": "Multimillion-dollar Iranian infrastructure faces imminent destruction under Trump's 'Bridge Day' ultimatum."
-    },
-    {
-      "title": "DR Congo agrees to accept US deportees starting this month",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c20d35eejxgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 06 Apr 2026 13:25:37 GMT",
-      "summary": "DR Congo capitulates to US deportation pressure, signaling expanding reach of Trump migration policy."
-    }
-  ],
-  "cryptoAssets": [
-    {
-      "id": "bitcoin",
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "price": 70081,
-      "change24h": 4.26295,
-      "marketCap": 1402108433884,
-      "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
-    },
-    {
-      "id": "ethereum",
-      "symbol": "ETH",
-      "name": "Ethereum",
-      "price": 2161.43,
-      "change24h": 5.25165,
-      "marketCap": 260887660360,
-      "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
-    }
-  ],
-  "cryptoNews": [
-    {
-      "title": "Strategy adds $330M BTC as paper losses top $14.5B in Q1",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/strategy-adds-4871-bitcoin-holdings-766970-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 06 Apr 2026 14:33:07 +0100",
-      "summary": "Strategy buys 4,871 BTC at $330M despite $14.46B unrealized loss, holding 766,970 BTC total."
-    },
-    {
-      "title": "Jamie Dimon says JPMorgan must move faster as tokenization reshapes finance",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/06/jamie-dimon-says-jpmorgan-must-move-faster-as-tokenization-reshapes-finance",
-      "publishedAt": "Mon, 06 Apr 2026 15:41:24 +0000",
-      "summary": "Dimon's shareholder letter warns blockchain-native competitors are emerging to challenge TradFi incumbents."
-    },
-    {
-      "title": "The future of institutional crypto runs through prime brokerages",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/future-institutional-crypto-prime-brokerages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 06 Apr 2026 14:00:00 +0100",
-      "summary": "Ripple's $1.25B Hidden Road acquisition signals institutional crypto infrastructure is maturing permanently."
-    },
-    {
-      "title": "New AI cybercrime tool targets crypto and bank KYC systems via deepfakes",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ai-cybercrime-tool-crypto-bank-kyc-deepfakes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 06 Apr 2026 14:09:00 +0100",
-      "summary": "Darknet fraud kit uses AI deepfakes and real-time voice altering to defeat financial platform KYC systems."
-    },
-    {
-      "title": "Appeals court blocks New Jersey from shutting down Kalshi's sports markets",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/04/06/appeals-court-blocks-new-jersey-from-shutting-down-kalshi-s-sports-markets",
-      "publishedAt": "Mon, 06 Apr 2026 16:10:29 +0000",
-      "summary": "Third Circuit rules federal Commodity Exchange Act preempts state gambling laws, major win for prediction markets."
-    }
-  ],
-  "aiNews": [
-    {
-      "title": "OpenAI's vision for the AI economy: public wealth funds, robot taxes, and a four-day work week",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
-      "publishedAt": "Mon, 06 Apr 2026 15:55:55 +0000",
-      "summary": "OpenAI proposes AI profit taxes and public wealth funds to redistribute gains as job displacement accelerates."
-    },
-    {
-      "title": "OpenClaw agentic AI tool allowed unauthenticated admin access \u2014 users should assume compromise",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
-      "publishedAt": "Fri, 03 Apr 2026 20:30:15 +0000",
-      "summary": "Viral AI agentic tool had critical auth bypass letting attackers silently gain full admin control."
-    },
-    {
-      "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
-      "publishedAt": "Thu, 02 Apr 2026 17:00:11 +0000",
-      "summary": "GDDRHammer and GPUBreach exploit GPU memory to hijack CPUs, threatening AI inference infrastructure."
-    },
-    {
-      "title": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
-      "publishedAt": "Wed, 25 Mar 2026 15:49:17 +0000",
-      "summary": "Google warns entire industry to urgently migrate off RSA and elliptic curve before 2029 quantum threat."
-    },
-    {
-      "title": "Spain's Xoople raises $130M Series B to map the Earth for AI",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/",
-      "publishedAt": "Mon, 06 Apr 2026 13:00:00 +0000",
-      "summary": "Xoople secures $130M and an L3Harris sensor deal to build AI-ready geospatial satellite data infrastructure."
-    }
-  ],
-  "techMovers": [
-    {
-      "ticker": "CRM",
-      "name": "Salesforce Inc",
-      "price": 186.03,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "ticker": "AAPL",
-      "name": "Apple Inc",
-      "price": 259.23,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla Inc",
-      "price": 351.3,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "ticker": "UBER",
-      "name": "Uber Technologies",
-      "price": 72.43,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon.com",
-      "price": 212.57,
-      "change": 0,
-      "changePercent": 0
-    }
-  ],
+  "globalNews": [],
+  "cryptoAssets": [],
+  "cryptoNews": [],
+  "aiNews": [],
+  "techMovers": [],
   "pulsePicks": [
+    {
+      "ticker": "NVDA",
+      "action": "Watch",
+      "reasoning": "Strong AI chip demand. Valuation stretched \u2014 wait for pullback.",
+      "timeframe": "Medium-term (1-3 months)",
+      "riskLevel": "Medium"
+    },
     {
       "ticker": "BTC",
       "action": "Consider Buying",
-      "reasoning": "Fear & Greed index at extreme fear (13) is historically a contrarian buy signal. Strategy just added $330M in BTC despite paper losses, signaling conviction from the largest institutional holder. Bitcoin broke above $70K resistance with geopolitical tailwinds from Iran-Hormuz energy risk.",
-      "timeframe": "Short-term (1-2 weeks)",
+      "reasoning": "Holding above key support. ETF inflows strong. Halving cycle favorable.",
+      "timeframe": "Long-term (3+ months)",
       "riskLevel": "High"
     },
     {
-      "ticker": "ETH",
-      "action": "Watch",
-      "reasoning": "Bitmine now holds 3.98% of all circulating ETH with $196M annualized staking revenue, creating unprecedented institutional supply lock-up. ETH is up 5.25% in 24 hours alongside BTC's breakout. Dimon's tokenization warning signals long-term tailwinds for smart contract infrastructure.",
+      "ticker": "GOOG",
+      "action": "Consider Buying",
+      "reasoning": "Discount to mega-cap peers. Gemini progress improving sentiment. Cloud growth accelerating.",
       "timeframe": "Medium-term (1-3 months)",
-      "riskLevel": "High"
-    },
-    {
-      "ticker": "V",
-      "action": "Watch",
-      "reasoning": "Jamie Dimon's shareholder letter warning about blockchain competitors puts Visa's long-term moat in focus. The Kalshi court ruling expanding prediction markets and Ripple's prime brokerage acquisition signal accelerating displacement of TradFi payment rails. Monitor whether tokenization narrative pressures valuation multiples.",
-      "timeframe": "Medium-term (1-3 months)",
-      "riskLevel": "Medium"
+      "riskLevel": "Low"
     }
   ],
-  "fearGreedIndex": 13,
-  "visaStock": {
-    "ticker": "V",
-    "name": "Visa Inc",
-    "price": 304.19,
-    "change": 0,
-    "changePercent": 0
-  },
+  "fearGreedIndex": 50,
+  "visaStock": null,
   "earnings": [],
   "marketIndicators": [
     {
