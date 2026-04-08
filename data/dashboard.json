@@ -1,36 +1,210 @@
 {
-  "lastUpdated": "2026-04-07T14:50:45.582787+00:00",
-  "marketStatus": "Open",
-  "globalNews": [],
-  "cryptoAssets": [],
-  "cryptoNews": [],
-  "aiNews": [],
-  "techMovers": [],
+  "lastUpdated": "2026-04-08T20:02:13.729208+00:00",
+  "marketStatus": "After Hours",
+  "globalNews": [
+    {
+      "title": "Oil prices plunge and shares jump on US-Iran ceasefire plan",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c8r40y3rv75o",
+      "publishedAt": "2026-04-08T08:15:36Z",
+      "summary": "Crude tumbled up to 15% on two-week truce; equities surged on reduced Middle East war premium."
+    },
+    {
+      "title": "What we know about the two-week ceasefire between the US and Iran",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ce84z6y3ke4o",
+      "publishedAt": "2026-04-08T12:36:05Z",
+      "summary": "Provisional US-Iran truce follows coordinated US-Israel strikes; ceasefire terms remain conditional and fragile."
+    },
+    {
+      "title": "UAE, Kuwait, Bahrain report attacks despite Iran-US ceasefire",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/8/uae-kuwait-bahrain-report-attacks-despite-iran-us-ceasefire",
+      "publishedAt": "2026-04-08T10:43:30Z",
+      "summary": "Gulf states report strikes hours after ceasefire, signaling regional instability persists well beyond bilateral truce."
+    },
+    {
+      "title": "Israel carries out large wave of air strikes across Lebanon",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c0j6d538l6qo",
+      "publishedAt": "2026-04-08T12:29:14Z",
+      "summary": "Israel struck Beirut suburbs and Bekaa Valley post-ceasefire, confirming broader regional conflict continues unabated."
+    },
+    {
+      "title": "Meloni's Trump trouble: Why Italian PM is distancing herself from US leader",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/8/melonis-trump-trouble-why-italian-pm-is-distancing-herself-from-us-leader",
+      "publishedAt": "2026-04-08T10:14:36Z",
+      "summary": "Italy breaks from Trump alliance ahead of EU elections, signaling European bloc cohesion against US trade pressure."
+    }
+  ],
+  "cryptoAssets": [
+    {
+      "id": "bitcoin",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "price": 72125,
+      "change24h": 5.42973,
+      "marketCap": 1443646327482,
+      "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
+    },
+    {
+      "id": "ethereum",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "price": 2257.74,
+      "change24h": 8.16871,
+      "marketCap": 272413034216,
+      "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
+    }
+  ],
+  "cryptoNews": [
+    {
+      "title": "Morgan Stanley's bitcoin ETF opens today, giving BlackRock's $55 billion IBIT fund its toughest rival yet",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/08/morgan-stanley-s-bitcoin-etf-opens-today-giving-blackrock-s-usd55-billion-ibit-fund-its-toughest-rival-yet",
+      "publishedAt": "2026-04-08T12:45:00Z",
+      "summary": "Morgan Stanley's MSBT launches at market-low 0.14% fee, leveraging $7T wealth platform to challenge BlackRock's IBIT."
+    },
+    {
+      "title": "Ethereum stablecoin supply hits $180B all-time high: Token Terminal",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/stablecoin-supply-ethereum-hits-180b-all-time-high-token-terminal",
+      "publishedAt": "2026-04-08T07:21:14Z",
+      "summary": "Ethereum stablecoin ATH at $180B; Token Terminal projects $850B in new on-chain flows by 2030."
+    },
+    {
+      "title": "South Korea draft bill puts stablecoins, RWAs under finance laws",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/south-korea-stablecoin-fx-law-rwa-trust-draft",
+      "publishedAt": "2026-04-08T12:34:40Z",
+      "summary": "South Korea's ruling party proposes banning stablecoin yield and mandating blockchain interoperability standards under finance law."
+    },
+    {
+      "title": "UBS partners with five banks for Swiss franc stablecoin sandbox",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/ubs-five-banks-swiss-franc-stablecoin-sandbox",
+      "publishedAt": "2026-04-08T09:58:44Z",
+      "summary": "UBS leads six-bank consortium testing Swiss franc stablecoin with real transactions on blockchain payment rails."
+    },
+    {
+      "title": "Anthropic's Mythos AI could have major implications for DeFi",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/08/move-over-bitcoin-and-quantum-risks-anthropic-s-mythos-ai-changes-everything-for-defi",
+      "publishedAt": "2026-04-08T10:58:33Z",
+      "summary": "Mythos identified thousands of zero-day vulnerabilities in cryptography libraries underpinning major DeFi infrastructure."
+    }
+  ],
+  "aiNews": [
+    {
+      "title": "Anthropic debuts preview of powerful new AI model Mythos in cybersecurity initiative",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
+      "publishedAt": "2026-04-07T18:00:00Z",
+      "summary": "Mythos deploys for defensive cybersecurity at select firms, already surfacing thousands of zero-day exploits."
+    },
+    {
+      "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
+      "publishedAt": "2026-04-07T16:05:56Z",
+      "summary": "Anthropic expands Google/Broadcom TPU deal as annualized revenue hits $30 billion on surging enterprise demand."
+    },
+    {
+      "title": "Intel signs on to Elon Musk's Terafab chips project",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/",
+      "publishedAt": "2026-04-07T18:10:01Z",
+      "summary": "Intel joins SpaceX and Tesla to build a US semiconductor fab in Texas, bolstering domestic chip sovereignty."
+    },
+    {
+      "title": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought",
+      "publishedAt": "2026-03-25T15:49:17Z",
+      "summary": "Google urges entire industry to urgently migrate off RSA and elliptic curve as quantum threat arrives in 2029."
+    },
+    {
+      "title": "Firmus, the 'Southgate' AI data center builder backed by Nvidia, hits $5.5B valuation",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
+      "publishedAt": "2026-04-07T18:46:55Z",
+      "summary": "Nvidia-backed Firmus raises $1.35B in six months to $5.5B valuation as Asian AI infrastructure demand explodes."
+    }
+  ],
+  "techMovers": [
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "price": 333.97,
+      "change": 19.54,
+      "changePercent": 6.21,
+      "explanation": "Surged 6.2% as Anthropic's expanded compute deal directly with Broadcom for custom TPU silicon signals major AI chip revenue acceleration."
+    },
+    {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc",
+      "price": 303.93,
+      "change": 6.27,
+      "changePercent": 2.11,
+      "explanation": "Rose 2.1% on ceasefire-driven broad market relief rally and Anthropic deepening its Google Cloud TPU partnership, boosting cloud revenue outlook."
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc",
+      "price": 253.5,
+      "change": -5.36,
+      "changePercent": -2.07,
+      "explanation": "Fell 2.1% on sector rotation out of consumer hardware into AI infrastructure plays; no positive catalyst emerged in today's news cycle."
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla Inc",
+      "price": 346.65,
+      "change": -6.17,
+      "changePercent": -1.75,
+      "explanation": "Slid 1.75% as Musk's Terafab semiconductor venture raises capital allocation concerns, and broader EV sentiment remains pressured."
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "price": 143.17,
+      "change": -2.37,
+      "changePercent": -1.63,
+      "explanation": "Dropped 1.6% after Uber expanded its AWS contract for AI workloads, reinforcing a pattern of Oracle losing high-profile cloud AI business to Amazon."
+    }
+  ],
   "pulsePicks": [
     {
-      "ticker": "NVDA",
-      "action": "Watch",
-      "reasoning": "Strong AI chip demand. Valuation stretched \u2014 wait for pullback.",
+      "ticker": "AVGO",
+      "action": "Consider Buying",
+      "reasoning": "Broadcom is a direct named beneficiary of Anthropic's expanded compute contract for custom TPU silicon, with Anthropic's run-rate revenue now at $30B annually. Today's 6.2% move may not fully price in the long-term AI infrastructure tailwind. Custom silicon demand from hyperscalers is a durable multi-year theme.",
       "timeframe": "Medium-term (1-3 months)",
       "riskLevel": "Medium"
     },
     {
       "ticker": "BTC",
-      "action": "Consider Buying",
-      "reasoning": "Holding above key support. ETF inflows strong. Halving cycle favorable.",
-      "timeframe": "Long-term (3+ months)",
+      "action": "Watch",
+      "reasoning": "Bitcoin surged toward $72K on ceasefire news and Morgan Stanley's landmark MSBT ETF debut adds significant institutional distribution capacity at a competitive 0.14% fee. However, the ceasefire is only two weeks and Gulf states reported continued attacks \u2014 geopolitical risk is unresolved. On-chain data shows 850K BTC accumulated below $70K, providing a solid demand floor to monitor.",
+      "timeframe": "Short-term (1-2 weeks)",
       "riskLevel": "High"
     },
     {
-      "ticker": "GOOG",
-      "action": "Consider Buying",
-      "reasoning": "Discount to mega-cap peers. Gemini progress improving sentiment. Cloud growth accelerating.",
-      "timeframe": "Medium-term (1-3 months)",
-      "riskLevel": "Low"
+      "ticker": "ORCL",
+      "action": "Consider Selling",
+      "reasoning": "Oracle lost Uber's AI cloud workload to AWS in a deal described as a direct rebuke, and Anthropic \u2014 a massive potential Oracle customer \u2014 is deepening ties with Google and Broadcom instead. The company faces structural headwinds as hyperscalers and custom silicon providers capture AI infrastructure spend. Down 1.6% today on limited volume; further attrition risk is elevated.",
+      "timeframe": "Short-term (1-2 weeks)",
+      "riskLevel": "Medium"
     }
   ],
-  "fearGreedIndex": 50,
-  "visaStock": null,
+  "fearGreedIndex": 17,
+  "visaStock": {
+    "ticker": "V",
+    "name": "Visa Inc",
+    "price": 302.55,
+    "change": -0.78,
+    "changePercent": -0.26
+  },
   "earnings": [],
   "marketIndicators": [
     {
