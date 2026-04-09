@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-04-08T20:02:13.729208+00:00",
-  "marketStatus": "After Hours",
+  "lastUpdated": "2026-04-09T17:13:15.840117+00:00",
+  "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Oil prices plunge and shares jump on US-Iran ceasefire plan",
+      "title": "At least 182 killed across Lebanon in large wave of Israeli strikes",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c8r40y3rv75o",
-      "publishedAt": "2026-04-08T08:15:36Z",
-      "summary": "Crude tumbled up to 15% on two-week truce; equities surged on reduced Middle East war premium."
+      "url": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-04-08T20:54:59Z",
+      "summary": "Israel struck Beirut suburbs and Bekaa Valley hours after US-Iran ceasefire was announced, threatening regional stability."
     },
     {
-      "title": "What we know about the two-week ceasefire between the US and Iran",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/ce84z6y3ke4o",
-      "publishedAt": "2026-04-08T12:36:05Z",
-      "summary": "Provisional US-Iran truce follows coordinated US-Israel strikes; ceasefire terms remain conditional and fragile."
-    },
-    {
-      "title": "UAE, Kuwait, Bahrain report attacks despite Iran-US ceasefire",
+      "title": "Why Israel's attacks on Lebanon could cripple US-Iran ceasefire",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/8/uae-kuwait-bahrain-report-attacks-despite-iran-us-ceasefire",
-      "publishedAt": "2026-04-08T10:43:30Z",
-      "summary": "Gulf states report strikes hours after ceasefire, signaling regional instability persists well beyond bilateral truce."
+      "url": "https://www.aljazeera.com/news/2026/4/9/why-israels-attacks-on-lebanon-could-cripple-us-iran-ceasefire",
+      "publishedAt": "2026-04-09T10:57:56Z",
+      "summary": "US-Iran ceasefire excludes Lebanon, raising fears of broader regional conflict with major oil market implications."
     },
     {
-      "title": "Israel carries out large wave of air strikes across Lebanon",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c0j6d538l6qo",
-      "publishedAt": "2026-04-08T12:29:14Z",
-      "summary": "Israel struck Beirut suburbs and Bekaa Valley post-ceasefire, confirming broader regional conflict continues unabated."
-    },
-    {
-      "title": "Meloni's Trump trouble: Why Italian PM is distancing herself from US leader",
+      "title": "Global energy crisis is 'the mother of all crises': Turkish energy minister",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/8/melonis-trump-trouble-why-italian-pm-is-distancing-herself-from-us-leader",
-      "publishedAt": "2026-04-08T10:14:36Z",
-      "summary": "Italy breaks from Trump alliance ahead of EU elections, signaling European bloc cohesion against US trade pressure."
+      "url": "https://www.aljazeera.com/news/2026/4/9/energy-crisis-is-the-mother-of-all-crises-turkish-energy-minister",
+      "publishedAt": "2026-04-09T12:18:31Z",
+      "summary": "Turkey's energy minister warns of severe global energy crisis, highlighting strategic importance of regional energy hubs."
+    },
+    {
+      "title": "Trump criticises Nato as alliance chief describes meeting as 'very frank'",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-04-09T01:59:34Z",
+      "summary": "Trump publicly attacks NATO over Iran war support, deepening transatlantic rift with direct defense spending implications."
+    },
+    {
+      "title": "Israeli strikes in Lebanon 'grave violation' of ceasefire, Iran minister tells BBC",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cp849k4j0y1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-04-09T11:46:19Z",
+      "summary": "Iran demands US choose between war and ceasefire, escalating diplomatic crisis with oil supply risk premium rising."
     }
   ],
   "cryptoAssets": [
@@ -43,167 +43,167 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 72125,
-      "change24h": 5.42973,
-      "marketCap": 1443646327482,
+      "price": 71131,
+      "change24h": -2.02979,
+      "marketCap": 1423483659258,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2257.74,
-      "change24h": 8.16871,
-      "marketCap": 272413034216,
+      "price": 2178.43,
+      "change24h": -3.83643,
+      "marketCap": 263163605050,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Morgan Stanley's bitcoin ETF opens today, giving BlackRock's $55 billion IBIT fund its toughest rival yet",
+      "title": "Bessent ramps up pressure on Congress to pass CLARITY Act",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/bessent-presses-congress-to-pass-clarity-act",
+      "publishedAt": "2026-04-09T10:58:19Z",
+      "summary": "Treasury Secretary Bessent calls CLARITY Act critical for crypto regulatory clarity, tokenized assets, and US market leadership."
+    },
+    {
+      "title": "Morgan Stanley Bitcoin ETF trails BlackRock with $30M in first-day inflows",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/morgan-stanley-bitcoin-etf-trails-blackrock-with-30m-in-first-day-inflows",
+      "publishedAt": "2026-04-09T10:21:29Z",
+      "summary": "Morgan Stanley's spot BTC ETF debuts at $30.6M day-one inflows, signaling accelerating TradFi institutional adoption."
+    },
+    {
+      "title": "Tokenized perpetual swaps hit $31 billion weekly volume on commodities volatility",
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/08/morgan-stanley-s-bitcoin-etf-opens-today-giving-blackrock-s-usd55-billion-ibit-fund-its-toughest-rival-yet",
-      "publishedAt": "2026-04-08T12:45:00Z",
-      "summary": "Morgan Stanley's MSBT launches at market-low 0.14% fee, leveraging $7T wealth platform to challenge BlackRock's IBIT."
+      "url": "https://www.coindesk.com/markets/2026/04/09/tokenized-perpetual-swaps-hit-usd31-billion-weekly-volume-on-commodities-volatility",
+      "publishedAt": "2026-04-09T12:00:00Z",
+      "summary": "Commodity perps exploded 65,000% as geopolitical tensions drove traders to 24/7 crypto-native oil and gold exposure."
     },
     {
-      "title": "Ethereum stablecoin supply hits $180B all-time high: Token Terminal",
+      "title": "South Korea court cancels Upbit suspension, citing regulatory gaps",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/stablecoin-supply-ethereum-hits-180b-all-time-high-token-terminal",
-      "publishedAt": "2026-04-08T07:21:14Z",
-      "summary": "Ethereum stablecoin ATH at $180B; Token Terminal projects $850B in new on-chain flows by 2030."
+      "url": "https://cointelegraph.com/news/south-korea-court-cancels-dunamu-upbit-suspension-fiu",
+      "publishedAt": "2026-04-09T11:19:02Z",
+      "summary": "Korean court overturns Upbit's suspension after 14-month battle, exposing regulatory framework gaps in Asia's largest crypto market."
     },
     {
-      "title": "South Korea draft bill puts stablecoins, RWAs under finance laws",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/south-korea-stablecoin-fx-law-rwa-trust-draft",
-      "publishedAt": "2026-04-08T12:34:40Z",
-      "summary": "South Korea's ruling party proposes banning stablecoin yield and mandating blockchain interoperability standards under finance law."
-    },
-    {
-      "title": "UBS partners with five banks for Swiss franc stablecoin sandbox",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ubs-five-banks-swiss-franc-stablecoin-sandbox",
-      "publishedAt": "2026-04-08T09:58:44Z",
-      "summary": "UBS leads six-bank consortium testing Swiss franc stablecoin with real transactions on blockchain payment rails."
-    },
-    {
-      "title": "Anthropic's Mythos AI could have major implications for DeFi",
+      "title": "Banks are treading carefully on stablecoins despite market growth, S&P Global says",
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/08/move-over-bitcoin-and-quantum-risks-anthropic-s-mythos-ai-changes-everything-for-defi",
-      "publishedAt": "2026-04-08T10:58:33Z",
-      "summary": "Mythos identified thousands of zero-day vulnerabilities in cryptography libraries underpinning major DeFi infrastructure."
+      "url": "https://www.coindesk.com/business/2026/04/09/banks-are-treading-carefully-on-stablecoins-despite-market-growth-s-and-p-global-says",
+      "publishedAt": "2026-04-09T12:35:23Z",
+      "summary": "S&P Global finds most US banks in wait-and-see mode on stablecoins, citing deposit cannibalization and unresolved regulatory risk."
     }
   ],
   "aiNews": [
-    {
-      "title": "Anthropic debuts preview of powerful new AI model Mythos in cybersecurity initiative",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
-      "publishedAt": "2026-04-07T18:00:00Z",
-      "summary": "Mythos deploys for defensive cybersecurity at select firms, already surfacing thousands of zero-day exploits."
-    },
-    {
-      "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
-      "publishedAt": "2026-04-07T16:05:56Z",
-      "summary": "Anthropic expands Google/Broadcom TPU deal as annualized revenue hits $30 billion on surging enterprise demand."
-    },
-    {
-      "title": "Intel signs on to Elon Musk's Terafab chips project",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/",
-      "publishedAt": "2026-04-07T18:10:01Z",
-      "summary": "Intel joins SpaceX and Tesla to build a US semiconductor fab in Texas, bolstering domestic chip sovereignty."
-    },
     {
       "title": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
       "source": "Ars Technica",
       "url": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought",
       "publishedAt": "2026-03-25T15:49:17Z",
-      "summary": "Google urges entire industry to urgently migrate off RSA and elliptic curve as quantum threat arrives in 2029."
+      "summary": "Google warns entire industry to urgently migrate off RSA and elliptic curve encryption as quantum threat timeline compresses dramatically."
     },
     {
-      "title": "Firmus, the 'Southgate' AI data center builder backed by Nvidia, hits $5.5B valuation",
+      "title": "Iran-linked hackers disrupt operations at US critical infrastructure sites",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/",
+      "publishedAt": "2026-04-08T20:49:11Z",
+      "summary": "State-sponsored Iranian hackers escalate attacks on US industrial infrastructure in parallel with the Middle East conflict."
+    },
+    {
+      "title": "Thousands of consumer routers hacked by Russia's military",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/04/russias-military-hacks-thousands-of-consumer-routers-to-steal-credentials/",
+      "publishedAt": "2026-04-08T11:00:08Z",
+      "summary": "Russian military intelligence compromised end-of-life routers across 120 countries to harvest credentials at scale."
+    },
+    {
+      "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
-      "publishedAt": "2026-04-07T18:46:55Z",
-      "summary": "Nvidia-backed Firmus raises $1.35B in six months to $5.5B valuation as Asian AI infrastructure demand explodes."
+      "url": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
+      "publishedAt": "2026-04-08T20:09:14Z",
+      "summary": "AWS defends dual multi-billion-dollar AI bets on Anthropic and OpenAI, framing it as competitive infrastructure strategy."
+    },
+    {
+      "title": "Databricks co-founder wins prestigious ACM award, says 'AGI is here already'",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/",
+      "publishedAt": "2026-04-08T15:00:00Z",
+      "summary": "Matei Zaharia claims AGI has effectively arrived and is being mischaracterized, as he pivots Databricks toward AI research."
     }
   ],
   "techMovers": [
     {
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "price": 612.42,
+      "change": 37.37,
+      "changePercent": 6.5,
+      "explanation": "Surged 6.5% after announcing a $21B compute deal with CoreWeave for NVIDIA next-gen superchips, signaling massive AI infrastructure commitment."
+    },
+    {
       "ticker": "AVGO",
       "name": "Broadcom Inc",
-      "price": 333.97,
-      "change": 19.54,
-      "changePercent": 6.21,
-      "explanation": "Surged 6.2% as Anthropic's expanded compute deal directly with Broadcom for custom TPU silicon signals major AI chip revenue acceleration."
+      "price": 350.63,
+      "change": 16.66,
+      "changePercent": 4.99,
+      "explanation": "Gained 5% on AI infrastructure tailwinds as Meta's CoreWeave deal underscores surging demand for custom silicon and networking chips."
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 231.82,
+      "change": 10.29,
+      "changePercent": 4.64,
+      "explanation": "Rose 4.6% on broader AI chip sector rally driven by Meta's $21B AI infrastructure deal and continued data center GPU demand."
+    },
+    {
+      "ticker": "CRM",
+      "name": "Salesforce Inc",
+      "price": 176.37,
+      "change": -6.59,
+      "changePercent": -3.6,
+      "explanation": "Fell 3.6% as enterprise software faced rotation out of slower-growth SaaS names into AI infrastructure plays amid macro uncertainty."
     },
     {
       "ticker": "GOOG",
       "name": "Alphabet Inc",
-      "price": 303.93,
-      "change": 6.27,
-      "changePercent": 2.11,
-      "explanation": "Rose 2.1% on ceasefire-driven broad market relief rally and Anthropic deepening its Google Cloud TPU partnership, boosting cloud revenue outlook."
-    },
-    {
-      "ticker": "AAPL",
-      "name": "Apple Inc",
-      "price": 253.5,
-      "change": -5.36,
-      "changePercent": -2.07,
-      "explanation": "Fell 2.1% on sector rotation out of consumer hardware into AI infrastructure plays; no positive catalyst emerged in today's news cycle."
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla Inc",
-      "price": 346.65,
-      "change": -6.17,
-      "changePercent": -1.75,
-      "explanation": "Slid 1.75% as Musk's Terafab semiconductor venture raises capital allocation concerns, and broader EV sentiment remains pressured."
-    },
-    {
-      "ticker": "ORCL",
-      "name": "Oracle Corp",
-      "price": 143.17,
-      "change": -2.37,
-      "changePercent": -1.63,
-      "explanation": "Dropped 1.6% after Uber expanded its AWS contract for AI workloads, reinforcing a pattern of Oracle losing high-profile cloud AI business to Amazon."
+      "price": 314.74,
+      "change": 10.81,
+      "changePercent": 3.56,
+      "explanation": "Up 3.6% likely on geopolitical ceasefire-driven risk-on sentiment and resilience in AI cloud spending narrative."
     }
   ],
   "pulsePicks": [
     {
+      "ticker": "META",
+      "action": "Hold",
+      "reasoning": "META's 6.5% single-day surge on the $21B CoreWeave AI compute deal reflects genuine strategic conviction in AI infrastructure. However, with Fear & Greed at extreme fear (14) and Middle East tensions threatening macro stability, chasing this move carries elevated risk. Wait for consolidation above $600 before adding.",
+      "timeframe": "Short-term (1-2 weeks)",
+      "riskLevel": "Medium"
+    },
+    {
       "ticker": "AVGO",
       "action": "Consider Buying",
-      "reasoning": "Broadcom is a direct named beneficiary of Anthropic's expanded compute contract for custom TPU silicon, with Anthropic's run-rate revenue now at $30B annually. Today's 6.2% move may not fully price in the long-term AI infrastructure tailwind. Custom silicon demand from hyperscalers is a durable multi-year theme.",
+      "reasoning": "Broadcom is a direct infrastructure beneficiary of the AI compute buildout narrative \u2014 the Meta/CoreWeave deal validates accelerating custom ASIC and networking demand. Up 5% today but still a compelling medium-term entry given hyperscaler capex cycles. Fear & Greed at 14 may offer a better dip entry in coming days.",
       "timeframe": "Medium-term (1-3 months)",
       "riskLevel": "Medium"
     },
     {
       "ticker": "BTC",
       "action": "Watch",
-      "reasoning": "Bitcoin surged toward $72K on ceasefire news and Morgan Stanley's landmark MSBT ETF debut adds significant institutional distribution capacity at a competitive 0.14% fee. However, the ceasefire is only two weeks and Gulf states reported continued attacks \u2014 geopolitical risk is unresolved. On-chain data shows 850K BTC accumulated below $70K, providing a solid demand floor to monitor.",
+      "reasoning": "BTC is hovering at $71,131 with analysts split \u2014 whales are loading $80K call options while on-chain momentum requires higher volume for confirmation. The fragile US-Iran ceasefire and Israel's Lebanon strikes create significant macro uncertainty. Morgan Stanley ETF launch adds institutional legitimacy, but Fear & Greed at 14 suggests capitulation risk remains.",
       "timeframe": "Short-term (1-2 weeks)",
       "riskLevel": "High"
-    },
-    {
-      "ticker": "ORCL",
-      "action": "Consider Selling",
-      "reasoning": "Oracle lost Uber's AI cloud workload to AWS in a deal described as a direct rebuke, and Anthropic \u2014 a massive potential Oracle customer \u2014 is deepening ties with Google and Broadcom instead. The company faces structural headwinds as hyperscalers and custom silicon providers capture AI infrastructure spend. Down 1.6% today on limited volume; further attrition risk is elevated.",
-      "timeframe": "Short-term (1-2 weeks)",
-      "riskLevel": "Medium"
     }
   ],
-  "fearGreedIndex": 17,
+  "fearGreedIndex": 14,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 302.55,
-    "change": -0.78,
-    "changePercent": -0.26
+    "price": 308.96,
+    "change": 6.41,
+    "changePercent": 2.12
   },
   "earnings": [],
   "marketIndicators": [
