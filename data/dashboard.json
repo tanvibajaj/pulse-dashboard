@@ -1,11 +1,174 @@
 {
-  "lastUpdated": "2026-04-10T14:36:43.981462+00:00",
-  "marketStatus": "Open",
-  "globalNews": [],
-  "cryptoAssets": [],
-  "cryptoNews": [],
-  "aiNews": [],
-  "techMovers": [],
+  "lastUpdated": "2026-04-12T07:56:34.324474+00:00",
+  "marketStatus": "Closed",
+  "globalNews": [
+    {
+      "title": "Artemis crew home safely after completing historic mission to the Moon",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cr51z54d5rpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 11 Apr 2026 07:53:46 GMT",
+      "summary": "Four astronauts splashed down in the Pacific after a nine-day voyage that took them further from Earth than any humans."
+    },
+    {
+      "title": "Final push for votes as challenger to Hungary's Orb\u00e1n senses victory",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c0q9527y41lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 11 Apr 2026 00:17:18 GMT",
+      "summary": "As P\u00e9ter Magyar's opposition movement leads in the polls, tens of thousands of anti-Orb\u00e1n supporters fill Heroes' Square in Budapest."
+    },
+    {
+      "title": "Frontrunner for California governor denies sexual assault allegations",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 11 Apr 2026 03:13:10 GMT",
+      "summary": "The congressman is a leading Democratic candidate who is now facing calls to drop out of the race. "
+    },
+    {
+      "title": "Melania Trump's speech propels Epstein crisis back to forefront",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cwy3w9y8gyjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 11 Apr 2026 03:25:04 GMT",
+      "summary": "She has now placed herself squarely into the Epstein story and at odds with the administration, which wants to end the investigation."
+    },
+    {
+      "title": "Trump administration unveils 250-foot 'Triumphal Arch' design",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cwywre1e3kvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 11 Apr 2026 01:49:47 GMT",
+      "summary": "The new arch, if approved, would be taller than the US Capitol building and the Lincoln Memorial."
+    }
+  ],
+  "cryptoAssets": [
+    {
+      "id": "bitcoin",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "price": 72858,
+      "change24h": 0.86558,
+      "marketCap": 1457976867576,
+      "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
+    },
+    {
+      "id": "ethereum",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "price": 2243.94,
+      "change24h": 1.15761,
+      "marketCap": 270808849855,
+      "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
+    }
+  ],
+  "cryptoNews": [
+    {
+      "title": "Paying Iran in crypto could put shippers at sanctions risk: Chainalysis",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/paying-iran-crypto-shippers-sanctions-risk-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 11 Apr 2026 13:25:56 +0100",
+      "summary": "Crypto\u2019s transparent ledger makes sanctions evasion easier to trace, allowing authorities to track and potentially freeze illicit flows."
+    },
+    {
+      "title": "Trump-linked WLFI hits new low as token-backed loan triggers concern",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/trump-linked-wlfi-hits-new-low-token-backed-loan-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 11 Apr 2026 10:30:48 +0100",
+      "summary": "WLFI fell to a record low after it was revealed that the project used billions of its own tokens as collateral to borrow $75 million in stablecoins."
+    },
+    {
+      "title": "Federal court blocks Arizona crackdown on Kalshi\u2019s event contracts",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/arizona-court-kalshi-gambling-enforcement-block?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 11 Apr 2026 08:07:37 +0100",
+      "summary": "A federal judge in Arizona has temporarily barred state officials from enforcing gambling laws against Kalshi, siding with the CFTC."
+    },
+    {
+      "title": "Bitwise edges closer to Hyperliquid ETF launch with second amended filing",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/bitwise-edges-closes-to-hyperliquid-etf-launch-with-second-amended-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 11 Apr 2026 06:31:21 +0100",
+      "summary": "Bitwise added the ticker $BHYP and a 0.67% management fee in its latest filing, signaling a potential launch soon, according to Bloomberg's senior ETF analyst."
+    },
+    {
+      "title": "XRP price bottom signals emerge after the altcoin holds key support level",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/xrp-price-bottom-signals-emerge-after-the-altcoin-holds-key-support-level?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 11 Apr 2026 06:07:19 +0100",
+      "summary": "Technical and onchain indicators hint at a possible trend reversal in XRP price as traders watch to see if a key support level holds."
+    }
+  ],
+  "aiNews": [
+    {
+      "title": "Anthropic temporarily banned OpenClaw\u2019s creator from accessing Claude",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+      "publishedAt": "Fri, 10 Apr 2026 20:27:52 +0000",
+      "summary": "This ban took place after Claude's pricing changed for OpenClaw users last week."
+    },
+    {
+      "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser\u2019s delusions and ignored her warnings",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+      "publishedAt": "Fri, 10 Apr 2026 16:41:34 +0000",
+      "summary": "OpenAI ignored three warnings that a ChatGPT user was dangerous \u2014 including its own mass-casualty flag \u2014 while he stalked and harassed his ex-girlfriend, a new lawsuit alleges."
+    },
+    {
+      "title": "TechCrunch is heading to Tokyo \u2014 and bringing the Startup Battlefield with it",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
+      "publishedAt": "Fri, 10 Apr 2026 16:38:43 +0000",
+      "summary": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software"
+    },
+    {
+      "title": "Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
+      "publishedAt": "Fri, 10 Apr 2026 14:00:00 +0000",
+      "summary": "This is it.\u00a0Tonight is your\u00a0last chance\u00a0to lock in\u00a0savings of up to $500 for your TechCrunch Disrupt 2026\u00a0pass.\u00a0These discounts end at 11:59 p.m. PT."
+    },
+    {
+      "title": "ChatGPT finally offers $100/month Pro plan",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+      "publishedAt": "Thu, 09 Apr 2026 21:29:11 +0000",
+      "summary": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month."
+    }
+  ],
+  "techMovers": [
+    {
+      "ticker": "SNOW",
+      "name": "Snowflake Inc",
+      "price": 121.11,
+      "change": -11.13,
+      "changePercent": -8.42
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "price": 371.55,
+      "change": 16.64,
+      "changePercent": 4.69
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 245.04,
+      "change": 8.4,
+      "changePercent": 3.55
+    },
+    {
+      "ticker": "CRM",
+      "name": "Salesforce Inc",
+      "price": 164.96,
+      "change": -5.89,
+      "changePercent": -3.45
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp",
+      "price": 188.63,
+      "change": 4.72,
+      "changePercent": 2.57
+    }
+  ],
   "pulsePicks": [
     {
       "ticker": "NVDA",
@@ -29,8 +192,14 @@
       "riskLevel": "Low"
     }
   ],
-  "fearGreedIndex": 50,
-  "visaStock": null,
+  "fearGreedIndex": 15,
+  "visaStock": {
+    "ticker": "V",
+    "name": "Visa Inc",
+    "price": 304.36,
+    "change": -3.93,
+    "changePercent": -1.27
+  },
   "earnings": [],
   "marketIndicators": [
     {
