@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-04-12T07:56:34.324474+00:00",
+  "lastUpdated": "2026-04-12T13:27:36.812853+00:00",
   "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "Artemis crew home safely after completing historic mission to the Moon",
+      "title": "After Iran talks falter, will Trump escalate or negotiate?",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cr51z54d5rpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 11 Apr 2026 07:53:46 GMT",
-      "summary": "Four astronauts splashed down in the Pacific after a nine-day voyage that took them further from Earth than any humans."
+      "url": "https://www.bbc.com/news/articles/c5y943x2g8qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 12 Apr 2026 12:48:01 GMT",
+      "summary": "The world waits for Trump's verdict after the talks failed to yield a deal, writes the BBC's Lyse Doucet."
     },
     {
-      "title": "Final push for votes as challenger to Hungary's Orb\u00e1n senses victory",
+      "title": "Hungarians vote in big numbers on whether to end Orb\u00e1n rule and elect rival",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c0q9527y41lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 11 Apr 2026 00:17:18 GMT",
-      "summary": "As P\u00e9ter Magyar's opposition movement leads in the polls, tens of thousands of anti-Orb\u00e1n supporters fill Heroes' Square in Budapest."
+      "url": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 12 Apr 2026 12:02:31 GMT",
+      "summary": "Most polls favour P\u00e9ter Magyar, who fronts a grassroots party, and early figures point to a record turnout of voters."
     },
     {
-      "title": "Frontrunner for California governor denies sexual assault allegations",
+      "title": "Asha Bhosle: The sound of Bollywood dies aged 92",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 11 Apr 2026 03:13:10 GMT",
-      "summary": "The congressman is a leading Democratic candidate who is now facing calls to drop out of the race. "
+      "url": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 12 Apr 2026 10:03:00 GMT",
+      "summary": "Her infectious voice got fans dancing and singing, becoming the soundtrack for generations of Indians."
     },
     {
-      "title": "Melania Trump's speech propels Epstein crisis back to forefront",
+      "title": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cwy3w9y8gyjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 11 Apr 2026 03:25:04 GMT",
-      "summary": "She has now placed herself squarely into the Epstein story and at odds with the administration, which wants to end the investigation."
+      "url": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 12 Apr 2026 11:53:37 GMT",
+      "summary": "Ukrainian President Volodymyr Zelensky says his nation's forces would respond \"symmetrically\" to Russian attacks."
     },
     {
-      "title": "Trump administration unveils 250-foot 'Triumphal Arch' design",
+      "title": "At least 30 feared dead in crush at Haitian tourist site",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cwywre1e3kvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 11 Apr 2026 01:49:47 GMT",
-      "summary": "The new arch, if approved, would be taller than the US Capitol building and the Lincoln Memorial."
+      "url": "https://www.bbc.com/news/articles/cwyj8d49wzxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 12 Apr 2026 07:22:28 GMT",
+      "summary": "The incident occurred at a \"tourist event attended by many young people\", Haiti's prime minister says."
     }
   ],
   "cryptoAssets": [
@@ -43,59 +43,66 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 72858,
-      "change24h": 0.86558,
-      "marketCap": 1457976867576,
+      "price": 71071,
+      "change24h": -2.38106,
+      "marketCap": 1422281358012,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2243.94,
-      "change24h": 1.15761,
-      "marketCap": 270808849855,
+      "price": 2196.05,
+      "change24h": -2.03036,
+      "marketCap": 265091372410,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Paying Iran in crypto could put shippers at sanctions risk: Chainalysis",
+      "title": "US down to 'last chance' to pass CLARITY Act before 2030: Lummis",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/paying-iran-crypto-shippers-sanctions-risk-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 11 Apr 2026 13:25:56 +0100",
-      "summary": "Crypto\u2019s transparent ledger makes sanctions evasion easier to trace, allowing authorities to track and potentially freeze illicit flows."
+      "url": "https://cointelegraph.com/news/us-clarity-act-crypto-regulations-cynthia-lummis-senator?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 12 Apr 2026 10:44:46 +0100",
+      "summary": "United States Senator Cynthia Lummis said the country should not risk its financial future by further delaying the CLARITY Act."
     },
     {
-      "title": "Trump-linked WLFI hits new low as token-backed loan triggers concern",
+      "title": "Polymarket bets removed from Google News after brief appearance: Report",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/trump-linked-wlfi-hits-new-low-token-backed-loan-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 11 Apr 2026 10:30:48 +0100",
-      "summary": "WLFI fell to a record low after it was revealed that the project used billions of its own tokens as collateral to borrow $75 million in stablecoins."
+      "url": "https://cointelegraph.com/news/polymarket-google-news-removed-error-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 12 Apr 2026 10:26:41 +0100",
+      "summary": "Polymarket links briefly appeared under mainstream outlets in Google News results for event-driven queries but were later removed."
     },
     {
-      "title": "Federal court blocks Arizona crackdown on Kalshi\u2019s event contracts",
+      "title": "Ether Machine scraps SPAC merger with Dynamix, citing market conditions",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/arizona-court-kalshi-gambling-enforcement-block?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 11 Apr 2026 08:07:37 +0100",
-      "summary": "A federal judge in Arizona has temporarily barred state officials from enforcing gambling laws against Kalshi, siding with the CFTC."
+      "url": "https://cointelegraph.com/news/ether-machine-spac-ethm-cancelled-dynamix-merger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 12 Apr 2026 08:37:14 +0100",
+      "summary": "The Ethereum treasury firm aimed to launch a $1.5 billion yield-bearing ETH fund but will now halt its plans following the mutual decision to end the deal."
     },
     {
-      "title": "Bitwise edges closer to Hyperliquid ETF launch with second amended filing",
+      "title": "Bitcoin, Ether near levels that could signal trend reversal: Analyst",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitwise-edges-closes-to-hyperliquid-etf-launch-with-second-amended-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 11 Apr 2026 06:31:21 +0100",
-      "summary": "Bitwise added the ticker $BHYP and a 0.67% management fee in its latest filing, signaling a potential launch soon, according to Bloomberg's senior ETF analyst."
+      "url": "https://cointelegraph.com/news/bitcoin-ether-crypto-market-trend-reversal-macro-investor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 12 Apr 2026 06:26:55 +0100",
+      "summary": "Bitcoin and Ether are each less than 10% away from price levels that could signal a potential reversal in the crypto market, according to a macro analyst."
     },
     {
-      "title": "XRP price bottom signals emerge after the altcoin holds key support level",
+      "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/xrp-price-bottom-signals-emerge-after-the-altcoin-holds-key-support-level?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 11 Apr 2026 06:07:19 +0100",
-      "summary": "Technical and onchain indicators hint at a possible trend reversal in XRP price as traders watch to see if a key support level holds."
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 11 Apr 2026 23:07:37 +0100",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
     }
   ],
   "aiNews": [
+    {
+      "title": "Sam Altman responds to \u2018incendiary\u2019 New Yorker article after attack on his home",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+      "publishedAt": "Sat, 11 Apr 2026 17:18:22 +0000",
+      "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness."
+    },
     {
       "title": "Anthropic temporarily banned OpenClaw\u2019s creator from accessing Claude",
       "source": "TechCrunch",
@@ -123,13 +130,6 @@
       "url": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
       "publishedAt": "Fri, 10 Apr 2026 14:00:00 +0000",
       "summary": "This is it.\u00a0Tonight is your\u00a0last chance\u00a0to lock in\u00a0savings of up to $500 for your TechCrunch Disrupt 2026\u00a0pass.\u00a0These discounts end at 11:59 p.m. PT."
-    },
-    {
-      "title": "ChatGPT finally offers $100/month Pro plan",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
-      "publishedAt": "Thu, 09 Apr 2026 21:29:11 +0000",
-      "summary": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month."
     }
   ],
   "techMovers": [
@@ -192,7 +192,7 @@
       "riskLevel": "Low"
     }
   ],
-  "fearGreedIndex": 15,
+  "fearGreedIndex": 16,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
