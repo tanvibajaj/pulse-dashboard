@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-04-12T13:27:36.812853+00:00",
-  "marketStatus": "Closed",
+  "lastUpdated": "2026-04-13T13:01:07.728529+00:00",
+  "marketStatus": "Pre-Market",
   "globalNews": [
     {
-      "title": "After Iran talks falter, will Trump escalate or negotiate?",
+      "title": "Orb\u00e1n era swept away by P\u00e9ter Magyar's Hungary election landslide",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c5y943x2g8qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 12 Apr 2026 12:48:01 GMT",
-      "summary": "The world waits for Trump's verdict after the talks failed to yield a deal, writes the BBC's Lyse Doucet."
+      "url": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 13 Apr 2026 11:03:12 GMT",
+      "summary": "Putin's key EU ally Orb\u00e1n ousted after 16 years; Magyar's Tisza party wins two-thirds parliamentary majority."
     },
     {
-      "title": "Hungarians vote in big numbers on whether to end Orb\u00e1n rule and elect rival",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 12 Apr 2026 12:02:31 GMT",
-      "summary": "Most polls favour P\u00e9ter Magyar, who fronts a grassroots party, and early figures point to a record turnout of voters."
+      "title": "Iran's army says US plan to blockade Hormuz 'amounts to piracy'",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/13/irans-army-says-us-plans-to-blockade-hormuz-amounts-to-piracy",
+      "publishedAt": "Mon, 13 Apr 2026 10:52:32 +0000",
+      "summary": "Iran rejects US Strait of Hormuz blockade as illegal, driving oil above $100 and roiling global markets."
     },
     {
-      "title": "Asha Bhosle: The sound of Bollywood dies aged 92",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 12 Apr 2026 10:03:00 GMT",
-      "summary": "Her infectious voice got fans dancing and singing, becoming the soundtrack for generations of Indians."
+      "title": "How the US-Iran talks in Islamabad unfolded",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/13/how-the-us-iran-talks-in-islamabad-unfolded",
+      "publishedAt": "Mon, 13 Apr 2026 11:21:05 +0000",
+      "summary": "Pakistan brokered US-Iran negotiations leveraging unique ties to Gulf, US, and China amid escalating tensions."
     },
     {
-      "title": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
+      "title": "Carney on verge of Liberal majority government as votes cast in three by-elections",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 12 Apr 2026 11:53:37 GMT",
-      "summary": "Ukrainian President Volodymyr Zelensky says his nation's forces would respond \"symmetrically\" to Russian attacks."
+      "url": "https://www.bbc.com/news/articles/c62k3vvln5mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 13 Apr 2026 08:10:53 GMT",
+      "summary": "Canadian PM Carney nears majority government after Conservative defections and by-election wins."
     },
     {
-      "title": "At least 30 feared dead in crush at Haitian tourist site",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cwyj8d49wzxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 12 Apr 2026 07:22:28 GMT",
-      "summary": "The incident occurred at a \"tourist event attended by many young people\", Haiti's prime minister says."
+      "title": "Cement company Lafarge found guilty in Syria terrorism financing case",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/cement-company-lafarge-found-guilty-in-syria-terrorism-financing-case",
+      "publishedAt": "Mon, 13 Apr 2026 12:18:27 +0000",
+      "summary": "French court convicts Lafarge for financing armed groups during Syrian war, setting major corporate liability precedent."
     }
   ],
   "cryptoAssets": [
@@ -43,93 +43,93 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 71071,
-      "change24h": -2.38106,
-      "marketCap": 1422281358012,
+      "price": 71117,
+      "change24h": 0.19327,
+      "marketCap": 1423452668519,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2196.05,
-      "change24h": -2.03036,
-      "marketCap": 265091372410,
+      "price": 2193.39,
+      "change24h": -0.00179,
+      "marketCap": 264731689507,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "US down to 'last chance' to pass CLARITY Act before 2030: Lummis",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/us-clarity-act-crypto-regulations-cynthia-lummis-senator?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 12 Apr 2026 10:44:46 +0100",
-      "summary": "United States Senator Cynthia Lummis said the country should not risk its financial future by further delaying the CLARITY Act."
+      "title": "Strategy buys 13,927 bitcoin for $1 billion, entirely through STRC",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/13/michael-saylor-s-strategy-added-13-927-bitcoin-for-usd1-billion",
+      "publishedAt": "Mon, 13 Apr 2026 12:09:13 +0000",
+      "summary": "Strategy acquired 13,927 BTC for $1B, fully funded by perpetual preferred stock STRC sales."
     },
     {
-      "title": "Polymarket bets removed from Google News after brief appearance: Report",
+      "title": "Crypto ETPs see $1.1B inflows, strongest gains since January",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/polymarket-google-news-removed-error-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 12 Apr 2026 10:26:41 +0100",
-      "summary": "Polymarket links briefly appeared under mainstream outlets in Google News results for event-driven queries but were later removed."
+      "url": "https://cointelegraph.com/news/crypto-etp-1-1-billion-inflows-strongest-gains-january",
+      "publishedAt": "Mon, 13 Apr 2026 12:06:51 +0100",
+      "summary": "Bitcoin-led ETP inflows hit $1.1B last week, driven by easing US inflation and geopolitical safe-haven demand."
     },
     {
-      "title": "Ether Machine scraps SPAC merger with Dynamix, citing market conditions",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ether-machine-spac-ethm-cancelled-dynamix-merger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 12 Apr 2026 08:37:14 +0100",
-      "summary": "The Ethereum treasury firm aimed to launch a $1.5 billion yield-bearing ETH fund but will now halt its plans following the mutual decision to end the deal."
+      "title": "Crypto markets stall as oil surges past $100 on Strait of Hormuz blockade",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/13/crypto-markets-stall-as-oil-surges-past-usd100-on-strait-of-hormuz-blockade",
+      "publishedAt": "Mon, 13 Apr 2026 10:36:03 +0000",
+      "summary": "BTC and ETH retreated as oil's $100+ spike pushed traders into defensive derivatives positioning."
     },
     {
-      "title": "Bitcoin, Ether near levels that could signal trend reversal: Analyst",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-ether-crypto-market-trend-reversal-macro-investor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 12 Apr 2026 06:26:55 +0100",
-      "summary": "Bitcoin and Ether are each less than 10% away from price levels that could signal a potential reversal in the crypto market, according to a macro analyst."
+      "title": "AI agents are set to power crypto payments, but a hidden flaw could expose wallets",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/04/13/ai-agents-are-set-to-power-crypto-payments-but-a-hidden-flaw-could-expose-wallets",
+      "publishedAt": "Mon, 13 Apr 2026 11:32:16 +0000",
+      "summary": "Researchers warn AI infrastructure can intercept crypto wallet data; one exploit already drained $500K."
     },
     {
-      "title": "Here\u2019s what happened in crypto today",
+      "title": "Hyperbridge attacker mints 1B bridged Polkadot tokens in $237K exploit",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 11 Apr 2026 23:07:37 +0100",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
+      "url": "https://cointelegraph.com/news/hacker-steals-237k-1b-bridged-dot-hyperbridge",
+      "publishedAt": "Mon, 13 Apr 2026 10:19:10 +0100",
+      "summary": "Cross-chain bridge exploit minted 1B bridged DOT tokens on Ethereum, reigniting debate over bridge security."
     }
   ],
   "aiNews": [
     {
-      "title": "Sam Altman responds to \u2018incendiary\u2019 New Yorker article after attack on his home",
+      "title": "Trump officials may be encouraging banks to test Anthropic's Mythos model",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
-      "publishedAt": "Sat, 11 Apr 2026 17:18:22 +0000",
-      "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness."
+      "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+      "publishedAt": "Sun, 12 Apr 2026 21:14:38 +0000",
+      "summary": "US officials push bank AI adoption via Anthropic despite DoD previously flagging Anthropic as a supply-chain risk."
     },
     {
-      "title": "Anthropic temporarily banned OpenClaw\u2019s creator from accessing Claude",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
-      "publishedAt": "Fri, 10 Apr 2026 20:27:52 +0000",
-      "summary": "This ban took place after Claude's pricing changed for OpenClaw users last week."
+      "title": "Quantum computers need vastly fewer resources than thought to break vital encryption",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/",
+      "publishedAt": "Tue, 31 Mar 2026 18:25:33 +0000",
+      "summary": "New research shows quantum decryption of elliptic curve cryptography is far cheaper than previously estimated."
     },
     {
-      "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser\u2019s delusions and ignored her warnings",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
-      "publishedAt": "Fri, 10 Apr 2026 16:41:34 +0000",
-      "summary": "OpenAI ignored three warnings that a ChatGPT user was dangerous \u2014 including its own mass-casualty flag \u2014 while he stalked and harassed his ex-girlfriend, a new lawsuit alleges."
+      "title": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
+      "publishedAt": "Wed, 25 Mar 2026 15:49:17 +0000",
+      "summary": "Google warns the entire industry to urgently migrate off RSA and elliptic curve as Q Day moves to 2029."
     },
     {
-      "title": "TechCrunch is heading to Tokyo \u2014 and bringing the Startup Battlefield with it",
+      "title": "The largest orbital compute cluster is open for business",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
-      "publishedAt": "Fri, 10 Apr 2026 16:38:43 +0000",
-      "summary": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software"
+      "url": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
+      "publishedAt": "Mon, 13 Apr 2026 07:01:00 +0000",
+      "summary": "Kepler Communications' 40-GPU orbital compute cluster is now commercially live, with Sophia Space as first customer."
     },
     {
-      "title": "Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
-      "publishedAt": "Fri, 10 Apr 2026 14:00:00 +0000",
-      "summary": "This is it.\u00a0Tonight is your\u00a0last chance\u00a0to lock in\u00a0savings of up to $500 for your TechCrunch Disrupt 2026\u00a0pass.\u00a0These discounts end at 11:59 p.m. PT."
+      "title": "Iran-linked hackers disrupt operations at US critical infrastructure sites",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/",
+      "publishedAt": "Wed, 08 Apr 2026 20:49:11 +0000",
+      "summary": "Iranian state-linked hackers escalate attacks on US industrial infrastructure as the US-Israel conflict intensifies."
     }
   ],
   "techMovers": [
@@ -138,61 +138,66 @@
       "name": "Snowflake Inc",
       "price": 121.11,
       "change": -11.13,
-      "changePercent": -8.42
+      "changePercent": -8.42,
+      "explanation": "Snowflake sold off sharply amid macro risk-off sentiment driven by oil's surge past $100 and broader tech multiple compression."
     },
     {
       "ticker": "AVGO",
       "name": "Broadcom Inc",
       "price": 371.55,
       "change": 16.64,
-      "changePercent": 4.69
+      "changePercent": 4.69,
+      "explanation": "Broadcom surged on strong AI chip demand tailwinds and continued enterprise momentum despite VMware customer attrition concerns."
     },
     {
       "ticker": "AMD",
       "name": "AMD Inc",
       "price": 245.04,
       "change": 8.4,
-      "changePercent": 3.55
+      "changePercent": 3.55,
+      "explanation": "AMD rallied as rising AI infrastructure spending and positive sentiment from Anthropic's banking push boosted semiconductor demand."
     },
     {
       "ticker": "CRM",
       "name": "Salesforce Inc",
       "price": 164.96,
       "change": -5.89,
-      "changePercent": -3.45
+      "changePercent": -3.45,
+      "explanation": "Salesforce dropped on macro risk-off rotation and enterprise spending concerns as oil-driven inflation threatens SaaS budget cycles."
     },
     {
       "ticker": "NVDA",
       "name": "NVIDIA Corp",
       "price": 188.63,
       "change": 4.72,
-      "changePercent": 2.57
+      "changePercent": 2.57,
+      "explanation": "NVIDIA gained as Anthropic's Mythos model push into banking and accelerating AI infrastructure buildout reinforced GPU demand outlook."
     }
   ],
   "pulsePicks": [
     {
       "ticker": "NVDA",
-      "action": "Watch",
-      "reasoning": "Strong AI chip demand. Valuation stretched \u2014 wait for pullback.",
+      "action": "Consider Buying",
+      "reasoning": "Anthropic's Mythos model is being pushed into US banking, directly expanding enterprise GPU demand. AI infrastructure spending shows no signs of slowing, and NVDA's data center segment remains the primary beneficiary. $1.1B in crypto ETP inflows also signals broader institutional risk appetite returning.",
       "timeframe": "Medium-term (1-3 months)",
       "riskLevel": "Medium"
     },
     {
-      "ticker": "BTC",
-      "action": "Consider Buying",
-      "reasoning": "Holding above key support. ETF inflows strong. Halving cycle favorable.",
-      "timeframe": "Long-term (3+ months)",
-      "riskLevel": "High"
+      "ticker": "AVGO",
+      "action": "Watch",
+      "reasoning": "Broadcom is gaining as AI chip demand offsets VMware customer churn narrative. The DoD/Anthropic supply chain risk dynamics could redirect enterprise AI spend toward hardware plays like AVGO. Watch for confirmation that AI ASIC revenue is accelerating before entering.",
+      "timeframe": "Medium-term (1-3 months)",
+      "riskLevel": "Medium"
     },
     {
-      "ticker": "GOOG",
-      "action": "Consider Buying",
-      "reasoning": "Discount to mega-cap peers. Gemini progress improving sentiment. Cloud growth accelerating.",
-      "timeframe": "Medium-term (1-3 months)",
-      "riskLevel": "Low"
+      "ticker": "SNOW",
+      "action": "Watch",
+      "reasoning": "An 8.4% single-day drop on macro fears rather than fundamental news may present a re-entry opportunity. However, enterprise SaaS faces real headwinds if oil-driven inflation tightens IT budgets. Wait for stabilization and clearer macro direction before considering a long position.",
+      "timeframe": "Short-term (1-2 weeks)",
+      "riskLevel": "High"
     }
   ],
-  "fearGreedIndex": 16,
+  "fearGreedIndex": 12,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
