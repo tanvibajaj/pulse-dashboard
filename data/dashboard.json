@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-04-13T13:01:07.728529+00:00",
-  "marketStatus": "Pre-Market",
+  "lastUpdated": "2026-04-14T16:49:39.135701+00:00",
+  "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Orb\u00e1n era swept away by P\u00e9ter Magyar's Hungary election landslide",
+      "title": "Lebanon seeks peace, but Hezbollah needs to be convinced first",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Apr 2026 11:03:12 GMT",
-      "summary": "Putin's key EU ally Orb\u00e1n ousted after 16 years; Magyar's Tisza party wins two-thirds parliamentary majority."
+      "url": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 13 Apr 2026 23:26:46 GMT",
+      "summary": "The Lebanese government go into peace talks with limited influence over the group."
     },
     {
-      "title": "Iran's army says US plan to blockade Hormuz 'amounts to piracy'",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/13/irans-army-says-us-plans-to-blockade-hormuz-amounts-to-piracy",
-      "publishedAt": "Mon, 13 Apr 2026 10:52:32 +0000",
-      "summary": "Iran rejects US Strait of Hormuz blockade as illegal, driving oil above $100 and roiling global markets."
-    },
-    {
-      "title": "How the US-Iran talks in Islamabad unfolded",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/13/how-the-us-iran-talks-in-islamabad-unfolded",
-      "publishedAt": "Mon, 13 Apr 2026 11:21:05 +0000",
-      "summary": "Pakistan brokered US-Iran negotiations leveraging unique ties to Gulf, US, and China amid escalating tensions."
-    },
-    {
-      "title": "Carney on verge of Liberal majority government as votes cast in three by-elections",
+      "title": "Hospital at centre of child HIV outbreak caught reusing syringes in undercover filming",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c62k3vvln5mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Apr 2026 08:10:53 GMT",
-      "summary": "Canadian PM Carney nears majority government after Conservative defections and by-election wins."
+      "url": "https://www.bbc.com/news/articles/clyrd818gd2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 13 Apr 2026 23:27:45 GMT",
+      "summary": "Footage shows staff in Pakistan injecting without gloves and reusing syringes, but the hospital boss refuses to acknowledge it is genuine."
     },
     {
-      "title": "Cement company Lafarge found guilty in Syria terrorism financing case",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/cement-company-lafarge-found-guilty-in-syria-terrorism-financing-case",
-      "publishedAt": "Mon, 13 Apr 2026 12:18:27 +0000",
-      "summary": "French court convicts Lafarge for financing armed groups during Syrian war, setting major corporate liability precedent."
+      "title": "Greek police using masked migrants to forcibly push other migrants back across border",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c86vpq42dl0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 14 Apr 2026 05:02:21 GMT",
+      "summary": "Mercenaries recruited since at least 2020 for illegal migrant \u2018pushbacks\u2019 in Greece, BBC told"
+    },
+    {
+      "title": "French woman, 86, held by ICE after moving to US to reunite with long-lost love",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cd0rre4d9k0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 14 Apr 2026 13:08:41 GMT",
+      "summary": "The son of pensioner Marie-Th\u00e9r\u00e8se told French media he is worried for his mother's frail health as she is detained in a Louisiana ICE centre."
+    },
+    {
+      "title": "How Harry and Meghan's Australia tour differs to their 2018 royal visit",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/videos/c70dd4975r2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 14 Apr 2026 09:41:22 GMT",
+      "summary": "BBC News journalist Simon Atkinson explains how the couple's tour will be different compared to their last visit."
     }
   ],
   "cryptoAssets": [
@@ -43,167 +43,162 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 71117,
-      "change24h": 0.19327,
-      "marketCap": 1423452668519,
+      "price": 74591,
+      "change24h": 4.8057,
+      "marketCap": 1493114160132,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2193.39,
-      "change24h": -0.00179,
-      "marketCap": 264731689507,
+      "price": 2379.6,
+      "change24h": 8.26215,
+      "marketCap": 287231559188,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Strategy buys 13,927 bitcoin for $1 billion, entirely through STRC",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/13/michael-saylor-s-strategy-added-13-927-bitcoin-for-usd1-billion",
-      "publishedAt": "Mon, 13 Apr 2026 12:09:13 +0000",
-      "summary": "Strategy acquired 13,927 BTC for $1B, fully funded by perpetual preferred stock STRC sales."
-    },
-    {
-      "title": "Crypto ETPs see $1.1B inflows, strongest gains since January",
+      "title": "Deutsche B\u00f6rse invests $200 million in Kraken parent Payward",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/crypto-etp-1-1-billion-inflows-strongest-gains-january",
-      "publishedAt": "Mon, 13 Apr 2026 12:06:51 +0100",
-      "summary": "Bitcoin-led ETP inflows hit $1.1B last week, driven by easing US inflation and geopolitical safe-haven demand."
+      "url": "https://cointelegraph.com/news/deutsche-borse-invest-200m-kraken-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 14 Apr 2026 12:18:43 +0100",
+      "summary": "Deutsche B\u00f6rse said it will invest $200 million in Kraken\u2019s parent company for a fully diluted stake of 1.5%, subject to regulatory approval."
     },
     {
-      "title": "Crypto markets stall as oil surges past $100 on Strait of Hormuz blockade",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/13/crypto-markets-stall-as-oil-surges-past-usd100-on-strait-of-hormuz-blockade",
-      "publishedAt": "Mon, 13 Apr 2026 10:36:03 +0000",
-      "summary": "BTC and ETH retreated as oil's $100+ spike pushed traders into defensive derivatives positioning."
-    },
-    {
-      "title": "AI agents are set to power crypto payments, but a hidden flaw could expose wallets",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/04/13/ai-agents-are-set-to-power-crypto-payments-but-a-hidden-flaw-could-expose-wallets",
-      "publishedAt": "Mon, 13 Apr 2026 11:32:16 +0000",
-      "summary": "Researchers warn AI infrastructure can intercept crypto wallet data; one exploit already drained $500K."
-    },
-    {
-      "title": "Hyperbridge attacker mints 1B bridged Polkadot tokens in $237K exploit",
+      "title": "Nauru taps Bitcoiner Dadvan Yousuf for trade role in digital asset push",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/hacker-steals-237k-1b-bridged-dot-hyperbridge",
-      "publishedAt": "Mon, 13 Apr 2026 10:19:10 +0100",
-      "summary": "Cross-chain bridge exploit minted 1B bridged DOT tokens on Ethereum, reigniting debate over bridge security."
+      "url": "https://cointelegraph.com/news/nauru-appoints-dadvan-yousuf-trade-commissioner-crypto-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 14 Apr 2026 11:07:11 +0100",
+      "summary": "Nauru moves from building rules to promoting its digital asset framework as it looks to attract companies and cross-border partnerships."
+    },
+    {
+      "title": "Bitcoin ETFs clock $291M outflows as BTC blasts past $74K",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-etfs-291-million-outflow-btc-surge-74000?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 14 Apr 2026 10:48:54 +0100",
+      "summary": "US spot Bitcoin ETFs recorded $291 million in outflows on Monday as BTC climbed above $74,000, marking the biggest day of redemptions since March 27, led by FBTC."
+    },
+    {
+      "title": "Web3 hacks cost $482M in Q1 as phishing drives majority of losses: Hacken",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/web3-hacks-cost-464-million-in-q1-hacken?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 14 Apr 2026 10:25:08 +0100",
+      "summary": "Hacken\u2019s Q1 2026 report finds $482 million lost across 44 incidents, with phishing, legacy code bugs and key compromises driving losses as regulators tighten security demands."
+    },
+    {
+      "title": "UK Lib Dems call for probe into Farage over $2.7M Stack BTC promotion",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/uk-lib-dems-fca-probe-farage-stack-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 14 Apr 2026 09:32:25 +0100",
+      "summary": "UK Liberal Democrats called on the FCA to examine Nigel Farage\u2019s Stack BTC promotion as scrutiny grows over crypto conflicts and political donations."
     }
   ],
   "aiNews": [
     {
-      "title": "Trump officials may be encouraging banks to test Anthropic's Mythos model",
+      "title": "OpenAI has bought AI personal finance startup Hiro",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
-      "publishedAt": "Sun, 12 Apr 2026 21:14:38 +0000",
-      "summary": "US officials push bank AI adoption via Anthropic despite DoD previously flagging Anthropic as a supply-chain risk."
+      "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+      "publishedAt": "Tue, 14 Apr 2026 00:23:33 +0000",
+      "summary": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning."
     },
     {
-      "title": "Quantum computers need vastly fewer resources than thought to break vital encryption",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/",
-      "publishedAt": "Tue, 31 Mar 2026 18:25:33 +0000",
-      "summary": "New research shows quantum decryption of elliptic curve cryptography is far cheaper than previously estimated."
+      "title": "Microsoft is working on yet another OpenClaw-like agent",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+      "publishedAt": "Mon, 13 Apr 2026 19:05:19 +0000",
+      "summary": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent."
     },
     {
-      "title": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
-      "publishedAt": "Wed, 25 Mar 2026 15:49:17 +0000",
-      "summary": "Google warns the entire industry to urgently migrate off RSA and elliptic curve as Q Day moves to 2029."
+      "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+      "publishedAt": "Mon, 13 Apr 2026 18:55:37 +0000",
+      "summary": "Stanford\u2019s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy."
+    },
+    {
+      "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
+      "publishedAt": "Mon, 13 Apr 2026 15:22:29 +0000",
+      "summary": "While many startups founded prior to the emergence of ChatGPT are struggling to position themselves for the AI era, Vercel, a 10-year-old dev tool and website hosting platform, is benefiting from the "
     },
     {
       "title": "The largest orbital compute cluster is open for business",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
       "publishedAt": "Mon, 13 Apr 2026 07:01:00 +0000",
-      "summary": "Kepler Communications' 40-GPU orbital compute cluster is now commercially live, with Sophia Space as first customer."
-    },
-    {
-      "title": "Iran-linked hackers disrupt operations at US critical infrastructure sites",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/",
-      "publishedAt": "Wed, 08 Apr 2026 20:49:11 +0000",
-      "summary": "Iranian state-linked hackers escalate attacks on US industrial infrastructure as the US-Israel conflict intensifies."
+      "summary": "Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space."
     }
   ],
   "techMovers": [
     {
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "price": 155.62,
+      "change": 17.53,
+      "changePercent": 12.69
+    },
+    {
       "ticker": "SNOW",
       "name": "Snowflake Inc",
-      "price": 121.11,
-      "change": -11.13,
-      "changePercent": -8.42,
-      "explanation": "Snowflake sold off sharply amid macro risk-off sentiment driven by oil's surge past $100 and broader tech multiple compression."
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc",
-      "price": 371.55,
-      "change": 16.64,
-      "changePercent": 4.69,
-      "explanation": "Broadcom surged on strong AI chip demand tailwinds and continued enterprise momentum despite VMware customer attrition concerns."
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 245.04,
-      "change": 8.4,
-      "changePercent": 3.55,
-      "explanation": "AMD rallied as rising AI infrastructure spending and positive sentiment from Anthropic's banking push boosted semiconductor demand."
+      "price": 134.24,
+      "change": 13.13,
+      "changePercent": 10.84
     },
     {
       "ticker": "CRM",
       "name": "Salesforce Inc",
-      "price": 164.96,
-      "change": -5.89,
-      "changePercent": -3.45,
-      "explanation": "Salesforce dropped on macro risk-off rotation and enterprise spending concerns as oil-driven inflation threatens SaaS budget cycles."
+      "price": 172.82,
+      "change": 7.86,
+      "changePercent": 4.76
     },
     {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corp",
-      "price": 188.63,
-      "change": 4.72,
-      "changePercent": 2.57,
-      "explanation": "NVIDIA gained as Anthropic's Mythos model push into banking and accelerating AI infrastructure buildout reinforced GPU demand outlook."
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "price": 174.53,
+      "change": 6.68,
+      "changePercent": 3.98
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft Corp",
+      "price": 384.37,
+      "change": 13.5,
+      "changePercent": 3.64
     }
   ],
   "pulsePicks": [
     {
       "ticker": "NVDA",
+      "action": "Watch",
+      "reasoning": "Strong AI chip demand. Valuation stretched \u2014 wait for pullback.",
+      "timeframe": "Medium-term (1-3 months)",
+      "riskLevel": "Medium"
+    },
+    {
+      "ticker": "BTC",
       "action": "Consider Buying",
-      "reasoning": "Anthropic's Mythos model is being pushed into US banking, directly expanding enterprise GPU demand. AI infrastructure spending shows no signs of slowing, and NVDA's data center segment remains the primary beneficiary. $1.1B in crypto ETP inflows also signals broader institutional risk appetite returning.",
-      "timeframe": "Medium-term (1-3 months)",
-      "riskLevel": "Medium"
-    },
-    {
-      "ticker": "AVGO",
-      "action": "Watch",
-      "reasoning": "Broadcom is gaining as AI chip demand offsets VMware customer churn narrative. The DoD/Anthropic supply chain risk dynamics could redirect enterprise AI spend toward hardware plays like AVGO. Watch for confirmation that AI ASIC revenue is accelerating before entering.",
-      "timeframe": "Medium-term (1-3 months)",
-      "riskLevel": "Medium"
-    },
-    {
-      "ticker": "SNOW",
-      "action": "Watch",
-      "reasoning": "An 8.4% single-day drop on macro fears rather than fundamental news may present a re-entry opportunity. However, enterprise SaaS faces real headwinds if oil-driven inflation tightens IT budgets. Wait for stabilization and clearer macro direction before considering a long position.",
-      "timeframe": "Short-term (1-2 weeks)",
+      "reasoning": "Holding above key support. ETF inflows strong. Halving cycle favorable.",
+      "timeframe": "Long-term (3+ months)",
       "riskLevel": "High"
+    },
+    {
+      "ticker": "GOOG",
+      "action": "Consider Buying",
+      "reasoning": "Discount to mega-cap peers. Gemini progress improving sentiment. Cloud growth accelerating.",
+      "timeframe": "Medium-term (1-3 months)",
+      "riskLevel": "Low"
     }
   ],
-  "fearGreedIndex": 12,
+  "fearGreedIndex": 21,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 304.36,
-    "change": -3.93,
-    "changePercent": -1.27
+    "price": 309.39,
+    "change": 5.03,
+    "changePercent": 1.65
   },
   "earnings": [],
   "marketIndicators": [
