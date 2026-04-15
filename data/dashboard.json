@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-04-14T16:49:39.135701+00:00",
+  "lastUpdated": "2026-04-15T16:18:02.747842+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Lebanon seeks peace, but Hezbollah needs to be convinced first",
+      "title": "'Bit of pain' worth long-term security from Iran, Bessent tells BBC",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Apr 2026 23:26:46 GMT",
-      "summary": "The Lebanese government go into peace talks with limited influence over the group."
+      "url": "https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 14 Apr 2026 19:47:53 GMT",
+      "summary": "US Treasury Secretary frames economic pain from Iran conflict as justified to eliminate Western capital strike threats."
     },
     {
-      "title": "Hospital at centre of child HIV outbreak caught reusing syringes in undercover filming",
+      "title": "More than 200 Iranian sailors stranded after US torpedo attack return home",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/clyrd818gd2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Apr 2026 23:27:45 GMT",
-      "summary": "Footage shows staff in Pakistan injecting without gloves and reusing syringes, but the hospital boss refuses to acknowledge it is genuine."
+      "url": "https://www.bbc.com/news/articles/c9qdd318qd9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 15 Apr 2026 10:00:41 GMT",
+      "summary": "Survivors repatriated following US attack on Iranian vessel Iris Dena that killed 104 people."
     },
     {
-      "title": "Greek police using masked migrants to forcibly push other migrants back across border",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c86vpq42dl0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 14 Apr 2026 05:02:21 GMT",
-      "summary": "Mercenaries recruited since at least 2020 for illegal migrant \u2018pushbacks\u2019 in Greece, BBC told"
+      "title": "As world focuses on Iran, Israel 'engineering starvation policy' in Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/4/15/as-world-focuses-on-iran-israel-engineering-starvation-policy-in-gaza?traffic_source=rss",
+      "publishedAt": "Wed, 15 Apr 2026 12:40:39 +0000",
+      "summary": "Weaponized logistics blocking fuel, food, and medicine into Gaza amid broader Middle East conflict escalation."
     },
     {
-      "title": "French woman, 86, held by ICE after moving to US to reunite with long-lost love",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cd0rre4d9k0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 14 Apr 2026 13:08:41 GMT",
-      "summary": "The son of pensioner Marie-Th\u00e9r\u00e8se told French media he is worried for his mother's frail health as she is detained in a Louisiana ICE centre."
+      "title": "Anger in Lebanon as Israel launches deadly strikes despite diplomatic drive",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/15/anger-in-lebanon-as-israel-launches-deadly-strikes-despite-diplomatic-drive?traffic_source=rss",
+      "publishedAt": "Wed, 15 Apr 2026 11:52:17 +0000",
+      "summary": "Israeli strikes in Lebanon continue despite active diplomacy, risking broader regional conflict escalation."
     },
     {
-      "title": "How Harry and Meghan's Australia tour differs to their 2018 royal visit",
+      "title": "Magyar calls for fast handover of power in talks with Hungary's president",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/videos/c70dd4975r2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 14 Apr 2026 09:41:22 GMT",
-      "summary": "BBC News journalist Simon Atkinson explains how the couple's tour will be different compared to their last visit."
+      "url": "https://www.bbc.com/news/articles/cx2ddd0xyl5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 15 Apr 2026 10:50:14 GMT",
+      "summary": "Post-Orb\u00e1n Hungary enters transition with new leader pushing early parliament convening, reshaping EU political dynamics."
     }
   ],
   "cryptoAssets": [
@@ -43,162 +43,167 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 74591,
-      "change24h": 4.8057,
-      "marketCap": 1493114160132,
+      "price": 74298,
+      "change24h": -0.37512,
+      "marketCap": 1487112293819,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2379.6,
-      "change24h": 8.26215,
-      "marketCap": 287231559188,
+      "price": 2334.35,
+      "change24h": -1.93319,
+      "marketCap": 281734522722,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Deutsche B\u00f6rse invests $200 million in Kraken parent Payward",
+      "title": "Bitcoin ETFs post $412M in inflows as Goldman Sachs files for BTC ETF",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/deutsche-borse-invest-200m-kraken-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 14 Apr 2026 12:18:43 +0100",
-      "summary": "Deutsche B\u00f6rse said it will invest $200 million in Kraken\u2019s parent company for a fully diluted stake of 1.5%, subject to regulatory approval."
+      "url": "https://cointelegraph.com/news/bitcoin-etfs-inflows-412-million-goldman-sachs-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 15 Apr 2026 09:51:25 +0100",
+      "summary": "Goldman Sachs files for Bitcoin ETF as spot products pull 2026 net flows back positive with $412M single-day inflow."
     },
     {
-      "title": "Nauru taps Bitcoiner Dadvan Yousuf for trade role in digital asset push",
+      "title": "Fireblocks launches tool for institutions to earn yield on stablecoins",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/nauru-appoints-dadvan-yousuf-trade-commissioner-crypto-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 14 Apr 2026 11:07:11 +0100",
-      "summary": "Nauru moves from building rules to promoting its digital asset framework as it looks to attract companies and cross-border partnerships."
+      "url": "https://cointelegraph.com/news/fireblocks-launches-tool-for-institutions-to-earn-yield-on-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 15 Apr 2026 12:39:50 +0100",
+      "summary": "Fireblocks Earn gives institutions direct Aave and Morpho access, bridging TradFi treasury management with DeFi yield."
     },
     {
-      "title": "Bitcoin ETFs clock $291M outflows as BTC blasts past $74K",
+      "title": "EU adviser says 'MiCA 2' is likely as crypto market matures: PBW 2026",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-etfs-291-million-outflow-btc-surge-74000?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 14 Apr 2026 10:48:54 +0100",
-      "summary": "US spot Bitcoin ETFs recorded $291 million in outflows on Monday as BTC climbed above $74,000, marking the biggest day of redemptions since March 27, led by FBTC."
+      "url": "https://cointelegraph.com/news/eu-adviser-says-mica-2-is-likely-as-crypto-market-matures-pbw-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 15 Apr 2026 11:43:52 +0100",
+      "summary": "EU officials signal MiCA will be revised as industry stress-tests limits, with new framework potentially reshaping European crypto compliance."
     },
     {
-      "title": "Web3 hacks cost $482M in Q1 as phishing drives majority of losses: Hacken",
+      "title": "Pakistan allows banks to serve licensed crypto firms after years-long ban",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/web3-hacks-cost-464-million-in-q1-hacken?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 14 Apr 2026 10:25:08 +0100",
-      "summary": "Hacken\u2019s Q1 2026 report finds $482 million lost across 44 incidents, with phishing, legacy code bugs and key compromises driving losses as regulators tighten security demands."
+      "url": "https://cointelegraph.com/news/pakistan-allows-banks-to-serve-licensed-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 15 Apr 2026 11:51:28 +0100",
+      "summary": "Pakistan's central bank ends seven-year crypto banking ban, opening regulated on-ramps for 240 million people."
     },
     {
-      "title": "UK Lib Dems call for probe into Farage over $2.7M Stack BTC promotion",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/uk-lib-dems-fca-probe-farage-stack-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 14 Apr 2026 09:32:25 +0100",
-      "summary": "UK Liberal Democrats called on the FCA to examine Nigel Farage\u2019s Stack BTC promotion as scrutiny grows over crypto conflicts and political donations."
+      "title": "Prediction market volumes to hit $1 trillion by 2030 with Robinhood, Coinbase as key players, Bernstein says",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/15/prediction-market-volumes-to-hit-usd1-trillion-by-2030-with-robinhood-coinbase-as-key-players-bernstein-says",
+      "publishedAt": "Wed, 15 Apr 2026 12:55:54 +0000",
+      "summary": "Bernstein projects prediction markets becoming a trillion-dollar asset class by 2030, driven by crypto rails and regulatory clarity."
     }
   ],
   "aiNews": [
     {
-      "title": "OpenAI has bought AI personal finance startup Hiro",
+      "title": "Anthropic's rise is giving some OpenAI investors second thoughts",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
-      "publishedAt": "Tue, 14 Apr 2026 00:23:33 +0000",
-      "summary": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning."
+      "url": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
+      "publishedAt": "Wed, 15 Apr 2026 02:31:04 +0000",
+      "summary": "OpenAI's latest round implies a $1.2T IPO valuation, making Anthropic's $380B look increasingly attractive to shared investors."
     },
     {
-      "title": "Microsoft is working on yet another OpenClaw-like agent",
+      "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
-      "publishedAt": "Mon, 13 Apr 2026 19:05:19 +0000",
-      "summary": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent."
+      "url": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
+      "publishedAt": "Tue, 14 Apr 2026 18:09:12 +0000",
+      "summary": "Anthropic engaged the White House on its Mythos AI safety initiative while simultaneously pursuing legal action against the administration."
     },
     {
-      "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
+      "title": "Adobe's new Firefly AI assistant can use Creative Cloud apps to complete tasks",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
-      "publishedAt": "Mon, 13 Apr 2026 18:55:37 +0000",
-      "summary": "Stanford\u2019s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy."
+      "url": "https://techcrunch.com/2026/04/15/adobes-new-firefly-ai-assistant-can-use-creative-cloud-apps-to-complete-tasks/",
+      "publishedAt": "Wed, 15 Apr 2026 13:01:00 +0000",
+      "summary": "Adobe launches agentic AI assistant operating across Photoshop, Premiere, Illustrator, and other Creative Cloud apps autonomously."
     },
     {
-      "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
+      "title": "This startup is betting tokenmaxxing will create the next compute giant",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
-      "publishedAt": "Mon, 13 Apr 2026 15:22:29 +0000",
-      "summary": "While many startups founded prior to the emergence of ChatGPT are struggling to position themselves for the AI era, Vercel, a 10-year-old dev tool and website hosting platform, is benefiting from the "
+      "url": "https://techcrunch.com/2026/04/15/parasail-raises-32m-to-feed-tokenmaxxing-ai-developers/",
+      "publishedAt": "Wed, 15 Apr 2026 13:00:00 +0000",
+      "summary": "Parasail raises $32M Series A to capture surging AI token throughput demand as model fragmentation accelerates."
     },
     {
-      "title": "The largest orbital compute cluster is open for business",
+      "title": "Max Hodak's Science Corp. is preparing to place its first sensor in a human brain",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
-      "publishedAt": "Mon, 13 Apr 2026 07:01:00 +0000",
-      "summary": "Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space."
+      "url": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
+      "publishedAt": "Tue, 14 Apr 2026 17:13:03 +0000",
+      "summary": "Science Corp's neural sensor moves to first human trial, targeting neurological conditions with electrical stimulation."
     }
   ],
   "techMovers": [
     {
       "ticker": "ORCL",
       "name": "Oracle Corp",
-      "price": 155.62,
-      "change": 17.53,
-      "changePercent": 12.69
+      "price": 166.76,
+      "change": 3.76,
+      "changePercent": 2.31,
+      "explanation": "Oracle rallied on continued momentum in its cloud AI infrastructure contracts, with enterprise demand for its OCI platform outpacing rival hyperscalers."
+    },
+    {
+      "ticker": "UBER",
+      "name": "Uber Technologies",
+      "price": 74.25,
+      "change": 1.34,
+      "changePercent": 1.84,
+      "explanation": "Uber gained on analyst upgrades citing strong ride volume and freight recovery data, alongside optimism around autonomous vehicle partnership optionality."
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "price": 387.74,
+      "change": 6.96,
+      "changePercent": 1.83,
+      "explanation": "Broadcom rose as VMware customer migration concerns eased and AI networking chip demand remains robust heading into earnings."
     },
     {
       "ticker": "SNOW",
       "name": "Snowflake Inc",
-      "price": 134.24,
-      "change": 13.13,
-      "changePercent": 10.84
+      "price": 137.84,
+      "change": 2.37,
+      "changePercent": 1.75,
+      "explanation": "Snowflake climbed on positive channel checks indicating enterprise AI data workload growth is accelerating on its platform."
     },
     {
       "ticker": "CRM",
       "name": "Salesforce Inc",
-      "price": 172.82,
-      "change": 7.86,
-      "changePercent": 4.76
-    },
-    {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "price": 174.53,
-      "change": 6.68,
-      "changePercent": 3.98
-    },
-    {
-      "ticker": "MSFT",
-      "name": "Microsoft Corp",
-      "price": 384.37,
-      "change": 13.5,
-      "changePercent": 3.64
+      "price": 173.54,
+      "change": 2.23,
+      "changePercent": 1.3,
+      "explanation": "Salesforce edged higher as investor sentiment improved around its Agentforce AI platform adoption metrics ahead of its upcoming earnings report."
     }
   ],
   "pulsePicks": [
     {
-      "ticker": "NVDA",
+      "ticker": "BTC",
       "action": "Watch",
-      "reasoning": "Strong AI chip demand. Valuation stretched \u2014 wait for pullback.",
+      "reasoning": "Bitcoin is consolidating at the critical $75,000 resistance level with Fear & Greed at 23 (extreme fear). Goldman Sachs filing for a BTC ETF and $412M in daily ETF inflows signal strong institutional demand building beneath the surface. A confirmed break above $75K could trigger a significant leg up, but the macro backdrop \u2014 US-Iran conflict and global debt warnings from the IMF \u2014 keeps volatility elevated.",
+      "timeframe": "Short-term (1-2 weeks)",
+      "riskLevel": "High"
+    },
+    {
+      "ticker": "AVGO",
+      "action": "Consider Buying",
+      "reasoning": "Broadcom is up 1.83% today and sits at a compelling entry as VMware migration headwinds appear priced in. AI networking silicon demand (custom ASICs for hyperscalers) remains a structural tailwind, and Nutanix's disclosure of 30,000 poached VMware customers actually signals the transition is progressing \u2014 not stalling. Risk-reward improves meaningfully at current levels ahead of earnings.",
       "timeframe": "Medium-term (1-3 months)",
       "riskLevel": "Medium"
     },
     {
-      "ticker": "BTC",
-      "action": "Consider Buying",
-      "reasoning": "Holding above key support. ETF inflows strong. Halving cycle favorable.",
-      "timeframe": "Long-term (3+ months)",
-      "riskLevel": "High"
-    },
-    {
-      "ticker": "GOOG",
-      "action": "Consider Buying",
-      "reasoning": "Discount to mega-cap peers. Gemini progress improving sentiment. Cloud growth accelerating.",
+      "ticker": "ORCL",
+      "action": "Watch",
+      "reasoning": "Oracle is breaking out with a 2.31% gain as cloud AI infrastructure demand accelerates. OCI is gaining enterprise share against AWS and Azure, particularly for GPU-intensive AI workloads. The stock has been a quiet outperformer in 2026 and this move has momentum behind it. Watch for a pullback to the breakout level as a lower-risk entry opportunity.",
       "timeframe": "Medium-term (1-3 months)",
-      "riskLevel": "Low"
+      "riskLevel": "Medium"
     }
   ],
-  "fearGreedIndex": 21,
+  "fearGreedIndex": 23,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 309.39,
-    "change": 5.03,
-    "changePercent": 1.65
+    "price": 312.74,
+    "change": 1.38,
+    "changePercent": 0.44
   },
   "earnings": [],
   "marketIndicators": [
