@@ -138,7 +138,7 @@ Return ONLY valid JSON (no markdown):
 }
 SUMMARYEOF2
 
-  RAW_SUMMARY=$(cat "$PROMPT_FILE" | claude -p --model sonnet --output-format json 2>/dev/null) || RAW_SUMMARY=""
+  RAW_SUMMARY=$(cat "$PROMPT_FILE" | python3 "$SCRIPT_DIR/ai_call.py" 2>/dev/null) || RAW_SUMMARY=""
 
   # Parse Claude CLI envelope and save episode JSON
   DURATION=$(echo "$EPISODE_DATA" | python3 -c "import json,sys; print(json.load(sys.stdin).get('duration',''))" 2>/dev/null)

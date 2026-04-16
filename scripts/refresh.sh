@@ -61,49 +61,50 @@ curl -s "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=bitc
 # Fear & Greed Index
 curl -s "https://api.alternative.me/fng/?limit=1" > "$TEMP_DIR/fng.json" 2>/dev/null &
 
-# Live stock data from Google Finance
-fetch_stock() {
-  local ticker="$1"
-  local exchange="$2"
-  local name="$3"
-  local output="$4"
-  curl -s "https://www.google.com/finance/quote/${ticker}:${exchange}" \
-    -H "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)" 2>/dev/null | \
-  python3 -c "
-import re, json, sys
-html = sys.stdin.read()
-ticker='$ticker'
-name='$name'
-price_m = re.search(r'data-last-price=\"([^\"]+)\"', html)
-p = float(price_m.group(1)) if price_m else 0
-# Extract change from the page text pattern like '+1.23 (+0.45%)'
-import re as re2
-chg = re2.findall(r'>([\+\-][\d,.]+)\s*\(([\+\-][\d,.]+)%\)<', html)
-change = float(chg[0][0].replace(',','')) if chg else 0
-pct = float(chg[0][1].replace(',','')) if chg else 0
-json.dump({'ticker':ticker,'name':name,'price':p,'change':change,'changePercent':pct}, sys.stdout)
-" > "$output" 2>/dev/null || echo '{}' > "$output"
+# Live stock data via yfinance
+python3 -c "
+import json, sys
+try:
+    import yfinance as yf
+except ImportError:
+    import subprocess
+    subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'yfinance', '-q', '--break-system-packages'])
+    import yfinance as yf
+
+TICKERS = {
+    'V':    'Visa Inc',
+    'NVDA': 'NVIDIA Corp',
+    'TSLA': 'Tesla Inc',
+    'META': 'Meta Platforms',
+    'AAPL': 'Apple Inc',
+    'MSFT': 'Microsoft Corp',
+    'GOOG': 'Alphabet Inc',
+    'AMZN': 'Amazon.com',
+    'AMD':  'AMD Inc',
+    'CRM':  'Salesforce Inc',
+    'NFLX': 'Netflix Inc',
+    'AVGO': 'Broadcom Inc',
+    'ORCL': 'Oracle Corp',
+    'UBER': 'Uber Technologies',
+    'COIN': 'Coinbase',
+    'SNOW': 'Snowflake Inc',
 }
 
-# Always fetch Visa
-fetch_stock "V" "NYSE" "Visa Inc" "$TEMP_DIR/stock_V.json" &
+data = yf.download(list(TICKERS.keys()), period='2d', interval='1d', progress=False, auto_adjust=True)
+closes = data['Close'].tail(2)
 
-# Fetch broad set of tech stocks — top 5 movers will be selected dynamically
-fetch_stock "NVDA" "NASDAQ" "NVIDIA Corp" "$TEMP_DIR/stock_NVDA.json" &
-fetch_stock "TSLA" "NASDAQ" "Tesla Inc" "$TEMP_DIR/stock_TSLA.json" &
-fetch_stock "META" "NASDAQ" "Meta Platforms" "$TEMP_DIR/stock_META.json" &
-fetch_stock "AAPL" "NASDAQ" "Apple Inc" "$TEMP_DIR/stock_AAPL.json" &
-fetch_stock "MSFT" "NASDAQ" "Microsoft Corp" "$TEMP_DIR/stock_MSFT.json" &
-fetch_stock "GOOG" "NASDAQ" "Alphabet Inc" "$TEMP_DIR/stock_GOOG.json" &
-fetch_stock "AMZN" "NASDAQ" "Amazon.com" "$TEMP_DIR/stock_AMZN.json" &
-fetch_stock "AMD" "NASDAQ" "AMD Inc" "$TEMP_DIR/stock_AMD.json" &
-fetch_stock "CRM" "NYSE" "Salesforce Inc" "$TEMP_DIR/stock_CRM.json" &
-fetch_stock "NFLX" "NASDAQ" "Netflix Inc" "$TEMP_DIR/stock_NFLX.json" &
-fetch_stock "AVGO" "NASDAQ" "Broadcom Inc" "$TEMP_DIR/stock_AVGO.json" &
-fetch_stock "ORCL" "NYSE" "Oracle Corp" "$TEMP_DIR/stock_ORCL.json" &
-fetch_stock "UBER" "NYSE" "Uber Technologies" "$TEMP_DIR/stock_UBER.json" &
-fetch_stock "COIN" "NASDAQ" "Coinbase" "$TEMP_DIR/stock_COIN.json" &
-fetch_stock "SNOW" "NYSE" "Snowflake Inc" "$TEMP_DIR/stock_SNOW.json" &
+for ticker, name in TICKERS.items():
+    try:
+        prev = float(closes[ticker].iloc[0])
+        curr = float(closes[ticker].iloc[1])
+        chg = curr - prev
+        pct = (chg / prev) * 100
+        out = {'ticker': ticker, 'name': name, 'price': round(curr, 2), 'change': round(chg, 2), 'changePercent': round(pct, 2)}
+    except:
+        out = {'ticker': ticker, 'name': name, 'price': 0, 'change': 0, 'changePercent': 0}
+    with open('$TEMP_DIR/stock_' + ticker + '.json', 'w') as f:
+        json.dump(out, f)
+" 2>/dev/null
 
 wait
 echo "✅ Data fetched"
@@ -201,8 +202,8 @@ RAW_DATA=$(cat "$TEMP_DIR/raw_all.json")
 # Pipe through claude CLI and extract the result field
 RAW_CLI_OUTPUT=$(echo "${PROMPT}
 
-${RAW_DATA}" | claude -p --model sonnet --output-format json 2>/dev/null) || {
-  echo "⚠️  Claude CLI failed, using raw data without AI filtering"
+${RAW_DATA}" | python3 "$SCRIPT_DIR/ai_call.py" 2>/tmp/claude_debug.txt) || {
+  echo "⚠️  AI call failed: $(cat /tmp/claude_debug.txt)"
   RAW_CLI_OUTPUT=""
 }
 
