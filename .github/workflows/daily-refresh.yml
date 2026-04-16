@@ -1,11 +1,11 @@
 name: Daily Pulse Refresh                                            
                                                                                                                 
-  on:
+on:
     schedule:
       - cron: "0 13 * * *"
     workflow_dispatch:
 
-  jobs:
+jobs:
     refresh:
       runs-on: ubuntu-latest
       timeout-minutes: 10
