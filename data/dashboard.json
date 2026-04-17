@@ -1,27 +1,13 @@
 {
-  "lastUpdated": "2026-04-17T14:19:55.657326+00:00",
-  "marketStatus": "Closed",
+  "lastUpdated": "2026-04-17T13:05:33.686793+00:00",
+  "marketStatus": "Pre-Market",
   "globalNews": [
     {
-      "title": "What we know about the Israel-Lebanon ceasefire",
+      "title": "Trump's Lebanon ceasefire takes Israel by surprise",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 17 Apr 2026 08:44:20 GMT",
-      "summary": "A 10-day truce between the two countries is now in effect, with Iran-backed Hezbollah voicing support, as negotiations continue between the US and Iran.  "
-    },
-    {
-      "title": "Mugabe's son pleads guilty to pointing a gun in South Africa",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cqxlp5pvr3wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 17 Apr 2026 13:08:46 GMT",
-      "summary": "Bellarmine Mugabe was arrested in February following the shooting of a 23-year-old man at his home in Johannesburg."
-    },
-    {
-      "title": "Palestinians hand over suspect in 1982 attack on Jewish restaurant in Paris",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cj94pkyr9mpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 17 Apr 2026 12:42:06 GMT",
-      "summary": "Hicham Harb is suspected of directing the attack in the Rue des Rosiers and acting as one of the gunmen who shot at diners."
+      "url": "https://www.bbc.com/news/articles/cje4pn575jgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Apr 2026 22:55:59 GMT",
+      "summary": "Few Israelis see this truce as a way out of the conflict with Hezbollah, the BBC's Lucy Williamson writes."
     },
     {
       "title": "Singer D4vd arrested on suspicion of murdering teenage girl",
@@ -29,6 +15,20 @@
       "url": "https://www.bbc.com/news/articles/c20d22ev21wo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 17 Apr 2026 08:15:50 GMT",
       "summary": "The remains of 14-year-old Celeste Rivas Hernandez were found in the singer's car last year."
+    },
+    {
+      "title": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 17 Apr 2026 10:22:46 GMT",
+      "summary": "Experts say Mythos potentially has an unprecedented ability to identify and exploit cyber-security weaknesses."
+    },
+    {
+      "title": "'I was tortured and lost my hand' - one student's struggle to get an education in Nigeria",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c9d4nnpw8w2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Apr 2026 23:54:53 GMT",
+      "summary": "The BBC speaks to a student who pushed for his toe print to be taken to verify his identity. "
     },
     {
       "title": "Iranian footballers say Australia has given them 'hope' for safe future",
@@ -43,56 +43,56 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 77213,
-      "change24h": 4.82754,
-      "marketCap": 1545477722473,
+      "price": 76206,
+      "change24h": 2.10384,
+      "marketCap": 1525693312775,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2430.21,
-      "change24h": 5.84947,
-      "marketCap": 293576571487,
+      "price": 2371.82,
+      "change24h": 1.38271,
+      "marketCap": 286310300048,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Bitcoin price quietly sets new 10-week high as trader sees $88K in weeks",
+      "title": "Flow Capital plans to tokenize $150M private credit fund via DigiFT: Report",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-price-quietly-sets-new-10-week-high-as-trader-sees-88k-in-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 17 Apr 2026 14:52:38 +0100",
-      "summary": "Bitcoin price rallied above $77,000 amid cooling geopolitical tensions and record-high back-to-back closes for the S&P 500."
+      "url": "https://cointelegraph.com/news/flow-capital-tokenize-150m-private-credit-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 17 Apr 2026 12:52:42 +0100",
+      "summary": "Bloomberg reported Flow Capital plans to tokenize its private credit fund to raise additional capital, but crypto execs warn tokenization doesn\u2019t magically make hard-to-trade assets liquid."
     },
     {
-      "title": "Neo co-founder proposes $461M treasury overhaul to end \u2018trust me\u2019 governance",
+      "title": "Tempo\u2019s \u2018Zones\u2019 sparks debate over privacy in crypto infrastructure",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/neo-founder-proposes-461m-overhaul-to-governance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 17 Apr 2026 14:50:03 +0100",
-      "summary": "Neo\u2019s proposed overhaul would restructure its foundation, return tokens to the community and impose formal oversight, as co-founders clash over governance and control."
+      "url": "https://cointelegraph.com/news/tempo-zones-highlight-divide-over-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 17 Apr 2026 12:22:35 +0100",
+      "summary": "Tempo\u2019s new \u201cZones\u201d feature offers private, permissioned stablecoin transactions on its layer-1 for enterprises, but critics warn the operator\u2011controlled design adds back centralized trust."
     },
     {
-      "title": "Crypto execs ramp up security as wrench attacks increase",
+      "title": "Ethereum NFT platform Foundation shuts down after failed Blackdove sale",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/crypto-execs-ramp-security-wrench-attacks-increase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 17 Apr 2026 14:45:01 +0100",
-      "summary": "Notable crypto execs descended on Paris Blockchain Week, bringing more attention to personal security as kidnapping and ransom attempts skyrocket."
+      "url": "https://cointelegraph.com/news/foundation-nft-marketplace-shutdown-failed-sale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 17 Apr 2026 11:26:23 +0100",
+      "summary": "Foundation is shutting down after a failed sale to Blackdove, having processed about $230 million in NFT primary sales since its launch in 2021."
     },
     {
-      "title": "Bitcoin rises, oil falls after Iran says Strait of Hormuz is open",
+      "title": "Tokenization doesn\u2019t \u2018magically\u2019 fix illiquid assets: PBW 2026",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-rallies-76k-iran-strait-of-hormuz-open?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 17 Apr 2026 14:23:16 +0100",
-      "summary": "Bitcoin surged above $76,000 as oil futures fell 10% after Iran\u2019s foreign minister declared the Strait of Hormuz open for the remainder of the ceasefire between the US, Israel and Iran."
+      "url": "https://cointelegraph.com/news/tokenization-illiquid-assets-liquidity-rwa-panel-pbw?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 17 Apr 2026 11:04:36 +0100",
+      "summary": "Industry speakers at Paris Blockchain Week said tokenization can broaden access and issuance, but it does not by itself create active secondary markets for illiquid assets."
     },
     {
-      "title": "Telegram CEO Durov warns EU age-verification app could enable wider tracking",
+      "title": "Texas man in $20M Meta-1 Coin fraud sentenced to 23 years in prison",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/eu-age-app-verification-surveillance-risk-durov?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 17 Apr 2026 14:15:23 +0100",
-      "summary": "Telegram CEO Pavel Durov cited claims the EU\u2019s new age-check app was hacked in minutes, warning it could expand into wider online identity controls."
+      "url": "https://cointelegraph.com/news/meta-1-coin-fraud-robert-dunlap-23-years-sentence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 17 Apr 2026 07:25:14 +0100",
+      "summary": "Meta-1 Coin was sold and marketed from 2018 to 2023 as an investment backed by $44 billion in gold and $1 billion in artworks, which turned out to be fictional."
     }
   ],
   "aiNews": [
@@ -134,39 +134,39 @@
   ],
   "techMovers": [
     {
-      "ticker": "NFLX",
-      "name": "Netflix Inc",
-      "price": 97.49,
-      "change": -10.3,
-      "changePercent": -9.56
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 278.26,
+      "change": 20.14,
+      "changePercent": 7.8
     },
     {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "price": 209.0,
-      "change": 9.17,
-      "changePercent": 4.59
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "price": 178.34,
+      "change": 8.53,
+      "changePercent": 5.02
     },
     {
-      "ticker": "UBER",
-      "name": "Uber Technologies",
-      "price": 78.38,
-      "change": 1.9,
-      "changePercent": 2.48
+      "ticker": "MSFT",
+      "name": "Microsoft Corp",
+      "price": 420.26,
+      "change": 9.04,
+      "changePercent": 2.2
     },
     {
       "ticker": "CRM",
       "name": "Salesforce Inc",
-      "price": 185.38,
-      "change": 4.16,
-      "changePercent": 2.3
+      "price": 181.22,
+      "change": 3.62,
+      "changePercent": 2.04
     },
     {
-      "ticker": "AAPL",
-      "name": "Apple Inc",
-      "price": 268.99,
-      "change": 5.59,
-      "changePercent": 2.12
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "price": 199.83,
+      "change": 3.93,
+      "changePercent": 2.01
     }
   ],
   "pulsePicks": [
@@ -196,9 +196,9 @@
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 317.0,
-    "change": 1.9,
-    "changePercent": 0.6
+    "price": 315.1,
+    "change": -0.81,
+    "changePercent": -0.26
   },
   "earnings": [],
   "marketIndicators": [
@@ -225,94 +225,154 @@
   ],
   "podcasts": [
     {
-      "title": "ROLLUP: Markets at ATHs | Saylor\u2019s STRC Bid | Trump DeFi Scandal | SEC Clears DeFi",
-      "podcast": "Bankless",
-      "date": "Fri, 17 Apr 2026 10:30:00 -0000",
-      "duration": "3810",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": ""
-    },
-    {
-      "title": "Markets Bounce Back, The Hyperliquid Thesis and Kraken Raises $200M",
-      "podcast": "Empire",
-      "date": "Fri, 17 Apr 2026 10:24:00 -0000",
-      "duration": "3491",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": ""
-    },
-    {
-      "title": "From Models to Mobility: Building Waymo with Dmitri Dolgov",
-      "podcast": "a16z Podcast",
-      "date": "Fri, 17 Apr 2026 10:00:00 +0000",
-      "duration": "01:04:01",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": "https://a16z.simplecast.com/episodes/from-models-to-mobility-building-waymo-with-dmitri-dolgov-p2z80L_O"
-    },
-    {
-      "title": "The Next Bull Market | Roundup",
-      "podcast": "Bell Curve",
-      "date": "Fri, 17 Apr 2026 08:00:00 -0000",
-      "duration": "3912",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": ""
-    },
-    {
-      "title": "Anthropic's Mythos Is More Powerful Than the U.S. Government's AI. Does That Make Sense?",
+      "title": "Do Centralized Real World Assets on DeFi Break Ethereum? - Bits + Bips",
       "podcast": "Unchained",
-      "date": "Fri, 17 Apr 2026 01:11:00 -0000",
-      "duration": "3123",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
+      "date": "Wed, 01 Apr 2026 16:30:00 -0000",
+      "duration": "3830",
+      "summary": "The Bits + Bips panel debates the Iran conflict's market implications, with hosts split between near-term bearishness (rising oil at $116/bbl, 10-year yields climbing, stalled negotiations) and medium-term crypto bullishness once the situation resolves. The core tension is whether a negotiated deal is even possible given Iran's fragmented leadership, hardliner incentives, and the regime's economic benefit from current elevated oil prices. Consensus is the conflict will extend well beyond the White House's initial 4-5 week timeline, keeping risk assets under pressure.",
+      "keyTakeaways": [
+        "Defensively position near-term: oil above $116/bbl, 10-year yields at 4.48% (mortgage pressure), dollar strengthening, and inflation rising create a toxic backdrop for risk assets until conflict resolution.",
+        "Negotiations are structurally broken \u2014 the US doesn't have a reliable counterparty; internal IRGC fractures mean the eventual negotiating partner may not even be in power yet, pointing to a 6-12+ month timeline.",
+        "Bitcoin seen as a cyclical buying opportunity once the conflict clears, with hosts citing continued resilience and an inevitable 'catch-up to gold' narrative as a medium-term thesis.",
+        "The conflict is now a global problem, not a US one \u2014 Strait of Hormuz closure is choking Asia and threatening Europe, which increases international pressure for resolution but also raises escalation risk.",
+        "White House credibility with markets is eroding: no Pentagon briefings in 9 days, shifting timelines, and cabinet language suggesting regime change as an unstated objective are fueling uncertainty."
+      ],
       "url": ""
     },
     {
-      "title": "Opus 4.7 Launch: Anthropic's Strategic Growth",
-      "podcast": "No Priors",
-      "date": "Thu, 16 Apr 2026 22:13:12 -0000",
-      "duration": "00:14:22",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": ""
-    },
-    {
-      "title": "Why Hasn&#39;t The Dollar Fallen? | Lessons from Currency Historian Barry Eichengreen",
-      "podcast": "Bankless",
-      "date": "Thu, 16 Apr 2026 10:45:00 -0000",
-      "duration": "4592",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": ""
-    },
-    {
-      "title": "Technology, Culture, and the Next AI Interface with sign\u00fcll",
-      "podcast": "a16z Podcast",
-      "date": "Thu, 16 Apr 2026 10:00:00 +0000",
-      "duration": "00:34:12",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": "https://a16z.simplecast.com/episodes/technology-culture-and-the-next-ai-interface-with-signull-4oQgR1i2"
-    },
-    {
-      "title": "The Future of AI: Personal Agents, Taste & Private Data | Lin Qiao & Demi Guo | E9",
-      "podcast": "This Week in AI",
-      "date": "Wed, 15 Apr 2026 17:25:57 GMT",
-      "duration": "01:14:18",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": "https://podcasters.spotify.com/pod/show/oliver-k3/episodes/The-Future-of-AI-Personal-Agents--Taste--Private-Data--Lin-Qiao--Demi-Guo--E9-e3hv59n"
-    },
-    {
-      "title": "Welcome to AI in the AM: RL for EE, Oversight w/out Nationalization, &amp; the first AI-Run Retail Store",
+      "title": "Success without Dignity?  Nathan finds Hope Amidst Chaos, from The Intelligence Horizon Podcast",
       "podcast": "Cognitive Revolution",
-      "date": "Wed, 15 Apr 2026 14:07:41 -0000",
-      "duration": "9047",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": "https://www.cognitiverevolution.ai/welcome-to-ai-in-the-am-rl-for-ee-oversight-w-out-nationalization-the-first-ai-run-retail-store/"
+      "date": "Wed, 01 Apr 2026 09:39:10 -0000",
+      "duration": "6282",
+      "summary": "Nathan Labenz (Cognitive Revolution host) argues the singularity is near and transformative AI is inevitable \u2014 the debate has shifted from 'will it happen?' to 'how and when?' He places his P(doom) at 10-90% but has grown cautiously optimistic that a defense-in-depth safety strategy (interpretability, AI control, formal verification, pandemic prep) could keep society stable. He also flags geopolitical concerns, arguing US-China cooperation on AI is preferable to an unchecked race.",
+      "keyTakeaways": [
+        "Timeline compression is the one thing experts agree on: 'AGI by 2035' used to be aggressive, now it's the bear case \u2014 the debate has moved to details, not whether transformation happens.",
+        "Scaling RL is likely sufficient for transformative AI, but the question may become moot as new conceptual unlocks (like RL did for pre-training limits) keep moving the goalposts.",
+        "AI systems are 'jagged' \u2014 superhuman in many domains but still adversarially fragile and easier to trick than humans; expect weird edge cases even as capabilities soar.",
+        "A layered safety strategy combining interpretability (Goodfire), AI control (Redwood), formal software verification, and pandemic preparedness is Nathan's best-case path to keeping society on the rails.",
+        "Nathan is more worried about geopolitics than pure technical risk: recent US government moves against Anthropic signal a drift toward adversarial posture that makes human cooperation across borders harder \u2014 and that cooperation matters more than perfect alignment research."
+      ],
+      "url": "https://www.cognitiverevolution.ai/success-without-dignity-nathan-finds-hope-amidst-chaos-from-the-intelligence-horizon-podcast/"
+    },
+    {
+      "title": "How 3 CEOs Use AI to Run $10B in Companies | This Week in AI",
+      "podcast": "This Week in AI",
+      "date": "Wed, 01 Apr 2026 16:36:41 GMT",
+      "duration": "01:11:50",
+      "summary": "Three CEOs managing a combined ~$10B in company value discuss how AI is reshaping enterprise infrastructure across tabular data (Fundamental's LTM/Nexus model for fraud detection, demand forecasting, etc.), AI video for business (Synthesia, 100M+ ARR, 90% of Fortune 100), and photonic computing (Light Matter, using light instead of copper to 3x AI training speeds). The broader theme is that AI is now automating cognition itself \u2014 not just physical labor \u2014 and most people are underestimating how fast the shift is happening.",
+      "keyTakeaways": [
+        "LLMs haven't solved structured/tabular data \u2014 Fundamental is building a purpose-built Large Tabular Model (LTM) with different architecture than transformers, targeting enterprise use cases like fraud detection, demand forecasting, and ETA prediction that still run on pre-LLM ML algorithms.",
+        "OpenAI shutting down Sora signals a strategic retreat to focus: the lesson is that 'doing too many things at once' kills execution, and B2B copilot/coding is the near-term value driver \u2014 Claude Code is the talk of founder circles right now.",
+        "Photonic interconnects (fiber/light vs. copper) are the new Moore's Law bottleneck \u2014 Light Matter claims 3x faster AI training times, meaning early adopters at foundation model companies will compound their advantage dramatically.",
+        "The cognitive automation moment is underappreciated: 70% of workers think AI will hurt others' jobs but only 30% worry about their own \u2014 a dangerous blind spot as white-collar/knowledge work (including accounting) is now directly in scope.",
+        "AI video for business is a proven wedge: Synthesia's bet that enterprises want video-native communication (not docs/slides) has paid off \u2014 100M ARR with 90% Fortune 100 penetration by focusing narrowly rather than chasing Hollywood-quality generation."
+      ],
+      "url": "https://podcasters.spotify.com/pod/show/oliver-k3/episodes/How-3-CEOs-Use-AI-to-Run-10B-in-Companies--This-Week-in-AI-e3h9oau"
+    },
+    {
+      "title": "What Happens When a Public Company Goes All In on AI",
+      "podcast": "a16z Podcast",
+      "date": "Wed, 1 Apr 2026 10:00:00 +0000",
+      "duration": "00:27:51",
+      "summary": "Block (parent of Square, Cash App, Afterpay) executed a 40%+ RIF in early 2026, explicitly driven by AI \u2014 not overhiring cleanup \u2014 after a step-change in agentic coding capability in late November/early December 2025 made small squads of 1-6 engineers as productive as teams of 14. Business lead Owen Jennings describes rebuilding the entire org from scratch around small squads, AI agents, and an internal agentic OS, while protecting compliance and customer trust functions. The episode is a rare inside look at what AI-native restructuring actually looks like at a public fintech company.",
+      "keyTakeaways": [
+        "The productivity inflection was abrupt: a specific model capability jump in late Nov/early Dec 2025 (Opus 4.6, Codex 5.3) suddenly made AI agents effective on large, complex existing codebases \u2014 not just greenfield projects \u2014 which is what triggered the decision.",
+        "Cuts were heavily skewed toward engineering/product/design, not ops \u2014 compliance and SDR/BDR teams were barely touched, signaling the RIF was genuinely AI-productivity-driven, not financial engineering.",
+        "The new operating model is async and parallel: individuals now run 8\u201314 concurrent AI agents, context-switching between PRs rather than working linearly \u2014 a fundamental workflow shift for engineers, PMs, and growth marketers alike.",
+        "Block's multi-year AI infrastructure investment (Goose agent harness launched early 2024, internal agentic OS 'G2') was a prerequisite \u2014 companies without that substrate will struggle to replicate this quickly.",
+        "Jennings frames the macro as Jevons paradox: fewer engineers per product, but likely far more products and companies getting built \u2014 net engineering employment impact is uncertain, but per-product headcount is clearly shrinking."
+      ],
+      "url": "https://a16z.simplecast.com/episodes/what-happens-when-a-public-company-goes-all-in-on-ai-cUCWrP64"
+    },
+    {
+      "title": "How Radiant and Heron Are Rethinking Power Generation and Delivery",
+      "podcast": "a16z Podcast",
+      "date": "Tue, 31 Mar 2026 10:04:03 +0000",
+      "duration": "00:49:01",
+      "summary": "The US power grid's core problem isn't generation\u2014it's delivery, and decades of efficiency gains masked the underinvestment until AI, electrified transport, and reshoring created demand that can no longer be ignored. A16Z's Aaron Price-Ride interviews Doug Bernauer (Radiant, building portable factory-made nuclear microreactors) and Drew Beglino (Heron, building solid-state power electronics to modernize grid delivery), both SpaceX/Tesla alumni who see the grid as the defining infrastructure challenge of the next era. Together they argue the grid must be rebuilt from the edge up, with diverse generation sources and intelligent power electronics, not just more centralized capacity.",
+      "keyTakeaways": [
+        "Delivery is the bottleneck, not generation: the US transmission infrastructure is the binding constraint on energy growth, and decades of efficiency improvements have let policymakers and investors ignore it\u2014until now.",
+        "Demand is structurally different this time: AI compute, industrial electrification, and EV adoption are compounding simultaneously, and efficiency gains can no longer offset the load growth the way they did from the 1980s\u20132010s.",
+        "Portable nuclear (Radiant) targets off-grid and edge use cases\u2014trailer-sized microreactors built in a factory, aimed at data centers, defense, and industrial sites that can't wait for grid interconnection queues.",
+        "Solid-state power electronics (Heron) targets the grid itself\u2014modernizing transmission and distribution hardware that has seen almost no innovation while the generation and storage sides advanced dramatically.",
+        "AI is a forcing function for grid investment: it's accelerating awareness that the US needs to relearn how to build large-scale infrastructure, and creating the financial urgency to fund it."
+      ],
+      "url": "https://a16z.simplecast.com/episodes/how-radiant-and-heron-are-rethinking-power-generation-and-delivery-M1HRtAN7"
+    },
+    {
+      "title": "Copper Founder: Building a Billion Dollar Company &amp; Fixing Crypto Custody",
+      "podcast": "Empire",
+      "date": "Mon, 30 Mar 2026 13:59:00 -0000",
+      "duration": "3217",
+      "summary": "Copper founder Dmitry Tokarev joins Empire live from DAS to reflect on building a $1.25B crypto custody company, the brutal lessons of hypergrowth (36 to 236 employees in a year), and why he stepped down in late 2024 to build his next company Bronze with a lean team under 40 people. He argues the next wave of crypto adoption won't be saved by TradFi institutions \u2014 it'll be built by the same crypto-native players who got here, now targeting tokenized real-world assets.",
+      "keyTakeaways": [
+        "Hire slow: throwing headcount at problems is a trap \u2014 rapid hiring (nearly 1 person/day at Copper's peak) destroys culture and creates colliding subcultures that become unmanageable",
+        "Know your superpower: Tokarev identifies as a builder/product person and learned too late to stop attempting things he wasn't good at \u2014 founders should double down on strengths and hire deliberately for gaps",
+        "AI is changing hiring calculus now: Bronze stopped hiring after adopting Claude Code ~6 weeks ago, staying under 40 people \u2014 a real-time example of AI compressing team size",
+        "Zero-rate era distorted the industry: cheap capital forced custody players into marketing arms races (Copper vs. Fireblocks, Anchorage, BitGo) that had nothing to do with building a better product",
+        "FTX collapse was partly a scaling failure: Tokarev's firsthand account suggests SBF lost operational control with 130+ direct reports before the fraud became irreversible \u2014 scale without structure is existential risk"
+      ],
+      "url": ""
+    },
+    {
+      "title": "Mistral: Voxtral TTS, Forge, Leanstral, & what's next for Mistral 4 \u2014 w/ Pavan Kumar Reddy & Guillaume Lample",
+      "podcast": "Latent Space",
+      "date": "Mon, 30 Mar 2026 19:25:21 GMT",
+      "duration": "2928",
+      "summary": "Mistral announces VoxTral TTS, their first speech generation model \u2014 a 3B parameter model built on Ministral that uses a novel autoregressive flow matching architecture with an in-house neural audio codec. The episode dives deep into the technical decisions behind audio generation, including why flow matching outperforms discrete depth transformers for modeling the distributional entropy of speech inflection. The team frames this as a stepping stone toward a full omni-model (native audio in/out), deliberately shipping transcription first, then TTS, before merging capabilities.",
+      "keyTakeaways": [
+        "VoxTral TTS uses a novel autoregressive flow matching head instead of the common depth transformer approach \u2014 key advantage is dramatically lower latency (4-16 inference steps vs. K auto-regressive steps), making real-time voice agent streaming viable.",
+        "Mistral built a custom neural audio codec that encodes audio into 12.5Hz latent frames, each with both semantic and acoustic tokens \u2014 the codec is trained to be both discrete and continuous, enabling the flow matching head.",
+        "Flow matching wins over discrete token prediction for speech because the same word can be inflected in many ways \u2014 you need to model the distribution and sample from it, not predict a blurred mean.",
+        "The audio AI field has no settled 'winning recipe' yet (unlike text), making it a high-upside research area with many architectural directions still open.",
+        "Mistral's roadmap is deliberately incremental: transcription \u2192 TTS \u2192 real-time duplex (speaking while listening) \u2192 full omni-model, optimizing each capability before merging."
+      ],
+      "url": "https://www.latent.space/p/voxtral"
+    },
+    {
+      "title": "Omer Goldberg: The DeFi Exploit That Exposed a Bigger Problem",
+      "podcast": "The Defiant",
+      "date": "Mon, 30 Mar 2026 19:23:59 GMT",
+      "duration": "00:41:22",
+      "summary": "Omer Goldberg of Chaos Labs breaks down the Resolve exploit where a hacker minted $80M in USR stablecoin and extracted ~$25M in ETH/BTC \u2014 but the real damage came from DeFi's composability turning a contained hack into a multi-protocol crisis. The deeper issue: lending vaults on Morpho, Fluid, and Venus were pricing USR at $1 (or its pre-hack NAV) while the market had it trading at $0.02\u2013$0.25, creating a massive arbitrage window that drained high-quality collateral. Goldberg argues this oracle mispricing problem has caused tens of millions in losses across at least four similar incidents in the past 12 months, and that context-aware risk oracles \u2014 not static or once-daily pricing \u2014 are the fix.",
+      "keyTakeaways": [
+        "Composability is a double-edged sword: USR being whitelisted across Morpho, Curve, Fluid, and Venus meant one exploit cascaded into multi-protocol bad debt \u2014 the attack surface scales with integrations.",
+        "Morpho's 'public reallocation' automation feature acted as an unlimited credit line during the attack \u2014 vaults auto-supplied capital into a high-utilization pool without detecting that the demand spike was exploit-driven, not organic.",
+        "Static or low-frequency oracles (once-daily NAV pricing) are functionally equivalent to hard-coded prices during a crisis \u2014 if the oracle can't reflect reality fast enough under stress, it's a sitting duck.",
+        "The fix isn't binary (real-time vs. hard-coded): risk oracles should be context-dependent \u2014 e.g., requiring a sustained depeg across multiple venues for N blocks before updating, to avoid liquidation cascades from transient price moves.",
+        "Curator/vault models are under scrutiny: the incident raises questions about whether automated capital allocation strategies have sufficient circuit breakers to distinguish genuine yield opportunities from exploit-induced volatility."
+      ],
+      "url": "https://podcasters.spotify.com/pod/show/thedefiant/episodes/Omer-Goldberg-The-DeFi-Exploit-That-Exposed-a-Bigger-Problem-e3h6j7u"
+    },
+    {
+      "title": "3 Megatrends Every Investor Needs to Know: Demographics, Wealth Inequality, &amp; the End of Labor (with Jeff Park)",
+      "podcast": "Bankless",
+      "date": "Mon, 30 Mar 2026 10:30:00 -0000",
+      "duration": "5256",
+      "summary": "Jeff Park argues that amid macro uncertainty, investors should anchor to three irreversible megatrends: aging demographics, wealth concentration, and the declining value of labor. The episode focuses heavily on the demographic crisis \u2014 top 10 industrial economies are all in population decline, and by 2034 the US will have more adults than children for the first time ever, creating a structural imbalance of asset sellers over buyers that will pressure traditional equity markets for decades. AI and technology accelerate these dynamics by being deflationary forces on labor, while credit creation masks the true pricing impact.",
+      "keyTakeaways": [
+        "Demographic inversion is effectively irreversible \u2014 Japan's elderly dependency ratio is already 55:100 workers and projected to hit 80 by 2050; South Korea's median age will be 56 by 2050. These trends are locked in because the missing workers simply were never born.",
+        "By 2030 all US Baby Boomers will be 65+, and by 2034 there will be more adults than children in America \u2014 meaning sustained asset selling pressure with fewer younger buyers to absorb it, creating a secular headwind for equities.",
+        "Healthcare costs rising from 5% of US GDP (1960s) to 20%+ today signal that people are living longer and spending more in retirement, accelerating asset drawdowns from the older cohort.",
+        "Technology is fundamentally deflationary and is driving labor value toward zero, but credit creation masks this in nominal prices \u2014 the real risk is when credit expansion can no longer offset the deflation.",
+        "Regulators (SEC, CFTC) are quietly expanding permissible capital formation strategies \u2014 including tokenization \u2014 partly as a policy response to entice younger, smaller investors into markets to offset the demographic supply/demand imbalance."
+      ],
+      "url": ""
+    },
+    {
+      "title": "SoftBank's $40B OpenAI Investment &amp; Anthropic's Claude Mythos Leak",
+      "podcast": "No Priors",
+      "date": "Fri, 27 Mar 2026 21:57:42 -0000",
+      "duration": "00:13:35",
+      "summary": "This episode covers five major AI stories: humanoid robots appearing at the White House as a signal of physical AI's rapid maturation, SoftBank's $40B OpenAI investment highlighting the massive capital moat forming around frontier labs, OpenAI redirecting Sora's compute to robotics R&D, Apple opening Siri to third-party AI providers in iOS 27, and a leaked Anthropic draft revealing a next-generation model called Claude Mythos \u2014 described internally as a 'step change' capability that poses 'unprecedented cybersecurity risks.' The overarching theme is that the AI race is consolidating fast, with capital, compute, and physical deployment becoming the new competitive moats.",
+      "keyTakeaways": [
+        "Anthropic's leaked 'Claude Mythos' (model tier: Capibara, above Opus) is confirmed real and described internally as outperforming Opus 4.6 on coding, reasoning, and cybersecurity \u2014 with Anthropic itself flagging unprecedented security risks, which rattled crypto and software markets.",
+        "SoftBank's $40B OpenAI round signals that frontier model development is becoming a capital game only a handful of players can afford \u2014 bad news for regional labs like Mistral, good news for end users who benefit from better models.",
+        "OpenAI is pivoting Sora's compute budget directly into robotics R&D, signaling a strategic bet that physical AI (not video generation) is where value creation is headed over the next few years.",
+        "Apple's iOS 27 will open Siri to third-party AI providers via the App Store \u2014 effectively turning Apple into a platform/shell rather than an AI developer, reducing OpenAI dependency and potentially making Siri useful for the first time for 1B+ iPhone users.",
+        "Physical AI is moving faster than expected: Figure 3 humanoid robots demonstrated at the White House, and Agile Robots just partnered with Google DeepMind to embed Gemini into manufacturing and logistics robots \u2014 expect major commercial rollouts by end of 2026."
+      ],
+      "url": ""
     }
   ]
 }
