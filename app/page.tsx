@@ -8,7 +8,7 @@ import { NewsColumn } from "@/components/news-column";
 import { StocksSection } from "@/components/stocks-section";
 import { PulsePicks } from "@/components/pulse-picks";
 import { Earnings } from "@/components/earnings";
-import { MediaSection } from "@/components/media-section";
+
 import { Globe, Cpu } from "@/components/icons";
 
 function CryptoIcon({ className }: { className?: string }) {
@@ -21,13 +21,10 @@ function CryptoIcon({ className }: { className?: string }) {
   );
 }
 
-type Tab = "dashboard" | "media";
-
 export default function Dashboard() {
   const [data, setData] = useState<DashboardData | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
-  const [tab, setTab] = useState<Tab>("dashboard");
 
   const fetchData = useCallback(async (force = false) => {
     setLoading(true);
@@ -73,28 +70,7 @@ export default function Dashboard() {
             {new Date().toLocaleDateString("en-US", { weekday: "long", year: "numeric", month: "long", day: "numeric" })}
           </p>
         </div>
-        <div className="flex items-center gap-6">
-          {/* Tabs */}
-          <nav className="flex gap-1 bg-gray-100 rounded-lg p-1">
-            <button
-              onClick={() => setTab("dashboard")}
-              className={`px-4 py-1.5 text-sm font-medium rounded-md transition-colors ${
-                tab === "dashboard" ? "bg-white text-gray-900 shadow-sm" : "text-gray-500 hover:text-gray-700"
-              }`}
-            >
-              Dashboard
-            </button>
-            <button
-              onClick={() => setTab("media")}
-              className={`px-4 py-1.5 text-sm font-medium rounded-md transition-colors ${
-                tab === "media" ? "bg-white text-gray-900 shadow-sm" : "text-gray-500 hover:text-gray-700"
-              }`}
-            >
-              Media
-            </button>
-          </nav>
-
-          <div className="flex items-center gap-3">
+        <div className="flex items-center gap-3">
             <StatusBadge status={data?.marketStatus || "—"} />
             <span className="text-xs text-gray-400">
               {data?.lastUpdated ? `Updated ${new Date(data.lastUpdated).toLocaleTimeString("en-US", { hour: "numeric", minute: "2-digit" })}` : ""}
@@ -112,14 +88,13 @@ export default function Dashboard() {
                 <path d="M3 21v-5h5" />
               </svg>
             </button>
-          </div>
         </div>
       </div>
 
       {loading && !data ? (
         <LoadingSkeleton />
       ) : data ? (
-        tab === "dashboard" ? <DashboardTab data={data} /> : <MediaTab data={data} />
+        <DashboardTab data={data} />
       ) : null}
     </main>
   );
@@ -162,14 +137,6 @@ function DashboardTab({ data }: { data: DashboardData }) {
 
       <StocksSection stocks={data.techMovers} />
       <PulsePicks picks={data.pulsePicks} />
-    </div>
-  );
-}
-
-function MediaTab({ data }: { data: DashboardData }) {
-  return (
-    <div className="space-y-5">
-      <MediaSection podcasts={data.podcasts || []} />
     </div>
   );
 }
