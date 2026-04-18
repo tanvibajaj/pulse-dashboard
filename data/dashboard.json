@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-18T13:27:15.652033+00:00",
+  "lastUpdated": "2026-04-18T14:00:41.397441+00:00",
   "marketStatus": "Closed",
   "globalNews": [
     {
@@ -17,18 +17,11 @@
       "summary": "P\u00e9ter Magyar and his Tisza party are wasting no time preparing for the transfer of power after their dramatic landslide victory."
     },
     {
-      "title": "Thousands celebrate open-air Mass with Pope Leo in Cameroon - in pictures",
+      "title": "Millions listen to Ethiopian star's song taking swipe at government",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cdj7kwn1d78o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 17 Apr 2026 18:25:12 GMT",
-      "summary": "Pope Leo XIV is on his third day in Cameroon before he heads to Angola on Saturday."
-    },
-    {
-      "title": "White House and Anthropic hold 'productive' meeting amid fears over Mythos model",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cyv10e1d13po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 18 Apr 2026 00:37:06 GMT",
-      "summary": "The discussion is a sign the AI firm's technology may be too critical for even the US government to do without."
+      "url": "https://www.bbc.com/news/articles/cqj81g5dxkyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 18 Apr 2026 13:13:21 GMT",
+      "summary": "The country's biggest musician Teddy Afro laments a lack of unity in the country on his new track."
     },
     {
       "title": "French film star Nathalie Baye dies aged 77, media report",
@@ -36,6 +29,13 @@
       "url": "https://www.bbc.com/news/articles/cn9q48y9wr7o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 18 Apr 2026 12:31:16 GMT",
       "summary": "President Macron said France had \"loved, dreamed and grown up\" with the stalwart of French cinema."
+    },
+    {
+      "title": "DR Congo accepts first set of deportees from the US",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cp84rye3lg8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 18 Apr 2026 09:18:16 GMT",
+      "summary": "The Congolese government stresses those expelled from the US are only in the country temporarily."
     }
   ],
   "cryptoAssets": [
@@ -43,18 +43,18 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 76189,
-      "change24h": -0.7667,
-      "marketCap": 1524791699060,
+      "price": 76137,
+      "change24h": -1.55481,
+      "marketCap": 1523973035309,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2356.99,
-      "change24h": -1.76214,
-      "marketCap": 284521911156,
+      "price": 2356.32,
+      "change24h": -3.41416,
+      "marketCap": 284373783770,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
@@ -155,18 +155,18 @@
       "changePercent": 3.01
     },
     {
+      "ticker": "AAPL",
+      "name": "Apple Inc",
+      "price": 270.23,
+      "change": 6.83,
+      "changePercent": 2.59
+    },
+    {
       "ticker": "AVGO",
       "name": "Broadcom Inc",
       "price": 406.54,
       "change": 8.07,
       "changePercent": 2.03
-    },
-    {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc",
-      "price": 339.4,
-      "change": 6.63,
-      "changePercent": 1.99
     }
   ],
   "pulsePicks": [
@@ -225,6 +225,24 @@
   ],
   "podcasts": [
     {
+      "title": "How the DOJ and SEC Cases Against BitClout's Nader Al-Naji Collapsed",
+      "podcast": "Unchained",
+      "date": "Sat, 18 Apr 2026 01:12:00 -0000",
+      "duration": "4848",
+      "summary": "Summary generation failed.",
+      "keyTakeaways": [],
+      "url": ""
+    },
+    {
+      "title": "Understanding the Upgrade Path for Codex",
+      "podcast": "No Priors",
+      "date": "Fri, 17 Apr 2026 20:26:39 -0000",
+      "duration": "00:14:56",
+      "summary": "Summary generation failed.",
+      "keyTakeaways": [],
+      "url": ""
+    },
+    {
       "title": "ROLLUP: Markets at ATHs | Saylor\u2019s STRC Bid | Trump DeFi Scandal | SEC Clears DeFi",
       "podcast": "Bankless",
       "date": "Fri, 17 Apr 2026 10:30:00 -0000",
@@ -243,15 +261,6 @@
       "url": ""
     },
     {
-      "title": "The Next Bull Market | Roundup",
-      "podcast": "Bell Curve",
-      "date": "Fri, 17 Apr 2026 08:00:00 -0000",
-      "duration": "3912",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": ""
-    },
-    {
       "title": "From Models to Mobility: Building Waymo with Dmitri Dolgov",
       "podcast": "a16z Podcast",
       "date": "Fri, 17 Apr 2026 10:00:00 +0000",
@@ -259,6 +268,24 @@
       "summary": "Summary generation failed.",
       "keyTakeaways": [],
       "url": "https://a16z.simplecast.com/episodes/from-models-to-mobility-building-waymo-with-dmitri-dolgov-p2z80L_O"
+    },
+    {
+      "title": "The System Behind Self-Driving: Waymo\u2019s Dmitri Dolgov",
+      "podcast": "a16z Podcast",
+      "date": "Fri, 17 Apr 2026 10:00:00 +0000",
+      "duration": "01:04:01",
+      "summary": "Summary generation failed.",
+      "keyTakeaways": [],
+      "url": "https://a16z.simplecast.com/episodes/from-models-to-mobility-building-waymo-with-dmitri-dolgov-p2z80L_O"
+    },
+    {
+      "title": "The Next Bull Market | Roundup",
+      "podcast": "Bell Curve",
+      "date": "Fri, 17 Apr 2026 08:00:00 -0000",
+      "duration": "3912",
+      "summary": "Summary generation failed.",
+      "keyTakeaways": [],
+      "url": ""
     },
     {
       "title": "Anthropic's Mythos Is More Powerful Than the U.S. Government's AI. Does That Make Sense?",
@@ -283,33 +310,6 @@
       "podcast": "Bankless",
       "date": "Thu, 16 Apr 2026 10:45:00 -0000",
       "duration": "4592",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": ""
-    },
-    {
-      "title": "Technology, Culture, and the Next AI Interface with sign\u00fcll",
-      "podcast": "a16z Podcast",
-      "date": "Thu, 16 Apr 2026 10:00:00 +0000",
-      "duration": "00:34:12",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": "https://a16z.simplecast.com/episodes/technology-culture-and-the-next-ai-interface-with-signull-4oQgR1i2"
-    },
-    {
-      "title": "Welcome to AI in the AM: RL for EE, Oversight w/out Nationalization, &amp; the first AI-Run Retail Store",
-      "podcast": "Cognitive Revolution",
-      "date": "Wed, 15 Apr 2026 14:07:41 -0000",
-      "duration": "9047",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": "https://www.cognitiverevolution.ai/welcome-to-ai-in-the-am-rl-for-ee-oversight-w-out-nationalization-the-first-ai-run-retail-store/"
-    },
-    {
-      "title": "Non-Traditional Views on Anthropic's IPO",
-      "podcast": "No Priors",
-      "date": "Wed, 15 Apr 2026 11:23:58 -0000",
-      "duration": "00:15:08",
       "summary": "Summary generation failed.",
       "keyTakeaways": [],
       "url": ""
