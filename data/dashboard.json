@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-04-18T14:00:41.397441+00:00",
+  "lastUpdated": "2026-04-19T13:59:14.033671+00:00",
   "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "Madonna joins Sabrina Carpenter to surprise Coachella",
+      "title": "Australia's most-decorated soldier vows to fight war crime charges",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c77my6gnpy4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 18 Apr 2026 10:32:54 GMT",
-      "summary": "The Queen of Pop makes a guest appearance during the Espresso singer's headline set."
+      "url": "https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 19 Apr 2026 05:12:40 GMT",
+      "summary": "Ben Roberts-Smith has given his first statement since he was charged with five counts of the war crime of murder last week."
     },
     {
-      "title": "Orb\u00e1n's era was over in a flash and Hungary's next PM is a man in a hurry",
+      "title": "Pope says 'tyrants' speech was not aimed at Trump",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c4g40npz37lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 18 Apr 2026 13:00:44 GMT",
-      "summary": "P\u00e9ter Magyar and his Tisza party are wasting no time preparing for the transfer of power after their dramatic landslide victory."
+      "url": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 19 Apr 2026 07:47:35 GMT",
+      "summary": "The pontiff says his remarks have been misinterpreted after a spat with the US president."
     },
     {
-      "title": "Millions listen to Ethiopian star's song taking swipe at government",
+      "title": "Rat poison found in HiPP baby food jar in Austria, police say",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cqj81g5dxkyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 18 Apr 2026 13:13:21 GMT",
-      "summary": "The country's biggest musician Teddy Afro laments a lack of unity in the country on his new track."
+      "url": "https://www.bbc.com/news/articles/cvg07lq5ql4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 19 Apr 2026 12:52:26 GMT",
+      "summary": "The brand warned on Saturday that consuming the pur\u00e9es may be potentially \"life-threatening\"."
     },
     {
-      "title": "French film star Nathalie Baye dies aged 77, media report",
+      "title": "Zelensky condemns US extension of Russian sanctions waiver",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cn9q48y9wr7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 18 Apr 2026 12:31:16 GMT",
-      "summary": "President Macron said France had \"loved, dreamed and grown up\" with the stalwart of French cinema."
+      "url": "https://www.bbc.com/news/articles/c248m3z49j1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 19 Apr 2026 09:55:22 GMT",
+      "summary": "The US argues that the waiver is meant to ease the energy supply crunch sparked by the US-Israel war with Iran."
     },
     {
-      "title": "DR Congo accepts first set of deportees from the US",
+      "title": "Bodies of 50 infants dumped at Trinidad graveyard",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cp84rye3lg8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 18 Apr 2026 09:18:16 GMT",
-      "summary": "The Congolese government stresses those expelled from the US are only in the country temporarily."
+      "url": "https://www.bbc.com/news/articles/ce8jl1271pjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 19 Apr 2026 07:49:45 GMT",
+      "summary": "Police say a preliminary investigation shows it may be a case of an \"unlawful disposal of unclaimed corpses\"."
     }
   ],
   "cryptoAssets": [
@@ -43,59 +43,80 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 76137,
-      "change24h": -1.55481,
-      "marketCap": 1523973035309,
+      "price": 75938,
+      "change24h": -0.26127,
+      "marketCap": 1520496032064,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2356.32,
-      "change24h": -3.41416,
-      "marketCap": 284373783770,
+      "price": 2339.08,
+      "change24h": -0.73186,
+      "marketCap": 282322718790,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Poland parliament fails again to override presidential veto on crypto bill",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/poland-parliament-fails-again-to-override-presidential-veto-crypto-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 18 Apr 2026 13:24:23 +0100",
-      "summary": "Poland\u2019s parliament has once again failed to overturn President Karol Nawrocki\u2019s veto of the crypto regulation bill."
-    },
-    {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 18 Apr 2026 13:06:40 +0100",
+      "publishedAt": "Sun, 19 Apr 2026 13:49:36 +0100",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
     },
     {
-      "title": "Stablecoins behave like FX markets as liquidity splits: Eco CEO",
+      "title": "Bitcoin price drops to $75K as new Hormuz closure puts focus on oil",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/stablecoins-behave-fx-markets-liquidity-splits-eco-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 18 Apr 2026 13:00:00 +0100",
-      "summary": "Stablecoins promise seamless dollar movement, but fragmented liquidity is turning large transfers into complex execution problems, says Eco CEO Ryne Saxe."
+      "url": "https://cointelegraph.com/news/bitcoin-price-drops-75k-new-hormuz-closure-focus-oil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 19 Apr 2026 13:27:28 +0100",
+      "summary": "Bitcoin foreshadows fresh market mayhem as it appears that the US-Iran war has returned, including the closure of the Strait of Hormuz oil route."
     },
     {
-      "title": "Spot Bitcoin ETFs attract nearly $1B in weekly inflows as risk sentiment improves",
+      "title": "Aluminum giant Alcoa to sell dormant smelter to Bitcoin miner NYDIG: Report",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/spot-bitcoin-etfs-1b-weekly-inflows-risk-sentiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 18 Apr 2026 09:28:25 +0100",
-      "summary": "Spot Bitcoin ETFs recorded nearly $1 billion in weekly inflows, their strongest performance in over three months amid improving risk sentiment."
+      "url": "https://cointelegraph.com/news/alcoa-sells-massena-smelter-nydig-bitcoin-mining-ai-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 19 Apr 2026 11:19:28 +0100",
+      "summary": "Alcoa is nearing a deal to sell its idle Massena East smelter to NYDIG as US industrial sites increasingly shift toward Bitcoin mining and AI data centers."
     },
     {
-      "title": "SEC charges Donald Basile in $16M crypto fraud tied to \u2018insured\u2019 token",
+      "title": "RaveDAO denies manipulation as Binance, Bitget probe RAVE trading activity",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/sec-donald-basile-16m-crypto-fraud-insured-token?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 18 Apr 2026 08:32:40 +0100",
-      "summary": "The SEC has sued crypto executive Donald Basile over an alleged $16 million scheme involving false claims about an \u201cinsured\u201d Bitcoin Latinum token."
+      "url": "https://cointelegraph.com/news/ravedao-denies-manipulation-binance-bitget-probe-rave-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 19 Apr 2026 08:19:50 +0100",
+      "summary": "RaveDAO denies involvement in RAVE token price surge and crash as Binance and Bitget launch investigations into suspected market manipulation."
+    },
+    {
+      "title": "Charles Schwab, Citadel Securities weigh entering prediction markets",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/charles-schwab-citadel-securities-weighing-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 19 Apr 2026 06:38:54 +0100",
+      "summary": "Charles Schwab and Citadel Securities executives have separately aired interest in prediction markets, but each is looking to steer clear of sports offerings."
     }
   ],
   "aiNews": [
+    {
+      "title": "Tesla brings its robotaxi service to Dallas and Houston",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+      "publishedAt": "Sat, 18 Apr 2026 21:37:15 +0000",
+      "summary": "The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026. "
+    },
+    {
+      "title": "AI chip startup Cerebras files for IPO",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+      "publishedAt": "Sat, 18 Apr 2026 19:19:11 +0000",
+      "summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion."
+    },
+    {
+      "title": "Anthropic\u2019s relationship with the Trump administration seems to be thawing",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
+      "publishedAt": "Sat, 18 Apr 2026 14:56:48 +0000",
+      "summary": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration."
+    },
     {
       "title": "The App Store is booming again, and AI may be why",
       "source": "TechCrunch",
@@ -109,27 +130,6 @@
       "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
       "publishedAt": "Fri, 17 Apr 2026 22:34:02 +0000",
       "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships. "
-    },
-    {
-      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed \u2018side quests\u2019",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
-      "publishedAt": "Fri, 17 Apr 2026 20:38:17 +0000",
-      "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI."
-    },
-    {
-      "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
-      "publishedAt": "Fri, 17 Apr 2026 19:17:26 +0000",
-      "summary": "Returning backers a16z and Thrive are expected to lead the round."
-    },
-    {
-      "title": "\u2018Tokenmaxxing\u2019 is making developers less productive than they think",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
-      "publishedAt": "Fri, 17 Apr 2026 18:42:45 +0000",
-      "summary": "There's a lot more code \u2014 but it's a lot more expensive and requires a lot more rewriting. "
     }
   ],
   "techMovers": [
@@ -192,7 +192,7 @@
       "riskLevel": "Low"
     }
   ],
-  "fearGreedIndex": 26,
+  "fearGreedIndex": 27,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
@@ -224,6 +224,15 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Network Effects, AI Costs, and the Future of Consumer Investing with Anish Acharya on The Kevin Rose Show",
+      "podcast": "a16z Podcast",
+      "date": "Sun, 19 Apr 2026 10:00:00 +0000",
+      "duration": "00:58:45",
+      "summary": "Summary generation failed.",
+      "keyTakeaways": [],
+      "url": "https://a16z.simplecast.com/episodes/network-effects-ai-costs-and-the-future-of-consumer-investing-with-anish-acharya-on-the-kevin-rose-show-qd4UBcAL"
+    },
     {
       "title": "How the DOJ and SEC Cases Against BitClout's Nader Al-Naji Collapsed",
       "podcast": "Unchained",
@@ -301,15 +310,6 @@
       "podcast": "No Priors",
       "date": "Thu, 16 Apr 2026 22:13:12 -0000",
       "duration": "00:14:22",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": ""
-    },
-    {
-      "title": "Why Hasn&#39;t The Dollar Fallen? | Lessons from Currency Historian Barry Eichengreen",
-      "podcast": "Bankless",
-      "date": "Thu, 16 Apr 2026 10:45:00 -0000",
-      "duration": "4592",
       "summary": "Summary generation failed.",
       "keyTakeaways": [],
       "url": ""
