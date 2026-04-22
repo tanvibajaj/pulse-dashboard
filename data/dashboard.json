@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-04-21T14:46:18.879631+00:00",
+  "lastUpdated": "2026-04-22T14:45:50.707370+00:00",
   "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "Zelensky says failure of US envoys to visit Kyiv is 'disrespectful'",
+      "title": "EU approves \u20ac90bn loan for Ukraine as pipeline is turned on ending deadlock",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cd9v420y190o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Apr 2026 11:37:11 GMT",
-      "summary": "US envoy Steve Witkoff and Donald Trump's son-in-law Jared Kushner have travelled to Moscow several times, but never to Kyiv."
+      "url": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Apr 2026 11:19:57 GMT",
+      "summary": "Ukraine says it has reopened the Druzhba pipeline, after months of stalemate over stalled oil supplies to neighbouring Hungary."
     },
     {
-      "title": "Unprecedented ruling finds Hungary's anti-LGBTQ laws in breach of EU values",
+      "title": "Lufthansa cuts 20,000 summer flights as fuel prices surge",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cddqvyr0yjro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Apr 2026 12:28:31 GMT",
-      "summary": "The EU's top court finds that the reforms breached EU values on a number of levels and broke the founding values of the EU treaty."
+      "url": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Apr 2026 10:31:29 GMT",
+      "summary": "The airline is the latest to cut flights as the US-Israel war with Iran sends jet fuel prices soaring."
     },
     {
-      "title": "Japan loosens arms export rules in break from post-WW2 pacifism",
+      "title": "Mexico officials say Teotihuac\u00e1n gunman carried material related to US mass shooting",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/clyx4vlqy4vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Apr 2026 10:13:54 GMT",
-      "summary": "This clears the way for Japan to sell weapons to more than a dozen countries."
+      "url": "https://www.bbc.com/news/articles/c393mped8zjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Apr 2026 03:11:57 GMT",
+      "summary": "The gunman visited the archaeological site repeatedly and appeared to act alone."
     },
     {
-      "title": "Nigeria charges six people with treason over Independence Day coup plot",
+      "title": "South Korean fighter jets collided due to pilots taking pictures, report finds",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c0krlxg384eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Apr 2026 14:28:09 GMT",
-      "summary": "Allegations of a coup plot first surfaced in October 2025 when an Independence Day parade was cancelled."
+      "url": "https://www.bbc.com/news/articles/czjwz8we1zzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Apr 2026 08:35:34 GMT",
+      "summary": "One of the pilots has been fined thousands of dollars by the military to cover repair costs."
     },
     {
-      "title": "Role of US officials killed in crash in Mexico under scrutiny",
+      "title": "Trump buys time for Iran deal after frantic day of diplomacy",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c86expy881qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Apr 2026 14:38:39 GMT",
-      "summary": "The two died in a car crash after a Mexican-led operation to destroy a clandestine drug lab."
+      "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Apr 2026 00:32:10 GMT",
+      "summary": "The US president's decision marked the second time in as many weeks he has backed off a threat to escalate the war, buying more time."
     }
   ],
   "cryptoAssets": [
@@ -43,130 +43,130 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 76479,
-      "change24h": 1.54241,
-      "marketCap": 1531124177498,
+      "price": 78825,
+      "change24h": 3.06252,
+      "marketCap": 1579441772725,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2322.48,
-      "change24h": 0.86521,
-      "marketCap": 280390510578,
+      "price": 2400.25,
+      "change24h": 3.31373,
+      "marketCap": 290012994924,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "UK plans payments rule changes for stablecoins, tokenized deposits",
+      "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/uk-plans-payments-rule-changes-for-stablecoins-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 21 Apr 2026 15:06:11 +0100",
-      "summary": "The UK government plans a stablecoin and tokenization rules overhaul, appointing former FCA official Chris Woolard to support work on its digital markets strategy."
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 22 Apr 2026 15:13:14 +0100",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
     },
     {
-      "title": "South Korea tax agency opens bidding for crypto tracing tool",
+      "title": "Binance.US cuts spot trading fees to near zero in push to undercut rivals",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/south-korea-crypto-tax-ai-monitoring-system-procurement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 21 Apr 2026 14:47:49 +0100",
-      "summary": "South Korea's tax authority is looking to build crypto transaction tracking software that can help track potential tax evaders."
+      "url": "https://cointelegraph.com/news/binance-us-cuts-spot-trading-fees-to-near-zero-in-push-to-undercut-rivals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 22 Apr 2026 15:00:00 +0100",
+      "summary": "The exchange set maker fees at 0% and taker fees at 0.02% across all pairs, extending near-zero pricing to all users with no volume tiers or subscription requirements."
     },
     {
-      "title": "Crypto hackers stole $17B over past 10 years: DefiLlama",
+      "title": "Aave deposits fall by $15B as Kelp exploit sparks flight from DeFi lender",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/private-key-compromises-led-crypto-hack-losses-decade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 21 Apr 2026 14:42:32 +0100",
-      "summary": "Private key compromises led crypto hack losses over the past decade as recent DeFi exploits show attackers moving beyond smart contract bugs."
+      "url": "https://cointelegraph.com/news/aave-deposits-drop-15b-kelp-dao-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 22 Apr 2026 14:47:33 +0100",
+      "summary": "Aave\u2019s supplied balance has tanked since the Kelp DAO bridge exploit, as users pull funds amid uncertainty over how much of the rsETH-linked shortfall the protocol will ultimately absorb."
     },
     {
-      "title": "Canton, ZKsync clash over how blockchains enforce rules",
+      "title": "UK cracks down on illegal peer-to-peer crypto trading in nationwide raids",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/canton-zksync-clash-blockchains-enforce-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 21 Apr 2026 14:30:10 +0100",
-      "summary": "Matter Labs\u2019 Alex Gluchowski says Canton isn\u2019t a blockchain, while Digital Asset co-founders argue public chains aren\u2019t that different."
+      "url": "https://cointelegraph.com/news/uk-fca-illegal-peer-to-peer-crypto-trading-raids?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 22 Apr 2026 14:38:00 +0100",
+      "summary": "The Financial Conduct Authority has raided eight locations suspected of illegal peer-to-peer crypto trading, issuing cease-and-desist orders."
     },
     {
-      "title": "XRP holders back in profit as price eyes potential 55% breakout",
+      "title": "Europe\u2019s MiCA regime puts smaller crypto firms under pressure",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/xrp-holders-back-in-profit-price-gears-up-for-55-percent-breakout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 21 Apr 2026 13:50:35 +0100",
-      "summary": "Most XRP investors are back in profit, increasing the chance for a rally to $2.24, but bulls must first hold the price above $1.40."
+      "url": "https://cointelegraph.com/news/europe-mica-regime-smaller-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 22 Apr 2026 14:28:35 +0100",
+      "summary": "Smaller crypto companies across Europe face mounting compliance costs as MiCA moves from framework to enforcement, raising fears of market consolidation."
     }
   ],
   "aiNews": [
     {
-      "title": "GRAI believes AI can make music more social, not replace artists",
+      "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/",
-      "publishedAt": "Tue, 21 Apr 2026 13:00:00 +0000",
-      "summary": "AI music startup GRAI says fans want to remix tracks, not generate songs from scratch."
+      "url": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
+      "publishedAt": "Wed, 22 Apr 2026 14:22:10 +0000",
+      "summary": "Infosys said the integration will be used to help its clients modernize software development, automate workflows and deploy AI systems, initially focusing software engineering, legacy modernization, a"
     },
     {
-      "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+      "title": "AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
-      "publishedAt": "Mon, 20 Apr 2026 23:10:27 +0000",
-      "summary": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return."
+      "url": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
+      "publishedAt": "Wed, 22 Apr 2026 13:00:00 +0000",
+      "summary": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules. "
     },
     {
-      "title": "Google rolls out Gemini in Chrome in APAC countries",
+      "title": "The most interesting startups showcased at Google Cloud Next\u00a02026",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
-      "publishedAt": "Mon, 20 Apr 2026 22:00:00 +0000",
-      "summary": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of t"
+      "url": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
+      "publishedAt": "Wed, 22 Apr 2026 12:00:00 +0000",
+      "summary": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference.  "
     },
     {
-      "title": "It\u2019s not just one thing \u2014 it\u2019s another thing",
+      "title": "Google Maps is about to get a big dose of AI",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
-      "publishedAt": "Mon, 20 Apr 2026 19:37:07 +0000",
-      "summary": "This sentence construction (\"It's not just this \u2014 it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic \u2014 it's almost a guar"
+      "url": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/",
+      "publishedAt": "Wed, 22 Apr 2026 12:00:00 +0000",
+      "summary": "Generative AI is being infused into Google's popular feature within Maps. "
     },
     {
-      "title": "NSA spies are reportedly using Anthropic\u2019s Mythos, despite Pentagon feud",
+      "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multi-billion-dollar deal",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
-      "publishedAt": "Mon, 20 Apr 2026 16:06:21 +0000",
-      "summary": "NSA is said to be using Anthropic's restricted Mythos AI model."
+      "url": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
+      "publishedAt": "Wed, 22 Apr 2026 12:00:00 +0000",
+      "summary": "Mira Murati's Thinking Machines Lab has signed a multi-billion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned."
     }
   ],
   "techMovers": [
     {
-      "ticker": "ORCL",
-      "name": "Oracle Corp",
-      "price": 184.1,
-      "change": 6.52,
-      "changePercent": 3.67
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "price": 207.75,
+      "change": 11.8,
+      "changePercent": 6.02
     },
     {
-      "ticker": "CRM",
-      "name": "Salesforce Inc",
-      "price": 191.79,
-      "change": 5.52,
-      "changePercent": 2.96
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 295.01,
+      "change": 10.52,
+      "changePercent": 3.7
     },
     {
       "ticker": "SNOW",
       "name": "Snowflake Inc",
-      "price": 153.88,
-      "change": 3.44,
-      "changePercent": 2.29
+      "price": 154.9,
+      "change": 4.06,
+      "changePercent": 2.69
     },
     {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "price": 207.3,
-      "change": -4.33,
-      "changePercent": -2.05
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "price": 185.88,
+      "change": 4.71,
+      "changePercent": 2.6
     },
     {
-      "ticker": "MSFT",
-      "name": "Microsoft Corp",
-      "price": 425.71,
-      "change": 7.64,
-      "changePercent": 1.83
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "price": 412.07,
+      "change": 9.89,
+      "changePercent": 2.46
     }
   ],
   "pulsePicks": [
@@ -192,13 +192,13 @@
       "riskLevel": "Low"
     }
   ],
-  "fearGreedIndex": 33,
+  "fearGreedIndex": 32,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 312.06,
-    "change": -1.88,
-    "changePercent": -0.6
+    "price": 309.43,
+    "change": -0.51,
+    "changePercent": -0.16
   },
   "earnings": [],
   "marketIndicators": [
@@ -224,6 +224,24 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Balaji Srinivasan: Prove Correct, Not Just Go Direct",
+      "podcast": "a16z Podcast",
+      "date": "Wed, 22 Apr 2026 10:00:00 +0000",
+      "duration": "02:01:33",
+      "summary": "Summary generation failed.",
+      "keyTakeaways": [],
+      "url": "https://a16z.simplecast.com/episodes/balaji-srinivasan-prove-correct-not-just-go-direct-2mZ_Tjdd"
+    },
+    {
+      "title": "New Apple CEO, OpenAI's New Image Model, Vercel AI Hack",
+      "podcast": "No Priors",
+      "date": "Tue, 21 Apr 2026 21:42:21 -0000",
+      "duration": "00:16:07",
+      "summary": "Summary generation failed.",
+      "keyTakeaways": [],
+      "url": ""
+    },
     {
       "title": "Productive Money: The Most Bullish Case for Ethereum ($250K) | Michael McGuiness &amp; Vivek Raman",
       "podcast": "Bankless",
@@ -292,24 +310,6 @@
       "podcast": "Unchained",
       "date": "Sun, 19 Apr 2026 17:34:00 -0000",
       "duration": "2681",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": ""
-    },
-    {
-      "title": "Network Effects, AI Costs, and the Future of Consumer Investing with Anish Acharya on The Kevin Rose Show",
-      "podcast": "a16z Podcast",
-      "date": "Sun, 19 Apr 2026 10:00:00 +0000",
-      "duration": "00:58:45",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": "https://a16z.simplecast.com/episodes/network-effects-ai-costs-and-the-future-of-consumer-investing-with-anish-acharya-on-the-kevin-rose-show-qd4UBcAL"
-    },
-    {
-      "title": "How the DOJ and SEC Cases Against BitClout's Nader Al-Naji Collapsed",
-      "podcast": "Unchained",
-      "date": "Sat, 18 Apr 2026 01:12:00 -0000",
-      "duration": "4848",
       "summary": "Summary generation failed.",
       "keyTakeaways": [],
       "url": ""
