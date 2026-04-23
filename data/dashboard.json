@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-04-22T14:45:50.707370+00:00",
+  "lastUpdated": "2026-04-23T15:11:26.103629+00:00",
   "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "EU approves \u20ac90bn loan for Ukraine as pipeline is turned on ending deadlock",
+      "title": "In Tehran, money is short and a return to war looms over daily life",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 22 Apr 2026 11:19:57 GMT",
-      "summary": "Ukraine says it has reopened the Druzhba pipeline, after months of stalemate over stalled oil supplies to neighbouring Hungary."
+      "url": "https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 23 Apr 2026 11:26:01 GMT",
+      "summary": "The BBC's Lyse Doucet reports from Iran, where the buzz of busy shopping streets masks deep uncertainty over the country's future. "
     },
     {
-      "title": "Lufthansa cuts 20,000 summer flights as fuel prices surge",
+      "title": "More than 500 people killed in Tanzania election violence, inquiry finds",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 22 Apr 2026 10:31:29 GMT",
-      "summary": "The airline is the latest to cut flights as the US-Israel war with Iran sends jet fuel prices soaring."
+      "url": "https://www.bbc.com/news/articles/cgld775knzyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 23 Apr 2026 12:28:29 GMT",
+      "summary": "Opposition parties accused security forces but the official report does not say who was responsible."
     },
     {
-      "title": "Mexico officials say Teotihuac\u00e1n gunman carried material related to US mass shooting",
+      "title": "US Navy chief leaving post 'effective immediately', Pentagon says ",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c393mped8zjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 22 Apr 2026 03:11:57 GMT",
-      "summary": "The gunman visited the archaeological site repeatedly and appeared to act alone."
+      "url": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 23 Apr 2026 08:37:14 GMT",
+      "summary": "Reports say Phelan, whose role was largely administrative, left amid tension over US shipbuilding."
     },
     {
-      "title": "South Korean fighter jets collided due to pilots taking pictures, report finds",
+      "title": "Two trains collide head-on in Denmark, leaving five critically hurt",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/czjwz8we1zzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 22 Apr 2026 08:35:34 GMT",
-      "summary": "One of the pilots has been fined thousands of dollars by the military to cover repair costs."
+      "url": "https://www.bbc.com/news/articles/cgqkw3qk0dlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 23 Apr 2026 13:54:16 GMT",
+      "summary": "The accident happened early on Thursday at a level crossing north of Copenhagen. "
     },
     {
-      "title": "Trump buys time for Iran deal after frantic day of diplomacy",
+      "title": "MrBeast's company sued by ex-employee over sexual harassment claim",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 22 Apr 2026 00:32:10 GMT",
-      "summary": "The US president's decision marked the second time in as many weeks he has backed off a threat to escalate the war, buying more time."
+      "url": "https://www.bbc.com/news/articles/c937z1nxze8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 23 Apr 2026 13:32:05 GMT",
+      "summary": "Beast Industries has strongly denied claims of sexual harassment and workplace gender bias."
     }
   ],
   "cryptoAssets": [
@@ -43,130 +43,130 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 78825,
-      "change24h": 3.06252,
-      "marketCap": 1579441772725,
+      "price": 78033,
+      "change24h": -1.19314,
+      "marketCap": 1562603869507,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2400.25,
-      "change24h": 3.31373,
-      "marketCap": 290012994924,
+      "price": 2327.01,
+      "change24h": -3.0192,
+      "marketCap": 280876196629,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Here\u2019s what happened in crypto today",
+      "title": "FTX estate misses out on $3B Cursor stake value after $200K sale in 2023",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 22 Apr 2026 15:13:14 +0100",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
+      "url": "https://cointelegraph.com/news/ftx-estate-misses-3b-cursor-stake-value-200k-sale-2023?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 23 Apr 2026 14:33:13 +0000",
+      "summary": "The FTX estate sold its Cursor stake for $200K in 2023, now worth $3B after a SpaceX-linked valuation surge, raising questions about bankruptcy asset sales."
     },
     {
-      "title": "Binance.US cuts spot trading fees to near zero in push to undercut rivals",
+      "title": "OKX accelerates US push with BitGo off-exchange settlement",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/binance-us-cuts-spot-trading-fees-to-near-zero-in-push-to-undercut-rivals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 22 Apr 2026 15:00:00 +0100",
-      "summary": "The exchange set maker fees at 0% and taker fees at 0.02% across all pairs, extending near-zero pricing to all users with no volume tiers or subscription requirements."
+      "url": "https://cointelegraph.com/news/okx-accelerates-us-push-with-bitgo-off-exchange-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 23 Apr 2026 13:51:26 +0000",
+      "summary": "OKX integrates BitGo off-exchange settlement for US institutions, reducing pre-funding requirements and marking a key step in its US expansion following ICE investment."
     },
     {
-      "title": "Aave deposits fall by $15B as Kelp exploit sparks flight from DeFi lender",
+      "title": "Kelp DAO exploiter launders nearly all 75,700 in stolen ETH through THORchain",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/aave-deposits-drop-15b-kelp-dao-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 22 Apr 2026 14:47:33 +0100",
-      "summary": "Aave\u2019s supplied balance has tanked since the Kelp DAO bridge exploit, as users pull funds amid uncertainty over how much of the rsETH-linked shortfall the protocol will ultimately absorb."
+      "url": "https://cointelegraph.com/news/kelp-dao-hacker-launders-75-700-eth-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 23 Apr 2026 13:17:53 +0000",
+      "summary": "The wallet linked to the Kelp DAO exploit appears to have laundered most of the $175 million worth of stolen Ether, while another $71 million remains frozen by Arbitrum\u2019s security council."
     },
     {
-      "title": "UK cracks down on illegal peer-to-peer crypto trading in nationwide raids",
+      "title": "Andre Cronje\u2019s Flying Tulip adds withdrawal circuit breaker as DeFi exploits mount",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/uk-fca-illegal-peer-to-peer-crypto-trading-raids?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 22 Apr 2026 14:38:00 +0100",
-      "summary": "The Financial Conduct Authority has raided eight locations suspected of illegal peer-to-peer crypto trading, issuing cease-and-desist orders."
+      "url": "https://cointelegraph.com/news/flying-tulip-withdrawal-circuit-breaker-defi-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 23 Apr 2026 12:34:58 +0000",
+      "summary": "Flying Tulip said its withdrawal safeguard is designed to fail open, while a status page lets users monitor the system in real time."
     },
     {
-      "title": "Europe\u2019s MiCA regime puts smaller crypto firms under pressure",
+      "title": "BlackRock drives 7-day Bitcoin ETF inflow streak as BTC nears $80,000",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/europe-mica-regime-smaller-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 22 Apr 2026 14:28:35 +0100",
-      "summary": "Smaller crypto companies across Europe face mounting compliance costs as MiCA moves from framework to enforcement, raising fears of market consolidation."
+      "url": "https://cointelegraph.com/news/bitcoin-etf-1-9-billiow-7-day-inflow-streak-btc-near-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 23 Apr 2026 11:55:43 +0000",
+      "summary": "US-listed spot Bitcoin ETFs recorded a seven-day inflow streak totaling $1.9 billion, surpassing their March run over a similar period."
     }
   ],
   "aiNews": [
     {
-      "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
+      "title": "Grab a ticket today: The first StrictlyVC of 2026 kicks off in just a week in San Francisco",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
-      "publishedAt": "Wed, 22 Apr 2026 14:22:10 +0000",
-      "summary": "Infosys said the integration will be used to help its clients modernize software development, automate workflows and deploy AI systems, initially focusing software engineering, legacy modernization, a"
+      "url": "https://techcrunch.com/2026/04/23/grab-a-ticket-today-the-first-strictlyvc-of-2026-kicks-off-in-just-a-week-in-san-francisco/",
+      "publishedAt": "Thu, 23 Apr 2026 14:00:00 +0000",
+      "summary": "StrictlyVC San Francisco is in just a week. Now\u2019s the time to grab yourself a ticket. Join VCs and founders at Sentro Filipino Cultural Center on April 30."
     },
     {
-      "title": "AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.",
+      "title": "Another customer of troubled startup Delve suffered a big security incident",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
-      "publishedAt": "Wed, 22 Apr 2026 13:00:00 +0000",
-      "summary": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules. "
+      "url": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/",
+      "publishedAt": "Thu, 23 Apr 2026 14:00:00 +0000",
+      "summary": "TechCrunch has confirmed that Delve was the compliance company that performed the security certifications for Context AI, the AI agent training startup that last week disclosed a security incident."
     },
     {
-      "title": "The most interesting startups showcased at Google Cloud Next\u00a02026",
+      "title": "AI galaxy hunters are adding to the global GPU crunch",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
-      "publishedAt": "Wed, 22 Apr 2026 12:00:00 +0000",
-      "summary": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference.  "
+      "url": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/",
+      "publishedAt": "Thu, 23 Apr 2026 13:00:00 +0000",
+      "summary": "Astronomers are turning to GPUs to find needles in the galactic haystack. "
     },
     {
-      "title": "Google Maps is about to get a big dose of AI",
+      "title": "Beehiiv rolls out new creator tools, including webinars and customizable paywalls",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/",
-      "publishedAt": "Wed, 22 Apr 2026 12:00:00 +0000",
-      "summary": "Generative AI is being infused into Google's popular feature within Maps. "
+      "url": "https://techcrunch.com/2026/04/23/beehiiv-rolls-out-new-creator-tools-including-webinars-and-customizable-paywalls/",
+      "publishedAt": "Thu, 23 Apr 2026 12:00:00 +0000",
+      "summary": "Beehiiv is clearly done being just a newsletter platform based on today's launch of a new webinar feature, customizable paywalls, and more."
     },
     {
-      "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multi-billion-dollar deal",
+      "title": "India\u2019s app market is booming \u2014 but global platforms are capturing most of the gains",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
-      "publishedAt": "Wed, 22 Apr 2026 12:00:00 +0000",
-      "summary": "Mira Murati's Thinking Machines Lab has signed a multi-billion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned."
+      "url": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
+      "publishedAt": "Thu, 23 Apr 2026 04:38:45 +0000",
+      "summary": "Non-gaming apps, led by streaming and AI, are driving growth, even as India's spending per user lags global peers."
     }
   ],
   "techMovers": [
     {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "price": 207.75,
-      "change": 11.8,
-      "changePercent": 6.02
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 295.01,
-      "change": 10.52,
-      "changePercent": 3.7
+      "ticker": "CRM",
+      "name": "Salesforce Inc",
+      "price": 174.55,
+      "change": -15.25,
+      "changePercent": -8.03
     },
     {
       "ticker": "SNOW",
       "name": "Snowflake Inc",
-      "price": 154.9,
-      "change": 4.06,
-      "changePercent": 2.69
+      "price": 145.75,
+      "change": -9.82,
+      "changePercent": -6.31
     },
     {
       "ticker": "ORCL",
       "name": "Oracle Corp",
-      "price": 185.88,
-      "change": 4.71,
-      "changePercent": 2.6
+      "price": 181.79,
+      "change": -5.71,
+      "changePercent": -3.05
     },
     {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc",
-      "price": 412.07,
-      "change": 9.89,
-      "changePercent": 2.46
+      "ticker": "TSLA",
+      "name": "Tesla Inc",
+      "price": 377.27,
+      "change": -10.24,
+      "changePercent": -2.64
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft Corp",
+      "price": 421.89,
+      "change": -11.03,
+      "changePercent": -2.55
     }
   ],
   "pulsePicks": [
@@ -192,13 +192,13 @@
       "riskLevel": "Low"
     }
   ],
-  "fearGreedIndex": 32,
+  "fearGreedIndex": 46,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 309.43,
-    "change": -0.51,
-    "changePercent": -0.16
+    "price": 306.68,
+    "change": -4.61,
+    "changePercent": -1.48
   },
   "earnings": [],
   "marketIndicators": [
@@ -224,6 +224,42 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "The $280M DeFi Exploit That Changes Crypto Forever | Dan Elitzer &amp; Odysseus",
+      "podcast": "Bankless",
+      "date": "Thu, 23 Apr 2026 10:58:00 -0000",
+      "duration": "4413",
+      "summary": "Summary generation failed.",
+      "keyTakeaways": [],
+      "url": ""
+    },
+    {
+      "title": "Forget What You Know: Google\u2019s AI Strategy",
+      "podcast": "No Priors",
+      "date": "Wed, 22 Apr 2026 21:51:51 -0000",
+      "duration": "00:16:13",
+      "summary": "Summary generation failed.",
+      "keyTakeaways": [],
+      "url": ""
+    },
+    {
+      "title": "Is Canton Permissionless? CEO Says Yes, but SuperValidators Need Approval",
+      "podcast": "Unchained",
+      "date": "Wed, 22 Apr 2026 18:31:00 -0000",
+      "duration": "5161",
+      "summary": "Summary generation failed.",
+      "keyTakeaways": [],
+      "url": ""
+    },
+    {
+      "title": "The Blockworks Vision",
+      "podcast": "Empire",
+      "date": "Wed, 22 Apr 2026 17:20:00 -0000",
+      "duration": "2701",
+      "summary": "Summary generation failed.",
+      "keyTakeaways": [],
+      "url": ""
+    },
     {
       "title": "Balaji Srinivasan: Prove Correct, Not Just Go Direct",
       "podcast": "a16z Podcast",
@@ -274,42 +310,6 @@
       "podcast": "No Priors",
       "date": "Mon, 20 Apr 2026 21:06:15 -0000",
       "duration": "00:14:26",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": ""
-    },
-    {
-      "title": "Solana vs Hyperliquid, Why Ethereum Is Overvalued &amp; Crypto In 2026 | Logan Jastremski",
-      "podcast": "Empire",
-      "date": "Mon, 20 Apr 2026 11:06:00 -0000",
-      "duration": "4137",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": ""
-    },
-    {
-      "title": "Can AI Agents Build Real Businesses? | Kelly Claude creator Austen Allred",
-      "podcast": "Bankless",
-      "date": "Mon, 20 Apr 2026 10:30:00 -0000",
-      "duration": "4477",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": ""
-    },
-    {
-      "title": "Vibe-Coding an Attention Firewall, w/ Steve Newman, creator of The Curve",
-      "podcast": "Cognitive Revolution",
-      "date": "Sun, 19 Apr 2026 18:54:51 -0000",
-      "duration": "7792",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": "https://www.cognitiverevolution.ai/vibe-coding-an-attention-firewall-w-steve-newman-creator-of-the-curve/"
-    },
-    {
-      "title": "Bits + Bips: Why Josh Lim Is Optimistic on the Dynamics He's Seeing in Bitcoin",
-      "podcast": "Unchained",
-      "date": "Sun, 19 Apr 2026 17:34:00 -0000",
-      "duration": "2681",
       "summary": "Summary generation failed.",
       "keyTakeaways": [],
       "url": ""
