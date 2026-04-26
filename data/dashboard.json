@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-04-25T14:02:09.409384+00:00",
+  "lastUpdated": "2026-04-26T14:03:51.543778+00:00",
   "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "Explosions and gunfire as armed groups launch coordinated attacks across Mali",
+      "title": "I was in the room with Trump and heard the low thudding sound of gunfire",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 26 Apr 2026 04:22:59 GMT",
+      "summary": "The BBC's Gary O'Donoghue describes the moment he and others dived for cover as shots rang out at the venue."
+    },
+    {
+      "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 25 Apr 2026 21:34:12 GMT",
+      "summary": "Iran had earlier said there were no plans for a direct meeting with a US delegation led by Steve Witkoff and Jared Kushner."
+    },
+    {
+      "title": "Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 26 Apr 2026 00:34:21 GMT",
+      "summary": "The Israeli PM's directive comes as six people were killed by strikes in Lebanon despite a ceasefire being extended by three weeks. "
+    },
+    {
+      "title": "Armed groups launch coordinated attacks across Mali",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 25 Apr 2026 11:21:03 GMT",
-      "summary": "Witnesses report clashes in the centre and north of the country in what has been described as the largest jihadist attack in years."
+      "publishedAt": "Sun, 26 Apr 2026 08:56:02 GMT",
+      "summary": "Witnesses report clashes in the centre and north, in what has been described as the largest jihadist attack in years."
     },
     {
-      "title": "Seven dead in major Russian attack on Ukraine",
+      "title": "Mexico says US agents killed in crash weren't permitted to operate there",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 25 Apr 2026 12:29:37 GMT",
-      "summary": "The city of Dnipro was hardest hit, with officials saying four died in a strike on a residential building."
-    },
-    {
-      "title": "Palestinians in West Bank and some in Gaza vote in local elections",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 25 Apr 2026 10:52:27 GMT",
-      "summary": "Local elections are held in the occupied West Bank and in one Gazan city, though Hamas and other groups are not taking part."
-    },
-    {
-      "title": "Katya Adler: Europe's Nato allies push back at reported US threat to Spain",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 25 Apr 2026 00:10:51 GMT",
-      "summary": "On Friday morning, souring relations between Europe and the United States  reared its Medusa-like head again, writes the BBC's Europe editor. "
-    },
-    {
-      "title": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Apr 2026 16:04:29 GMT",
-      "summary": "An internal Pentagon email reportedly outlines options to punish allies over a perceived lack of support for Iran war."
+      "url": "https://www.bbc.com/news/articles/cx2491we011o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 25 Apr 2026 17:40:51 GMT",
+      "summary": "The two Americans who reportedly worked for the CIA died in a car crash after a Mexican-led operation to destroy a drug lab."
     }
   ],
   "cryptoAssets": [
@@ -43,93 +43,93 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 77703,
-      "change24h": -0.25095,
-      "marketCap": 1555685428638,
+      "price": 77932,
+      "change24h": 0.28718,
+      "marketCap": 1560822265524,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2316.96,
-      "change24h": 0.24228,
-      "marketCap": 279719072472,
+      "price": 2334.28,
+      "change24h": 0.71481,
+      "marketCap": 281700493301,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Bitcoin traders eye $73K next as weekly trend line holds price hostage",
+      "title": "Ethereum Foundation unstakes 17K ETH after nearing 70K staked ETH milestone",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-traders-eye-73k-next-weekly-trend-line-holds-price-hostage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 25 Apr 2026 12:22:17 +0000",
-      "summary": "Bitcoin market participants favored a short-term return to $73,000 as resistance stayed in place, with some analysis seeing even lower levels."
+      "url": "https://cointelegraph.com/news/ethereum-foundation-unstakes-17k-eth-after-nearing-70k-staked-eth-milestone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 26 Apr 2026 11:55:32 +0000",
+      "summary": "The Ethereum Foundation unstaked over 17,000 ETH worth $40M shortly after approaching its 70,000 ETH staking target."
     },
     {
-      "title": "Kalshi, Polymarket among 27 prediction platforms banned in Brazil",
+      "title": "Trump\u2019s official memecoin extends slide as he hosts exclusive investor gala",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/kalshi-polymarket-among-27-prediction-platforms-banned-in-brazil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 25 Apr 2026 10:51:27 +0000",
-      "summary": "Brazil has blocked 27 prediction market platforms, including Kalshi and Polymarket, as new rules classify many contracts as gambling."
+      "url": "https://cointelegraph.com/news/trump-s-official-memecoin-extends-slide-even-as-he-hosts-exclusive-investor-gala?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 26 Apr 2026 08:58:23 +0000",
+      "summary": "TRUMP memecoin fell nearly 10% in 24 hours despite a Mar-a-Lago investor gala, with the token still down over 96% from its peak."
     },
     {
-      "title": "XRP may rise 30% as traders withdraw 35M tokens from exchanges in a day",
+      "title": "US DOJ sentences man to 70 months in prison for role in $263M scam group",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/xrp-price-may-rise-30-as-exchange-outflows-hit-nearly-35m-tokens-in-a-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 25 Apr 2026 08:55:43 +0000",
-      "summary": "Recent XRP outflow spikes have often come before short-term price rallies, signaling a potential move higher in May if the pattern repeats."
+      "url": "https://cointelegraph.com/news/doj-sentence-70-months-263m-crypto-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 25 Apr 2026 22:05:44 +0000",
+      "summary": "The group spent tens of millions of dollars on luxury items and real estate, using funds stolen from crypto users in social engineering scams."
     },
     {
-      "title": "Spot Bitcoin ETFs see 9-day inflow streak as investors show resilience",
+      "title": "Bitcoiners cast doubt on the US military's understanding of the network",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/spot-bitcoin-etfs-see-9-day-inflow-streak-as-investors-show-resilience?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 25 Apr 2026 08:35:46 +0000",
-      "summary": "US spot Bitcoin ETFs recorded $2.12 billion in inflows over nine days, signaling growing conviction among investors."
+      "url": "https://cointelegraph.com/news/bitcoiners-cast-doubt-us-military-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 25 Apr 2026 19:36:29 +0000",
+      "summary": "Bitcoin advocate Matthew Kratter said US Navy Admiral Samuel Paparo's Senate testimony on Tuesday sounded like it was written by an \"intern.\""
     },
     {
-      "title": "Hyperliquid whale holds $38M short against Bitcoin, but does it matter?",
+      "title": "CFTC sues New York over bid to apply gambling laws to prediction markets",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/hyperliquid-whale-holds-38m-short-against-bitcoin-but-does-it-matter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 25 Apr 2026 02:35:18 +0000",
-      "summary": "A Hyperliquid whale holds large short positions against Bitcoin and several altcoins. Does the position provide any signal on the markets\u2019 future outcomes?"
+      "url": "https://cointelegraph.com/news/cftc-sues-new-york-over-bid-to-apply-gambling-laws-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 25 Apr 2026 14:03:17 +0000",
+      "summary": "The CFTC has filed suit to block New York from enforcing gambling laws on prediction platforms, arguing federal regulators have sole authority over event-based contracts."
     }
   ],
   "aiNews": [
     {
-      "title": "Meta\u2019s loss is Thinking Machines\u2019 gain",
+      "title": "Anthropic created a test marketplace for agent-on-agent commerce",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
-      "publishedAt": "Fri, 24 Apr 2026 20:52:07 +0000",
-      "summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street."
+      "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+      "publishedAt": "Sat, 25 Apr 2026 21:43:37 +0000",
+      "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money."
     },
     {
-      "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+      "title": "Maine\u2019s governor vetoes data center moratorium",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
-      "publishedAt": "Fri, 24 Apr 2026 19:49:35 +0000",
-      "summary": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million."
+      "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+      "publishedAt": "Sat, 25 Apr 2026 20:57:08 +0000",
+      "summary": "L.D. 307 would have imposed the country\u2019s first statewide moratorium on new data centers \u2014 lasting, in this case, until November 1, 2027."
     },
     {
-      "title": "Google to invest up to $40B in Anthropic in cash and compute",
+      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
-      "publishedAt": "Fri, 24 Apr 2026 18:00:03 +0000",
-      "summary": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model."
+      "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+      "publishedAt": "Sat, 25 Apr 2026 17:17:56 +0000",
+      "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is \u201cdeeply sorry\u201d that his company failed to alert law enforcement about the suspect in a recent mass shooting."
     },
     {
-      "title": "Apple\u2019s new CEO, and why Elon Musk wants to buy Cursor for $60B",
+      "title": "Why Cohere is merging with Aleph Alpha",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/",
-      "publishedAt": "Fri, 24 Apr 2026 17:45:57 +0000",
-      "summary": "A new era is on the way for Apple as Tim Cook plans to step down from his CEO role in September,\u00a0handing the reins to hardware chief John Ternus.\u00a0\u00a0 Ternus may be inheriting one of the most durable bus"
+      "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+      "publishedAt": "Sat, 25 Apr 2026 16:00:00 +0000",
+      "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl\u2019s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alt"
     },
     {
-      "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
+      "title": "Why Tokyo is the most important tech destination of 2026",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
-      "publishedAt": "Fri, 24 Apr 2026 16:42:19 +0000",
-      "summary": "Apple\u2019s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools."
+      "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+      "publishedAt": "Sat, 25 Apr 2026 15:03:00 +0000",
+      "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these t"
     }
   ],
   "techMovers": [
@@ -192,7 +192,7 @@
       "riskLevel": "Low"
     }
   ],
-  "fearGreedIndex": 31,
+  "fearGreedIndex": 33,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
@@ -224,6 +224,24 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "AI in the AM: 99% off search, GPT-5.5 is \"clean\", model welfare analysis, &amp; efficient analog compute",
+      "podcast": "Cognitive Revolution",
+      "date": "Sun, 26 Apr 2026 13:44:56 -0000",
+      "duration": "9481",
+      "summary": "Summary generation failed.",
+      "keyTakeaways": [],
+      "url": "https://www.cognitiverevolution.ai/ai-in-the-am-99-off-search-gpt-5-5-is-clean-model-welfare-analysis-efficient-analog-compute/"
+    },
+    {
+      "title": "What Brings Capital Back to DeFi? | Roundup",
+      "podcast": "Bell Curve",
+      "date": "Sun, 26 Apr 2026 08:00:00 -0000",
+      "duration": "3339",
+      "summary": "Summary generation failed.",
+      "keyTakeaways": [],
+      "url": ""
+    },
     {
       "title": "Did Arbitrum Violate DRPK's Property Rights? No, Because It Wasn't Their Property",
       "podcast": "Unchained",
@@ -295,24 +313,6 @@
       "summary": "Summary generation failed.",
       "keyTakeaways": [],
       "url": "https://podcasters.spotify.com/pod/show/thedefiant/episodes/Should-Arbitrum-Have-Frozen-North-Koreas-Funds--Griff-Green-vs--Gabe-Shapiro-e3icjlj"
-    },
-    {
-      "title": "Does Learning Require Feeling? Cameron Berg on the latest AI Consciousness &amp; Welfare Research",
-      "podcast": "Cognitive Revolution",
-      "date": "Thu, 23 Apr 2026 15:32:01 -0000",
-      "duration": "12824",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": "https://www.cognitiverevolution.ai/does-learning-require-feeling-cameron-berg-on-the-latest-ai-consciousness-welfare-research/"
-    },
-    {
-      "title": "Aravind Srinivas & Edwin Chen: The $1B Bootstrap, Apple's AI Edge, and Benchmarks | TWiAI E10",
-      "podcast": "This Week in AI",
-      "date": "Thu, 23 Apr 2026 15:19:23 GMT",
-      "duration": "01:19:40",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": "https://podcasters.spotify.com/pod/show/oliver-k3/episodes/Aravind-Srinivas--Edwin-Chen-The-1B-Bootstrap--Apples-AI-Edge--and-Benchmarks--TWiAI-E10-e3ibs7q"
     }
   ]
 }
