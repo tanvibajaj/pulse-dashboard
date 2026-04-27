@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-04-26T14:03:51.543778+00:00",
+  "lastUpdated": "2026-04-27T15:06:01.641190+00:00",
   "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "I was in the room with Trump and heard the low thudding sound of gunfire",
+      "title": "What we're learning about suspected Washington press dinner gunman",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 26 Apr 2026 04:22:59 GMT",
-      "summary": "The BBC's Gary O'Donoghue describes the moment he and others dived for cover as shots rang out at the venue."
+      "url": "https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Apr 2026 11:56:08 GMT",
+      "summary": "The man arrested at the event attended by President Trump is due in court on Monday."
     },
     {
-      "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
+      "title": "Trump says King will be 'very safe' during US visit after security talks",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 25 Apr 2026 21:34:12 GMT",
-      "summary": "Iran had earlier said there were no plans for a direct meeting with a US delegation led by Steve Witkoff and Jared Kushner."
+      "url": "https://www.bbc.com/news/articles/c4gjger58jzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Apr 2026 09:19:11 GMT",
+      "summary": "The state visit will go ahead despite concerns raised after a gunman targeted an event attended by the president. "
     },
     {
-      "title": "Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon",
+      "title": "Colombia offers record $1.4m-reward for rebel it blames for deadly bomb attack",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 26 Apr 2026 00:34:21 GMT",
-      "summary": "The Israeli PM's directive comes as six people were killed by strikes in Lebanon despite a ceasefire being extended by three weeks. "
+      "url": "https://www.bbc.com/news/articles/cwyjykv4j9do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Apr 2026 11:42:59 GMT",
+      "summary": "Officials say a rebel leader known as \"Marlon\" ordered the attack in which 20 people were killed."
     },
     {
-      "title": "Armed groups launch coordinated attacks across Mali",
+      "title": "Russian fighters confirm withdrawal from northern Mali city after separatist attacks",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 26 Apr 2026 08:56:02 GMT",
-      "summary": "Witnesses report clashes in the centre and north, in what has been described as the largest jihadist attack in years."
+      "url": "https://www.bbc.com/news/articles/c3w3wyq4v14o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Apr 2026 14:32:49 GMT",
+      "summary": "Ethnic Tuareg fighters say they are in control of Kidal following a weekend of nationwide attacks, alongside Islamist groups."
     },
     {
-      "title": "Mexico says US agents killed in crash weren't permitted to operate there",
+      "title": "Sri Lankan monks arrested after 110kg of cannabis discovered in their luggage",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cx2491we011o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 25 Apr 2026 17:40:51 GMT",
-      "summary": "The two Americans who reportedly worked for the CIA died in a car crash after a Mexican-led operation to destroy a drug lab."
+      "url": "https://www.bbc.com/news/articles/cn4v4nzwj94o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Apr 2026 12:13:58 GMT",
+      "summary": "Officials say each monk was found with around 5kg of Kush - a particularly potent form of the drug - hidden within \"false walls\" in their luggage."
     }
   ],
   "cryptoAssets": [
@@ -43,130 +43,130 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 77932,
-      "change24h": 0.28718,
-      "marketCap": 1560822265524,
+      "price": 77586,
+      "change24h": -0.66113,
+      "marketCap": 1557329416314,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2334.28,
-      "change24h": 0.71481,
-      "marketCap": 281700493301,
+      "price": 2302.51,
+      "change24h": -1.90437,
+      "marketCap": 279010367017,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Ethereum Foundation unstakes 17K ETH after nearing 70K staked ETH milestone",
+      "title": "Michael Saylor\u2019s Strategy adds 3.2K Bitcoin at nearly $78K per BTC",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ethereum-foundation-unstakes-17k-eth-after-nearing-70k-staked-eth-milestone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 26 Apr 2026 11:55:32 +0000",
-      "summary": "The Ethereum Foundation unstaked over 17,000 ETH worth $40M shortly after approaching its 70,000 ETH staking target."
+      "url": "https://cointelegraph.com/news/michael-saylor-s-strategy-adds-3-2k-bitcoin-at-nearly-78k-per-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 27 Apr 2026 14:05:14 +0000",
+      "summary": "Michael Saylor\u2019s Strategy bought 3,273 Bitcoin for $255 million between April 20 and 26, bringing total holdings to 818,334 BTC."
     },
     {
-      "title": "Trump\u2019s official memecoin extends slide as he hosts exclusive investor gala",
+      "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/trump-s-official-memecoin-extends-slide-even-as-he-hosts-exclusive-investor-gala?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 26 Apr 2026 08:58:23 +0000",
-      "summary": "TRUMP memecoin fell nearly 10% in 24 hours despite a Mar-a-Lago investor gala, with the token still down over 96% from its peak."
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 27 Apr 2026 14:01:41 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
     },
     {
-      "title": "US DOJ sentences man to 70 months in prison for role in $263M scam group",
+      "title": "Ethereum\u2019s EEZ could pull other blockchains into its orbit",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/doj-sentence-70-months-263m-crypto-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 25 Apr 2026 22:05:44 +0000",
-      "summary": "The group spent tens of millions of dollars on luxury items and real estate, using funds stolen from crypto users in social engineering scams."
+      "url": "https://cointelegraph.com/features/ethereum-eez-pull-other-blockchains-orbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 27 Apr 2026 13:55:32 +0000",
+      "summary": "The Ethereum Economic Zone aims to unify fragmented rollups, but its broader goal is to extend interoperability to other blockchains, says Ernst."
     },
     {
-      "title": "Bitcoiners cast doubt on the US military's understanding of the network",
+      "title": "MiCA has made euro stablecoins safe but weak, new report argues",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoiners-cast-doubt-us-military-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 25 Apr 2026 19:36:29 +0000",
-      "summary": "Bitcoin advocate Matthew Kratter said US Navy Admiral Samuel Paparo's Senate testimony on Tuesday sounded like it was written by an \"intern.\""
+      "url": "https://cointelegraph.com/news/mica-euro-stablecoins-safe-but-weak-new-report-argues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 27 Apr 2026 13:49:21 +0000",
+      "summary": "A new Blockchain for Europe report says MiCA has made euro stablecoins safer but less competitive, and urges targeted reforms to reserves and remuneration."
     },
     {
-      "title": "CFTC sues New York over bid to apply gambling laws to prediction markets",
+      "title": "First 21-week trend line reclaim since October 2025: Five things to know in Bitcoin this week",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/cftc-sues-new-york-over-bid-to-apply-gambling-laws-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 25 Apr 2026 14:03:17 +0000",
-      "summary": "The CFTC has filed suit to block New York from enforcing gambling laws on prediction platforms, arguing federal regulators have sole authority over event-based contracts."
+      "url": "https://cointelegraph.com/markets/first-21-week-trend-line-reclaim-since-october-2025-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 27 Apr 2026 12:11:46 +0000",
+      "summary": "Bitcoin price action sealed its first weekly candle close above a 21-week moving average trend line since it traded near $115,000 in October 2025."
     }
   ],
   "aiNews": [
+    {
+      "title": "China blocks Meta\u2019s $2B Manus deal after months-long probe",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+      "publishedAt": "Mon, 27 Apr 2026 13:16:55 +0000",
+      "summary": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg\u2019s push into AI agents."
+    },
+    {
+      "title": "OpenAI could be making a phone with AI agents replacing apps",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+      "publishedAt": "Mon, 27 Apr 2026 13:08:59 +0000",
+      "summary": "The phone could go in mass production in 2028, an analyst says."
+    },
+    {
+      "title": "Meta inks deal for solar power at night, beamed from space",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
+      "publishedAt": "Mon, 27 Apr 2026 10:00:00 +0000",
+      "summary": "Overview Energy's first contract with Meta is a small step toward a future of space-based solar power. "
+    },
+    {
+      "title": "To buy this Bay Area home, you\u2019ll need Anthropic equity",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+      "publishedAt": "Sun, 26 Apr 2026 15:30:00 +0000",
+      "summary": "Someone\u2019s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco."
+    },
     {
       "title": "Anthropic created a test marketplace for agent-on-agent commerce",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
       "publishedAt": "Sat, 25 Apr 2026 21:43:37 +0000",
       "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money."
-    },
-    {
-      "title": "Maine\u2019s governor vetoes data center moratorium",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
-      "publishedAt": "Sat, 25 Apr 2026 20:57:08 +0000",
-      "summary": "L.D. 307 would have imposed the country\u2019s first statewide moratorium on new data centers \u2014 lasting, in this case, until November 1, 2027."
-    },
-    {
-      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-      "publishedAt": "Sat, 25 Apr 2026 17:17:56 +0000",
-      "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is \u201cdeeply sorry\u201d that his company failed to alert law enforcement about the suspect in a recent mass shooting."
-    },
-    {
-      "title": "Why Cohere is merging with Aleph Alpha",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
-      "publishedAt": "Sat, 25 Apr 2026 16:00:00 +0000",
-      "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl\u2019s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alt"
-    },
-    {
-      "title": "Why Tokyo is the most important tech destination of 2026",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
-      "publishedAt": "Sat, 25 Apr 2026 15:03:00 +0000",
-      "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these t"
     }
   ],
   "techMovers": [
     {
       "ticker": "AMD",
       "name": "AMD Inc",
-      "price": 347.81,
-      "change": 42.48,
-      "changePercent": 13.91
+      "price": 333.68,
+      "change": -14.13,
+      "changePercent": -4.06
     },
     {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corp",
-      "price": 208.27,
-      "change": 8.63,
-      "changePercent": 4.32
-    },
-    {
-      "ticker": "SNOW",
-      "name": "Snowflake Inc",
-      "price": 140.32,
-      "change": -6.08,
-      "changePercent": -4.15
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon.com",
-      "price": 263.99,
-      "change": 8.91,
-      "changePercent": 3.49
+      "ticker": "TSLA",
+      "name": "Tesla Inc",
+      "price": 364.81,
+      "change": -11.49,
+      "changePercent": -3.05
     },
     {
       "ticker": "CRM",
       "name": "Salesforce Inc",
-      "price": 178.16,
-      "change": 4.86,
-      "changePercent": 2.8
+      "price": 182.91,
+      "change": 4.75,
+      "changePercent": 2.67
+    },
+    {
+      "ticker": "SNOW",
+      "name": "Snowflake Inc",
+      "price": 143.91,
+      "change": 3.59,
+      "changePercent": 2.56
+    },
+    {
+      "ticker": "UBER",
+      "name": "Uber Technologies",
+      "price": 76.23,
+      "change": 1.59,
+      "changePercent": 2.13
     }
   ],
   "pulsePicks": [
@@ -192,13 +192,13 @@
       "riskLevel": "Low"
     }
   ],
-  "fearGreedIndex": 33,
+  "fearGreedIndex": 47,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 309.42,
-    "change": 0.54,
-    "changePercent": 0.17
+    "price": 309.56,
+    "change": 0.14,
+    "changePercent": 0.05
   },
   "earnings": [],
   "marketIndicators": [
@@ -224,6 +224,42 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Has Bitcoin Bottomed? Jordi Visser on AI, Inflation, and Moats",
+      "podcast": "Bankless",
+      "date": "Mon, 27 Apr 2026 10:30:00 -0000",
+      "duration": "7170",
+      "summary": "Summary generation failed.",
+      "keyTakeaways": [],
+      "url": ""
+    },
+    {
+      "title": "Ben Horowitz on Venture Capital and AI",
+      "podcast": "a16z Podcast",
+      "date": "Mon, 27 Apr 2026 10:05:18 +0000",
+      "duration": "01:09:06",
+      "summary": "Summary generation failed.",
+      "keyTakeaways": [],
+      "url": "https://a16z.simplecast.com/episodes/ben-horowitz-on-venture-capital-and-ai-ciXyFDLc"
+    },
+    {
+      "title": "A Quantum Fork is Coming to Bitcoin | Alex Pruden &amp; Philip Martin",
+      "podcast": "Empire",
+      "date": "Mon, 27 Apr 2026 09:36:00 -0000",
+      "duration": "3925",
+      "summary": "Summary generation failed.",
+      "keyTakeaways": [],
+      "url": ""
+    },
+    {
+      "title": "3. Why Aave's Unified Pool Turned a Bridge Hack Into $193M in Bad Debt",
+      "podcast": "Unchained",
+      "date": "Sun, 26 Apr 2026 20:07:00 -0000",
+      "duration": "577",
+      "summary": "Summary generation failed.",
+      "keyTakeaways": [],
+      "url": ""
+    },
     {
       "title": "AI in the AM: 99% off search, GPT-5.5 is \"clean\", model welfare analysis, &amp; efficient analog compute",
       "podcast": "Cognitive Revolution",
@@ -277,42 +313,6 @@
       "summary": "Summary generation failed.",
       "keyTakeaways": [],
       "url": ""
-    },
-    {
-      "title": "AI Inside the Enterprise",
-      "podcast": "a16z Podcast",
-      "date": "Fri, 24 Apr 2026 10:00:00 +0000",
-      "duration": "01:00:30",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": "https://a16z.simplecast.com/episodes/ai-inside-the-enterprise-0LPmCf9V"
-    },
-    {
-      "title": "Can DeFi Bounce Back? | Sam MacPherson &amp; monetsupply",
-      "podcast": "Bell Curve",
-      "date": "Fri, 24 Apr 2026 08:00:00 -0000",
-      "duration": "3337",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": ""
-    },
-    {
-      "title": "DEX in the City: KelpDAO vs. LayerZero: Who Is Liable When a DeFi Protocol Is Hacked?",
-      "podcast": "Unchained",
-      "date": "Fri, 24 Apr 2026 03:06:00 -0000",
-      "duration": "2862",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": ""
-    },
-    {
-      "title": "Should Arbitrum Have Frozen North Korea's Funds? Griff Green vs. Gabe Shapiro",
-      "podcast": "The Defiant",
-      "date": "Thu, 23 Apr 2026 22:28:47 GMT",
-      "duration": "00:56:49",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": "https://podcasters.spotify.com/pod/show/thedefiant/episodes/Should-Arbitrum-Have-Frozen-North-Koreas-Funds--Griff-Green-vs--Gabe-Shapiro-e3icjlj"
     }
   ]
 }
