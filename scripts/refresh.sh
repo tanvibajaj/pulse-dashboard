@@ -203,9 +203,16 @@ RAW_DATA=$(cat "$TEMP_DIR/raw_all.json")
 RAW_CLI_OUTPUT=$(echo "${PROMPT}
 
 ${RAW_DATA}" | python3 "$SCRIPT_DIR/ai_call.py" 2>/tmp/claude_debug.txt) || {
-  echo "⚠️  AI call failed: $(cat /tmp/claude_debug.txt)"
-  RAW_CLI_OUTPUT=""
+  echo "❌ AI call failed: $(cat /tmp/claude_debug.txt)"
+  echo "Refusing to publish dashboard with hardcoded fallback content."
+  exit 1
 }
+
+# Reject empty AI output too — would otherwise silently fall through to hardcoded picks
+if [ -z "$RAW_CLI_OUTPUT" ] || ! echo "$RAW_CLI_OUTPUT" | python3 -c "import sys,json; json.load(sys.stdin)" >/dev/null 2>&1; then
+  echo "❌ AI call returned empty/invalid output"
+  exit 1
+fi
 
 # Extract the AI response from the CLI envelope and strip markdown fences
 AI_RESULT=$(echo "$RAW_CLI_OUTPUT" | python3 -c "
