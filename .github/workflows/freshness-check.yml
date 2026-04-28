@@ -1,0 +1,46 @@
+name: Dashboard Freshness Check
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # hourly
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - name: Verify live dashboard data is fresh
+        env:
+          URL: https://pulse-dashboard-20.vercel.app/api/refresh
+          MAX_AGE_HOURS: "26"
+        run: |
+          set -e
+          curl -fsSL --max-time 30 "$URL" -o /tmp/dashboard.json
+          python3 - <<'PY'
+          import json, os, sys, datetime as dt
+
+          max_age = float(os.environ["MAX_AGE_HOURS"])
+          with open("/tmp/dashboard.json") as f:
+              data = json.load(f)
+
+          last = data.get("lastUpdated")
+          if not last:
+              print("FAIL: no lastUpdated field"); sys.exit(1)
+
+          last_dt = dt.datetime.fromisoformat(last.replace("Z", "+00:00"))
+          age_hours = (dt.datetime.now(dt.timezone.utc) - last_dt).total_seconds() / 3600
+          print(f"lastUpdated: {last}")
+          print(f"age:         {age_hours:.1f} hours (threshold {max_age}h)")
+
+          if age_hours > max_age:
+              print(f"FAIL: dashboard is {age_hours:.1f}h old"); sys.exit(1)
+
+          # Catch silent AI-curation failures: empty news arrays mean refresh.sh
+          # ran but produced no curated content.
+          for field in ("globalNews", "cryptoNews", "aiNews"):
+              if not data.get(field):
+                  print(f"FAIL: {field} is empty — AI curation likely failed"); sys.exit(1)
+
+          print("OK: dashboard is fresh and populated")
+          PY
