@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-04-28T15:36:35.439689+00:00",
+  "lastUpdated": "2026-04-28T15:39:57.253732+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Suspect charged with attempted assassination of Trump at Washington dinner ",
+      "title": "United Arab Emirates to quit oil cartel Opec",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cew7wez72vxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 28 Apr 2026 00:41:48 GMT",
-      "summary": "Investigators say the 31-year-old California man wanted to kill as many high-level officials as possible."
+      "url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-04-28T15:25:17Z",
+      "summary": "UAE's exit delivers a potentially fatal blow to OPEC's coordination, signaling a major oil market power shift."
     },
     {
-      "title": "US political violence generates a familiar cycle - this time it's in overdrive",
+      "title": "Third Ukrainian strike hits Russian oil refinery and prompts evacuations",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cje4eeyq27lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 28 Apr 2026 00:19:49 GMT",
-      "summary": "In modern America, it seems violence of this kind has become an ever-present storm that can strike anywhere and at any moment."
-    },
-    {
-      "title": "Jimmy Kimmel rejects White House criticism over Melania widow joke",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 28 Apr 2026 15:08:13 GMT",
-      "summary": "In a parody aired days before the White House Correspondents' Dinner, Kimmel called Melania an \"expectant widow\". "
+      "url": "https://www.bbc.com/news/articles/cvgzd4qk7qgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-04-28T14:32:20Z",
+      "summary": "Continued Ukrainian strikes on Russian energy infrastructure escalate commodity supply disruption risks."
     },
     {
       "title": "Russian superyacht sails through Strait of Hormuz despite blockade",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 28 Apr 2026 12:03:39 GMT",
-      "summary": "The 141m-long vessel, linked to a close ally of Russian President Vladimir Putin, cleared the waterway despite an ongoing blockade."
+      "publishedAt": "2026-04-28T12:03:39Z",
+      "summary": "Sanctions-linked vessel breaches the Hormuz blockade, exposing geopolitical fragility at the world's key energy chokepoint."
     },
     {
-      "title": "United Arab Emirates to quit oil cartel Opec",
+      "title": "Qatar says using Hormuz Strait as political weapon is 'unacceptable'",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/qatar-says-using-hormuz-strait-as-political-weapon-is?traffic_source=rss",
+      "publishedAt": "2026-04-28T14:55:47Z",
+      "summary": "Qatar's pushback on Hormuz politicization underscores mounting regional tensions threatening 20% of global oil transit."
+    },
+    {
+      "title": "Suspect charged with attempted assassination of Trump at Washington dinner",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 28 Apr 2026 15:25:17 GMT",
-      "summary": "The UAE leaving Opec is seen as a major blow and potential death knell for the oil cartel."
+      "url": "https://www.bbc.com/news/articles/cew7wez72vxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-04-28T00:41:48Z",
+      "summary": "Alleged plot to kill senior US officials heightens political instability risk premium weighing on domestic markets."
     }
   ],
   "cryptoAssets": [
@@ -43,8 +43,8 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 75914,
-      "change24h": -1.45014,
+      "price": 75913,
+      "change24h": -1.45192,
       "marketCap": 1520172304147,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
@@ -52,155 +52,185 @@
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2270.69,
-      "change24h": -0.46471,
-      "marketCap": 274080262938,
+      "price": 2270.8,
+      "change24h": -0.46002,
+      "marketCap": 274041407394,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Crypto projects shut down as token models fail under pressure",
+      "title": "Aave-linked DeFi United unveils rsETH recovery plan after $293M Kelp exploit",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/features/crypto-projects-shut-down-token-models-fail-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 28 Apr 2026 14:30:00 +0000",
-      "summary": "Crypto projects are shutting down as token funding weakens and fragmented structures leave them with limited options to restructure or recover."
+      "url": "https://cointelegraph.com/news/aave-linked-defi-united-outlines-plan-to-restore-rseth-backing-after-293m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-28T13:42:31Z",
+      "summary": "DeFi United outlines technical rsETH recovery after the $293M Kelp exploit, stress-testing the Aave ecosystem's resilience."
+    },
+    {
+      "title": "AML crackdown eclipses securities enforcement as crypto's top regulatory risk: Report",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/aml-crackdown-eclipses-securities-enforcement-crypto-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-28T14:50:36Z",
+      "summary": "US AML fines hit $1.06B in H1 2025, surpassing securities enforcement as crypto's dominant compliance threat."
+    },
+    {
+      "title": "Galaxy Digital posts $216M Q1 loss as crypto market slides 20%",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/galaxy-216-million-q1-2026-loss-crypto-market-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-04-28T15:06:32Z",
+      "summary": "Galaxy Digital's $216M Q1 loss mirrors the 20% crypto market slide; Helios AI data center revenues offer partial offset."
+    },
+    {
+      "title": "Visa is teaming up with a Tether co-founder to build onchain banks",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/04/28/visa-working-with-tether-og-reeve-collins-decentralized-banking-platform-wefi",
+      "publishedAt": "2026-04-28T13:38:31Z",
+      "summary": "Visa partners with Tether co-founder Reeve Collins to build stablecoin-powered onchain banking infrastructure for the unbanked."
     },
     {
       "title": "Japan tells real estate and crypto sectors to tighten AML checks on property deals",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/japan-tells-real-estate-and-crypto-sectors-to-tighten-aml-checks-on-property-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 28 Apr 2026 14:22:35 +0000",
-      "summary": "Four Japanese government agencies have warned against the AML risks posed by crypto in real estate transactions, instructing industry bodies to enforce stricter compliance."
-    },
-    {
-      "title": "Stablecoin payroll gets built-in yield with Paxos\u2013Toku integration ",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/stablecoin-payroll-gets-built-in-yield-with-paxostoku-integration-embargo-tuesday?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 28 Apr 2026 14:00:00 +0000",
-      "summary": "The integration lets employees earn yield on stablecoin-paid salaries without moving funds or giving up custody."
-    },
-    {
-      "title": "Aave-linked DeFi United unveils rsETH recovery plan after $293M Kelp exploit",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/aave-linked-defi-united-outlines-plan-to-restore-rseth-backing-after-293m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 28 Apr 2026 13:42:31 +0000",
-      "summary": "DeFi United published a technical plan to restore rsETH backing and unwind attacker-linked DeFi positions after the $293 million Kelp exploit."
-    },
-    {
-      "title": "Startale to add Privacy Boost transfers to Sony-linked Soneium app",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/startale-app-taps-privacy-boost-for-private-transfers-on-soneium?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 28 Apr 2026 13:00:00 +0000",
-      "summary": "Startale plans to integrate Sunnyside Labs\u2019 Privacy Boost into its Soneium app, adding private transfers with audit-friendly compliance controls."
+      "publishedAt": "2026-04-28T14:22:35Z",
+      "summary": "Japan's four-agency AML directive tightens crypto compliance in real estate, expanding the global regulatory squeeze."
     }
   ],
   "aiNews": [
     {
-      "title": "YouTube is testing an AI-powered search feature that shows guided answers",
+      "title": "DeepMind's David Silver just raised $1.1B to build an AI that learns without human data",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
-      "publishedAt": "Tue, 28 Apr 2026 13:54:06 +0000",
-      "summary": "YouTube is rolling out the new AI search feature to Premium subscribers in the U.S. on an opt-in basis."
-    },
-    {
-      "title": "BCI startup Neurable looks to license its \u2018mind-reading\u2019 tech for consumer wearables",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
-      "publishedAt": "Tue, 28 Apr 2026 13:19:34 +0000",
-      "summary": "The startup specializes in \"non-invasive\" \"mind-reading\" tech\u2014a kind of neural data collection that, its CEO hopes, will have all sorts of consumer applications. "
-    },
-    {
-      "title": "Red Hat\u2019s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
-      "publishedAt": "Tue, 28 Apr 2026 13:00:00 +0000",
-      "summary": "Tank OS puts OpenClaw AI agents into a container that let's it run reliably and more safely, especially for those running fleets of them."
-    },
-    {
-      "title": "Otter\u2019s new feature lets users search across their enterprise tools",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/",
-      "publishedAt": "Tue, 28 Apr 2026 12:00:00 +0000",
-      "summary": "Otter is also releasing a new Windows app that can capture meeting notes without joining one"
+      "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+      "publishedAt": "2026-04-27T17:24:21Z",
+      "summary": "Ineffable Intelligence raises $1.1B at $5.1B valuation to pursue self-supervised AI, potentially bypassing human-data bottlenecks entirely."
     },
     {
       "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
-      "publishedAt": "Mon, 27 Apr 2026 17:40:38 +0000",
-      "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement. "
+      "publishedAt": "2026-04-27T17:40:38Z",
+      "summary": "OpenAI wins Microsoft concessions to sell on AWS, reshaping AI cloud competition with a landmark revenue-share agreement."
+    },
+    {
+      "title": "China blocks Meta's $2B Manus deal after months-long probe",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+      "publishedAt": "2026-04-27T13:16:55Z",
+      "summary": "China vetoes Meta's Manus acquisition, directly targeting Zuckerberg's AI agents strategy and deepening US-China tech decoupling."
+    },
+    {
+      "title": "Open source package with 1 million monthly downloads stole user credentials",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/",
+      "publishedAt": "2026-04-27T21:04:03Z",
+      "summary": "Supply chain attack on widely-used 'element-data' package compromised millions of users, raising urgent open-source security concerns."
+    },
+    {
+      "title": "Red Hat's OpenClaw maintainer just made enterprise Claw deployments a lot safer",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
+      "publishedAt": "2026-04-28T13:00:00Z",
+      "summary": "Tank OS containerizes OpenClaw AI agents for reliable enterprise fleet deployments, removing a key adoption barrier."
     }
   ],
   "techMovers": [
     {
       "ticker": "AVGO",
       "name": "Broadcom Inc",
-      "price": 395.46,
-      "change": -22.74,
-      "changePercent": -5.44
+      "price": 396.24,
+      "change": -21.96,
+      "changePercent": -5.25,
+      "explanation": "Broadcom fell sharply in a broad semiconductor sector selloff driven by macro uncertainty and enterprise IT spending concerns."
     },
     {
       "ticker": "AMD",
       "name": "AMD Inc",
-      "price": 318.93,
-      "change": -15.7,
-      "changePercent": -4.69
+      "price": 319.6,
+      "change": -15.03,
+      "changePercent": -4.49,
+      "explanation": "AMD slid with chip peers as investors rotated out of AI-adjacent hardware names on fears of slowing data center capex."
     },
     {
       "ticker": "ORCL",
       "name": "Oracle Corp",
-      "price": 165.36,
-      "change": -7.6,
-      "changePercent": -4.39
+      "price": 165.73,
+      "change": -7.23,
+      "changePercent": -4.18,
+      "explanation": "Oracle dropped on broader tech weakness and concerns that cloud infrastructure spending may decelerate amid corporate budget tightening."
     },
     {
       "ticker": "NVDA",
       "name": "NVIDIA Corp",
-      "price": 209.01,
-      "change": -7.6,
-      "changePercent": -3.51
+      "price": 209.36,
+      "change": -7.25,
+      "changePercent": -3.35,
+      "explanation": "NVIDIA pulled back with the semiconductor sector as risk-off sentiment and valuation pressure weighed on high-multiple AI names."
     },
     {
       "ticker": "COIN",
       "name": "Coinbase",
-      "price": 191.2,
-      "change": -5.48,
-      "changePercent": -2.79
+      "price": 191.75,
+      "change": -4.93,
+      "changePercent": -2.51,
+      "explanation": "Coinbase declined as Bitcoin slid 1.45% and broader crypto weakness suppressed trading volume and fee revenue expectations."
     }
   ],
   "pulsePicks": [
     {
-      "ticker": "NVDA",
-      "action": "Watch",
-      "reasoning": "Strong AI chip demand. Valuation stretched \u2014 wait for pullback.",
+      "ticker": "V",
+      "action": "Consider Buying",
+      "reasoning": "Visa is up 1.11% against a broadly red tape, demonstrating clear relative strength. The new onchain banking partnership with Tether co-founder Reeve Collins via WeFi positions Visa at the intersection of traditional payments and crypto infrastructure. Fear & Greed at 33 historically creates favorable entry points for quality compounders with durable moats.",
       "timeframe": "Medium-term (1-3 months)",
-      "riskLevel": "Medium"
+      "riskLevel": "Low"
     },
     {
-      "ticker": "BTC",
-      "action": "Consider Buying",
-      "reasoning": "Holding above key support. ETF inflows strong. Halving cycle favorable.",
-      "timeframe": "Long-term (3+ months)",
+      "ticker": "NVDA",
+      "action": "Watch",
+      "reasoning": "NVIDIA is down 3.35% to $209.36 but structural AI infrastructure demand remains intact \u2014 Galaxy Digital just delivered its first Helios data center tranche to CoreWeave, validating ongoing buildout. The pullback may create a tactical entry, but semiconductor sector headwinds and macro uncertainty warrant waiting for sector stabilization before adding.",
+      "timeframe": "Short-term (1-2 weeks)",
       "riskLevel": "High"
     },
     {
-      "ticker": "GOOG",
-      "action": "Consider Buying",
-      "reasoning": "Discount to mega-cap peers. Gemini progress improving sentiment. Cloud growth accelerating.",
+      "ticker": "BTC",
+      "action": "Watch",
+      "reasoning": "Bitcoin sits at $75,913 with Fear & Greed at 33 (fear zone). Veteran analyst Peter Brandt warns the bear phase may not be over with a potential drop to $57K by October, while AML regulatory tightening across the US and Japan adds compliance headwinds. Wide analyst divergence argues for patience before increasing exposure.",
       "timeframe": "Medium-term (1-3 months)",
-      "riskLevel": "Low"
+      "riskLevel": "High"
     }
   ],
   "fearGreedIndex": 33,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 313.17,
-    "change": 3.52,
-    "changePercent": 1.14
+    "price": 313.08,
+    "change": 3.43,
+    "changePercent": 1.11
   },
-  "earnings": [],
+  "earnings": [
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft Corp",
+      "date": "2026-04-29",
+      "time": "After Close"
+    },
+    {
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "date": "2026-04-29",
+      "time": "After Close"
+    },
+    {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc",
+      "date": "2026-04-29",
+      "time": "After Close"
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon.com Inc",
+      "date": "2026-04-30",
+      "time": "After Close"
+    }
+  ],
   "marketIndicators": [
     {
       "label": "S&P 500",
