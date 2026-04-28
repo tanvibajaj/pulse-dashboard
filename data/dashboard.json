@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-04-27T15:06:01.641190+00:00",
-  "marketStatus": "Closed",
+  "lastUpdated": "2026-04-28T15:36:35.439689+00:00",
+  "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "What we're learning about suspected Washington press dinner gunman",
+      "title": "Suspect charged with attempted assassination of Trump at Washington dinner ",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 27 Apr 2026 11:56:08 GMT",
-      "summary": "The man arrested at the event attended by President Trump is due in court on Monday."
+      "url": "https://www.bbc.com/news/articles/cew7wez72vxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 28 Apr 2026 00:41:48 GMT",
+      "summary": "Investigators say the 31-year-old California man wanted to kill as many high-level officials as possible."
     },
     {
-      "title": "Trump says King will be 'very safe' during US visit after security talks",
+      "title": "US political violence generates a familiar cycle - this time it's in overdrive",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c4gjger58jzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 27 Apr 2026 09:19:11 GMT",
-      "summary": "The state visit will go ahead despite concerns raised after a gunman targeted an event attended by the president. "
+      "url": "https://www.bbc.com/news/articles/cje4eeyq27lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 28 Apr 2026 00:19:49 GMT",
+      "summary": "In modern America, it seems violence of this kind has become an ever-present storm that can strike anywhere and at any moment."
     },
     {
-      "title": "Colombia offers record $1.4m-reward for rebel it blames for deadly bomb attack",
+      "title": "Jimmy Kimmel rejects White House criticism over Melania widow joke",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cwyjykv4j9do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 27 Apr 2026 11:42:59 GMT",
-      "summary": "Officials say a rebel leader known as \"Marlon\" ordered the attack in which 20 people were killed."
+      "url": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 28 Apr 2026 15:08:13 GMT",
+      "summary": "In a parody aired days before the White House Correspondents' Dinner, Kimmel called Melania an \"expectant widow\". "
     },
     {
-      "title": "Russian fighters confirm withdrawal from northern Mali city after separatist attacks",
+      "title": "Russian superyacht sails through Strait of Hormuz despite blockade",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c3w3wyq4v14o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 27 Apr 2026 14:32:49 GMT",
-      "summary": "Ethnic Tuareg fighters say they are in control of Kidal following a weekend of nationwide attacks, alongside Islamist groups."
+      "url": "https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 28 Apr 2026 12:03:39 GMT",
+      "summary": "The 141m-long vessel, linked to a close ally of Russian President Vladimir Putin, cleared the waterway despite an ongoing blockade."
     },
     {
-      "title": "Sri Lankan monks arrested after 110kg of cannabis discovered in their luggage",
+      "title": "United Arab Emirates to quit oil cartel Opec",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cn4v4nzwj94o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 27 Apr 2026 12:13:58 GMT",
-      "summary": "Officials say each monk was found with around 5kg of Kush - a particularly potent form of the drug - hidden within \"false walls\" in their luggage."
+      "url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 28 Apr 2026 15:25:17 GMT",
+      "summary": "The UAE leaving Opec is seen as a major blow and potential death knell for the oil cartel."
     }
   ],
   "cryptoAssets": [
@@ -43,130 +43,130 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 77586,
-      "change24h": -0.66113,
-      "marketCap": 1557329416314,
+      "price": 75914,
+      "change24h": -1.45014,
+      "marketCap": 1520172304147,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2302.51,
-      "change24h": -1.90437,
-      "marketCap": 279010367017,
+      "price": 2270.69,
+      "change24h": -0.46471,
+      "marketCap": 274080262938,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Michael Saylor\u2019s Strategy adds 3.2K Bitcoin at nearly $78K per BTC",
+      "title": "Crypto projects shut down as token models fail under pressure",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/michael-saylor-s-strategy-adds-3-2k-bitcoin-at-nearly-78k-per-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 27 Apr 2026 14:05:14 +0000",
-      "summary": "Michael Saylor\u2019s Strategy bought 3,273 Bitcoin for $255 million between April 20 and 26, bringing total holdings to 818,334 BTC."
+      "url": "https://cointelegraph.com/features/crypto-projects-shut-down-token-models-fail-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 28 Apr 2026 14:30:00 +0000",
+      "summary": "Crypto projects are shutting down as token funding weakens and fragmented structures leave them with limited options to restructure or recover."
     },
     {
-      "title": "Here\u2019s what happened in crypto today",
+      "title": "Japan tells real estate and crypto sectors to tighten AML checks on property deals",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 27 Apr 2026 14:01:41 +0000",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
+      "url": "https://cointelegraph.com/news/japan-tells-real-estate-and-crypto-sectors-to-tighten-aml-checks-on-property-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 28 Apr 2026 14:22:35 +0000",
+      "summary": "Four Japanese government agencies have warned against the AML risks posed by crypto in real estate transactions, instructing industry bodies to enforce stricter compliance."
     },
     {
-      "title": "Ethereum\u2019s EEZ could pull other blockchains into its orbit",
+      "title": "Stablecoin payroll gets built-in yield with Paxos\u2013Toku integration ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/features/ethereum-eez-pull-other-blockchains-orbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 27 Apr 2026 13:55:32 +0000",
-      "summary": "The Ethereum Economic Zone aims to unify fragmented rollups, but its broader goal is to extend interoperability to other blockchains, says Ernst."
+      "url": "https://cointelegraph.com/news/stablecoin-payroll-gets-built-in-yield-with-paxostoku-integration-embargo-tuesday?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 28 Apr 2026 14:00:00 +0000",
+      "summary": "The integration lets employees earn yield on stablecoin-paid salaries without moving funds or giving up custody."
     },
     {
-      "title": "MiCA has made euro stablecoins safe but weak, new report argues",
+      "title": "Aave-linked DeFi United unveils rsETH recovery plan after $293M Kelp exploit",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/mica-euro-stablecoins-safe-but-weak-new-report-argues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 27 Apr 2026 13:49:21 +0000",
-      "summary": "A new Blockchain for Europe report says MiCA has made euro stablecoins safer but less competitive, and urges targeted reforms to reserves and remuneration."
+      "url": "https://cointelegraph.com/news/aave-linked-defi-united-outlines-plan-to-restore-rseth-backing-after-293m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 28 Apr 2026 13:42:31 +0000",
+      "summary": "DeFi United published a technical plan to restore rsETH backing and unwind attacker-linked DeFi positions after the $293 million Kelp exploit."
     },
     {
-      "title": "First 21-week trend line reclaim since October 2025: Five things to know in Bitcoin this week",
+      "title": "Startale to add Privacy Boost transfers to Sony-linked Soneium app",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/first-21-week-trend-line-reclaim-since-october-2025-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 27 Apr 2026 12:11:46 +0000",
-      "summary": "Bitcoin price action sealed its first weekly candle close above a 21-week moving average trend line since it traded near $115,000 in October 2025."
+      "url": "https://cointelegraph.com/news/startale-app-taps-privacy-boost-for-private-transfers-on-soneium?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 28 Apr 2026 13:00:00 +0000",
+      "summary": "Startale plans to integrate Sunnyside Labs\u2019 Privacy Boost into its Soneium app, adding private transfers with audit-friendly compliance controls."
     }
   ],
   "aiNews": [
     {
-      "title": "China blocks Meta\u2019s $2B Manus deal after months-long probe",
+      "title": "YouTube is testing an AI-powered search feature that shows guided answers",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
-      "publishedAt": "Mon, 27 Apr 2026 13:16:55 +0000",
-      "summary": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg\u2019s push into AI agents."
+      "url": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
+      "publishedAt": "Tue, 28 Apr 2026 13:54:06 +0000",
+      "summary": "YouTube is rolling out the new AI search feature to Premium subscribers in the U.S. on an opt-in basis."
     },
     {
-      "title": "OpenAI could be making a phone with AI agents replacing apps",
+      "title": "BCI startup Neurable looks to license its \u2018mind-reading\u2019 tech for consumer wearables",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
-      "publishedAt": "Mon, 27 Apr 2026 13:08:59 +0000",
-      "summary": "The phone could go in mass production in 2028, an analyst says."
+      "url": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
+      "publishedAt": "Tue, 28 Apr 2026 13:19:34 +0000",
+      "summary": "The startup specializes in \"non-invasive\" \"mind-reading\" tech\u2014a kind of neural data collection that, its CEO hopes, will have all sorts of consumer applications. "
     },
     {
-      "title": "Meta inks deal for solar power at night, beamed from space",
+      "title": "Red Hat\u2019s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
-      "publishedAt": "Mon, 27 Apr 2026 10:00:00 +0000",
-      "summary": "Overview Energy's first contract with Meta is a small step toward a future of space-based solar power. "
+      "url": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
+      "publishedAt": "Tue, 28 Apr 2026 13:00:00 +0000",
+      "summary": "Tank OS puts OpenClaw AI agents into a container that let's it run reliably and more safely, especially for those running fleets of them."
     },
     {
-      "title": "To buy this Bay Area home, you\u2019ll need Anthropic equity",
+      "title": "Otter\u2019s new feature lets users search across their enterprise tools",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
-      "publishedAt": "Sun, 26 Apr 2026 15:30:00 +0000",
-      "summary": "Someone\u2019s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco."
+      "url": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/",
+      "publishedAt": "Tue, 28 Apr 2026 12:00:00 +0000",
+      "summary": "Otter is also releasing a new Windows app that can capture meeting notes without joining one"
     },
     {
-      "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+      "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
-      "publishedAt": "Sat, 25 Apr 2026 21:43:37 +0000",
-      "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money."
+      "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+      "publishedAt": "Mon, 27 Apr 2026 17:40:38 +0000",
+      "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement. "
     }
   ],
   "techMovers": [
     {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "price": 395.46,
+      "change": -22.74,
+      "changePercent": -5.44
+    },
+    {
       "ticker": "AMD",
       "name": "AMD Inc",
-      "price": 333.68,
-      "change": -14.13,
-      "changePercent": -4.06
+      "price": 318.93,
+      "change": -15.7,
+      "changePercent": -4.69
     },
     {
-      "ticker": "TSLA",
-      "name": "Tesla Inc",
-      "price": 364.81,
-      "change": -11.49,
-      "changePercent": -3.05
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "price": 165.36,
+      "change": -7.6,
+      "changePercent": -4.39
     },
     {
-      "ticker": "CRM",
-      "name": "Salesforce Inc",
-      "price": 182.91,
-      "change": 4.75,
-      "changePercent": 2.67
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp",
+      "price": 209.01,
+      "change": -7.6,
+      "changePercent": -3.51
     },
     {
-      "ticker": "SNOW",
-      "name": "Snowflake Inc",
-      "price": 143.91,
-      "change": 3.59,
-      "changePercent": 2.56
-    },
-    {
-      "ticker": "UBER",
-      "name": "Uber Technologies",
-      "price": 76.23,
-      "change": 1.59,
-      "changePercent": 2.13
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "price": 191.2,
+      "change": -5.48,
+      "changePercent": -2.79
     }
   ],
   "pulsePicks": [
@@ -192,13 +192,13 @@
       "riskLevel": "Low"
     }
   ],
-  "fearGreedIndex": 47,
+  "fearGreedIndex": 33,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 309.56,
-    "change": 0.14,
-    "changePercent": 0.05
+    "price": 313.17,
+    "change": 3.52,
+    "changePercent": 1.14
   },
   "earnings": [],
   "marketIndicators": [
@@ -234,15 +234,6 @@
       "url": ""
     },
     {
-      "title": "Ben Horowitz on Venture Capital and AI",
-      "podcast": "a16z Podcast",
-      "date": "Mon, 27 Apr 2026 10:05:18 +0000",
-      "duration": "01:09:06",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": "https://a16z.simplecast.com/episodes/ben-horowitz-on-venture-capital-and-ai-ciXyFDLc"
-    },
-    {
       "title": "A Quantum Fork is Coming to Bitcoin | Alex Pruden &amp; Philip Martin",
       "podcast": "Empire",
       "date": "Mon, 27 Apr 2026 09:36:00 -0000",
@@ -250,6 +241,15 @@
       "summary": "Summary generation failed.",
       "keyTakeaways": [],
       "url": ""
+    },
+    {
+      "title": "Ben Horowitz on Venture Capital and AI",
+      "podcast": "a16z Podcast",
+      "date": "Mon, 27 Apr 2026 10:05:18 +0000",
+      "duration": "01:09:06",
+      "summary": "Summary generation failed.",
+      "keyTakeaways": [],
+      "url": "https://a16z.simplecast.com/episodes/ben-horowitz-on-venture-capital-and-ai-ciXyFDLc"
     },
     {
       "title": "3. Why Aave's Unified Pool Turned a Bridge Hack Into $193M in Bad Debt",
