@@ -9,6 +9,12 @@ cd "$PROJECT_DIR"
 
 echo "$(date): Starting daily refresh..."
 
+# 0. Sync with remote so we don't diverge from another machine
+if git remote -v 2>/dev/null | grep -q origin; then
+  git fetch origin
+  git reset --hard origin/main
+fi
+
 # 1. Refresh news, stocks, picks
 bash scripts/refresh.sh
 
@@ -20,7 +26,7 @@ if git remote -v 2>/dev/null | grep -q origin; then
   git add data/dashboard.json data/podcasts/
   git diff --cached --quiet || {
     git commit -m "Daily Pulse refresh $(date +%Y-%m-%d)"
-    git push origin main 2>/dev/null || git push origin HEAD 2>/dev/null
+    git push origin main || git push origin HEAD
   }
   echo "$(date): Pushed to GitHub"
 else
