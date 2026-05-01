@@ -20,7 +20,9 @@ try:
         timeout=300,
     )
     if proc.returncode != 0:
-        sys.stderr.write(proc.stderr)
+        sys.stderr.write(f"claude exited {proc.returncode}\n")
+        sys.stderr.write(f"stderr: {proc.stderr}\n")
+        sys.stderr.write(f"stdout: {proc.stdout}\n")
         sys.exit(1)
     sys.stdout.write(proc.stdout)
 except Exception as e:
