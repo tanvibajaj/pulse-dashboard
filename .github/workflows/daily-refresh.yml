@@ -13,21 +13,28 @@ jobs:
       steps:
         - uses: actions/checkout@v4                                                                               
                                                                        
-        - uses: actions/setup-python@v5  
+        - uses: actions/setup-python@v5
           with:
             python-version: "3.12"
+
+        - uses: actions/setup-node@v4
+          with:
+            node-version: "20"
+
+        - name: Install Claude Code CLI
+          run: npm install -g @anthropic-ai/claude-code
 
         - name: Install Python dependencies
           run: pip install yfinance
 
-        - name: Run news & market refresh                                                                         
+        - name: Run news & market refresh
           env:
-            ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}                                                   
-          run: bash scripts/refresh.sh                                 
-                                         
+            CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          run: bash scripts/refresh.sh
+
         - name: Run podcast refresh
           env:
-            ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+            CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           run: bash scripts/podcasts.sh                                                                           
    
         - name: Commit and push                                                                                   
