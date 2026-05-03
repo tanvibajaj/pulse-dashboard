@@ -204,7 +204,9 @@ with open('$TEMP_DIR/raw_all.json', 'w') as f:
 
 echo "🤖 Running AI filtering via Claude Code..."
 
-# --- 3. Use claude CLI for AI filtering/summarization ---
+# --- 3. Use claude CLI for AI filtering/summarization (with fallback) ---
+
+AI_AVAILABLE=true
 
 PROMPT=$(cat << 'PROMPTEOF'
 You are curating a daily market intelligence dashboard for a product lead at a fintech/crypto company. I'll give you raw news data. Return ONLY valid JSON (no markdown, no explanation).
@@ -229,19 +231,23 @@ RAW_DATA=$(cat "$TEMP_DIR/raw_all.json")
 RAW_CLI_OUTPUT=$(echo "${PROMPT}
 
 ${RAW_DATA}" | python3 "$SCRIPT_DIR/ai_call.py" 2>/tmp/claude_debug.txt) || {
-  echo "❌ AI call failed: $(cat /tmp/claude_debug.txt)"
-  echo "Refusing to publish dashboard with hardcoded fallback content."
-  exit 1
+  echo "⚠️ AI call failed: $(cat /tmp/claude_debug.txt)"
+  echo "📋 Falling back to raw RSS data (no AI curation)"
+  AI_AVAILABLE=false
 }
 
-# Reject empty AI output too — would otherwise silently fall through to hardcoded picks
-if [ -z "$RAW_CLI_OUTPUT" ] || ! echo "$RAW_CLI_OUTPUT" | python3 -c "import sys,json; json.load(sys.stdin)" >/dev/null 2>&1; then
-  echo "❌ AI call returned empty/invalid output"
-  exit 1
+# Check if AI output is valid
+if [ "$AI_AVAILABLE" = true ]; then
+  if [ -z "$RAW_CLI_OUTPUT" ] || ! echo "$RAW_CLI_OUTPUT" | python3 -c "import sys,json; json.load(sys.stdin)" >/dev/null 2>&1; then
+    echo "⚠️ AI call returned empty/invalid output"
+    echo "📋 Falling back to raw RSS data (no AI curation)"
+    AI_AVAILABLE=false
+  fi
 fi
 
 # Extract the AI response from the CLI envelope and strip markdown fences
-AI_RESULT=$(echo "$RAW_CLI_OUTPUT" | python3 -c "
+if [ "$AI_AVAILABLE" = true ]; then
+  AI_RESULT=$(echo "$RAW_CLI_OUTPUT" | python3 -c "
 import sys, json, re
 try:
     envelope = json.load(sys.stdin)
@@ -253,15 +259,22 @@ try:
 except:
     print('')
 " 2>/dev/null)
-
-# Write AI result to temp file for safe passing to Python
-echo "$AI_RESULT" > "$TEMP_DIR/ai_result.json"
+  echo "$AI_RESULT" > "$TEMP_DIR/ai_result.json"
+else
+  # Create empty AI result for fallback mode
+  echo "{}" > "$TEMP_DIR/ai_result.json"
+fi
 
 # --- 4. Assemble final dashboard.json ---
+
+# Pass AI availability to Python
+export AI_AVAILABLE
 
 python3 -c "
 import json, sys, os
 from datetime import datetime, timezone
+
+ai_available = os.environ.get('AI_AVAILABLE', 'true') == 'true'
 
 def load(path):
     try:
@@ -346,6 +359,7 @@ dashboard = {
     'fearGreedIndex': raw.get('fear_greed', 50),
     'visaStock': visa,
     'earnings': earnings,
+    'aiCurationAvailable': ai_available,
     'marketIndicators': [
         {'label': 'S&P 500', 'value': '5,264', 'change': -0.3},
         {'label': 'VIX', 'value': '18.2', 'change': 2.1},

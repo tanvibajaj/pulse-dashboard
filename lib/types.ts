@@ -70,4 +70,5 @@ export interface DashboardData {
   marketIndicators?: MarketIndicator[];
   earnings?: EarningsEvent[];
   podcasts?: PodcastSummary[];
+  aiCurationAvailable?: boolean;
 }

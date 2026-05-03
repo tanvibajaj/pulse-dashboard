@@ -134,6 +134,19 @@ export default function Dashboard() {
         </div>
       )}
 
+      {data?.aiCurationAvailable === false && (
+        <div className="mb-4 p-3 bg-blue-50 border border-blue-200 rounded-lg flex items-center gap-2">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="w-4 h-4 text-blue-600">
+            <circle cx="12" cy="12" r="10" />
+            <line x1="12" y1="16" x2="12" y2="12" />
+            <line x1="12" y1="8" x2="12.01" y2="8" />
+          </svg>
+          <span className="text-sm text-blue-800">
+            Showing raw news feeds. AI curation temporarily unavailable.
+          </span>
+        </div>
+      )}
+
       {loading && !data ? (
         <LoadingSkeleton />
       ) : data ? (
