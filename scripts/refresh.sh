@@ -64,12 +64,20 @@ curl -s "https://api.alternative.me/fng/?limit=1" > "$TEMP_DIR/fng.json" 2>/dev/
 # Live stock data via yfinance
 python3 -c "
 import json, sys
+
+# Track errors
+errors = []
+
 try:
     import yfinance as yf
 except ImportError:
-    import subprocess
-    subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'yfinance', '-q', '--break-system-packages'])
-    import yfinance as yf
+    try:
+        import subprocess
+        subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'yfinance', '-q', '--break-system-packages'])
+        import yfinance as yf
+    except Exception as e:
+        errors.append(f'yfinance install failed: {e}')
+        sys.exit(1)
 
 TICKERS = {
     'V':    'Visa Inc',
@@ -90,24 +98,42 @@ TICKERS = {
     'SNOW': 'Snowflake Inc',
 }
 
-data = yf.download(list(TICKERS.keys()), period='2d', interval='1d', progress=False, auto_adjust=True)
-closes = data['Close'].tail(2)
+try:
+    data = yf.download(list(TICKERS.keys()), period='2d', interval='1d', progress=False, auto_adjust=True)
+    closes = data['Close'].tail(2)
+except Exception as e:
+    errors.append(f'yfinance download failed: {e}')
+    closes = None
 
 for ticker, name in TICKERS.items():
     try:
-        prev = float(closes[ticker].iloc[0])
-        curr = float(closes[ticker].iloc[1])
-        chg = curr - prev
-        pct = (chg / prev) * 100
-        out = {'ticker': ticker, 'name': name, 'price': round(curr, 2), 'change': round(chg, 2), 'changePercent': round(pct, 2)}
-    except:
-        out = {'ticker': ticker, 'name': name, 'price': 0, 'change': 0, 'changePercent': 0}
+        if closes is not None:
+            prev = float(closes[ticker].iloc[0])
+            curr = float(closes[ticker].iloc[1])
+            chg = curr - prev
+            pct = (chg / prev) * 100
+            out = {'ticker': ticker, 'name': name, 'price': round(curr, 2), 'change': round(chg, 2), 'changePercent': round(pct, 2)}
+        else:
+            out = {'ticker': ticker, 'name': name, 'price': 0, 'change': 0, 'changePercent': 0, 'error': 'data unavailable'}
+    except Exception as e:
+        out = {'ticker': ticker, 'name': name, 'price': 0, 'change': 0, 'changePercent': 0, 'error': str(e)}
     with open('$TEMP_DIR/stock_' + ticker + '.json', 'w') as f:
         json.dump(out, f)
-" 2>/dev/null
+
+if errors:
+    print('Stock fetch warnings: ' + '; '.join(errors), file=sys.stderr)
+" 2>&1 | tee "$TEMP_DIR/stock_errors.log" || echo "⚠️ Stock fetch had errors"
 
 wait
 echo "✅ Data fetched"
+
+# Verify critical data files exist
+MISSING_DATA=""
+[ ! -s "$TEMP_DIR/crypto.json" ] && MISSING_DATA="$MISSING_DATA crypto"
+[ ! -s "$TEMP_DIR/fng.json" ] && MISSING_DATA="$MISSING_DATA fear_greed"
+if [ -n "$MISSING_DATA" ]; then
+  echo "⚠️ Missing data:$MISSING_DATA (will use fallbacks)"
+fi
 
 # --- 2. Merge raw data ---
 
@@ -234,7 +260,7 @@ echo "$AI_RESULT" > "$TEMP_DIR/ai_result.json"
 # --- 4. Assemble final dashboard.json ---
 
 python3 -c "
-import json, sys
+import json, sys, os
 from datetime import datetime, timezone
 
 def load(path):
@@ -329,16 +355,30 @@ dashboard = {
 }
 
 # Preserve existing podcast data from previous runs
+# Use file locking to prevent race conditions with podcasts.sh
+import fcntl
 existing_path = '$DATA_DIR/dashboard.json'
-try:
-    with open(existing_path) as f:
-        existing = json.load(f)
-    dashboard['podcasts'] = existing.get('podcasts', [])
-except:
-    pass
+lock_path = '$DATA_DIR/.dashboard.lock'
 
-with open(existing_path, 'w') as f:
-    json.dump(dashboard, f, indent=2)
+lock_file = open(lock_path, 'w')
+try:
+    fcntl.flock(lock_file.fileno(), fcntl.LOCK_EX)
+
+    try:
+        with open(existing_path) as f:
+            existing = json.load(f)
+        dashboard['podcasts'] = existing.get('podcasts', [])
+    except:
+        pass
+
+    # Write atomically using temp file
+    temp_path = existing_path + '.tmp'
+    with open(temp_path, 'w') as f:
+        json.dump(dashboard, f, indent=2)
+    os.rename(temp_path, existing_path)
+finally:
+    fcntl.flock(lock_file.fileno(), fcntl.LOCK_UN)
+    lock_file.close()
 
 print('✅ Dashboard data written to data/dashboard.json')
 "

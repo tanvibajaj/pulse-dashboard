@@ -41,9 +41,9 @@ export function NewsColumn({ title, icon, news, accentColor }: NewsColumnProps) 
         {news.length === 0 ? (
           <p className="text-sm text-gray-400">No stories available</p>
         ) : (
-          news.map((item, i) => (
+          news.map((item) => (
             <a
-              key={i}
+              key={item.url || item.title}
               href={item.url}
               target="_blank"
               rel="noopener noreferrer"

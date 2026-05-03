@@ -21,19 +21,37 @@ function CryptoIcon({ className }: { className?: string }) {
   );
 }
 
+interface DataMeta {
+  refreshError?: string | null;
+  isStale?: boolean;
+  dataAge?: number | null;
+  noData?: boolean;
+}
+
 export default function Dashboard() {
   const [data, setData] = useState<DashboardData | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const [meta, setMeta] = useState<DataMeta | null>(null);
 
   const fetchData = useCallback(async (force = false) => {
     setLoading(true);
     setError(null);
     try {
       const res = await fetch(`/api/refresh${force ? "?force=true" : ""}`);
-      if (!res.ok) throw new Error("Failed to fetch data");
       const json = await res.json();
-      setData(json);
+
+      // Extract metadata
+      const { _meta, ...dashboardData } = json;
+      setMeta(_meta || null);
+      setData(dashboardData as DashboardData);
+
+      // Set error if refresh failed but we still have data
+      if (_meta?.refreshError && !_meta?.noData) {
+        setError(`Refresh failed: showing cached data`);
+      } else if (_meta?.noData) {
+        setError("No data available. Please try refreshing.");
+      }
     } catch (err) {
       setError(err instanceof Error ? err.message : "Something went wrong");
     } finally {
@@ -72,8 +90,9 @@ export default function Dashboard() {
         </div>
         <div className="flex items-center gap-3">
             <StatusBadge status={data?.marketStatus || "—"} />
-            <span className="text-xs text-gray-400">
-              {data?.lastUpdated ? `Updated ${new Date(data.lastUpdated).toLocaleTimeString("en-US", { hour: "numeric", minute: "2-digit" })}` : ""}
+            <span className={`text-xs ${meta?.isStale ? "text-orange-500" : "text-gray-400"}`}>
+              {data?.lastUpdated ? `Updated ${new Date(data.lastUpdated).toLocaleTimeString("en-US", { hour: "numeric", minute: "2-digit" })}` : "No data"}
+              {meta?.isStale && " (stale)"}
             </span>
             <button
               onClick={() => fetchData(true)}
@@ -90,6 +109,30 @@ export default function Dashboard() {
             </button>
         </div>
       </div>
+
+      {/* Warning banners */}
+      {error && data && (
+        <div className="mb-4 p-3 bg-yellow-50 border border-yellow-200 rounded-lg flex items-center gap-2">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="w-4 h-4 text-yellow-600">
+            <path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z" />
+            <line x1="12" y1="9" x2="12" y2="13" />
+            <line x1="12" y1="17" x2="12.01" y2="17" />
+          </svg>
+          <span className="text-sm text-yellow-800">{error}</span>
+        </div>
+      )}
+
+      {meta?.isStale && !error && (
+        <div className="mb-4 p-3 bg-orange-50 border border-orange-200 rounded-lg flex items-center gap-2">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="w-4 h-4 text-orange-600">
+            <circle cx="12" cy="12" r="10" />
+            <polyline points="12,6 12,12 16,14" />
+          </svg>
+          <span className="text-sm text-orange-800">
+            Data is {meta.dataAge ? `${Math.floor(meta.dataAge / 60)} hours` : "more than 6 hours"} old. Click refresh for the latest.
+          </span>
+        </div>
+      )}
 
       {loading && !data ? (
         <LoadingSkeleton />

@@ -205,18 +205,33 @@ summaries = summaries[:10]
 for s in summaries:
     s.pop('_sort', None)
 
-# Update dashboard.json with podcasts
+# Update dashboard.json with podcasts using file locking
 dashboard_path = '$DATA_DIR/dashboard.json'
+lock_path = '$DATA_DIR/.dashboard.lock'
+import fcntl
+
+# Acquire exclusive lock
+lock_file = open(lock_path, 'w')
 try:
-    with open(dashboard_path) as f:
-        dashboard = json.load(f)
-except:
-    dashboard = {}
+    fcntl.flock(lock_file.fileno(), fcntl.LOCK_EX)
 
-dashboard['podcasts'] = summaries
+    # Read existing data
+    try:
+        with open(dashboard_path) as f:
+            dashboard = json.load(f)
+    except:
+        dashboard = {}
 
-with open(dashboard_path, 'w') as f:
-    json.dump(dashboard, f, indent=2)
+    dashboard['podcasts'] = summaries
+
+    # Write atomically using temp file
+    temp_path = dashboard_path + '.tmp'
+    with open(temp_path, 'w') as f:
+        json.dump(dashboard, f, indent=2)
+    os.rename(temp_path, dashboard_path)
+finally:
+    fcntl.flock(lock_file.fileno(), fcntl.LOCK_UN)
+    lock_file.close()
 
 print(f'✅ {len(summaries)} podcast summaries assembled')
 "
