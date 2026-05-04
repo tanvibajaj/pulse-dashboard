@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04T00:00:53.047105+00:00",
+  "lastUpdated": "2026-05-04T00:26:14.256194+00:00",
   "marketStatus": "Closed",
   "globalNews": [
     {
@@ -43,18 +43,18 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 78541,
-      "change24h": -0.15928,
-      "marketCap": 1572857799168,
+      "price": 78313,
+      "change24h": -0.37312,
+      "marketCap": 1568257913114,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2321.8,
-      "change24h": 0.23062,
-      "marketCap": 280423173515,
+      "price": 2310.41,
+      "change24h": -0.18312,
+      "marketCap": 278823008003,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
@@ -169,29 +169,6 @@
       "changePercent": 2.41
     }
   ],
-  "pulsePicks": [
-    {
-      "ticker": "NVDA",
-      "action": "Watch",
-      "reasoning": "Strong AI chip demand. Valuation stretched \u2014 wait for pullback.",
-      "timeframe": "Medium-term (1-3 months)",
-      "riskLevel": "Medium"
-    },
-    {
-      "ticker": "BTC",
-      "action": "Consider Buying",
-      "reasoning": "Holding above key support. ETF inflows strong. Halving cycle favorable.",
-      "timeframe": "Long-term (3+ months)",
-      "riskLevel": "High"
-    },
-    {
-      "ticker": "GOOG",
-      "action": "Consider Buying",
-      "reasoning": "Discount to mega-cap peers. Gemini progress improving sentiment. Cloud growth accelerating.",
-      "timeframe": "Medium-term (1-3 months)",
-      "riskLevel": "Low"
-    }
-  ],
   "fearGreedIndex": 40,
   "visaStock": {
     "ticker": "V",
@@ -200,8 +177,86 @@
     "change": -1.81,
     "changePercent": -0.55
   },
-  "earnings": [],
-  "aiCurationAvailable": false,
+  "sectors": [
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": 1.49
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": 0.24
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": 0.18
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -0.17
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -0.18
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -0.23
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": -0.4
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -0.57
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": -0.64
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": -0.93
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": -1.34
+    }
+  ],
+  "economicCalendar": [
+    {
+      "date": "2026-05-06",
+      "time": "14:00 ET",
+      "event": "FOMC Interest Rate Decision",
+      "importance": "high",
+      "description": "Federal Reserve interest rate announcement and policy statement"
+    },
+    {
+      "date": "2026-05-12",
+      "time": "08:30 ET",
+      "event": "CPI Inflation Data",
+      "importance": "high",
+      "description": "Consumer Price Index - key inflation measure"
+    },
+    {
+      "date": "2026-05-15",
+      "time": "08:30 ET",
+      "event": "Retail Sales",
+      "importance": "medium",
+      "description": "Monthly consumer spending data"
+    }
+  ],
   "marketIndicators": [
     {
       "label": "S&P 500",
@@ -222,98 +277,6 @@
       "label": "10Y Yield",
       "value": "4.32%",
       "change": 0.0
-    }
-  ],
-  "podcasts": [
-    {
-      "title": "Ben Fielding: Gensyn, Decentralized AI, and the Prediction Market That Settles Itself: Bits + Bips",
-      "podcast": "Unchained",
-      "date": "Sun, 03 May 2026 05:25:00 -0000",
-      "duration": "3045",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": ""
-    },
-    {
-      "title": "Anthropic's $900 Billion Fundraising Endeavor",
-      "podcast": "No Priors",
-      "date": "Fri, 01 May 2026 20:50:18 -0000",
-      "duration": "00:12:21",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": ""
-    },
-    {
-      "title": "The RL Fine-Tuning Playbook: CoreWeave's Kyle Corbitt on GRPO, Rubrics, Environments, Reward Hacking",
-      "podcast": "Cognitive Revolution",
-      "date": "Fri, 01 May 2026 15:27:30 -0000",
-      "duration": "6395",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": "https://www.cognitiverevolution.ai/the-rl-fine-tuning-playbook-coreweave-s-kyle-corbitt-on-grpo-rubrics-environments-reward-hacking/"
-    },
-    {
-      "title": "Big Tech Earnings, DeFi United and Pump Fun\u2019s Token Burn",
-      "podcast": "Empire",
-      "date": "Fri, 01 May 2026 10:58:00 -0000",
-      "duration": "3751",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": ""
-    },
-    {
-      "title": "ROLLUP: $120 Oil vs New Highs | AI Boom Masks War | IPO Top Signal | DeFi Bailout",
-      "podcast": "Bankless",
-      "date": "Fri, 01 May 2026 10:30:00 -0000",
-      "duration": "3574",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": ""
-    },
-    {
-      "title": "Balaji and Taylor Lorenz on AI and Media",
-      "podcast": "a16z Podcast",
-      "date": "Fri, 1 May 2026 10:00:21 +0000",
-      "duration": "00:51:38",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": "https://a16z.simplecast.com/episodes/balaji-and-taylor-lorenz-on-ai-and-media-MLvSb1Kh"
-    },
-    {
-      "title": "Why Investable Tokens Need Real Disclosures | Roundup",
-      "podcast": "Bell Curve",
-      "date": "Fri, 01 May 2026 08:00:00 -0000",
-      "duration": "2796",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": ""
-    },
-    {
-      "title": "Cursor's $60B Deal, DeepSeek V4 & the Death of the AI Moat | This Week in AI E11",
-      "podcast": "This Week in AI",
-      "date": "Thu, 30 Apr 2026 15:44:38 GMT",
-      "duration": "01:13:42",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": "https://podcasters.spotify.com/pod/show/oliver-k3/episodes/Cursors-60B-Deal--DeepSeek-V4--the-Death-of-the-AI-Moat--This-Week-in-AI-E11-e3in1li"
-    },
-    {
-      "title": "The $300M DeFi Bailout: Heroic or Unsustainable?",
-      "podcast": "The Defiant",
-      "date": "Thu, 30 Apr 2026 14:11:39 GMT",
-      "duration": "00:58:52",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": "https://podcasters.spotify.com/pod/show/thedefiant/episodes/The-300M-DeFi-Bailout-Heroic-or-Unsustainable-e3ims53"
-    },
-    {
-      "title": "Has Bitcoin Bottomed? Jordi Visser on AI, Inflation, and Moats",
-      "podcast": "Bankless",
-      "date": "Mon, 27 Apr 2026 10:30:00 -0000",
-      "duration": "7170",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": ""
     }
   ]
 }
