@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-04-28T15:39:57.253732+00:00",
-  "marketStatus": "Open",
+  "lastUpdated": "2026-05-04T00:00:53.047105+00:00",
+  "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "United Arab Emirates to quit oil cartel Opec",
+      "title": "Iran says US has responded to its latest peace proposal",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-04-28T15:25:17Z",
-      "summary": "UAE's exit delivers a potentially fatal blow to OPEC's coordination, signaling a major oil market power shift."
+      "url": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 03 May 2026 21:28:09 GMT",
+      "summary": "The US is yet to formally confirm it has responded. However, Trump reportedly told Israel's Kan News it was unacceptable."
     },
     {
-      "title": "Third Ukrainian strike hits Russian oil refinery and prompts evacuations",
+      "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cvgzd4qk7qgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-04-28T14:32:20Z",
-      "summary": "Continued Ukrainian strikes on Russian energy infrastructure escalate commodity supply disruption risks."
+      "url": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 02 May 2026 23:19:27 GMT",
+      "summary": "President Zelensky has been visiting the Gulf to demonstrate his country's military nous."
     },
     {
-      "title": "Russian superyacht sails through Strait of Hormuz despite blockade",
+      "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-04-28T12:03:39Z",
-      "summary": "Sanctions-linked vessel breaches the Hormuz blockade, exposing geopolitical fragility at the world's key energy chokepoint."
+      "url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 03 May 2026 22:13:36 GMT",
+      "summary": "The World Health Organization said one case of hantavirus infection has been confirmed, with five more suspected cases under investigation."
     },
     {
-      "title": "Qatar says using Hormuz Strait as political weapon is 'unacceptable'",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/qatar-says-using-hormuz-strait-as-political-weapon-is?traffic_source=rss",
-      "publishedAt": "2026-04-28T14:55:47Z",
-      "summary": "Qatar's pushback on Hormuz politicization underscores mounting regional tensions threatening 20% of global oil transit."
+      "title": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 03 May 2026 13:43:20 GMT",
+      "summary": "Fatalities have been reported around Ukraine as Kyiv says Russian \"shadow fleet\" tankers were hit by drones."
     },
     {
-      "title": "Suspect charged with attempted assassination of Trump at Washington dinner",
+      "title": "Nigeria summons South African envoy over attacks on its nationals",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cew7wez72vxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-04-28T00:41:48Z",
-      "summary": "Alleged plot to kill senior US officials heightens political instability risk premium weighing on domestic markets."
+      "url": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 03 May 2026 10:16:01 GMT",
+      "summary": "There has been a wave of anti-migrant protests in South Africa, some of which have turned violent."
     }
   ],
   "cryptoAssets": [
@@ -43,194 +43,165 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 75913,
-      "change24h": -1.45192,
-      "marketCap": 1520172304147,
+      "price": 78541,
+      "change24h": -0.15928,
+      "marketCap": 1572857799168,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2270.8,
-      "change24h": -0.46002,
-      "marketCap": 274041407394,
+      "price": 2321.8,
+      "change24h": 0.23062,
+      "marketCap": 280423173515,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Aave-linked DeFi United unveils rsETH recovery plan after $293M Kelp exploit",
+      "title": "Strategy takes Bitcoin buying breather ahead of Q1 earnings report",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/aave-linked-defi-united-outlines-plan-to-restore-rseth-backing-after-293m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-28T13:42:31Z",
-      "summary": "DeFi United outlines technical rsETH recovery after the $293M Kelp exploit, stress-testing the Aave ecosystem's resilience."
+      "url": "https://cointelegraph.com/news/strategy-takes-a-bitcoin-buying-breather-ahead-of-q1-earnings-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 03 May 2026 21:56:18 +0000",
+      "summary": "Michael Saylor signaled a \u201cpause\u201d on BTC buying ahead of Tuesday\u2019s earnings report, with Wall Street expecting a loss for Q1."
     },
     {
-      "title": "AML crackdown eclipses securities enforcement as crypto's top regulatory risk: Report",
+      "title": "Bitcoin preps highest weekly close since January as BTC price nears $79K",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/aml-crackdown-eclipses-securities-enforcement-crypto-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-28T14:50:36Z",
-      "summary": "US AML fines hit $1.06B in H1 2025, surpassing securities enforcement as crypto's dominant compliance threat."
+      "url": "https://cointelegraph.com/markets/bitcoin-preps-highest-weekly-close-since-january-as-btc-price-nears-79k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 03 May 2026 16:26:22 +0000",
+      "summary": "Bitcoin canceled out the week's earlier losses to tease the highest BTC price weekly candle close since the end of January near $79,000."
     },
     {
-      "title": "Galaxy Digital posts $216M Q1 loss as crypto market slides 20%",
+      "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/galaxy-216-million-q1-2026-loss-crypto-market-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-28T15:06:32Z",
-      "summary": "Galaxy Digital's $216M Q1 loss mirrors the 20% crypto market slide; Helios AI data center revenues offer partial offset."
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 03 May 2026 14:00:00 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
     },
     {
-      "title": "Visa is teaming up with a Tether co-founder to build onchain banks",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/04/28/visa-working-with-tether-og-reeve-collins-decentralized-banking-platform-wefi",
-      "publishedAt": "2026-04-28T13:38:31Z",
-      "summary": "Visa partners with Tether co-founder Reeve Collins to build stablecoin-powered onchain banking infrastructure for the unbanked."
+      "title": "Americans distrust crypto, AI as industry super PACs flood midterms, poll finds",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/americans-distrust-crypto-ai-as-industry-super-pacs-flood-midterms-poll-finds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 03 May 2026 13:00:00 +0000",
+      "summary": "A new Politico poll finds most Americans distrust crypto and AI, raising questions about whether candidates backed by industry super PACs could face voter backlash."
     },
     {
-      "title": "Japan tells real estate and crypto sectors to tighten AML checks on property deals",
+      "title": "Iran\u2019s largest crypto exchange founded by sons of family tied to supreme leaders: Reuters",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/japan-tells-real-estate-and-crypto-sectors-to-tighten-aml-checks-on-property-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-04-28T14:22:35Z",
-      "summary": "Japan's four-agency AML directive tightens crypto compliance in real estate, expanding the global regulatory squeeze."
+      "url": "https://cointelegraph.com/news/irans-largest-crypto-exchange-founded-by-sons-of-family-tied-to-supreme-leaders-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 03 May 2026 11:12:56 +0000",
+      "summary": "Nobitex, Iran\u2019s largest crypto exchange, was founded by brothers linked to the powerful Kharrazi family, which has ties to the country\u2019s supreme leaders. "
     }
   ],
   "aiNews": [
     {
-      "title": "DeepMind's David Silver just raised $1.1B to build an AI that learns without human data",
+      "title": "\u2018This is fine\u2019 creator says AI startup stole his art",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
-      "publishedAt": "2026-04-27T17:24:21Z",
-      "summary": "Ineffable Intelligence raises $1.1B at $5.1B valuation to pursue self-supervised AI, potentially bypassing human-data bottlenecks entirely."
+      "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+      "publishedAt": "Sun, 03 May 2026 20:16:51 +0000",
+      "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\""
     },
     {
-      "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
-      "publishedAt": "2026-04-27T17:40:38Z",
-      "summary": "OpenAI wins Microsoft concessions to sell on AWS, reshaping AI cloud competition with a landmark revenue-share agreement."
+      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+      "publishedAt": "Sun, 03 May 2026 18:00:09 +0000",
+      "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases \u2014 where at least one model seemed to be more accurate than human doctors."
     },
     {
-      "title": "China blocks Meta's $2B Manus deal after months-long probe",
+      "title": "AI-generated actors and scripts are now ineligible for Oscars",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
-      "publishedAt": "2026-04-27T13:16:55Z",
-      "summary": "China vetoes Meta's Manus acquisition, directly targeting Zuckerberg's AI agents strategy and deepening US-China tech decoupling."
+      "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+      "publishedAt": "Sat, 02 May 2026 21:54:58 +0000",
+      "summary": "Bad news for Tilly Norwood."
     },
     {
-      "title": "Open source package with 1 million monthly downloads stole user credentials",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/",
-      "publishedAt": "2026-04-27T21:04:03Z",
-      "summary": "Supply chain attack on widely-used 'element-data' package compromised millions of users, raising urgent open-source security concerns."
+      "title": "The best AI dictation apps, tested and ranked",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+      "publishedAt": "Sat, 02 May 2026 16:00:00 +0000",
+      "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice"
     },
     {
-      "title": "Red Hat's OpenClaw maintainer just made enterprise Claw deployments a lot safer",
+      "title": "Replit\u2019s Amjad Masad on the Cursor deal, fighting Apple, and why he\u2019d rather not sell",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
-      "publishedAt": "2026-04-28T13:00:00Z",
-      "summary": "Tank OS containerizes OpenClaw AI agents for reliable enterprise fleet deployments, removing a key adoption barrier."
+      "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
+      "publishedAt": "Fri, 01 May 2026 23:06:50 +0000",
+      "summary": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a"
     }
   ],
   "techMovers": [
     {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc",
-      "price": 396.24,
-      "change": -21.96,
-      "changePercent": -5.25,
-      "explanation": "Broadcom fell sharply in a broad semiconductor sector selloff driven by macro uncertainty and enterprise IT spending concerns."
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 319.6,
-      "change": -15.03,
-      "changePercent": -4.49,
-      "explanation": "AMD slid with chip peers as investors rotated out of AI-adjacent hardware names on fears of slowing data center capex."
-    },
-    {
       "ticker": "ORCL",
       "name": "Oracle Corp",
-      "price": 165.73,
-      "change": -7.23,
-      "changePercent": -4.18,
-      "explanation": "Oracle dropped on broader tech weakness and concerns that cloud infrastructure spending may decelerate amid corporate budget tightening."
+      "price": 171.83,
+      "change": 10.44,
+      "changePercent": 6.47
     },
     {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corp",
-      "price": 209.36,
-      "change": -7.25,
-      "changePercent": -3.35,
-      "explanation": "NVIDIA pulled back with the semiconductor sector as risk-off sentiment and valuation pressure weighed on high-multiple AI names."
+      "ticker": "CRM",
+      "name": "Salesforce Inc",
+      "price": 183.82,
+      "change": 7.29,
+      "changePercent": 4.13
     },
     {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "price": 191.75,
-      "change": -4.93,
-      "changePercent": -2.51,
-      "explanation": "Coinbase declined as Bitcoin slid 1.45% and broader crypto weakness suppressed trading volume and fee revenue expectations."
+      "ticker": "SNOW",
+      "name": "Snowflake Inc",
+      "price": 141.0,
+      "change": 4.53,
+      "changePercent": 3.32
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc",
+      "price": 280.14,
+      "change": 8.79,
+      "changePercent": 3.24
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla Inc",
+      "price": 390.82,
+      "change": 9.19,
+      "changePercent": 2.41
     }
   ],
   "pulsePicks": [
     {
-      "ticker": "V",
-      "action": "Consider Buying",
-      "reasoning": "Visa is up 1.11% against a broadly red tape, demonstrating clear relative strength. The new onchain banking partnership with Tether co-founder Reeve Collins via WeFi positions Visa at the intersection of traditional payments and crypto infrastructure. Fear & Greed at 33 historically creates favorable entry points for quality compounders with durable moats.",
-      "timeframe": "Medium-term (1-3 months)",
-      "riskLevel": "Low"
-    },
-    {
       "ticker": "NVDA",
       "action": "Watch",
-      "reasoning": "NVIDIA is down 3.35% to $209.36 but structural AI infrastructure demand remains intact \u2014 Galaxy Digital just delivered its first Helios data center tranche to CoreWeave, validating ongoing buildout. The pullback may create a tactical entry, but semiconductor sector headwinds and macro uncertainty warrant waiting for sector stabilization before adding.",
-      "timeframe": "Short-term (1-2 weeks)",
-      "riskLevel": "High"
+      "reasoning": "Strong AI chip demand. Valuation stretched \u2014 wait for pullback.",
+      "timeframe": "Medium-term (1-3 months)",
+      "riskLevel": "Medium"
     },
     {
       "ticker": "BTC",
-      "action": "Watch",
-      "reasoning": "Bitcoin sits at $75,913 with Fear & Greed at 33 (fear zone). Veteran analyst Peter Brandt warns the bear phase may not be over with a potential drop to $57K by October, while AML regulatory tightening across the US and Japan adds compliance headwinds. Wide analyst divergence argues for patience before increasing exposure.",
-      "timeframe": "Medium-term (1-3 months)",
+      "action": "Consider Buying",
+      "reasoning": "Holding above key support. ETF inflows strong. Halving cycle favorable.",
+      "timeframe": "Long-term (3+ months)",
       "riskLevel": "High"
-    }
-  ],
-  "fearGreedIndex": 33,
-  "visaStock": {
-    "ticker": "V",
-    "name": "Visa Inc",
-    "price": 313.08,
-    "change": 3.43,
-    "changePercent": 1.11
-  },
-  "earnings": [
-    {
-      "ticker": "MSFT",
-      "name": "Microsoft Corp",
-      "date": "2026-04-29",
-      "time": "After Close"
-    },
-    {
-      "ticker": "META",
-      "name": "Meta Platforms",
-      "date": "2026-04-29",
-      "time": "After Close"
     },
     {
       "ticker": "GOOG",
-      "name": "Alphabet Inc",
-      "date": "2026-04-29",
-      "time": "After Close"
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon.com Inc",
-      "date": "2026-04-30",
-      "time": "After Close"
+      "action": "Consider Buying",
+      "reasoning": "Discount to mega-cap peers. Gemini progress improving sentiment. Cloud growth accelerating.",
+      "timeframe": "Medium-term (1-3 months)",
+      "riskLevel": "Low"
     }
   ],
+  "fearGreedIndex": 40,
+  "visaStock": {
+    "ticker": "V",
+    "name": "Visa Inc",
+    "price": 328.03,
+    "change": -1.81,
+    "changePercent": -0.55
+  },
+  "earnings": [],
+  "aiCurationAvailable": false,
   "marketIndicators": [
     {
       "label": "S&P 500",
@@ -255,91 +226,91 @@
   ],
   "podcasts": [
     {
+      "title": "Ben Fielding: Gensyn, Decentralized AI, and the Prediction Market That Settles Itself: Bits + Bips",
+      "podcast": "Unchained",
+      "date": "Sun, 03 May 2026 05:25:00 -0000",
+      "duration": "3045",
+      "summary": "Summary generation failed.",
+      "keyTakeaways": [],
+      "url": ""
+    },
+    {
+      "title": "Anthropic's $900 Billion Fundraising Endeavor",
+      "podcast": "No Priors",
+      "date": "Fri, 01 May 2026 20:50:18 -0000",
+      "duration": "00:12:21",
+      "summary": "Summary generation failed.",
+      "keyTakeaways": [],
+      "url": ""
+    },
+    {
+      "title": "The RL Fine-Tuning Playbook: CoreWeave's Kyle Corbitt on GRPO, Rubrics, Environments, Reward Hacking",
+      "podcast": "Cognitive Revolution",
+      "date": "Fri, 01 May 2026 15:27:30 -0000",
+      "duration": "6395",
+      "summary": "Summary generation failed.",
+      "keyTakeaways": [],
+      "url": "https://www.cognitiverevolution.ai/the-rl-fine-tuning-playbook-coreweave-s-kyle-corbitt-on-grpo-rubrics-environments-reward-hacking/"
+    },
+    {
+      "title": "Big Tech Earnings, DeFi United and Pump Fun\u2019s Token Burn",
+      "podcast": "Empire",
+      "date": "Fri, 01 May 2026 10:58:00 -0000",
+      "duration": "3751",
+      "summary": "Summary generation failed.",
+      "keyTakeaways": [],
+      "url": ""
+    },
+    {
+      "title": "ROLLUP: $120 Oil vs New Highs | AI Boom Masks War | IPO Top Signal | DeFi Bailout",
+      "podcast": "Bankless",
+      "date": "Fri, 01 May 2026 10:30:00 -0000",
+      "duration": "3574",
+      "summary": "Summary generation failed.",
+      "keyTakeaways": [],
+      "url": ""
+    },
+    {
+      "title": "Balaji and Taylor Lorenz on AI and Media",
+      "podcast": "a16z Podcast",
+      "date": "Fri, 1 May 2026 10:00:21 +0000",
+      "duration": "00:51:38",
+      "summary": "Summary generation failed.",
+      "keyTakeaways": [],
+      "url": "https://a16z.simplecast.com/episodes/balaji-and-taylor-lorenz-on-ai-and-media-MLvSb1Kh"
+    },
+    {
+      "title": "Why Investable Tokens Need Real Disclosures | Roundup",
+      "podcast": "Bell Curve",
+      "date": "Fri, 01 May 2026 08:00:00 -0000",
+      "duration": "2796",
+      "summary": "Summary generation failed.",
+      "keyTakeaways": [],
+      "url": ""
+    },
+    {
+      "title": "Cursor's $60B Deal, DeepSeek V4 & the Death of the AI Moat | This Week in AI E11",
+      "podcast": "This Week in AI",
+      "date": "Thu, 30 Apr 2026 15:44:38 GMT",
+      "duration": "01:13:42",
+      "summary": "Summary generation failed.",
+      "keyTakeaways": [],
+      "url": "https://podcasters.spotify.com/pod/show/oliver-k3/episodes/Cursors-60B-Deal--DeepSeek-V4--the-Death-of-the-AI-Moat--This-Week-in-AI-E11-e3in1li"
+    },
+    {
+      "title": "The $300M DeFi Bailout: Heroic or Unsustainable?",
+      "podcast": "The Defiant",
+      "date": "Thu, 30 Apr 2026 14:11:39 GMT",
+      "duration": "00:58:52",
+      "summary": "Summary generation failed.",
+      "keyTakeaways": [],
+      "url": "https://podcasters.spotify.com/pod/show/thedefiant/episodes/The-300M-DeFi-Bailout-Heroic-or-Unsustainable-e3ims53"
+    },
+    {
       "title": "Has Bitcoin Bottomed? Jordi Visser on AI, Inflation, and Moats",
       "podcast": "Bankless",
       "date": "Mon, 27 Apr 2026 10:30:00 -0000",
       "duration": "7170",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": ""
-    },
-    {
-      "title": "A Quantum Fork is Coming to Bitcoin | Alex Pruden &amp; Philip Martin",
-      "podcast": "Empire",
-      "date": "Mon, 27 Apr 2026 09:36:00 -0000",
-      "duration": "3925",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": ""
-    },
-    {
-      "title": "Ben Horowitz on Venture Capital and AI",
-      "podcast": "a16z Podcast",
-      "date": "Mon, 27 Apr 2026 10:05:18 +0000",
-      "duration": "01:09:06",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": "https://a16z.simplecast.com/episodes/ben-horowitz-on-venture-capital-and-ai-ciXyFDLc"
-    },
-    {
-      "title": "3. Why Aave's Unified Pool Turned a Bridge Hack Into $193M in Bad Debt",
-      "podcast": "Unchained",
-      "date": "Sun, 26 Apr 2026 20:07:00 -0000",
-      "duration": "577",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": ""
-    },
-    {
-      "title": "AI in the AM: 99% off search, GPT-5.5 is \"clean\", model welfare analysis, &amp; efficient analog compute",
-      "podcast": "Cognitive Revolution",
-      "date": "Sun, 26 Apr 2026 13:44:56 -0000",
-      "duration": "9481",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": "https://www.cognitiverevolution.ai/ai-in-the-am-99-off-search-gpt-5-5-is-clean-model-welfare-analysis-efficient-analog-compute/"
-    },
-    {
-      "title": "What Brings Capital Back to DeFi? | Roundup",
-      "podcast": "Bell Curve",
-      "date": "Sun, 26 Apr 2026 08:00:00 -0000",
-      "duration": "3339",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": ""
-    },
-    {
-      "title": "Did Arbitrum Violate DRPK's Property Rights? No, Because It Wasn't Their Property",
-      "podcast": "Unchained",
-      "date": "Fri, 24 Apr 2026 22:29:00 -0000",
-      "duration": "4801",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": ""
-    },
-    {
-      "title": "ChatGPT 5.5: Unpacking Key Changes",
-      "podcast": "No Priors",
-      "date": "Fri, 24 Apr 2026 20:26:45 -0000",
-      "duration": "00:16:06",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": ""
-    },
-    {
-      "title": "DeFi\u2019s Latest $290M Hack, Kalshi vs Polymarket &amp; Will the Clarity Act Pass?",
-      "podcast": "Empire",
-      "date": "Fri, 24 Apr 2026 11:46:00 -0000",
-      "duration": "4380",
-      "summary": "Summary generation failed.",
-      "keyTakeaways": [],
-      "url": ""
-    },
-    {
-      "title": "ROLLUP: $300M DeFi Hack Fallout | Arbitrum Freezes Funds | AI Deflation Debate | Productive ETH",
-      "podcast": "Bankless",
-      "date": "Fri, 24 Apr 2026 10:30:00 -0000",
-      "duration": "5410",
       "summary": "Summary generation failed.",
       "keyTakeaways": [],
       "url": ""
