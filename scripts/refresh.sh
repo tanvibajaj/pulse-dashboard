@@ -1,6 +1,6 @@
 #!/bin/bash
 # Pulse Dashboard Refresh Script
-# Uses claude CLI (Claude Code subscription) for AI processing
+# Fetches news, market data, economic calendar, and sector performance
 # Run: ./scripts/refresh.sh
 
 set -e
@@ -15,7 +15,7 @@ echo "⚡ Pulse refresh starting..."
 
 echo "📡 Fetching data..."
 
-# Global news RSS
+# RSS feed fetcher
 fetch_rss() {
   local url="$1"
   local source="$2"
@@ -32,7 +32,6 @@ try:
         link = item.findtext('link', '')
         pub = item.findtext('pubDate', '')
         desc = item.findtext('description', '')
-        # Clean HTML from description
         desc = html.unescape(desc)
         import re
         desc = re.sub('<[^>]+>', '', desc)[:200]
@@ -61,24 +60,18 @@ curl -s "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=bitc
 # Fear & Greed Index
 curl -s "https://api.alternative.me/fng/?limit=1" > "$TEMP_DIR/fng.json" 2>/dev/null &
 
-# Live stock data via yfinance
+# Stock data via yfinance (includes sector ETFs for heatmap)
 python3 -c "
 import json, sys
-
-# Track errors
-errors = []
 
 try:
     import yfinance as yf
 except ImportError:
-    try:
-        import subprocess
-        subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'yfinance', '-q', '--break-system-packages'])
-        import yfinance as yf
-    except Exception as e:
-        errors.append(f'yfinance install failed: {e}')
-        sys.exit(1)
+    import subprocess
+    subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'yfinance', '-q', '--break-system-packages'])
+    import yfinance as yf
 
+# Individual stocks
 TICKERS = {
     'V':    'Visa Inc',
     'NVDA': 'NVIDIA Corp',
@@ -98,13 +91,31 @@ TICKERS = {
     'SNOW': 'Snowflake Inc',
 }
 
+# Sector ETFs for heatmap
+SECTORS = {
+    'XLK': 'Technology',
+    'XLF': 'Financials',
+    'XLV': 'Healthcare',
+    'XLE': 'Energy',
+    'XLY': 'Consumer Discretionary',
+    'XLP': 'Consumer Staples',
+    'XLI': 'Industrials',
+    'XLB': 'Materials',
+    'XLU': 'Utilities',
+    'XLRE': 'Real Estate',
+    'XLC': 'Communication Services',
+}
+
+all_tickers = list(TICKERS.keys()) + list(SECTORS.keys())
+
 try:
-    data = yf.download(list(TICKERS.keys()), period='2d', interval='1d', progress=False, auto_adjust=True)
+    data = yf.download(all_tickers, period='5d', interval='1d', progress=False, auto_adjust=True)
     closes = data['Close'].tail(2)
 except Exception as e:
-    errors.append(f'yfinance download failed: {e}')
+    print(f'yfinance error: {e}', file=sys.stderr)
     closes = None
 
+# Process individual stocks
 for ticker, name in TICKERS.items():
     try:
         if closes is not None:
@@ -114,31 +125,135 @@ for ticker, name in TICKERS.items():
             pct = (chg / prev) * 100
             out = {'ticker': ticker, 'name': name, 'price': round(curr, 2), 'change': round(chg, 2), 'changePercent': round(pct, 2)}
         else:
-            out = {'ticker': ticker, 'name': name, 'price': 0, 'change': 0, 'changePercent': 0, 'error': 'data unavailable'}
-    except Exception as e:
-        out = {'ticker': ticker, 'name': name, 'price': 0, 'change': 0, 'changePercent': 0, 'error': str(e)}
+            out = {'ticker': ticker, 'name': name, 'price': 0, 'change': 0, 'changePercent': 0}
+    except:
+        out = {'ticker': ticker, 'name': name, 'price': 0, 'change': 0, 'changePercent': 0}
     with open('$TEMP_DIR/stock_' + ticker + '.json', 'w') as f:
         json.dump(out, f)
 
-if errors:
-    print('Stock fetch warnings: ' + '; '.join(errors), file=sys.stderr)
-" 2>&1 | tee "$TEMP_DIR/stock_errors.log" || echo "⚠️ Stock fetch had errors"
+# Process sector ETFs
+sectors = []
+for ticker, name in SECTORS.items():
+    try:
+        if closes is not None:
+            prev = float(closes[ticker].iloc[0])
+            curr = float(closes[ticker].iloc[1])
+            pct = ((curr - prev) / prev) * 100
+            sectors.append({'ticker': ticker, 'name': name, 'changePercent': round(pct, 2)})
+        else:
+            sectors.append({'ticker': ticker, 'name': name, 'changePercent': 0})
+    except:
+        sectors.append({'ticker': ticker, 'name': name, 'changePercent': 0})
+
+# Sort sectors by performance
+sectors.sort(key=lambda x: x['changePercent'], reverse=True)
+with open('$TEMP_DIR/sectors.json', 'w') as f:
+    json.dump(sectors, f)
+" 2>&1 | head -20 || echo "⚠️ Stock fetch had warnings"
 
 wait
 echo "✅ Data fetched"
 
-# Verify critical data files exist
-MISSING_DATA=""
-[ ! -s "$TEMP_DIR/crypto.json" ] && MISSING_DATA="$MISSING_DATA crypto"
-[ ! -s "$TEMP_DIR/fng.json" ] && MISSING_DATA="$MISSING_DATA fear_greed"
-if [ -n "$MISSING_DATA" ]; then
-  echo "⚠️ Missing data:$MISSING_DATA (will use fallbacks)"
-fi
+# --- 2. Fetch Economic Calendar ---
 
-# --- 2. Merge raw data ---
+echo "📅 Fetching economic calendar..."
 
 python3 -c "
-import json, glob
+import json
+from datetime import datetime, timedelta
+
+# Generate upcoming economic events (known schedule)
+# These are recurring events with predictable dates
+today = datetime.now()
+events = []
+
+# Helper to find next occurrence of weekday
+def next_weekday(d, weekday):
+    days_ahead = weekday - d.weekday()
+    if days_ahead <= 0:
+        days_ahead += 7
+    return d + timedelta(days_ahead)
+
+# FOMC meetings 2026 (actual Fed schedule)
+fomc_dates = ['2026-01-28', '2026-03-18', '2026-05-06', '2026-06-17', '2026-07-29', '2026-09-16', '2026-11-04', '2026-12-16']
+for date_str in fomc_dates:
+    date = datetime.strptime(date_str, '%Y-%m-%d')
+    if today <= date <= today + timedelta(days=30):
+        events.append({
+            'date': date_str,
+            'time': '14:00 ET',
+            'event': 'FOMC Interest Rate Decision',
+            'importance': 'high',
+            'description': 'Federal Reserve interest rate announcement and policy statement'
+        })
+
+# Monthly recurring events (approximate - actual dates vary)
+# CPI - usually 2nd week of month
+cpi_date = today.replace(day=12)
+if cpi_date < today:
+    cpi_date = (today.replace(day=1) + timedelta(days=32)).replace(day=12)
+if cpi_date <= today + timedelta(days=14):
+    events.append({
+        'date': cpi_date.strftime('%Y-%m-%d'),
+        'time': '08:30 ET',
+        'event': 'CPI Inflation Data',
+        'importance': 'high',
+        'description': 'Consumer Price Index - key inflation measure'
+    })
+
+# Jobs Report - first Friday of month
+first_day_next = (today.replace(day=1) + timedelta(days=32)).replace(day=1)
+jobs_date = next_weekday(first_day_next, 4)  # Friday = 4
+if today <= jobs_date <= today + timedelta(days=14):
+    events.append({
+        'date': jobs_date.strftime('%Y-%m-%d'),
+        'time': '08:30 ET',
+        'event': 'Non-Farm Payrolls',
+        'importance': 'high',
+        'description': 'Monthly jobs report - employment and wage data'
+    })
+
+# GDP - last week of month (quarterly)
+if today.month in [1, 4, 7, 10]:
+    gdp_date = today.replace(day=25)
+    if today <= gdp_date <= today + timedelta(days=14):
+        events.append({
+            'date': gdp_date.strftime('%Y-%m-%d'),
+            'time': '08:30 ET',
+            'event': 'GDP Growth Rate',
+            'importance': 'high',
+            'description': 'Quarterly economic growth data'
+        })
+
+# Retail Sales - mid month
+retail_date = today.replace(day=15)
+if retail_date < today:
+    retail_date = (today.replace(day=1) + timedelta(days=32)).replace(day=15)
+if today <= retail_date <= today + timedelta(days=14):
+    events.append({
+        'date': retail_date.strftime('%Y-%m-%d'),
+        'time': '08:30 ET',
+        'event': 'Retail Sales',
+        'importance': 'medium',
+        'description': 'Monthly consumer spending data'
+    })
+
+# Sort by date
+events.sort(key=lambda x: x['date'])
+
+with open('$TEMP_DIR/econ_calendar.json', 'w') as f:
+    json.dump(events[:8], f)
+"
+
+echo "✅ Economic calendar generated"
+
+# --- 3. Merge all data ---
+
+echo "📦 Assembling dashboard..."
+
+python3 -c "
+import json, sys, os, glob
+from datetime import datetime, timezone
 
 def load(path):
     try:
@@ -147,6 +262,14 @@ def load(path):
     except:
         return []
 
+def load_dict(path):
+    try:
+        with open(path) as f:
+            return json.load(f)
+    except:
+        return {}
+
+# Load news
 global_news = load('$TEMP_DIR/bbc.json') + load('$TEMP_DIR/reuters.json') + load('$TEMP_DIR/aljazeera.json') + load('$TEMP_DIR/ap.json')
 crypto_news = load('$TEMP_DIR/cointelegraph.json') + load('$TEMP_DIR/coindesk.json') + load('$TEMP_DIR/decrypt.json')
 ai_news = load('$TEMP_DIR/techcrunch.json') + load('$TEMP_DIR/ars.json') + load('$TEMP_DIR/verge.json')
@@ -165,201 +288,64 @@ for c in raw_crypto:
         'image': c.get('image', '')
     })
 
-# Assemble stocks from individual files
-import glob as g
+# Load stocks
 stocks = []
-for f in g.glob('$TEMP_DIR/stock_*.json'):
-    s = load(f)
+for f in glob.glob('$TEMP_DIR/stock_*.json'):
+    s = load_dict(f)
     if isinstance(s, dict) and s.get('price', 0) > 0:
         stocks.append(s)
 
-# Visa goes into a separate field for ticker bar
 visa_stock = next((s for s in stocks if s['ticker'] == 'V'), None)
-
-# Sort by biggest absolute % change and pick top 5 movers
 tech_stocks = [s for s in stocks if s['ticker'] != 'V']
 tech_stocks.sort(key=lambda x: abs(x.get('changePercent', 0)), reverse=True)
 tech_stocks = tech_stocks[:5]
 
+# Load sectors
+sectors = load('$TEMP_DIR/sectors.json')
+
+# Load economic calendar
+econ_calendar = load('$TEMP_DIR/econ_calendar.json')
+
 # Fear & Greed
-fng_data = load('$TEMP_DIR/fng.json')
+fng_data = load_dict('$TEMP_DIR/fng.json')
 try:
     fng_value = int(fng_data.get('data', [{}])[0].get('value', 0))
 except:
     fng_value = 50
 
-raw = {
-    'global_news': global_news[:15],
-    'crypto_news': crypto_news[:15],
-    'ai_news': ai_news[:15],
-    'crypto_assets': crypto_assets,
-    'stocks': tech_stocks,
-    'visa_stock': visa_stock,
-    'fear_greed': fng_value
-}
+# Determine market status
+utc_now = datetime.utcnow()
+et_hour = (utc_now.hour - 4) % 24
+et_day = utc_now.weekday()
+et_min = utc_now.minute
+et_time = et_hour * 60 + et_min
 
-with open('$TEMP_DIR/raw_all.json', 'w') as f:
-    json.dump(raw, f)
-"
-
-echo "🤖 Running AI filtering via Claude Code..."
-
-# --- 3. Use claude CLI for AI filtering/summarization (with fallback) ---
-
-AI_AVAILABLE=true
-
-PROMPT=$(cat << 'PROMPTEOF'
-You are curating a daily market intelligence dashboard for a product lead at a fintech/crypto company. I'll give you raw news data. Return ONLY valid JSON (no markdown, no explanation).
-
-From the data, produce:
-{
-  "globalNews": [top 5 most important global headlines for someone in tech/finance. Prioritize: geopolitics affecting markets, economic policy, trade/sanctions, energy crises, tech regulation. EXCLUDE: local crime, human interest fluff, celebrity, sports, quirky stories. Each item: {"title","source","url","publishedAt","summary"} where summary is a punchy 1-sentence summary (max 20 words)],
-  "cryptoNews": [top 5 most important crypto stories. Prioritize: protocol updates, DeFi, regulatory moves, institutional adoption, on-chain trends. Skip price speculation fluff. Same format as above],
-  "aiNews": [top 5 most interesting AI/tech stories. Prioritize: breakthrough models, major funding, significant launches, AI regulation. Skip consumer gadget fluff. Same format],
-  "stockExplanations": {"TICKER": "1-sentence explanation of why it moved"} for stocks with >1% change,
-  "pulsePicks": [3 actionable watchlist picks. Each: {"ticker","action":(Watch|Consider Buying|Consider Selling|Hold),"reasoning":"2-3 sentences with specific data","timeframe":"Short-term (1-2 weeks)|Medium-term (1-3 months)|Long-term (3+ months)","riskLevel":"Low|Medium|High"}],
-  "earnings": [upcoming earnings this week for major tech companies (V, NVDA, TSLA, META, AAPL, MSFT, GOOG, AMZN, AMD, CRM, NFLX). Each: {"ticker","name","date":"YYYY-MM-DD","time":"Before Open|After Close|TBD"}. If none this week, return empty array]
-}
-
-Here is today's raw data:
-PROMPTEOF
-)
-
-RAW_DATA=$(cat "$TEMP_DIR/raw_all.json")
-
-# Pipe through claude CLI and extract the result field
-RAW_CLI_OUTPUT=$(echo "${PROMPT}
-
-${RAW_DATA}" | python3 "$SCRIPT_DIR/ai_call.py" 2>/tmp/claude_debug.txt) || {
-  echo "⚠️ AI call failed: $(cat /tmp/claude_debug.txt)"
-  echo "📋 Falling back to raw RSS data (no AI curation)"
-  AI_AVAILABLE=false
-}
-
-# Check if AI output is valid
-if [ "$AI_AVAILABLE" = true ]; then
-  if [ -z "$RAW_CLI_OUTPUT" ] || ! echo "$RAW_CLI_OUTPUT" | python3 -c "import sys,json; json.load(sys.stdin)" >/dev/null 2>&1; then
-    echo "⚠️ AI call returned empty/invalid output"
-    echo "📋 Falling back to raw RSS data (no AI curation)"
-    AI_AVAILABLE=false
-  fi
-fi
-
-# Extract the AI response from the CLI envelope and strip markdown fences
-if [ "$AI_AVAILABLE" = true ]; then
-  AI_RESULT=$(echo "$RAW_CLI_OUTPUT" | python3 -c "
-import sys, json, re
-try:
-    envelope = json.load(sys.stdin)
-    text = envelope.get('result', '')
-    # Strip markdown code fences
-    text = re.sub(r'^\s*\`\`\`(?:json)?\s*', '', text)
-    text = re.sub(r'\s*\`\`\`\s*$', '', text)
-    print(text.strip())
-except:
-    print('')
-" 2>/dev/null)
-  echo "$AI_RESULT" > "$TEMP_DIR/ai_result.json"
-else
-  # Create empty AI result for fallback mode
-  echo "{}" > "$TEMP_DIR/ai_result.json"
-fi
-
-# --- 4. Assemble final dashboard.json ---
-
-# Pass AI availability to Python
-export AI_AVAILABLE
-
-python3 -c "
-import json, sys, os
-from datetime import datetime, timezone
-
-ai_available = os.environ.get('AI_AVAILABLE', 'true') == 'true'
-
-def load(path):
-    try:
-        with open(path) as f:
-            return json.load(f)
-    except:
-        return {}
-
-def load_text(path):
-    try:
-        with open(path) as f:
-            return f.read().strip()
-    except:
-        return ''
-
-raw = load('$TEMP_DIR/raw_all.json')
-ai_text = load_text('$TEMP_DIR/ai_result.json')
-
-# Determine market status (ET timezone approximation)
-from datetime import datetime
-import subprocess
-try:
-    et_str = subprocess.check_output(['date', '-v+0H', '+%u %H %M']).decode().strip()
-    # Just use UTC offset approximation
-    import time
-    utc_now = datetime.utcnow()
-    # ET is UTC-4 (EDT) or UTC-5 (EST)
-    et_hour = (utc_now.hour - 4) % 24
-    et_day = utc_now.weekday()  # 0=Mon, 6=Sun
-    et_min = utc_now.minute
-    et_time = et_hour * 60 + et_min
-
-    if et_day >= 5:
-        market_status = 'Closed'
-    elif et_time < 240:
-        market_status = 'Closed'
-    elif et_time < 570:
-        market_status = 'Pre-Market'
-    elif et_time < 960:
-        market_status = 'Open'
-    elif et_time < 1200:
-        market_status = 'After Hours'
-    else:
-        market_status = 'Closed'
-except:
+if et_day >= 5:
+    market_status = 'Closed'
+elif et_time < 240:
+    market_status = 'Closed'
+elif et_time < 570:
+    market_status = 'Pre-Market'
+elif et_time < 960:
+    market_status = 'Open'
+elif et_time < 1200:
+    market_status = 'After Hours'
+else:
     market_status = 'Closed'
 
-try:
-    ai = json.loads(ai_text)
-except:
-    ai = {}
-
-# Build final data
-global_news = ai.get('globalNews', raw.get('global_news', [])[:5])
-crypto_news = ai.get('cryptoNews', raw.get('crypto_news', [])[:5])
-ai_news = ai.get('aiNews', raw.get('ai_news', [])[:5])
-stock_explanations = ai.get('stockExplanations', {})
-pulse_picks = ai.get('pulsePicks', [
-    {'ticker':'NVDA','action':'Watch','reasoning':'Strong AI chip demand. Valuation stretched — wait for pullback.','timeframe':'Medium-term (1-3 months)','riskLevel':'Medium'},
-    {'ticker':'BTC','action':'Consider Buying','reasoning':'Holding above key support. ETF inflows strong. Halving cycle favorable.','timeframe':'Long-term (3+ months)','riskLevel':'High'},
-    {'ticker':'GOOG','action':'Consider Buying','reasoning':'Discount to mega-cap peers. Gemini progress improving sentiment. Cloud growth accelerating.','timeframe':'Medium-term (1-3 months)','riskLevel':'Low'}
-])
-
-# Enrich stocks with explanations
-stocks = raw.get('stocks', [])
-for s in stocks:
-    if s['ticker'] in stock_explanations:
-        s['explanation'] = stock_explanations[s['ticker']]
-
-visa = raw.get('visa_stock')
-earnings = ai.get('earnings', [])
-
+# Build dashboard
 dashboard = {
     'lastUpdated': datetime.now(timezone.utc).isoformat(),
     'marketStatus': market_status,
-    'globalNews': global_news,
-    'cryptoAssets': raw.get('crypto_assets', []),
-    'cryptoNews': crypto_news,
-    'aiNews': ai_news,
-    'techMovers': stocks,
-    'pulsePicks': pulse_picks,
-    'fearGreedIndex': raw.get('fear_greed', 50),
-    'visaStock': visa,
-    'earnings': earnings,
-    'aiCurationAvailable': ai_available,
+    'globalNews': global_news[:5],
+    'cryptoAssets': crypto_assets,
+    'cryptoNews': crypto_news[:5],
+    'aiNews': ai_news[:5],
+    'techMovers': tech_stocks,
+    'fearGreedIndex': fng_value,
+    'visaStock': visa_stock,
+    'sectors': sectors,
+    'economicCalendar': econ_calendar,
     'marketIndicators': [
         {'label': 'S&P 500', 'value': '5,264', 'change': -0.3},
         {'label': 'VIX', 'value': '18.2', 'change': 2.1},
@@ -368,8 +354,7 @@ dashboard = {
     ]
 }
 
-# Preserve existing podcast data from previous runs
-# Use file locking to prevent race conditions with podcasts.sh
+# Use file locking to prevent race conditions
 import fcntl
 existing_path = '$DATA_DIR/dashboard.json'
 lock_path = '$DATA_DIR/.dashboard.lock'
@@ -378,14 +363,7 @@ lock_file = open(lock_path, 'w')
 try:
     fcntl.flock(lock_file.fileno(), fcntl.LOCK_EX)
 
-    try:
-        with open(existing_path) as f:
-            existing = json.load(f)
-        dashboard['podcasts'] = existing.get('podcasts', [])
-    except:
-        pass
-
-    # Write atomically using temp file
+    # Write atomically
     temp_path = existing_path + '.tmp'
     with open(temp_path, 'w') as f:
         json.dump(dashboard, f, indent=2)

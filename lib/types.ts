@@ -25,35 +25,24 @@ export interface StockMover {
   explanation?: string;
 }
 
-export interface PulsePick {
+export interface SectorPerformance {
   ticker: string;
-  action: "Watch" | "Consider Buying" | "Consider Selling" | "Hold";
-  reasoning: string;
-  timeframe: string;
-  riskLevel: "Low" | "Medium" | "High";
+  name: string;
+  changePercent: number;
+}
+
+export interface EconomicEvent {
+  date: string;
+  time: string;
+  event: string;
+  importance: "high" | "medium" | "low";
+  description: string;
 }
 
 export interface MarketIndicator {
   label: string;
   value: string;
   change?: number;
-}
-
-export interface PodcastSummary {
-  title: string;
-  podcast: string;
-  date: string;
-  duration: string;
-  summary: string;
-  keyTakeaways: string[];
-  url: string;
-}
-
-export interface EarningsEvent {
-  ticker: string;
-  name: string;
-  date: string;
-  time: "Before Open" | "After Close" | "TBD";
 }
 
 export interface DashboardData {
@@ -64,11 +53,9 @@ export interface DashboardData {
   cryptoNews: NewsItem[];
   aiNews: NewsItem[];
   techMovers: StockMover[];
-  pulsePicks: PulsePick[];
   fearGreedIndex?: number;
   visaStock?: StockMover;
   marketIndicators?: MarketIndicator[];
-  earnings?: EarningsEvent[];
-  podcasts?: PodcastSummary[];
-  aiCurationAvailable?: boolean;
+  sectors?: SectorPerformance[];
+  economicCalendar?: EconomicEvent[];
 }

@@ -2,12 +2,11 @@
 
 import { useState, useEffect, useCallback } from "react";
 import { DashboardData } from "@/lib/types";
-import { Header } from "@/components/header";
 import { TickerBar } from "@/components/ticker-bar";
 import { NewsColumn } from "@/components/news-column";
 import { StocksSection } from "@/components/stocks-section";
-import { PulsePicks } from "@/components/pulse-picks";
-import { Earnings } from "@/components/earnings";
+import { SectorHeatmap } from "@/components/sector-heatmap";
+import { EconomicCalendar } from "@/components/economic-calendar";
 
 import { Globe, Cpu } from "@/components/icons";
 
@@ -134,19 +133,6 @@ export default function Dashboard() {
         </div>
       )}
 
-      {data?.aiCurationAvailable === false && (
-        <div className="mb-4 p-3 bg-blue-50 border border-blue-200 rounded-lg flex items-center gap-2">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="w-4 h-4 text-blue-600">
-            <circle cx="12" cy="12" r="10" />
-            <line x1="12" y1="16" x2="12" y2="12" />
-            <line x1="12" y1="8" x2="12.01" y2="8" />
-          </svg>
-          <span className="text-sm text-blue-800">
-            Showing raw news feeds. AI curation temporarily unavailable.
-          </span>
-        </div>
-      )}
-
       {loading && !data ? (
         <LoadingSkeleton />
       ) : data ? (
@@ -187,12 +173,12 @@ function DashboardTab({ data }: { data: DashboardData }) {
         />
       </div>
 
-      {data.earnings && data.earnings.length > 0 && (
-        <Earnings earnings={data.earnings} />
-      )}
-
       <StocksSection stocks={data.techMovers} />
-      <PulsePicks picks={data.pulsePicks} />
+
+      <div className="grid gap-5 lg:grid-cols-2">
+        <SectorHeatmap sectors={data.sectors || []} />
+        <EconomicCalendar events={data.economicCalendar || []} />
+      </div>
     </div>
   );
 }
