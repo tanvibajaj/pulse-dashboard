@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-05-04T02:07:42.537676+00:00",
-  "marketStatus": "Closed",
+  "lastUpdated": "2026-05-04T15:08:46.814607+00:00",
+  "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Iran says US has responded to its latest peace proposal",
+      "title": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 03 May 2026 21:28:09 GMT",
-      "summary": "The US is yet to formally confirm it has responded. However, Trump reportedly told Israel's Kan News it was unacceptable."
-    },
-    {
-      "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 02 May 2026 23:19:27 GMT",
-      "summary": "President Zelensky has been visiting the Gulf to demonstrate his country's military nous."
+      "url": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 04 May 2026 09:49:05 GMT",
+      "summary": "The attack comes as the Kremlin prepares to hold a scaled-back military parade on Saturday."
     },
     {
       "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 03 May 2026 22:13:36 GMT",
-      "summary": "The World Health Organization said one case of hantavirus infection has been confirmed, with five more suspected cases under investigation."
+      "publishedAt": "Mon, 04 May 2026 15:03:13 GMT",
+      "summary": "The operator of the MV Hondius ship says a Dutch husband and wife, as well as a German national, have died but the cause has not yet been established."
     },
     {
-      "title": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
+      "title": "Former New York City mayor Rudy Giuliani in critical condition in hospital",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 03 May 2026 13:43:20 GMT",
-      "summary": "Fatalities have been reported around Ukraine as Kyiv says Russian \"shadow fleet\" tankers were hit by drones."
+      "url": "https://www.bbc.com/news/articles/c7941rgy4lyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 04 May 2026 08:43:06 GMT",
+      "summary": "The long-time champion of Trump and former New York mayor is in hospital, according to his spokesman."
     },
     {
-      "title": "Nigeria summons South African envoy over attacks on its nationals",
+      "title": "Modi's BJP conquers Bengal, one of India's toughest political frontiers",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 03 May 2026 10:16:01 GMT",
-      "summary": "There has been a wave of anti-migrant protests in South Africa, some of which have turned violent."
+      "url": "https://www.bbc.com/news/articles/ce8pdvp5x5ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 04 May 2026 11:59:58 GMT",
+      "summary": "West Bengal\u2019s verdict could reshape not just the state\u2019s politics, but the future trajectory of Modi\u2019s BJP."
+    },
+    {
+      "title": "European leaders converge on Armenia as Russia looks on",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cgkp1124y3yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 03 May 2026 23:19:05 GMT",
+      "summary": "Two European summits are being held in a country long considered Russia's closest ally in the region."
     }
   ],
   "cryptoAssets": [
@@ -43,59 +43,66 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 79761,
-      "change24h": 1.91365,
-      "marketCap": 1596196819537,
+      "price": 80153,
+      "change24h": 1.76308,
+      "marketCap": 1605170885752,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2353.64,
-      "change24h": 2.0964,
-      "marketCap": 283983305955,
+      "price": 2370.83,
+      "change24h": 1.81184,
+      "marketCap": 286160632253,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Strategy takes Bitcoin buying breather ahead of Q1 earnings report",
+      "title": "Bitcoin in \u2018disbelief rally\u2019 as traders spot $84K BTC price target",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/strategy-takes-a-bitcoin-buying-breather-ahead-of-q1-earnings-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 03 May 2026 21:56:18 +0000",
-      "summary": "Michael Saylor signaled a \u201cpause\u201d on BTC buying ahead of Tuesday\u2019s earnings report, with Wall Street expecting a loss for Q1."
+      "url": "https://cointelegraph.com/markets/bitcoin-in-disbelief-rally-as-traders-eye-84k-btc-price-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 04 May 2026 14:08:41 +0000",
+      "summary": "Bitcoin\u2019s rally on Monday pushed it above $80,000 for the first time since January as analysts say BTC price could rise further to fill the futures gap at $84,000 in the short term."
     },
     {
-      "title": "Bitcoin preps highest weekly close since January as BTC price nears $79K",
+      "title": "SEC delays prediction market ETFs over mechanics and risk concerns: Report",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-preps-highest-weekly-close-since-january-as-btc-price-nears-79k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 03 May 2026 16:26:22 +0000",
-      "summary": "Bitcoin canceled out the week's earlier losses to tease the highest BTC price weekly candle close since the end of January near $79,000."
+      "url": "https://cointelegraph.com/news/prediction-market-etf-sec-delay-mechanics-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 04 May 2026 13:35:00 +0000",
+      "summary": "The regulator reportedly requested more information from Roundhill, GraniteShares and Bitwise about how the event contract funds would work."
     },
     {
-      "title": "Here\u2019s what happened in crypto today",
+      "title": "Bitcoin price eyes $96K as institutions absorb 500% of daily BTC supply",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 03 May 2026 14:00:00 +0000",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
+      "url": "https://cointelegraph.com/markets/bitcoin-price-eyes-96k-as-institutions-absorb-500-of-daily-btc-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 04 May 2026 13:21:59 +0000",
+      "summary": "In past instances, BTC has averaged 24% gains in one month when institutional demand absorbed over 500% of the daily mined supply."
     },
     {
-      "title": "Americans distrust crypto, AI as industry super PACs flood midterms, poll finds",
+      "title": "South Korea crypto sector warns AML proposal goes too far: Report",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/americans-distrust-crypto-ai-as-industry-super-pacs-flood-midterms-poll-finds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 03 May 2026 13:00:00 +0000",
-      "summary": "A new Politico poll finds most Americans distrust crypto and AI, raising questions about whether candidates backed by industry super PACs could face voter backlash."
+      "url": "https://cointelegraph.com/news/south-koreas-crypto-exchanges-push-bank-on-10m-won-reporting-rule-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 04 May 2026 12:31:47 +0000",
+      "summary": "Crypto industry body DAXA said the proposed rules could push suspicious transaction reports from South Korea\u2019s five largest exchanges to more than 5.4 million a year, Yonhap reported."
     },
     {
-      "title": "Iran\u2019s largest crypto exchange founded by sons of family tied to supreme leaders: Reuters",
+      "title": "BTC price can \u2018easily\u2019 hit $95K: Five things to know in Bitcoin this week",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/irans-largest-crypto-exchange-founded-by-sons-of-family-tied-to-supreme-leaders-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 03 May 2026 11:12:56 +0000",
-      "summary": "Nobitex, Iran\u2019s largest crypto exchange, was founded by brothers linked to the powerful Kharrazi family, which has ties to the country\u2019s supreme leaders. "
+      "url": "https://cointelegraph.com/markets/btc-price-can-easily-hit-95k-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 04 May 2026 11:05:33 +0000",
+      "summary": "Bitcoin gained fresh bullish BTC price targets after hitting new three-month highs above $80,000."
     }
   ],
   "aiNews": [
+    {
+      "title": "5 days only: Bring a\u00a0partner or\u00a0colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/04/5-days-only-bring-a-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+      "publishedAt": "Mon, 04 May 2026 14:00:00 +0000",
+      "summary": "The BOGO offer is live.\u00a0For a limited time, buy one pass to\u00a0TechCrunch Disrupt 2026\u00a0and\u00a0get 50% off a second of the same ticket type. Offer ends this Friday, May 8. Save here."
+    },
     {
       "title": "\u2018This is fine\u2019 creator says AI startup stole his art",
       "source": "TechCrunch",
@@ -123,115 +130,108 @@
       "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
       "publishedAt": "Sat, 02 May 2026 16:00:00 +0000",
       "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice"
-    },
-    {
-      "title": "Replit\u2019s Amjad Masad on the Cursor deal, fighting Apple, and why he\u2019d rather not sell",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
-      "publishedAt": "Fri, 01 May 2026 23:06:50 +0000",
-      "summary": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a"
     }
   ],
   "techMovers": [
     {
-      "ticker": "ORCL",
-      "name": "Oracle Corp",
-      "price": 171.83,
-      "change": 10.44,
-      "changePercent": 6.47
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "price": 205.57,
+      "change": 14.32,
+      "changePercent": 7.49
     },
     {
-      "ticker": "CRM",
-      "name": "Salesforce Inc",
-      "price": 183.82,
-      "change": 7.29,
-      "changePercent": 4.13
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "price": 182.4,
+      "change": 10.57,
+      "changePercent": 6.15
     },
     {
       "ticker": "SNOW",
       "name": "Snowflake Inc",
-      "price": 141.0,
-      "change": 4.53,
-      "changePercent": 3.32
+      "price": 148.2,
+      "change": 7.2,
+      "changePercent": 5.11
     },
     {
-      "ticker": "AAPL",
-      "name": "Apple Inc",
-      "price": 280.14,
-      "change": 8.79,
-      "changePercent": 3.24
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 346.3,
+      "change": -14.24,
+      "changePercent": -3.95
     },
     {
-      "ticker": "TSLA",
-      "name": "Tesla Inc",
-      "price": 390.82,
-      "change": 9.19,
-      "changePercent": 2.41
+      "ticker": "AMZN",
+      "name": "Amazon.com",
+      "price": 274.68,
+      "change": 6.42,
+      "changePercent": 2.39
     }
   ],
   "fearGreedIndex": 40,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 328.03,
-    "change": -1.81,
-    "changePercent": -0.55
+    "price": 327.92,
+    "change": -0.11,
+    "changePercent": -0.04
   },
   "sectors": [
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": 1.49
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 0.24
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 0.18
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": -0.17
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": -0.18
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": -0.23
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": -0.4
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": -0.57
+      "changePercent": 0.5
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": -0.64
+      "changePercent": 0.28
     },
     {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": -0.93
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": 0.23
     },
     {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": -1.34
+      "changePercent": 0.15
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": 0.06
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 0.03
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -0.0
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -0.24
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -0.3
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": -0.33
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -0.7
     }
   ],
   "economicCalendar": [
