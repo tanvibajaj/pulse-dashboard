@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-05-07T15:27:24.129169+00:00",
+  "lastUpdated": "2026-05-08T14:49:41.804987+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Race to trace passengers who left hantavirus cruise ship at island",
+      "title": "Iran accuses US of 'reckless military adventure'",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 07 May 2026 14:01:55 GMT",
-      "summary": "A 69-year-old woman who later died in South Africa is among those who left MV Hondius at St Helena."
+      "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 08 May 2026 14:14:24 GMT",
+      "summary": "Iran's Foreign Minister Abbas Araghchi says the US opts for a \"reckless military adventure\" every time a \"diplomatic solution is on the table\"."
     },
     {
-      "title": "Three women linked to Islamic State arrested in Australia on return from Syria",
+      "title": "Russia and Ukraine accuse each other of breaching Victory Day ceasefire",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/czj2emlv2kjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 07 May 2026 12:23:45 GMT",
-      "summary": "Three women who allegedly supported IS were arrested after they flew home to Australia for the first time in years."
+      "url": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 08 May 2026 13:17:15 GMT",
+      "summary": "The two sides report responding to hundreds of drone attacks, just hours into a truce to cover celebrations of the Soviet Union's victory over Nazi Germany."
     },
     {
-      "title": "Fears of renewed Gaza war as Hamas disarmament talks stall",
+      "title": "Worldwide race to trace passengers from hantavirus-hit cruise ship",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cd6p5l3n2q3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 07 May 2026 14:22:20 GMT",
-      "summary": "Israeli media reports suggest Israel is preparing to resume fighting because of the impasse in talks with Hamas."
+      "url": "https://www.bbc.com/news/articles/clyp1505p84o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 08 May 2026 14:47:31 GMT",
+      "summary": "About 12 countries have so far been linked to the hantavirus outbreak on the MV Hondius, as the UN health agency confirms at least five cases."
     },
     {
-      "title": "US judge releases Jeffrey Epstein's purported suicide note",
+      "title": "White House calls Mark Hamill 'sick' after actor's Trump grave post",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cd7pd0rqwreo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 07 May 2026 11:14:59 GMT",
-      "summary": "Epstein's former cellmate claims he found the note, which has not been verified by the BBC."
+      "url": "https://www.bbc.com/news/articles/c4g723pkgllo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 08 May 2026 11:14:17 GMT",
+      "summary": "The Star Wars actor apologised and deleted the post, which contained an AI image of the president in a shallow grave."
     },
     {
-      "title": "Iran considering US proposal as Trump says war will be 'over quickly'",
+      "title": "International cyber attack disrupts swathe of universities and schools ",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 07 May 2026 04:06:33 GMT",
-      "summary": "Mediator Pakistan says it is \"endeavouring to convert this ceasefire into a permanent end to this war\". "
+      "url": "https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 08 May 2026 14:16:04 GMT",
+      "summary": "A hacking group breached the academic software Canvas, used by thousands of schools and universities across the globe."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 79850,
-      "change24h": -2.25339,
-      "marketCap": 1599248041512,
+      "price": 80224,
+      "change24h": 0.07351,
+      "marketCap": 1605805968443,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2292.31,
-      "change24h": -2.89973,
-      "marketCap": 276651627271,
+      "price": 2287.6,
+      "change24h": -0.41069,
+      "marketCap": 275931062032,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Kraken parent Payward to buy Reap in $600M stablecoin payments push",
+      "title": "Europe sees \u2018hyperconcentration\u2019 of crypto wrench attacks as losses hit $101M",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/kraken-payward-reap-acquisition-600-million-asia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 07 May 2026 15:00:08 +0000",
-      "summary": "Kraken parent Payward agreed to buy Hong Kong-based Reap for up to $600 million, adding card issuance and stablecoin payment capabilities to its new B2B platform."
+      "url": "https://cointelegraph.com/news/europe-crypto-wrench-attacks-losses-101m-certik-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 08 May 2026 14:00:00 +0000",
+      "summary": "Criminal teams behind wrench attacks usually consist of three to five people, often posing as delivery drivers or luring victims into ambushes, said CertiK."
     },
     {
-      "title": "Polygon reduces block time to 1.75 seconds as payments push accelerates",
+      "title": "Australian police seize $4.1M in Bitcoin tied to darknet market",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/polygon-reduces-block-production-time-175-second?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 07 May 2026 14:49:54 +0000",
-      "summary": "Polygon delivered its first block time reduction upgrade since genesis, as the network seeks to position for more high-frequency applications such as private stablecoin payments."
+      "url": "https://cointelegraph.com/news/australian-police-seize-41m-bitcoin-largest-dark-net-bust?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 08 May 2026 13:56:57 +0000",
+      "summary": "NSW Police said the Bitcoin was allegedly linked to illegal darknet marketplace activity involving drugs and weapons."
     },
     {
-      "title": "XRP 'probably going to $12' as price holds historical bottom zone for months",
+      "title": "How AI became crypto's favorite reason to cut staff",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/xrp-probably-going-to-12-dollars-price-holds-bottom-for-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 07 May 2026 14:46:55 +0000",
-      "summary": "XRP is retesting a key multi-year support zone that has historically preceded major rebounds, with analysts predicting a rally toward $12 if the level holds."
+      "url": "https://cointelegraph.com/features/how-ai-cryptos-favorite-reason-cut-staff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 08 May 2026 13:29:59 +0000",
+      "summary": "Coinbase, Block and Crypto.com have all cited AI to justify recent cuts, though Scale AI\u2019s Jason Droege suspects companies are using the technology as cover."
     },
     {
-      "title": "South Korea confirms 22% crypto tax starting January 2027: Report",
+      "title": "Stablecoins won\u2019t strengthen global role of euro, ECB\u2019s Lagarde says",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/south-korea-confirms-22-crypto-tax-will-go-ahead-in-january-2027-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 07 May 2026 13:41:37 +0000",
-      "summary": "South Korea\u2019s Finance Ministry has reportedly confirmed for the first time that a 22% tax on crypto gains will proceed as scheduled in January 2027."
+      "url": "https://cointelegraph.com/news/stablecoins-euro-global-role-ecb-christine-lagarde?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 08 May 2026 12:59:10 +0000",
+      "summary": "ECB President Christine Lagarde said Europe should build tokenized settlement infrastructure anchored by central bank money rather than rely on private stablecoins."
     },
     {
-      "title": "Core Scientific posts $347M loss as AI hosting overtakes Bitcoin mining",
+      "title": "Revolut users report Bitcoin price glitch showing BTC at 2 cents",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/core-scientific-q1-loss-bitcoin-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 07 May 2026 13:33:00 +0000",
-      "summary": "Core Scientific mined 279 BTC in the quarter, down 45% from a year earlier, while its colocation business became its top revenue source."
+      "url": "https://cointelegraph.com/news/btc-flash-crash-alerts-at-revolut-users-report-extreme-price-glitches-in-multiple-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 08 May 2026 12:30:16 +0000",
+      "summary": "The apparent pricing error was not reflected across broader crypto markets, suggesting a platform-specific data or display issue."
     }
   ],
   "aiNews": [
     {
-      "title": "Startup Battlefield 200 applications\u00a0close May 27:\u00a0A shot at VC access, global visibility, TechCrunch coverage, and $100K",
+      "title": "Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k/",
-      "publishedAt": "Thu, 07 May 2026 15:00:00 +0000",
-      "summary": "Startup Battlefield 200\u00a0applications\u00a0are open, but only for three more weeks. Apply by May 27 for your shot at VC access, global visibility, TechCrunch coverage, $100K equity-free, and more opportunit"
+      "url": "https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
+      "publishedAt": "Fri, 08 May 2026 14:00:00 +0000",
+      "summary": "Last day to buy one pass and get a second one at 50% off to TechCrunch Disrupt 2026. Bring a partner, co-founder, or colleague at half off. Register now."
     },
     {
-      "title": "Exhibit at TechCrunch Disrupt 2026: Get in front of 10,000 decision-makers before space runs out",
+      "title": "Why you can never get your doctor to call you back",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/07/exhibit-at-techcrunch-disrupt-2026-get-in-front-of-10000-decision-makers-before-space-runs-out/",
-      "publishedAt": "Thu, 07 May 2026 14:30:00 +0000",
-      "summary": "If startup visibility, traction, and real deals matter, you should be on the TechCrunch Disrupt 2026 exhibit floor. Get your 6' exhibit table before your competitor does."
+      "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
+      "publishedAt": "Fri, 08 May 2026 04:42:29 +0000",
+      "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the foun"
     },
     {
-      "title": "Aurora\u2019s Chris Urmson on why self-driving trucks are finally ready\u00a0to scale",
+      "title": "OpenAI launches new voice intelligence features in its API",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/podcast/auroras-chris-urmson-on-why-self-driving-trucks-are-finally-ready-to-scale/",
-      "publishedAt": "Thu, 07 May 2026 14:24:54 +0000",
-      "summary": "Self-driving has been \u201calmost here\u201d for over a decade. But somewhere between DARPA\u00a0challenges\u00a0and a handful of driverless trucks hauling freight between Dallas and Houston, Aurora\u00a0co-founder and\u00a0CEO\u00a0C"
+      "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+      "publishedAt": "Thu, 07 May 2026 22:24:50 +0000",
+      "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms. "
     },
     {
-      "title": "2 days left: Get 50% off a second pass\u00a0to TechCrunch Disrupt 2026",
+      "title": "Voi founders\u2019 new AI startup Pit has become the latest rising star out of Stockholm",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/07/2-days-left-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
-      "publishedAt": "Thu, 07 May 2026 14:00:00 +0000",
-      "summary": "Two days left to save up to $410 on your pass, and get a second one at 50% off to TechCrunch Disrupt 2026. Offer ends May 8, 11:59 p.m. PT. Register now."
+      "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+      "publishedAt": "Thu, 07 May 2026 21:02:11 +0000",
+      "summary": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup\u2019s $16 million seed round. "
     },
     {
-      "title": "China\u2019s Moonshot AI raises $2B at $20B valuation as demand for open-source AI skyrockets",
+      "title": "OpenAI introduces new \u2018Trusted Contact\u2019 safeguard for cases of possible self-harm",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
-      "publishedAt": "Thu, 07 May 2026 13:44:25 +0000",
-      "summary": "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage."
+      "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+      "publishedAt": "Thu, 07 May 2026 20:20:20 +0000",
+      "summary": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm. "
     }
   ],
   "techMovers": [
     {
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 434.6,
+      "change": 26.14,
+      "changePercent": 6.4
+    },
+    {
       "ticker": "SNOW",
       "name": "Snowflake Inc",
-      "price": 153.92,
-      "change": 14.18,
-      "changePercent": 10.15
+      "price": 145.71,
+      "change": -8.01,
+      "changePercent": -5.21
     },
     {
       "ticker": "CRM",
       "name": "Salesforce Inc",
-      "price": 187.01,
-      "change": 5.82,
-      "changePercent": 3.21
-    },
-    {
-      "ticker": "UBER",
-      "name": "Uber Technologies",
-      "price": 76.76,
-      "change": -2.41,
-      "changePercent": -3.04
-    },
-    {
-      "ticker": "MSFT",
-      "name": "Microsoft Corp",
-      "price": 424.87,
-      "change": 10.91,
-      "changePercent": 2.64
+      "price": 178.37,
+      "change": -7.97,
+      "changePercent": -4.28
     },
     {
       "ticker": "TSLA",
       "name": "Tesla Inc",
-      "price": 408.54,
-      "change": 9.8,
-      "changePercent": 2.46
+      "price": 425.96,
+      "change": 14.17,
+      "changePercent": 3.44
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "price": 422.98,
+      "change": 10.42,
+      "changePercent": 2.53
     }
   ],
-  "fearGreedIndex": 47,
+  "fearGreedIndex": 38,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 321.07,
-    "change": 2.27,
-    "changePercent": 0.71
+    "price": 318.63,
+    "change": -2.65,
+    "changePercent": -0.82
   },
   "sectors": [
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": 0.72
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 0.57
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 0.2
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": -0.26
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": -0.51
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": -0.67
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": -0.68
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": -0.77
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": -0.81
+      "changePercent": 2.26
     },
     {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": -0.94
+      "changePercent": 0.88
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": 0.79
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": 0.68
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": 0.32
     },
     {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": -2.62
+      "changePercent": 0.18
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": 0.11
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": -0.24
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -0.25
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -0.31
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": -0.54
     }
   ],
   "economicCalendar": [
