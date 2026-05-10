@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-05-09T14:15:53.609185+00:00",
+  "lastUpdated": "2026-05-10T14:19:11.796945+00:00",
   "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "Putin denounces Nato at scaled back Victory Day parade",
+      "title": "First passengers fly home from virus-hit cruise ship",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 09 May 2026 12:18:58 GMT",
-      "summary": "The Russian leader used his annual speech to justify his so-called special military operation in Ukraine."
+      "url": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 10 May 2026 13:30:52 GMT",
+      "summary": "Spanish passengers are the first to leave the MV Hondius, after an outbreak saw three people die and several infected."
     },
     {
-      "title": "Iran accuses US of 'reckless military adventure'",
+      "title": "Army parachutes onto remote island to help Briton with suspected hantavirus",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 09 May 2026 06:13:30 GMT",
-      "summary": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table."
+      "url": "https://www.bbc.com/news/articles/cvgzv77ldpdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 10 May 2026 12:52:31 GMT",
+      "summary": "The specialist team parachuted onto Tristan da Cunha, a remote British overseas territory, to treat them."
     },
     {
-      "title": "Anger and resignation in Tenerife as hantavirus ship approaches",
+      "title": "Iran warns against complying with US sanctions as Gulf attacks reported",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c5y0gkg038yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 09 May 2026 00:15:58 GMT",
-      "summary": "Some on the Spanish island worry the imminent arrival of the MV Hondius could pose a health risk."
+      "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 10 May 2026 12:22:06 GMT",
+      "summary": "The warning comes as a commercial vessel is hit off Qatar, and both the UAE and Kuwait report drone attacks."
     },
     {
-      "title": "Hovering objects and flashing lights: what we learned from UFO documents released by the Pentagon",
+      "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c1m2epkey44o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 08 May 2026 22:04:55 GMT",
-      "summary": "The US has published transcripts, video clips and audio recordings about unidentified flying objects."
+      "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 10 May 2026 13:56:43 GMT",
+      "summary": "The Russian leader sees potential for Ukraine negotiations, but condemns the West's backing for President Zelensky."
     },
     {
-      "title": "Hungary's new PM sworn in during 'regime change' party",
+      "title": "Lebanon says Israeli strikes killed 39 ",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 09 May 2026 13:58:01 GMT",
-      "summary": "Nearly a month ago P\u00e9ter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orb\u00e1n."
+      "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 09 May 2026 21:23:14 GMT",
+      "summary": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month."
     }
   ],
   "cryptoAssets": [
@@ -43,59 +43,73 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 80391,
-      "change24h": 0.20903,
-      "marketCap": 1610216005924,
+      "price": 80909,
+      "change24h": 0.67166,
+      "marketCap": 1620581998114,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2313.43,
-      "change24h": 1.1847,
-      "marketCap": 279297310171,
+      "price": 2328.01,
+      "change24h": 0.66044,
+      "marketCap": 281002641284,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Court lets Arbitrum DAO to transfer $71M in ETH tied to North Korea hack to Aave",
+      "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/court-lets-arbitrum-dao-to-transfer-71m-in-eth-tied-to-north-korea-hack-to-aave?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 09 May 2026 11:12:08 +0000",
-      "summary": "A Manhattan judge modified a restraining notice to let Arbitrum DAO move $71 million in frozen Ether to Aave, while preserving terrorism victims\u2019 legal claim on the funds."
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 10 May 2026 13:00:00 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
     },
     {
-      "title": "Spot Bitcoin ETFs log 6th straight week of net inflows for first time in 9 months",
+      "title": "South Korea crypto holdings halve in a year as investors turn to stock market",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/spot-bitcoin-etfs-log-6th-straight-week-of-net-inflows-for-first-time-in-9-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 09 May 2026 08:35:00 +0000",
-      "summary": "US spot Bitcoin ETFs have logged six consecutive weeks of net inflows, the longest such streak since a seven-week run that drew in $7.57 billion in the summer of 2025."
+      "url": "https://cointelegraph.com/news/south-korea-crypto-holdings-halve-in-a-year-as-investors-turn-to-stock-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 10 May 2026 10:52:38 +0000",
+      "summary": "South Korean crypto holdings fell from $83 billion to $41 billion in just over a year as investors shifted to stocks."
     },
     {
-      "title": "Strike CEO Jack Mallers dismisses idea that Wall Street threatens Bitcoin",
+      "title": "Bitcoin price may dip toward $70K as Fed estimates hotter inflation print",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/jack-mallers-shuts-down-the-idea-that-wall-street-is-a-threat-to-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 09 May 2026 07:16:33 +0000",
-      "summary": "Strike CEO Jack Mallers argued that if Wall Street \u201ckills\u201d Bitcoin, then the asset was never going to succeed in the first place."
+      "url": "https://cointelegraph.com/markets/bitcoin-price-may-dip-toward-70k-fed-estimates-hotter-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 10 May 2026 10:47:20 +0000",
+      "summary": "BTC\u2019s rising wedge points to a possible drop toward $70,000 as Strategy pauses buying and inflation cools Fed rate-cut hopes."
     },
     {
-      "title": " US CLARITY Act sees \u2018big step forward\u2019 as markup set for May 14",
+      "title": "Trump Media posts $406M quarterly loss as crypto bets turn sour",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/us-clarity-act-markup-date-set-tim-scott-crypto-industry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 09 May 2026 02:01:55 +0000",
-      "summary": "Coinbase chief policy officer Faryar Shirzad said the date is a \u201cbig step forward\u201d and is essential for supporting innovation in the US."
+      "url": "https://cointelegraph.com/news/trump-media-posts-406m-quarterly-loss-as-crypto-bets-turn-sour?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 10 May 2026 08:23:43 +0000",
+      "summary": "\nTrump Media\u2019s $405.9 million net loss was driven mostly by unrealized losses on Bitcoin bought at last summer\u2019s peak and Cronos tokens acquired through a Crypto.com deal."
     },
     {
-      "title": "Bitcoin stalls as BTC ETF outflows hit $268M: Will new Fed chair restore the rally?  ",
+      "title": " Santiment flags risk as crypto bullish talk spikes while BTC holds $80K",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-stalls-as-btc-etf-outflows-hit-268m-will-new-fed-chair-restore-the-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 08 May 2026 23:57:31 +0000",
-      "summary": "Rising Bitcoin ETF outflows and liquidations signal short-term caution, but a weak DXY and the eventual appointment of a new Fed chair could resume the rally. \n"
+      "url": "https://cointelegraph.com/news/santiment-flags-risk-as-crypto-bullish-talk-spikes-while-btc-holds-near-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 10 May 2026 05:33:59 +0000",
+      "summary": "The increase in bullish versus bearish crypto commentary on social media has Santiment warning that the recent crypto market rally may be short-lived."
     }
   ],
   "aiNews": [
+    {
+      "title": "So you\u2019ve heard these AI terms and nodded along; let\u2019s fix that",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "publishedAt": "Sat, 09 May 2026 21:45:00 +0000",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
+    },
+    {
+      "title": "Nvidia has already committed $40B to equity AI deals this year",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+      "publishedAt": "Sat, 09 May 2026 14:43:30 +0000",
+      "summary": "Nvidia continues to be a big investor in the AI ecosystem."
+    },
     {
       "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.\u00a0",
       "source": "TechCrunch",
@@ -116,20 +130,6 @@
       "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
       "publishedAt": "Fri, 08 May 2026 18:33:21 +0000",
       "summary": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles."
-    },
-    {
-      "title": "The \u201cpeople\u2019s airline\u201d and the enterprise AI gold rush",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
-      "publishedAt": "Fri, 08 May 2026 15:46:17 +0000",
-      "summary": "Everyone wants a piece of the\u00a0enterprise\u00a0AI pie, and this week, we saw a string of companies making their moves. From\u00a0Anthropic and OpenAI announcing new joint ventures\u00a0targeting enterprise AI deploym"
-    },
-    {
-      "title": "Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
-      "publishedAt": "Fri, 08 May 2026 14:00:00 +0000",
-      "summary": "Last day to buy one pass and get a second one at 50% off to TechCrunch Disrupt 2026. Bring a partner, co-founder, or colleague at half off. Register now."
     }
   ],
   "techMovers": [
@@ -169,7 +169,7 @@
       "changePercent": -2.43
     }
   ],
-  "fearGreedIndex": 38,
+  "fearGreedIndex": 47,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
