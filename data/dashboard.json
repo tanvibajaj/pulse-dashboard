@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-05-11T15:54:31.503311+00:00",
+  "lastUpdated": "2026-05-12T15:38:24.507588+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "US and French nationals test positive for hantavirus after leaving ship",
+      "title": "Trump says Iran ceasefire is on 'massive life support'",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 11 May 2026 13:13:22 GMT",
-      "summary": "The American national has arrived in Nebraska, while a French woman is isolating in Paris."
+      "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 12 May 2026 00:59:12 GMT",
+      "summary": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\"."
     },
     {
-      "title": "Portrait looted by Nazis found in home of Dutch SS leader's descendants",
+      "title": "US inflation jumps to 3.8% as energy costs surge from Iran war",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cgmpj0p9k08o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 11 May 2026 10:00:31 GMT",
-      "summary": "The painting is believed to have been plundered by high-ranking Nazi Hermann Goering during World War Two."
+      "url": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 12 May 2026 14:06:08 GMT",
+      "summary": "The key measure of US inflation rises its highest level since May 2023 as consumers feel the impact of the Iran war."
     },
     {
-      "title": "Washington dinner shooting suspect pleads not guilty",
+      "title": "Uganda's president sworn in for record seventh term",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c4g48ewgz8mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 11 May 2026 14:52:12 GMT",
-      "summary": "Cole Tomas Allen, 31, was charged with attempting to assassinate US President Donald Trump."
+      "url": "https://www.bbc.com/news/articles/cqxp23272j3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 12 May 2026 14:58:18 GMT",
+      "summary": "Yoweri Museveni, 81, won disputed elections in January to extend his 40-year rule."
     },
     {
-      "title": "Whales could be harmed by diverted ships avoiding Middle East, scientists warn",
+      "title": "No sign of larger hantavirus outbreak, says UN health agency ",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cz02dkkd9j9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 11 May 2026 14:22:07 GMT",
-      "summary": "Ships have rerouted around the Cape of Good Hope since 2023 to avoid conflicts in the Middle East."
+      "url": "https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 12 May 2026 09:35:32 GMT",
+      "summary": "The situation could still change and there might be more confirmed cases, warns the head of the World Health Organization."
     },
     {
-      "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable' ",
+      "title": "eBay rejects $55.5bn offer from GameStop",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 11 May 2026 01:55:13 GMT",
-      "summary": "Iran is reported to want lifting of the US naval blockade, recognition of Iranian sovereignty over the Strait of Hormuz and compensation for war damage."
+      "url": "https://www.bbc.com/news/articles/ckgp5ll3jd4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 12 May 2026 14:07:18 GMT",
+      "summary": "The online auction giant said it doubted how the video game retailer would finance its offer."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 81305,
-      "change24h": -0.05051,
-      "marketCap": 1626545752024,
+      "price": 80366,
+      "change24h": -1.07731,
+      "marketCap": 1608946013391,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2330.08,
-      "change24h": -0.68199,
-      "marketCap": 280869945244,
+      "price": 2263.27,
+      "change24h": -2.81433,
+      "marketCap": 273142970046,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Crypto and AI could be dirty words on 2026 midterm campaign trail",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/features/crypto-and-ai-could-be-dirty-words-on-2026-midterm-campaign-trail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 11 May 2026 14:19:52 +0000",
-      "summary": "Voter attitudes toward the AI and crypto industries aren\u2019t favorable in the US, and a spotlight on how much they\u2019re spending could further alienate them ahead of the 2026 midterms.\n"
-    },
-    {
-      "title": "Augustus gets conditional OCC approval for AI and stablecoin bank",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/augustus-wins-conditional-occ-approval-for-ai-powered-stablecoin-clearing-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 11 May 2026 14:03:01 +0000",
-      "summary": "Peter Thiel-backed Augustus has won conditional OCC approval for a US bank charter focused on AI-driven payments and stablecoin settlement infrastructure."
-    },
-    {
-      "title": "Strategy resumes Bitcoin acquisitions with $43M BTC buy",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/strategy-resumes-bitcoin-acquisitions-43m-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 11 May 2026 13:53:40 +0000",
-      "summary": "Strategy added $43 million in Bitcoin last week after Michael Saylor drew mixed investor reactions for signaling potential BTC sales to fund dividend payments."
-    },
-    {
-      "title": "DAPPOS launches xBubble: An AI agent that learns and uses AI for you",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/press-releases/dappos-launches-xbubble-an-ai-agent-that-learns-and-uses-ai-for-you?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 11 May 2026 13:30:00 +0000",
-      "summary": "xBubble allows users to complete specific tasks with simpler prompts by automatically building and dispatching task-specific AI agents."
-    },
-    {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 11 May 2026 13:19:34 +0000",
+      "publishedAt": "Tue, 12 May 2026 14:37:33 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
+    },
+    {
+      "title": "Bitcoin digests highest US CPI since 2023 as Fed rate hike woes return",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-digests-highest-us-cpi-print-since-2023-fed-rate-hike-nerves-return?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 12 May 2026 14:33:51 +0000",
+      "summary": "Bitcoin showed fresh signs of volatility as US CPI inflation saw new multiyear highs on oil price hikes thanks to the US-Iran war."
+    },
+    {
+      "title": "LMAX Group launches digital asset collateral solution for institutions",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/lmax-group-launches-digital-asset-collateral-solution-institutions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 12 May 2026 14:15:17 +0000",
+      "summary": "The new portal lets LMAX clients deposit digital assets into custody and use them as collateral to trade FX, metals, CFDs, perpetual futures and crypto."
+    },
+    {
+      "title": "Exodus sells over 1,000 Bitcoin as Q1 loss widens to $32M",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/exodus-posts-32m-loss-in-q1-sells-63-of-its-bitcoin-holdings-to-fund-acquisitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 12 May 2026 14:05:01 +0000",
+      "summary": "Exodus Movement reported a $32.1 million net loss in Q1, with revenue down 36.8% to $22.7 million amid a drop in monthly active users."
+    },
+    {
+      "title": "North Korea \u2018industrialized\u2019 crypto theft, laundered billions: CertiK",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/north-korea-industrialized-crypto-theft-laundered-billions-report-finds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 12 May 2026 14:00:00 +0000",
+      "summary": "North Korea-linked hackers stole about $2.06 billion of the $3.4 billion lost in crypto hacks in 2025 and are moving from phishing to physical infiltration, CertiK\u2019s new report finds."
     }
   ],
   "aiNews": [
     {
-      "title": "There aren\u2019t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
+      "title": "Dessn raises $6M for its production focused design tool",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
-      "publishedAt": "Mon, 11 May 2026 13:00:00 +0000",
-      "summary": "Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there. "
+      "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
+      "publishedAt": "Tue, 12 May 2026 13:00:00 +0000",
+      "summary": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases. "
     },
     {
-      "title": "Get ready for the whisper-filled office of the future",
+      "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
-      "publishedAt": "Sun, 10 May 2026 21:15:30 +0000",
-      "summary": "How will work setups change if we spend more and more time talking to our computers?"
+      "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+      "publishedAt": "Tue, 12 May 2026 11:30:00 +0000",
+      "summary": "Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents."
     },
     {
-      "title": "Anthropic says \u2018evil\u2019 portrayals of AI were responsible for Claude\u2019s blackmail attempts",
+      "title": "Thinking Machines wants to build an AI that actually listens while it talks",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
-      "publishedAt": "Sun, 10 May 2026 20:40:41 +0000",
-      "summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic."
+      "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+      "publishedAt": "Tue, 12 May 2026 04:52:35 +0000",
+      "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input a"
     },
     {
-      "title": "We\u2019re feeling cynical about xAI\u2019s big deal with Anthropic",
+      "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
-      "publishedAt": "Sun, 10 May 2026 15:34:25 +0000",
-      "summary": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX."
+      "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+      "publishedAt": "Tue, 12 May 2026 00:09:01 +0000",
+      "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups."
     },
     {
-      "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+      "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
-      "publishedAt": "Sun, 10 May 2026 02:00:00 +0000",
-      "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges."
+      "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+      "publishedAt": "Mon, 11 May 2026 23:04:10 +0000",
+      "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows."
     }
   ],
   "techMovers": [
     {
       "ticker": "COIN",
       "name": "Coinbase",
-      "price": 209.24,
-      "change": 8.08,
-      "changePercent": 4.02
+      "price": 205.7,
+      "change": -10.9,
+      "changePercent": -5.03
     },
     {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corp",
-      "price": 221.76,
-      "change": 6.56,
-      "changePercent": 3.05
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla Inc",
-      "price": 437.54,
-      "change": 9.18,
-      "changePercent": 2.14
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "price": 184.52,
+      "change": -9.32,
+      "changePercent": -4.81
     },
     {
       "ticker": "AMD",
       "name": "AMD Inc",
-      "price": 464.22,
-      "change": 9.03,
-      "changePercent": 1.98
+      "price": 440.72,
+      "change": -18.07,
+      "changePercent": -3.94
     },
     {
-      "ticker": "CRM",
-      "name": "Salesforce Inc",
-      "price": 178.51,
-      "change": -3.31,
-      "changePercent": -1.82
+      "ticker": "TSLA",
+      "name": "Tesla Inc",
+      "price": 429.1,
+      "change": -15.9,
+      "changePercent": -3.57
+    },
+    {
+      "ticker": "NFLX",
+      "name": "Netflix Inc",
+      "price": 88.41,
+      "change": 2.96,
+      "changePercent": 3.46
     }
   ],
-  "fearGreedIndex": 48,
+  "fearGreedIndex": 49,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 323.8,
-    "change": 5.01,
-    "changePercent": 1.57
+    "price": 327.03,
+    "change": 3.17,
+    "changePercent": 0.98
   },
   "sectors": [
     {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": 1.97
-    },
-    {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": 1.39
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 1.27
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": 0.89
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": 0.87
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 0.53
-    },
-    {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": -0.06
+      "changePercent": 1.65
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": 1.13
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": 0.38
     },
     {
       "ticker": "XLF",
       "name": "Financials",
+      "changePercent": 0.17
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -0.13
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": -0.17
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
       "changePercent": -0.24
     },
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": -0.53
+      "changePercent": -1.27
     },
     {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": -1.07
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -1.31
     },
     {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": -1.51
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": -1.35
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": -2.68
     }
   ],
   "economicCalendar": [
