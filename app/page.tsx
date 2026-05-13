@@ -32,10 +32,12 @@ export default function Dashboard() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [meta, setMeta] = useState<DataMeta | null>(null);
+  const [refreshMessage, setRefreshMessage] = useState<string | null>(null);
 
   const fetchData = useCallback(async (force = false) => {
     setLoading(true);
     setError(null);
+    setRefreshMessage(null);
     try {
       const res = await fetch(`/api/refresh${force ? "?force=true" : ""}`);
       const json = await res.json();
@@ -50,6 +52,14 @@ export default function Dashboard() {
         setError(`Refresh failed: showing cached data`);
       } else if (_meta?.noData) {
         setError("No data available. Please try refreshing.");
+      } else if (force && _meta?.dataAge) {
+        // Show data age message when user clicks refresh
+        const hours = Math.floor(_meta.dataAge / 60);
+        const mins = _meta.dataAge % 60;
+        const ageText = hours > 0 ? `${hours}h ${mins}m` : `${mins}m`;
+        setRefreshMessage(`Data is ${ageText} old. Refreshes daily at 9am ET.`);
+        // Auto-hide after 5 seconds
+        setTimeout(() => setRefreshMessage(null), 5000);
       }
     } catch (err) {
       setError(err instanceof Error ? err.message : "Something went wrong");
@@ -89,9 +99,8 @@ export default function Dashboard() {
         </div>
         <div className="flex items-center gap-3">
             <StatusBadge status={data?.marketStatus || "—"} />
-            <span className={`text-xs ${meta?.isStale ? "text-orange-500" : "text-gray-400"}`}>
+            <span className="text-xs text-gray-400">
               {data?.lastUpdated ? `Updated ${new Date(data.lastUpdated).toLocaleTimeString("en-US", { hour: "numeric", minute: "2-digit" })}` : "No data"}
-              {meta?.isStale && " (stale)"}
             </span>
             <button
               onClick={() => fetchData(true)}
@@ -121,15 +130,13 @@ export default function Dashboard() {
         </div>
       )}
 
-      {meta?.isStale && !error && (
-        <div className="mb-4 p-3 bg-orange-50 border border-orange-200 rounded-lg flex items-center gap-2">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="w-4 h-4 text-orange-600">
+      {refreshMessage && (
+        <div className="mb-4 p-3 bg-blue-50 border border-blue-200 rounded-lg flex items-center gap-2">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="w-4 h-4 text-blue-600">
             <circle cx="12" cy="12" r="10" />
             <polyline points="12,6 12,12 16,14" />
           </svg>
-          <span className="text-sm text-orange-800">
-            Data is {meta.dataAge ? `${Math.floor(meta.dataAge / 60)} hours` : "more than 6 hours"} old. Click refresh for the latest.
-          </span>
+          <span className="text-sm text-blue-800">{refreshMessage}</span>
         </div>
       )}
 
