@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-05-12T15:38:24.507588+00:00",
+  "lastUpdated": "2026-05-13T15:42:14.716674+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Trump says Iran ceasefire is on 'massive life support'",
+      "title": "Trump arrives in China for high-stakes meeting with Xi Jinping",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 12 May 2026 00:59:12 GMT",
-      "summary": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\"."
+      "url": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 13 May 2026 13:51:13 GMT",
+      "summary": "The leaders of the global superpowers are expected to discuss the war in Iran, tariffs, AI and Taiwan during the two-day visit."
     },
     {
-      "title": "US inflation jumps to 3.8% as energy costs surge from Iran war",
+      "title": "Court overturns Alex Murdaugh's murder convictions and orders new trial",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 12 May 2026 14:06:08 GMT",
-      "summary": "The key measure of US inflation rises its highest level since May 2023 as consumers feel the impact of the Iran war."
+      "url": "https://www.bbc.com/news/articles/cedpvnq7wn1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 13 May 2026 15:36:38 GMT",
+      "summary": "The court has ordered a new trial over the June 2021 killings of Paul and Maggie Murdaugh."
     },
     {
-      "title": "Uganda's president sworn in for record seventh term",
+      "title": "Woman isolating on British island in South Pacific after hantavirus contact",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cqxp23272j3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 12 May 2026 14:58:18 GMT",
-      "summary": "Yoweri Museveni, 81, won disputed elections in January to extend his 40-year rule."
+      "url": "https://www.bbc.com/news/articles/cx21p7k70reo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 13 May 2026 14:16:08 GMT",
+      "summary": "The woman who was on a virus-hit ship shows \"no signs of illness\", the government of Pitcairn Islands, a British Overseas Territory, says. "
     },
     {
-      "title": "No sign of larger hantavirus outbreak, says UN health agency ",
+      "title": "What to know as Trump visits Xi in China",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 12 May 2026 09:35:32 GMT",
-      "summary": "The situation could still change and there might be more confirmed cases, warns the head of the World Health Organization."
+      "url": "https://www.bbc.com/news/articles/cyv2n7l1z14o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 13 May 2026 13:01:51 GMT",
+      "summary": "Trump has landed in Beijing for the first visit by a US leader since his own in 2017."
     },
     {
-      "title": "eBay rejects $55.5bn offer from GameStop",
+      "title": "Philippine Senate in lockdown after gunshots fired",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/ckgp5ll3jd4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 12 May 2026 14:07:18 GMT",
-      "summary": "The online auction giant said it doubted how the video game retailer would finance its offer."
+      "url": "https://www.bbc.com/news/articles/cnvp730yd52o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 13 May 2026 15:35:15 GMT",
+      "summary": "Police commandos entered the building where a senator wanted by the International Criminal Court had sought refuge."
     }
   ],
   "cryptoAssets": [
@@ -43,205 +43,198 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 80366,
-      "change24h": -1.07731,
-      "marketCap": 1608946013391,
+      "price": 79222,
+      "change24h": -1.39733,
+      "marketCap": 1587474605046,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2263.27,
-      "change24h": -2.81433,
-      "marketCap": 273142970046,
+      "price": 2251.87,
+      "change24h": -0.50649,
+      "marketCap": 272065942847,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Here\u2019s what happened in crypto today",
+      "title": "Brickken and Magma partner to deliver Net Asset Value (NAV) oracle for tokenized real estate",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 12 May 2026 14:37:33 +0000",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
+      "url": "https://cointelegraph.com/press-releases/brickken-and-magma-partner-to-deliver-net-asset-value-nav-oracle-for-tokenized-real-estate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 13 May 2026 15:00:00 +0000",
+      "summary": "Built on Magma's Digital Twin Token (DTT) and Brickken's institutional tokenization infrastructure to close the data gap that has held tokenized real estate back."
     },
     {
-      "title": "Bitcoin digests highest US CPI since 2023 as Fed rate hike woes return",
+      "title": "Paybis secures MiCA, payment licenses in Latvia for EU crypto expansion",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-digests-highest-us-cpi-print-since-2023-fed-rate-hike-nerves-return?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 12 May 2026 14:33:51 +0000",
-      "summary": "Bitcoin showed fresh signs of volatility as US CPI inflation saw new multiyear highs on oil price hikes thanks to the US-Iran war."
+      "url": "https://cointelegraph.com/news/crypto-exchange-paybis-secures-mica-and-psd2-licenses-in-latvia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 13 May 2026 14:55:22 +0000",
+      "summary": "Paybis has secured both a MiCA crypto licence and a PSD2 payment institution licence from Latvia\u2019s central bank, becoming the first company in the country to hold both simultaneously."
     },
     {
-      "title": "LMAX Group launches digital asset collateral solution for institutions",
+      "title": "Farage faces UK standards probe over $7M gift from crypto billionaire",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/lmax-group-launches-digital-asset-collateral-solution-institutions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 12 May 2026 14:15:17 +0000",
-      "summary": "The new portal lets LMAX clients deposit digital assets into custody and use them as collateral to trade FX, metals, CFDs, perpetual futures and crypto."
+      "url": "https://cointelegraph.com/news/farage-uk-standards-probe-7m-gift-crypto-billionaire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 13 May 2026 13:42:31 +0000",
+      "summary": "UK Reform Party leader Nigel Farage is reportedly facing a probe over an undeclared donation from crypto billionaire Christopher Harborne that he received before becoming an MP in 2024."
     },
     {
-      "title": "Exodus sells over 1,000 Bitcoin as Q1 loss widens to $32M",
+      "title": "Metaplanet Q1 profit jumps, but Bitcoin losses hit bottom line",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/exodus-posts-32m-loss-in-q1-sells-63-of-its-bitcoin-holdings-to-fund-acquisitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 12 May 2026 14:05:01 +0000",
-      "summary": "Exodus Movement reported a $32.1 million net loss in Q1, with revenue down 36.8% to $22.7 million amid a drop in monthly active users."
+      "url": "https://cointelegraph.com/news/metaplanet-reports-strong-q1-operating-income-wider-loss-on-bitcoin-revaluation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 13 May 2026 13:10:42 +0000",
+      "summary": "Metaplanet posted strong Q1 operating income driven by Bitcoin options revenue, but swung to a $728 million loss as BTC price declines triggered valuation markdowns."
     },
     {
-      "title": "North Korea \u2018industrialized\u2019 crypto theft, laundered billions: CertiK",
+      "title": "Bitcoin to $100K in Q2? Strategy\u2019s STRC unlocks potential to buy 3K BTC in two days",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/north-korea-industrialized-crypto-theft-laundered-billions-report-finds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 12 May 2026 14:00:00 +0000",
-      "summary": "North Korea-linked hackers stole about $2.06 billion of the $3.4 billion lost in crypto hacks in 2025 and are moving from phishing to physical infiltration, CertiK\u2019s new report finds."
+      "url": "https://cointelegraph.com/markets/bitcoin-100k-in-q2-strategy-strc-unlocks-buy-3k-btc-two-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 13 May 2026 12:29:00 +0000",
+      "summary": "Strategy\u2019s potential 3,127 BTC buy this week, alongside falling stablecoin dominance, suggests more capital may enter the Bitcoin market.\n"
     }
   ],
   "aiNews": [
     {
-      "title": "Dessn raises $6M for its production focused design tool",
+      "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+\u00a0",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
-      "publishedAt": "Tue, 12 May 2026 13:00:00 +0000",
-      "summary": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases. "
+      "url": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
+      "publishedAt": "Wed, 13 May 2026 14:59:32 +0000",
+      "summary": "Alexa for Shopping is a new personalized AI shopping assistant in the Amazon search bar that replaces its Rufus assistant. "
     },
     {
-      "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
+      "title": "WhatsApp adds an incognito mode in Meta AI chats",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
-      "publishedAt": "Tue, 12 May 2026 11:30:00 +0000",
-      "summary": "Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents."
+      "url": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
+      "publishedAt": "Wed, 13 May 2026 14:00:00 +0000",
+      "summary": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat. "
     },
     {
-      "title": "Thinking Machines wants to build an AI that actually listens while it talks",
+      "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
-      "publishedAt": "Tue, 12 May 2026 04:52:35 +0000",
-      "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input a"
+      "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
+      "publishedAt": "Wed, 13 May 2026 14:00:00 +0000",
+      "summary": "For the first time, Anthropic has more verified business customers than OpenAI, according to this month\u2019s AI Index from the fintech firm Ramp.\u00a0"
     },
     {
-      "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+      "title": "Introducing the 6 stages at TechCrunch Disrupt 2026 \u2014 built for today\u2019s tougher startup market",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
-      "publishedAt": "Tue, 12 May 2026 00:09:01 +0000",
-      "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups."
+      "url": "https://techcrunch.com/2026/05/13/introducing-the-6-stages-of-techcrunch-disrupt-2026-built-for-todays-tougher-startup-market/",
+      "publishedAt": "Wed, 13 May 2026 14:00:00 +0000",
+      "summary": "From October 13-15, TechCrunch Disrupt 2026 will feature 200+ sessions across six stages, led by 250+ tech leaders shaping the industry today. Register now to save up to $410, plus 50% off a second pa"
     },
     {
-      "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+      "title": "Poppy debuts a proactive AI assistant to help organize your digital life",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
-      "publishedAt": "Mon, 11 May 2026 23:04:10 +0000",
-      "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows."
+      "url": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/",
+      "publishedAt": "Wed, 13 May 2026 13:27:09 +0000",
+      "summary": "Poppy is an AI-powered app that connects your calendar, email, messages, and other services to surface reminders, suggestions, and tasks based on what\u2019s happening in your life."
     }
   ],
   "techMovers": [
     {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "price": 205.7,
-      "change": -10.9,
-      "changePercent": -5.03
-    },
-    {
-      "ticker": "ORCL",
-      "name": "Oracle Corp",
-      "price": 184.52,
-      "change": -9.32,
-      "changePercent": -4.81
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 440.72,
-      "change": -18.07,
-      "changePercent": -3.94
-    },
-    {
       "ticker": "TSLA",
       "name": "Tesla Inc",
-      "price": 429.1,
-      "change": -15.9,
-      "changePercent": -3.57
+      "price": 452.63,
+      "change": 19.18,
+      "changePercent": 4.42
     },
     {
-      "ticker": "NFLX",
-      "name": "Netflix Inc",
-      "price": 88.41,
-      "change": 2.96,
-      "changePercent": 3.46
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "price": 201.31,
+      "change": -6.33,
+      "changePercent": -3.05
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp",
+      "price": 226.76,
+      "change": 5.98,
+      "changePercent": 2.71
+    },
+    {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc",
+      "price": 393.96,
+      "change": 10.14,
+      "changePercent": 2.64
+    },
+    {
+      "ticker": "CRM",
+      "name": "Salesforce Inc",
+      "price": 166.8,
+      "change": -4.51,
+      "changePercent": -2.63
     }
   ],
-  "fearGreedIndex": 49,
+  "fearGreedIndex": 42,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 327.03,
-    "change": 3.17,
-    "changePercent": 0.98
+    "price": 320.38,
+    "change": -6.05,
+    "changePercent": -1.85
   },
   "sectors": [
     {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": 1.65
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 1.13
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": 0.38
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 0.17
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": -0.13
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": -0.17
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": -0.24
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": 0.61
     },
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": -1.27
+      "changePercent": 0.43
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": 0.34
     },
     {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": -1.31
+      "changePercent": 0.16
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": 0.01
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -0.07
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": -1.35
+      "changePercent": -0.33
     },
     {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": -2.68
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": -0.95
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -0.96
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": -0.99
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": -1.42
     }
   ],
   "economicCalendar": [
-    {
-      "date": "2026-05-12",
-      "time": "08:30 ET",
-      "event": "CPI Inflation Data",
-      "importance": "high",
-      "description": "Consumer Price Index - key inflation measure"
-    },
     {
       "date": "2026-05-15",
       "time": "08:30 ET",
