@@ -13,8 +13,8 @@ export async function GET(request: Request) {
 
   let refreshError: string | null = null;
 
-  // If force refresh, run the refresh script
-  if (force) {
+  // If force refresh, run the refresh script (only works locally, not on Vercel)
+  if (force && process.env.VERCEL !== '1') {
     try {
       const scriptPath = join(process.cwd(), "scripts", "refresh.sh");
       await execAsync(`bash ${scriptPath}`, { timeout: 120000 });
