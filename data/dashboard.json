@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-05-13T15:42:14.716674+00:00",
+  "lastUpdated": "2026-05-14T15:16:42.121059+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Trump arrives in China for high-stakes meeting with Xi Jinping",
+      "title": "Flattery and fanfare as Trump welcomed to China - but thorny issues remain",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 13 May 2026 13:51:13 GMT",
-      "summary": "The leaders of the global superpowers are expected to discuss the war in Iran, tariffs, AI and Taiwan during the two-day visit."
+      "url": "https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 14 May 2026 13:02:13 GMT",
+      "summary": "The leaders of the world's two superpowers were all smiles for the cameras during the US president's visit to Beijing."
     },
     {
-      "title": "Court overturns Alex Murdaugh's murder convictions and orders new trial",
+      "title": "'Floating armoury' ship reportedly seized by Iran",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cedpvnq7wn1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 13 May 2026 15:36:38 GMT",
-      "summary": "The court has ordered a new trial over the June 2021 killings of Paul and Maggie Murdaugh."
+      "url": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 14 May 2026 13:33:20 GMT",
+      "summary": "A vessel said to be a \u201cfloating armoury\u201d in the Gulf of Oman has been seized by Iranian military personnel, according to reports."
     },
     {
-      "title": "Woman isolating on British island in South Pacific after hantavirus contact",
+      "title": "Warning of record global temperatures as chance of very strong El Ni\u00f1o grows",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cx21p7k70reo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 13 May 2026 14:16:08 GMT",
-      "summary": "The woman who was on a virus-hit ship shows \"no signs of illness\", the government of Pitcairn Islands, a British Overseas Territory, says. "
+      "url": "https://www.bbc.com/weather/articles/cvgzn11v421o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 14 May 2026 13:56:57 GMT",
+      "summary": "As El Ni\u00f1o develops this year, scientists are increasingly confident it could be one of the strongest on record with global consequences, as Simon King explains."
     },
     {
-      "title": "What to know as Trump visits Xi in China",
+      "title": "Former Nigerian minister sentenced to 75 years in rare corruption verdict",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cyv2n7l1z14o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 13 May 2026 13:01:51 GMT",
-      "summary": "Trump has landed in Beijing for the first visit by a US leader since his own in 2017."
+      "url": "https://www.bbc.com/news/articles/c0j296392j1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 14 May 2026 11:44:22 GMT",
+      "summary": "Former Power Minister Saleh Mamman was convicted last week - but the authorities do not know his whereabouts."
     },
     {
-      "title": "Philippine Senate in lockdown after gunshots fired",
+      "title": "Latvian PM resigns after row over stray Ukrainian drones",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cnvp730yd52o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 13 May 2026 15:35:15 GMT",
-      "summary": "Police commandos entered the building where a senator wanted by the International Criminal Court had sought refuge."
+      "url": "https://www.bbc.com/news/articles/cwy21k5917jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 14 May 2026 10:53:56 GMT",
+      "summary": "Drones bound for Russia crashed down in Latvia last week, prompting a political fallout."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 79222,
-      "change24h": -1.39733,
-      "marketCap": 1587474605046,
+      "price": 80945,
+      "change24h": 1.965,
+      "marketCap": 1620761506747,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2251.87,
-      "change24h": -0.50649,
-      "marketCap": 272065942847,
+      "price": 2282.21,
+      "change24h": 1.11875,
+      "marketCap": 275256469824,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Brickken and Magma partner to deliver Net Asset Value (NAV) oracle for tokenized real estate",
+      "title": "Tether-backed Oobit expands crypto payments platform into Colombia ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/press-releases/brickken-and-magma-partner-to-deliver-net-asset-value-nav-oracle-for-tokenized-real-estate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 13 May 2026 15:00:00 +0000",
-      "summary": "Built on Magma's Digital Twin Token (DTT) and Brickken's institutional tokenization infrastructure to close the data gap that has held tokenized real estate back."
+      "url": "https://cointelegraph.com/news/tether-backed-oobit-expands-crypto-payments-platform-into-colombia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 14 May 2026 15:00:00 +0000",
+      "summary": "The crypto payments company said users in Latin America are spending digital assets on groceries, restaurants and other everyday purchases."
     },
     {
-      "title": "Paybis secures MiCA, payment licenses in Latvia for EU crypto expansion",
+      "title": "Strategy\u2019s Bitcoin engine faces $28B STRC ceiling: Delphi Digital",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/crypto-exchange-paybis-secures-mica-and-psd2-licenses-in-latvia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 13 May 2026 14:55:22 +0000",
-      "summary": "Paybis has secured both a MiCA crypto licence and a PSD2 payment institution licence from Latvia\u2019s central bank, becoming the first company in the country to hold both simultaneously."
+      "url": "https://cointelegraph.com/news/strategys-bitcoin-engine-28b-strc-ceiling-delphi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 14 May 2026 14:42:57 +0000",
+      "summary": "Strategy is approaching the $28 billion issuance limit on its STRC stock, but Delphi researchers pointed to other capital-raising mechanisms that may fuel its BTC accumulation."
     },
     {
-      "title": "Farage faces UK standards probe over $7M gift from crypto billionaire",
+      "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/farage-uk-standards-probe-7m-gift-crypto-billionaire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 13 May 2026 13:42:31 +0000",
-      "summary": "UK Reform Party leader Nigel Farage is reportedly facing a probe over an undeclared donation from crypto billionaire Christopher Harborne that he received before becoming an MP in 2024."
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 14 May 2026 14:41:10 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
     },
     {
-      "title": "Metaplanet Q1 profit jumps, but Bitcoin losses hit bottom line",
+      "title": "Who supports CLARITY on the US Senate Banking Committee? ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/metaplanet-reports-strong-q1-operating-income-wider-loss-on-bitcoin-revaluation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 13 May 2026 13:10:42 +0000",
-      "summary": "Metaplanet posted strong Q1 operating income driven by Bitcoin options revenue, but swung to a $728 million loss as BTC price declines triggered valuation markdowns."
+      "url": "https://cointelegraph.com/features/who-supports-clarity-act-senate-banking-committee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 14 May 2026 14:22:34 +0000",
+      "summary": "The US Senate banking committee will hold a markup session on May 14 for the CLARITY Act, and support appears at least nominally bipartisan.\n"
     },
     {
-      "title": "Bitcoin to $100K in Q2? Strategy\u2019s STRC unlocks potential to buy 3K BTC in two days",
+      "title": "What's preventing Bitcoin price from breaking above $80K? ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-100k-in-q2-strategy-strc-unlocks-buy-3k-btc-two-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 13 May 2026 12:29:00 +0000",
-      "summary": "Strategy\u2019s potential 3,127 BTC buy this week, alongside falling stablecoin dominance, suggests more capital may enter the Bitcoin market.\n"
+      "url": "https://cointelegraph.com/markets/whats-preventing-bitcoin-price-from-breaking-above-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 14 May 2026 14:18:05 +0000",
+      "summary": "Bitcoin struggles to regain its footing above $80,000 as some buyers remain hesitant and heavy resistance builds overhead. "
     }
   ],
   "aiNews": [
     {
-      "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+\u00a0",
+      "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports \u2018record quarterly revenue\u2019",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
-      "publishedAt": "Wed, 13 May 2026 14:59:32 +0000",
-      "summary": "Alexa for Shopping is a new personalized AI shopping assistant in the Amazon search bar that replaces its Rufus assistant. "
+      "url": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
+      "publishedAt": "Thu, 14 May 2026 14:01:14 +0000",
+      "summary": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth."
     },
     {
-      "title": "WhatsApp adds an incognito mode in Meta AI chats",
+      "title": "Two\u00a0weeks\u00a0left: Startup Battlefield 200 applications close May 27",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
-      "publishedAt": "Wed, 13 May 2026 14:00:00 +0000",
-      "summary": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat. "
+      "url": "https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/",
+      "publishedAt": "Thu, 14 May 2026 14:00:00 +0000",
+      "summary": "Your shot at VC access, global visibility, TechCrunch coverage, and $100K equity-free funding is running out. Deadline to apply is May 27. Apply now."
     },
     {
-      "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
+      "title": "Wirestock raises $23M to supply creative multi-modal data to AI labs",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
-      "publishedAt": "Wed, 13 May 2026 14:00:00 +0000",
-      "summary": "For the first time, Anthropic has more verified business customers than OpenAI, according to this month\u2019s AI Index from the fintech firm Ramp.\u00a0"
+      "url": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
+      "publishedAt": "Thu, 14 May 2026 14:00:00 +0000",
+      "summary": "Wirestock has over 700,000 creators on its platform, which supplies photos, videos and 3D content to AI labs."
     },
     {
-      "title": "Introducing the 6 stages at TechCrunch Disrupt 2026 \u2014 built for today\u2019s tougher startup market",
+      "title": "Who decides what AI tells you? Campbell Brown, once Meta\u2019s news chief, has thoughts",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/13/introducing-the-6-stages-of-techcrunch-disrupt-2026-built-for-todays-tougher-startup-market/",
-      "publishedAt": "Wed, 13 May 2026 14:00:00 +0000",
-      "summary": "From October 13-15, TechCrunch Disrupt 2026 will feature 200+ sessions across six stages, led by 250+ tech leaders shaping the industry today. Register now to save up to $410, plus 50% off a second pa"
+      "url": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
+      "publishedAt": "Thu, 14 May 2026 06:05:31 +0000",
+      "summary": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers.\"\n\n"
     },
     {
-      "title": "Poppy debuts a proactive AI assistant to help organize your digital life",
+      "title": "Clio\u2019s $500M milestone arrives just as Anthropic ups the ante",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/",
-      "publishedAt": "Wed, 13 May 2026 13:27:09 +0000",
-      "summary": "Poppy is an AI-powered app that connects your calendar, email, messages, and other services to surface reminders, suggestions, and tasks based on what\u2019s happening in your life."
+      "url": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
+      "publishedAt": "Thu, 14 May 2026 05:24:39 +0000",
+      "summary": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption."
     }
   ],
   "techMovers": [
     {
-      "ticker": "TSLA",
-      "name": "Tesla Inc",
-      "price": 452.63,
-      "change": 19.18,
-      "changePercent": 4.42
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "price": 200.35,
+      "change": 10.59,
+      "changePercent": 5.58
     },
     {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "price": 201.31,
-      "change": -6.33,
-      "changePercent": -3.05
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "price": 436.65,
+      "change": 19.86,
+      "changePercent": 4.77
     },
     {
       "ticker": "NVDA",
       "name": "NVIDIA Corp",
-      "price": 226.76,
-      "change": 5.98,
-      "changePercent": 2.71
+      "price": 234.76,
+      "change": 8.93,
+      "changePercent": 3.96
     },
     {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc",
-      "price": 393.96,
-      "change": 10.14,
-      "changePercent": 2.64
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "price": 208.54,
+      "change": 6.74,
+      "changePercent": 3.34
     },
     {
       "ticker": "CRM",
       "name": "Salesforce Inc",
-      "price": 166.8,
-      "change": -4.51,
-      "changePercent": -2.63
+      "price": 168.8,
+      "change": 2.96,
+      "changePercent": 1.78
     }
   ],
-  "fearGreedIndex": 42,
+  "fearGreedIndex": 34,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 320.38,
-    "change": -6.05,
-    "changePercent": -1.85
+    "price": 321.55,
+    "change": 1.24,
+    "changePercent": 0.39
   },
   "sectors": [
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": 0.61
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 0.43
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 0.34
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 0.16
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": 0.01
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": -0.07
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": -0.33
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": -0.95
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": -0.96
+      "changePercent": 1.79
     },
     {
       "ticker": "XLF",
       "name": "Financials",
-      "changePercent": -0.99
+      "changePercent": 0.76
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": 0.75
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": 0.37
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": 0.33
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": 0.21
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": 0.17
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": 0.09
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -0.04
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": -1.42
+      "changePercent": -0.15
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -0.64
     }
   ],
   "economicCalendar": [
