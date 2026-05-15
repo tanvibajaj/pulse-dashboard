@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-05-14T15:16:42.121059+00:00",
+  "lastUpdated": "2026-05-15T15:11:27.587372+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Flattery and fanfare as Trump welcomed to China - but thorny issues remain",
+      "title": "Trump and Xi conclude 'very successful' talks but no deals confirmed",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 14 May 2026 13:02:13 GMT",
-      "summary": "The leaders of the world's two superpowers were all smiles for the cameras during the US president's visit to Beijing."
+      "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 15 May 2026 15:03:05 GMT",
+      "summary": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit."
     },
     {
-      "title": "'Floating armoury' ship reportedly seized by Iran",
+      "title": "CIA chief visits Cuba as energy crisis worsens",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 14 May 2026 13:33:20 GMT",
-      "summary": "A vessel said to be a \u201cfloating armoury\u201d in the Gulf of Oman has been seized by Iranian military personnel, according to reports."
+      "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 15 May 2026 02:40:50 GMT",
+      "summary": "The reported visit to Havana came after the US renewed an offer of aid to ease the effects of its oil blockade."
     },
     {
-      "title": "Warning of record global temperatures as chance of very strong El Ni\u00f1o grows",
+      "title": "New outbreak of Ebola kills 65 in eastern DR Congo",
       "source": "BBC",
-      "url": "https://www.bbc.com/weather/articles/cvgzn11v421o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 14 May 2026 13:56:57 GMT",
-      "summary": "As El Ni\u00f1o develops this year, scientists are increasingly confident it could be one of the strongest on record with global consequences, as Simon King explains."
+      "url": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 15 May 2026 13:23:53 GMT",
+      "summary": "Africa's top health agency says around 246 cases have been reported."
     },
     {
-      "title": "Former Nigerian minister sentenced to 75 years in rare corruption verdict",
+      "title": "Five Italians die during cave scuba dive in Maldives",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c0j296392j1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 14 May 2026 11:44:22 GMT",
-      "summary": "Former Power Minister Saleh Mamman was convicted last week - but the authorities do not know his whereabouts."
+      "url": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 15 May 2026 07:38:17 GMT",
+      "summary": "Four of the Italians were part of a team from the University of Genoa."
     },
     {
-      "title": "Latvian PM resigns after row over stray Ukrainian drones",
+      "title": "Boy, 15, shot dead in France as prosecutors blame drug war",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cwy21k5917jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 14 May 2026 10:53:56 GMT",
-      "summary": "Drones bound for Russia crashed down in Latvia last week, prompting a political fallout."
+      "url": "https://www.bbc.com/news/articles/cj9pze942j8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 15 May 2026 12:33:56 GMT",
+      "summary": "Prosecutors in Nantes say the shooting was drug-related, but the victim's aunt says he was not involved."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 80945,
-      "change24h": 1.965,
-      "marketCap": 1620761506747,
+      "price": 79195,
+      "change24h": -2.13056,
+      "marketCap": 1583769744829,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2282.21,
-      "change24h": 1.11875,
-      "marketCap": 275256469824,
+      "price": 2213.24,
+      "change24h": -2.96115,
+      "marketCap": 266757090452,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Tether-backed Oobit expands crypto payments platform into Colombia ",
+      "title": "Polish lawmakers back revised crypto bill after repeated vetoes",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/tether-backed-oobit-expands-crypto-payments-platform-into-colombia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 14 May 2026 15:00:00 +0000",
-      "summary": "The crypto payments company said users in Latin America are spending digital assets on groceries, restaurants and other everyday purchases."
+      "url": "https://cointelegraph.com/news/poland-approves-government-crypto-bill-eu-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 15 May 2026 13:36:14 +0000",
+      "summary": "Polish lawmakers approve a Ministry of Finance-backed crypto bill to implement the EU MiCA framework in a 241\u2013200 vote after repeated vetoes."
     },
     {
-      "title": "Strategy\u2019s Bitcoin engine faces $28B STRC ceiling: Delphi Digital",
+      "title": "Bitcoin stalls above $80K despite CLARITY Act pass: What will trigger a breakout?",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/strategys-bitcoin-engine-28b-strc-ceiling-delphi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 14 May 2026 14:42:57 +0000",
-      "summary": "Strategy is approaching the $28 billion issuance limit on its STRC stock, but Delphi researchers pointed to other capital-raising mechanisms that may fuel its BTC accumulation."
+      "url": "https://cointelegraph.com/markets/bitcoin-stalls-80k-despite-clarity-act-pass-what-will-trigger-breakout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 15 May 2026 12:49:42 +0000",
+      "summary": "Bitcoin\u2019s break above $82,000 and a return of strong institutional demand are prerequisites to confirm a trend change for BTC price."
     },
     {
-      "title": "Here\u2019s what happened in crypto today",
+      "title": "South Korea plans July rules for tokenized securities",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 14 May 2026 14:41:10 +0000",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
+      "url": "https://cointelegraph.com/news/south-korea-announce-tokenized-securities-laws-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 15 May 2026 12:23:47 +0000",
+      "summary": "South Korea's FSC is preparing detailed rules for tokenized securities before a legal framework for blockchain-based securities takes effect in February 2027."
     },
     {
-      "title": "Who supports CLARITY on the US Senate Banking Committee? ",
+      "title": "Bitcoin risks \u2018next downtrend\u2019 as traders diverge on fate of $82K resistance",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/features/who-supports-clarity-act-senate-banking-committee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 14 May 2026 14:22:34 +0000",
-      "summary": "The US Senate banking committee will hold a markup session on May 14 for the CLARITY Act, and support appears at least nominally bipartisan.\n"
+      "url": "https://cointelegraph.com/markets/bitcoin-risks-next-downtrend-traders-diverge-fate-82k-resistance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 15 May 2026 11:49:05 +0000",
+      "summary": "Bitcoin traders split between a \"massive catch-up\" with stocks and the start of its \"next downtrend\" as BTC price action failed to flip $82,000 to support."
     },
     {
-      "title": "What's preventing Bitcoin price from breaking above $80K? ",
+      "title": "THORChain pauses trading after suspected $10M exploit",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/whats-preventing-bitcoin-price-from-breaking-above-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 14 May 2026 14:18:05 +0000",
-      "summary": "Bitcoin struggles to regain its footing above $80,000 as some buyers remain hesitant and heavy resistance builds overhead. "
+      "url": "https://cointelegraph.com/news/thorchain-halts-trading-zachxbt-flags-10m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 15 May 2026 11:36:40 +0000",
+      "summary": "THORChain paused trading after ZachXBT flagged a suspected $10 million exploit spanning Bitcoin, Ethereum, BNB Chain and Base."
     }
   ],
   "aiNews": [
     {
-      "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports \u2018record quarterly revenue\u2019",
+      "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
-      "publishedAt": "Thu, 14 May 2026 14:01:14 +0000",
-      "summary": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth."
+      "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
+      "publishedAt": "Fri, 15 May 2026 14:00:00 +0000",
+      "summary": "AI video generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability."
     },
     {
-      "title": "Two\u00a0weeks\u00a0left: Startup Battlefield 200 applications close May 27",
+      "title": "Osaurus brings both local and cloud AI models to your Mac",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/",
-      "publishedAt": "Thu, 14 May 2026 14:00:00 +0000",
-      "summary": "Your shot at VC access, global visibility, TechCrunch coverage, and $100K equity-free funding is running out. Deadline to apply is May 27. Apply now."
+      "url": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
+      "publishedAt": "Fri, 15 May 2026 12:19:48 +0000",
+      "summary": "Osaurus\ufffc combines local and cloud AI models in a Mac app that keeps users\u2019 memory, files, and tools on their own hardware."
     },
     {
-      "title": "Wirestock raises $23M to supply creative multi-modal data to AI labs",
+      "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
-      "publishedAt": "Thu, 14 May 2026 14:00:00 +0000",
-      "summary": "Wirestock has over 700,000 creators on its platform, which supplies photos, videos and 3D content to AI labs."
+      "url": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
+      "publishedAt": "Thu, 14 May 2026 22:47:51 +0000",
+      "summary": "Here's what the biggest tech court case of the year is all about. "
     },
     {
-      "title": "Who decides what AI tells you? Campbell Brown, once Meta\u2019s news chief, has thoughts",
+      "title": "Elon Musk\u2019s SpaceXAI has been bleeding staff since its merger",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
-      "publishedAt": "Thu, 14 May 2026 06:05:31 +0000",
-      "summary": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers.\"\n\n"
+      "url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+      "publishedAt": "Thu, 14 May 2026 21:30:44 +0000",
+      "summary": "More than 50 employees have reportedly left Elon Musk\u2019s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakene"
     },
     {
-      "title": "Clio\u2019s $500M milestone arrives just as Anthropic ups the ante",
+      "title": "OpenAI says Codex is coming to your phone",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
-      "publishedAt": "Thu, 14 May 2026 05:24:39 +0000",
-      "summary": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption."
+      "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+      "publishedAt": "Thu, 14 May 2026 20:58:55 +0000",
+      "summary": "The update gives users enhanced flexibility over how they can manage their workflows. "
     }
   ],
   "techMovers": [
     {
-      "ticker": "ORCL",
-      "name": "Oracle Corp",
-      "price": 200.35,
-      "change": 10.59,
-      "changePercent": 5.58
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "price": 195.73,
+      "change": -16.28,
+      "changePercent": -7.68
     },
     {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc",
-      "price": 436.65,
-      "change": 19.86,
-      "changePercent": 4.77
+      "ticker": "SNOW",
+      "name": "Snowflake Inc",
+      "price": 157.04,
+      "change": 6.28,
+      "changePercent": 4.16
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla Inc",
+      "price": 425.76,
+      "change": -17.54,
+      "changePercent": -3.96
     },
     {
       "ticker": "NVDA",
       "name": "NVIDIA Corp",
-      "price": 234.76,
-      "change": 8.93,
-      "changePercent": 3.96
+      "price": 226.43,
+      "change": -9.31,
+      "changePercent": -3.95
     },
     {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "price": 208.54,
-      "change": 6.74,
-      "changePercent": 3.34
-    },
-    {
-      "ticker": "CRM",
-      "name": "Salesforce Inc",
-      "price": 168.8,
-      "change": 2.96,
-      "changePercent": 1.78
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 432.78,
+      "change": -16.92,
+      "changePercent": -3.76
     }
   ],
-  "fearGreedIndex": 34,
+  "fearGreedIndex": 43,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 321.55,
-    "change": 1.24,
-    "changePercent": 0.39
+    "price": 327.2,
+    "change": 4.68,
+    "changePercent": 1.45
   },
   "sectors": [
     {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": 1.79
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": 1.46
     },
     {
       "ticker": "XLF",
       "name": "Financials",
-      "changePercent": 0.76
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 0.75
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 0.37
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 0.33
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": 0.21
+      "changePercent": -0.06
     },
     {
       "ticker": "XLP",
       "name": "Consumer Staples",
-      "changePercent": 0.17
+      "changePercent": -0.15
     },
     {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": 0.09
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -0.39
     },
     {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": -0.04
+      "changePercent": -0.45
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -1.28
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": -0.15
+      "changePercent": -1.43
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": -1.53
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": -1.57
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -1.59
     },
     {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": -0.64
+      "changePercent": -2.15
     }
   ],
   "economicCalendar": [
