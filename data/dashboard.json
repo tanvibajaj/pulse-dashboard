@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-05-15T15:11:27.587372+00:00",
-  "marketStatus": "Open",
+  "lastUpdated": "2026-05-16T14:20:55.706636+00:00",
+  "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "Trump and Xi conclude 'very successful' talks but no deals confirmed",
+      "title": "Senior IS leader killed in joint operation, US and Nigeria say",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 15 May 2026 15:03:05 GMT",
-      "summary": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit."
+      "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 16 May 2026 11:44:54 GMT",
+      "summary": "President Donald Trump said the operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki."
     },
     {
-      "title": "CIA chief visits Cuba as energy crisis worsens",
+      "title": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 15 May 2026 02:40:50 GMT",
-      "summary": "The reported visit to Havana came after the US renewed an offer of aid to ease the effects of its oil blockade."
+      "url": "https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 16 May 2026 13:42:41 GMT",
+      "summary": "Staff Sgt Mohamed Mahdhee died while diving in the search-and-rescue operation, the Maldives government tells the BBC."
     },
     {
-      "title": "New outbreak of Ebola kills 65 in eastern DR Congo",
+      "title": "US planning to charge ex-Cuban leader Ra\u00fal Castro",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 15 May 2026 13:23:53 GMT",
-      "summary": "Africa's top health agency says around 246 cases have been reported."
+      "url": "https://www.bbc.com/news/articles/c1w2gnd9xp2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 16 May 2026 01:37:27 GMT",
+      "summary": "Charges could come as soon as next week in a case reportedly focused on Cuba's downing of two planes in 1996."
     },
     {
-      "title": "Five Italians die during cave scuba dive in Maldives",
+      "title": "Toddlers among more than 50 schoolchildren kidnapped in Nigeria",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 15 May 2026 07:38:17 GMT",
-      "summary": "Four of the Italians were part of a team from the University of Genoa."
+      "url": "https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 16 May 2026 13:55:14 GMT",
+      "summary": "No group has yet claimed responsibility for the attacks, which have devastated Mussa town in Borno state."
     },
     {
-      "title": "Boy, 15, shot dead in France as prosecutors blame drug war",
+      "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cj9pze942j8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 15 May 2026 12:33:56 GMT",
-      "summary": "Prosecutors in Nantes say the shooting was drug-related, but the victim's aunt says he was not involved."
+      "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 16 May 2026 05:53:41 GMT",
+      "summary": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island."
     }
   ],
   "cryptoAssets": [
@@ -43,65 +43,86 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 79195,
-      "change24h": -2.13056,
-      "marketCap": 1583769744829,
+      "price": 77885,
+      "change24h": -1.63724,
+      "marketCap": 1560621002636,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2213.24,
-      "change24h": -2.96115,
-      "marketCap": 266757090452,
+      "price": 2174.64,
+      "change24h": -2.09251,
+      "marketCap": 262374760494,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Polish lawmakers back revised crypto bill after repeated vetoes",
+      "title": "THORChain confirms $10M exploit, rolls out recovery portal for affected users",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/poland-approves-government-crypto-bill-eu-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 15 May 2026 13:36:14 +0000",
-      "summary": "Polish lawmakers approve a Ministry of Finance-backed crypto bill to implement the EU MiCA framework in a 241\u2013200 vote after repeated vetoes."
+      "url": "https://cointelegraph.com/news/thorchain-confirms-10m-exploit-rolls-out-recovery-portal-for-affected-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 16 May 2026 09:47:44 +0000",
+      "summary": "THORChain has launched a recovery portal following a $10 million exploit, allowing affected users across four chains to revoke malicious approvals and claim refunds."
     },
     {
-      "title": "Bitcoin stalls above $80K despite CLARITY Act pass: What will trigger a breakout?",
+      "title": "Sharplink CEO points out 3 catalysts for Ethereum's price to surge higher",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-stalls-80k-despite-clarity-act-pass-what-will-trigger-breakout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 15 May 2026 12:49:42 +0000",
-      "summary": "Bitcoin\u2019s break above $82,000 and a return of strong institutional demand are prerequisites to confirm a trend change for BTC price."
+      "url": "https://cointelegraph.com/news/sharplink-ceo-points-out-these-3-catalysts-for-ethereum-to-reach-new-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 16 May 2026 09:00:52 +0000",
+      "summary": "The rest of the world is \u201creally closely\u201d watching the US CLARITY Act as the nation moves further away from the previous \u201chostile stance,\u201d according to Sharplink\u2019s chief."
     },
     {
-      "title": "South Korea plans July rules for tokenized securities",
+      "title": "Spot Bitcoin ETFs bleed $1B in a week, snapping six-week inflow run",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/south-korea-announce-tokenized-securities-laws-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 15 May 2026 12:23:47 +0000",
-      "summary": "South Korea's FSC is preparing detailed rules for tokenized securities before a legal framework for blockchain-based securities takes effect in February 2027."
+      "url": "https://cointelegraph.com/news/spot-bitcoin-etfs-bleed-1b-in-a-week-snapping-six-week-inflow-run?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 16 May 2026 08:19:20 +0000",
+      "summary": "Spot Bitcoin ETFs shed $1 billion in a single week as capital rotated toward AI stocks and macro uncertainty weighed on sentiment, ending a six-week run that had pulled in $3.4 billion."
     },
     {
-      "title": "Bitcoin risks \u2018next downtrend\u2019 as traders diverge on fate of $82K resistance",
+      "title": "US CLARITY Act brings \u2018major spike of euphoria\u2019 to Bitcoin: Santiment",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-risks-next-downtrend-traders-diverge-fate-82k-resistance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 15 May 2026 11:49:05 +0000",
-      "summary": "Bitcoin traders split between a \"massive catch-up\" with stocks and the start of its \"next downtrend\" as BTC price action failed to flip $82,000 to support."
+      "url": "https://cointelegraph.com/news/us-clarity-act-brings-major-spike-of-euphoria-to-bitcoin-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 16 May 2026 02:13:23 +0000",
+      "summary": "Santiment warned that the crypto market \u201ctypically\u201d moves against crowd expectations, pointing to a recent rise in bullish sentiment driven by renewed momentum around the US CLARITY Act."
     },
     {
-      "title": "THORChain pauses trading after suspected $10M exploit",
+      "title": "House committee leaders urge Trump to nominate CFTC members, citing CLARITY Act",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/thorchain-halts-trading-zachxbt-flags-10m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 15 May 2026 11:36:40 +0000",
-      "summary": "THORChain paused trading after ZachXBT flagged a suspected $10 million exploit spanning Bitcoin, Ethereum, BNB Chain and Base."
+      "url": "https://cointelegraph.com/news/house-committee-nominate-cftc-commissioners-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 15 May 2026 23:10:35 +0000",
+      "summary": "The US Commodity Futures Trading Commission is currently headed by Chair Michael Selig, with no public statement from Donald Trump about fully staffing the five-member panel of commissioners."
     }
   ],
   "aiNews": [
     {
-      "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI.",
+      "title": "The OpenAI trial wraps up,\u00a0and the Musk founder machine keeps spinning",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
+      "publishedAt": "Fri, 15 May 2026 19:24:16 +0000",
+      "summary": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question:\u00a0can we trust the people in charge of AI?\u00a0All of this is playing out as SpaceX charges to"
+    },
+    {
+      "title": "Silicon Valley\u2019s vacationland needs a new energy provider just as AI is driving prices up",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
+      "publishedAt": "Fri, 15 May 2026 18:14:44 +0000",
+      "summary": "Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity."
+    },
+    {
+      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+      "publishedAt": "Fri, 15 May 2026 16:00:00 +0000",
+      "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments."
+    },
+    {
+      "title": "Runway started by helping filmmakers \u2014 now it wants to beat Google at AI",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
       "publishedAt": "Fri, 15 May 2026 14:00:00 +0000",
-      "summary": "AI video generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability."
+      "summary": "AI video-generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability."
     },
     {
       "title": "Osaurus brings both local and cloud AI models to your Mac",
@@ -109,140 +130,111 @@
       "url": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
       "publishedAt": "Fri, 15 May 2026 12:19:48 +0000",
       "summary": "Osaurus\ufffc combines local and cloud AI models in a Mac app that keeps users\u2019 memory, files, and tools on their own hardware."
-    },
-    {
-      "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
-      "publishedAt": "Thu, 14 May 2026 22:47:51 +0000",
-      "summary": "Here's what the biggest tech court case of the year is all about. "
-    },
-    {
-      "title": "Elon Musk\u2019s SpaceXAI has been bleeding staff since its merger",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
-      "publishedAt": "Thu, 14 May 2026 21:30:44 +0000",
-      "summary": "More than 50 employees have reportedly left Elon Musk\u2019s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakene"
-    },
-    {
-      "title": "OpenAI says Codex is coming to your phone",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
-      "publishedAt": "Thu, 14 May 2026 20:58:55 +0000",
-      "summary": "The update gives users enhanced flexibility over how they can manage their workflows. "
     }
   ],
   "techMovers": [
     {
       "ticker": "COIN",
       "name": "Coinbase",
-      "price": 195.73,
-      "change": -16.28,
-      "changePercent": -7.68
-    },
-    {
-      "ticker": "SNOW",
-      "name": "Snowflake Inc",
-      "price": 157.04,
-      "change": 6.28,
-      "changePercent": 4.16
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla Inc",
-      "price": 425.76,
-      "change": -17.54,
-      "changePercent": -3.96
-    },
-    {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corp",
-      "price": 226.43,
-      "change": -9.31,
-      "changePercent": -3.95
+      "price": 195.43,
+      "change": -16.58,
+      "changePercent": -7.82
     },
     {
       "ticker": "AMD",
       "name": "AMD Inc",
-      "price": 432.78,
-      "change": -16.92,
-      "changePercent": -3.76
+      "price": 424.1,
+      "change": -25.6,
+      "changePercent": -5.69
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla Inc",
+      "price": 422.24,
+      "change": -21.06,
+      "changePercent": -4.75
+    },
+    {
+      "ticker": "SNOW",
+      "name": "Snowflake Inc",
+      "price": 157.47,
+      "change": 6.71,
+      "changePercent": 4.45
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp",
+      "price": 225.32,
+      "change": -10.42,
+      "changePercent": -4.42
     }
   ],
-  "fearGreedIndex": 43,
+  "fearGreedIndex": 31,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 327.2,
-    "change": 4.68,
-    "changePercent": 1.45
+    "price": 325.75,
+    "change": 3.23,
+    "changePercent": 1.0
   },
   "sectors": [
     {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": 1.46
+      "changePercent": 2.36
     },
     {
       "ticker": "XLF",
       "name": "Financials",
-      "changePercent": -0.06
+      "changePercent": -0.37
     },
     {
       "ticker": "XLP",
       "name": "Consumer Staples",
-      "changePercent": -0.15
+      "changePercent": -0.4
     },
     {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": -0.39
+      "changePercent": -0.88
     },
     {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": -0.45
+      "changePercent": -1.04
     },
     {
       "ticker": "XLRE",
       "name": "Real Estate",
-      "changePercent": -1.28
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": -1.43
+      "changePercent": -1.55
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": -1.53
-    },
-    {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": -1.57
+      "changePercent": -1.78
     },
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": -1.59
+      "changePercent": -1.8
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": -1.81
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": -2.29
     },
     {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": -2.15
+      "changePercent": -2.65
     }
   ],
-  "economicCalendar": [
-    {
-      "date": "2026-05-15",
-      "time": "08:30 ET",
-      "event": "Retail Sales",
-      "importance": "medium",
-      "description": "Monthly consumer spending data"
-    }
-  ],
+  "economicCalendar": [],
   "marketIndicators": [
     {
       "label": "S&P 500",
