@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-05-18T16:20:42.358329+00:00",
+  "lastUpdated": "2026-05-19T16:16:26.506173+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "At least 100 deaths reported in Ebola outbreak in DR Congo as six Americans exposed",
+      "title": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 18 May 2026 14:54:34 GMT",
-      "summary": "One of the six Americans is experiencing symptoms, according to media reports. One province in Congo reports 390 cases."
+      "url": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 19 May 2026 14:20:15 GMT",
+      "summary": "Hundreds of cases are suspected in central Africa but experts fear the actual number may be much higher."
     },
     {
-      "title": "Judge rules gun and writings are admissible in Luigi Mangione's New York murder trial",
+      "title": "Father-of-eight killed in San Diego mosque shooting hailed as hero",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cx21g6qz45xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 18 May 2026 16:00:17 GMT",
-      "summary": "Other items found with Mangione at a Pennsylvania McDonald's will not be allowed to be presented in court, the judge ruled."
+      "url": "https://www.bbc.com/news/articles/clyp3gkrwg9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 19 May 2026 12:30:48 GMT",
+      "summary": "Security guard Amin Abdullah, one of three killed in the attack, was described as \"a shining light\"."
     },
     {
-      "title": "Two men arrested over stunt at enclosure of famed monkey Punch",
+      "title": "Victim or enabler? Epstein girlfriend who could face questions despite plea deal",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cr5pz4jvlp5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 18 May 2026 14:51:53 GMT",
-      "summary": "Two US nationals have been arrested after one jumped the fence of the monkey, who went viral online, police say."
+      "url": "https://www.bbc.com/news/articles/cz92j3n3jvvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 19 May 2026 10:58:23 GMT",
+      "summary": "Nadia Marcinko is relatively unknown but may soon be called before US legislators.\n"
     },
     {
-      "title": "Former Google CEO Eric Schmidt booed by graduates at mention of AI",
+      "title": "Son of Mango boss arrested over father's fatal fall from cliff",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/ce8pqd54qneo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 18 May 2026 15:16:00 GMT",
-      "summary": "The reaction underscores a growing anxiety among students over AI's impact on jobs and their future careers."
+      "url": "https://www.bbc.com/news/articles/c0m2pg1z4x8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 19 May 2026 15:30:57 GMT",
+      "summary": "Isak, 71, died in December 2024 after falling from a ravine while walking in the Montserrat mountains near Barcelona."
     },
     {
-      "title": "What is Ebola and why is stopping this outbreak so difficult?",
+      "title": "Selling children to survive: Afghan fathers forced to make impossible choices",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 18 May 2026 15:52:38 GMT",
-      "summary": "An outbreak of Ebola in DR Congo involves a rare strain and is in an area affected by conflict."
+      "url": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 19 May 2026 10:46:50 GMT",
+      "summary": "In Afghanistan today, a staggering three in four people cannot meet their basic needs."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 76515,
-      "change24h": -1.94978,
-      "marketCap": 1531777707623,
+      "price": 76394,
+      "change24h": -0.09854,
+      "marketCap": 1531528991532,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2107.37,
-      "change24h": -3.54143,
-      "marketCap": 254172685371,
+      "price": 2106.23,
+      "change24h": -0.01183,
+      "marketCap": 254509387065,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Ethereum traders say bears \u2018in control\u2019 after ETH price drop to $2K",
+      "title": "Bitcoin price stays under $77K as US bond yields near 20-year highs",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/ethereum-traders-say-bears-in-control-eth-price-drop-2k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 18 May 2026 15:36:04 +0000",
-      "summary": "Ether price fell sharply below $2,100 as increasing sell pressure on Binance and persistent ETF outflows fueled bearish momentum."
+      "url": "https://cointelegraph.com/markets/bitcoin-price-stays-under-77k-as-us-bond-yields-near-20-year-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 19 May 2026 16:00:27 +0000",
+      "summary": "BTC price stayed pinned below $77,000 amid rising US bond yields and oil prices, with market analysts saying Bitcoin is now at a \"crucial level of support.\" "
     },
     {
-      "title": "Hyperliquid eyes 55% price rise after Silicon Valley investor's 'massive HYPE buy'",
+      "title": "A viral hedgehog, Vitalik Buterin, and a bow: the GraphDex launch that crypto won't forget",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/hyperliquid-eyes-55-price-rise-silicon-valley-investors-massive-hype-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 18 May 2026 15:10:35 +0000",
-      "summary": "A bullish long-term chart pattern puts HYPE on track for a potential rally above $70 this year, with a16z-linked accumulation and fresh institutional catalysts strengthening the case."
+      "url": "https://cointelegraph.com/press-releases/a-viral-hedgehog-vitalik-buterin-and-a-bow-the-graphdex-launch-that-crypto-wont-forget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 19 May 2026 16:00:00 +0000",
+      "summary": "5,800 users in two hours. One QR code. One bow that went viral."
     },
     {
-      "title": "UK proposes near-24/7 settlement to prepare markets for tokenization",
+      "title": "Tor Project to lead Web3 crowdfunding to support internet freedom",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/fca-bank-england-publish-tokenization-settlement-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 18 May 2026 14:59:40 +0000",
-      "summary": "The FCA and Bank of England are seeking feedback on new tokenization guidance and plans to extend operating hours for the UK\u2019s core payment and settlement infrastructure toward near-24/7 availability."
+      "url": "https://cointelegraph.com/news/privacy-coalition-turns-to-crypto-to-fund-anti-censorship-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 19 May 2026 16:00:00 +0000",
+      "summary": "Global internet freedom has declined for 15 consecutive years, with more countries restricting access to more of the internet, according to Freedom House. \n"
     },
     {
-      "title": "Bitcoin Depot stock crashes 71% premarket after Chapter 11 filing",
+      "title": "Recent Bitcoin holders sell $770M BTC at a loss amid $65K BTC price calls",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-depot-stock-crash-chapter-11-bankruptcy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 18 May 2026 14:26:31 +0000",
-      "summary": "Bitcoin Depot files for Chapter 11 in Texas, plans asset sale and wind-down as regulatory pressure forces shutdown of its Bitcoin ATM network."
+      "url": "https://cointelegraph.com/markets/recent-bitcoin-holders-sell-770m-btc-at-a-loss-amid-65k-btc-price-calls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 19 May 2026 14:19:38 +0000",
+      "summary": "More than 10,000 Bitcoin have been sold at a loss by short-term holders in recent days, adding fuel to analysts\u2019 predictions that BTC price will fall to $65,000."
     },
     {
-      "title": "Deploi Launches Direct Issuance Infrastructure for Private Credit on Polygon, Secures ISIN Allocations from Nasdaq CSD",
+      "title": "Bitcoin miner Canaan posts $88.7M net loss in Q1 amid BTC decline",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/press-releases/deploi-launches-direct-issuance-infrastructure-for-private-credit-on-polygon-secures-isin-allocations-from-nasdaq-csd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 18 May 2026 14:02:05 +0000",
-      "summary": "EUR 1 billion note programme planned for 2026 following completion of global issuance infrastructure by the end of Q3 2026."
+      "url": "https://cointelegraph.com/news/bitcoin-miner-canaan-posts-887m-net-loss-q1-btc-decline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 19 May 2026 14:07:06 +0000",
+      "summary": "Canaan\u2019s Q1 results were dragged down by a $25 million inventory write-down and a 75% quarterly drop in equipment sales as Bitcoin prices retreated from their highs."
     }
   ],
   "aiNews": [
+    {
+      "title": "OpenAI co-founder Andrej Karpathy joins Anthropic\u2019s pre-training team",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+      "publishedAt": "Tue, 19 May 2026 15:43:04 +0000",
+      "summary": "Pre-training is responsible for the large-scale training runs that give Claude its core knowledge and capabilities, according to the company. It's also one of the most expensive, compute-intensive pha"
+    },
+    {
+      "title": "SandboxAQ brings its drug discovery models to Claude \u2014 no PhD in computing required",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+      "publishedAt": "Mon, 18 May 2026 21:29:31 +0000",
+      "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it. "
+    },
+    {
+      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+      "publishedAt": "Mon, 18 May 2026 19:27:52 +0000",
+      "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs \u2014 the libraries d"
+    },
+    {
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "publishedAt": "Mon, 18 May 2026 17:34:43 +0000",
+      "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late."
+    },
     {
       "title": "Amazon\u2019s new Alexa+ powered feature can generate podcast episodes",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
       "publishedAt": "Mon, 18 May 2026 14:56:47 +0000",
       "summary": "Amazon\u2019s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform."
-    },
-    {
-      "title": "South Korea\u2019s LetinAR is building optics behind AI glasses",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
-      "publishedAt": "Mon, 18 May 2026 11:00:00 +0000",
-      "summary": "A lens the size of a thumbnail \u2014 and the South Korean startup that makes it could become the optical backbone of the AI glasses era."
-    },
-    {
-      "title": "Apple\u2019s Siri revamp could include auto-deleting chats",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
-      "publishedAt": "Sun, 17 May 2026 20:15:00 +0000",
-      "summary": "Privacy will be a major theme when Apple unveils a new version of Siri."
-    },
-    {
-      "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
-      "publishedAt": "Sun, 17 May 2026 19:46:34 +0000",
-      "summary": "A big theme in the trial\u2019s final days was whether OpenAI CEO Sam Altman is trustworthy."
-    },
-    {
-      "title": "If you\u2019re giving a commencement speech in 2026, maybe don\u2019t mention AI",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
-      "publishedAt": "Sun, 17 May 2026 16:32:04 +0000",
-      "summary": "It's tough to get graduating students excited about a future shaped by artificial intelligence."
     }
   ],
   "techMovers": [
     {
-      "ticker": "ORCL",
-      "name": "Oracle Corp",
-      "price": 185.72,
-      "change": -7.23,
-      "changePercent": -3.75
+      "ticker": "AMZN",
+      "name": "Amazon.com",
+      "price": 256.08,
+      "change": -8.77,
+      "changePercent": -3.31
     },
     {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "price": 188.62,
-      "change": -6.8,
-      "changePercent": -3.48
+      "ticker": "TSLA",
+      "name": "Tesla Inc",
+      "price": 397.18,
+      "change": -12.8,
+      "changePercent": -3.12
     },
     {
-      "ticker": "CRM",
-      "name": "Salesforce Inc",
-      "price": 179.55,
-      "change": 6.04,
-      "changePercent": 3.48
+      "ticker": "GOOG",
+      "name": "Alphabet Inc",
+      "price": 383.61,
+      "change": -9.5,
+      "changePercent": -2.42
     },
     {
-      "ticker": "SNOW",
-      "name": "Snowflake Inc",
-      "price": 162.33,
-      "change": 4.86,
-      "changePercent": 3.09
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 411.53,
+      "change": -9.46,
+      "changePercent": -2.25
     },
     {
-      "ticker": "NFLX",
-      "name": "Netflix Inc",
-      "price": 89.27,
-      "change": 2.25,
-      "changePercent": 2.59
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "price": 411.25,
+      "change": -9.46,
+      "changePercent": -2.25
     }
   ],
-  "fearGreedIndex": 28,
+  "fearGreedIndex": 25,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 330.23,
-    "change": 4.48,
-    "changePercent": 1.38
+    "price": 331.5,
+    "change": -1.14,
+    "changePercent": -0.34
   },
   "sectors": [
     {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": 1.79
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 1.15
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 0.95
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 0.87
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 0.82
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 0.21
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 0.12
-    },
-    {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": 0.08
+      "changePercent": 1.25
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": -0.54
+      "changePercent": 0.81
     },
     {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": -0.58
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": 0.6
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": 0.5
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": 0.46
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": -0.42
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -0.91
     },
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": -1.36
+      "changePercent": -0.94
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": -0.97
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -1.62
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -2.02
     }
   ],
   "economicCalendar": [
