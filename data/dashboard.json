@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-05-19T16:16:26.506173+00:00",
+  "lastUpdated": "2026-05-20T16:22:40.050523+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns",
+      "title": "Xi basks in spotlight as he hosts Putin days after Trump",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 19 May 2026 14:20:15 GMT",
-      "summary": "Hundreds of cases are suspected in central Africa but experts fear the actual number may be much higher."
+      "url": "https://www.bbc.com/news/articles/cjep12qx3xjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 20 May 2026 11:42:44 GMT",
+      "summary": "Two presidential visits days apart is how Xi Jinping wants the world to see him: talking to everyone, tied to no-one."
     },
     {
-      "title": "Father-of-eight killed in San Diego mosque shooting hailed as hero",
+      "title": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/clyp3gkrwg9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 19 May 2026 12:30:48 GMT",
-      "summary": "Security guard Amin Abdullah, one of three killed in the attack, was described as \"a shining light\"."
+      "url": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 20 May 2026 16:02:37 GMT",
+      "summary": "France and Italy are among the countries that have criticised a video showing Itamar Ben-Gvir taunting dozens of activists detained at an Israeli port."
     },
     {
-      "title": "Victim or enabler? Epstein girlfriend who could face questions despite plea deal",
+      "title": "Ebola vaccine could take nine months as death toll rise further, WHO warns",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cz92j3n3jvvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 19 May 2026 10:58:23 GMT",
-      "summary": "Nadia Marcinko is relatively unknown but may soon be called before US legislators.\n"
+      "url": "https://www.bbc.com/news/articles/cwy2g197dp8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 20 May 2026 15:18:12 GMT",
+      "summary": "In its latest update, the World Health Organization says there have now been 139 suspected deaths and 600 cases."
     },
     {
-      "title": "Son of Mango boss arrested over father's fatal fall from cliff",
+      "title": "Lithuania's leaders take shelter during drone air alert",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c0m2pg1z4x8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 19 May 2026 15:30:57 GMT",
-      "summary": "Isak, 71, died in December 2024 after falling from a ravine while walking in the Montserrat mountains near Barcelona."
+      "url": "https://www.bbc.com/news/articles/c9d3vpqqqpeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 20 May 2026 10:53:19 GMT",
+      "summary": "Flights were suspended and people were urged to take shelter after a suspected drone was detected near the Belarus border."
     },
     {
-      "title": "Selling children to survive: Afghan fathers forced to make impossible choices",
+      "title": "Man who murdered teen TikTok star in Pakistan gets death sentence",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 19 May 2026 10:46:50 GMT",
-      "summary": "In Afghanistan today, a staggering three in four people cannot meet their basic needs."
+      "url": "https://www.bbc.com/news/articles/cvgzrgm0rgvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 20 May 2026 01:52:24 GMT",
+      "summary": "Sana Yousaf's murder highlights a pattern of violence against women in Pakistan, activists say."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 76394,
-      "change24h": -0.09854,
-      "marketCap": 1531528991532,
+      "price": 77279,
+      "change24h": 1.05469,
+      "marketCap": 1548135290161,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2106.23,
-      "change24h": -0.01183,
-      "marketCap": 254509387065,
+      "price": 2132.24,
+      "change24h": 1.10757,
+      "marketCap": 257341743341,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Bitcoin price stays under $77K as US bond yields near 20-year highs",
+      "title": "Nearly 10% of Bitcoin supply is \u2018structurally unsafe\u2019 from quantum breakthrough: Glassnode",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-stays-under-77k-as-us-bond-yields-near-20-year-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 19 May 2026 16:00:27 +0000",
-      "summary": "BTC price stayed pinned below $77,000 amid rising US bond yields and oil prices, with market analysts saying Bitcoin is now at a \"crucial level of support.\" "
+      "url": "https://cointelegraph.com/news/nearly-10-bitcoin-supply-structurally-unsafe-quantum-breakthrough-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 20 May 2026 15:17:46 +0000",
+      "summary": "Analytics provider Glassnode identified 10% of Bitcoin supply as structurally exposed to a quantum breakthrough, underscoring the need for a quantum-proof implementation such as BIP-360."
     },
     {
-      "title": "A viral hedgehog, Vitalik Buterin, and a bow: the GraphDex launch that crypto won't forget",
+      "title": "Ethereum traders warn of a \u2018nasty\u2019 ETH price drop if $2K support breaks",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/press-releases/a-viral-hedgehog-vitalik-buterin-and-a-bow-the-graphdex-launch-that-crypto-wont-forget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 19 May 2026 16:00:00 +0000",
-      "summary": "5,800 users in two hours. One QR code. One bow that went viral."
+      "url": "https://cointelegraph.com/markets/ethereum-traders-warn-of-a-nasty-eth-price-drop-if-2k-breaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 20 May 2026 14:50:59 +0000",
+      "summary": "Ethereum is flashing a warning of a familiar bearish pattern that preceded a 41% drop in January, raising risks of a fresh breakdown."
     },
     {
-      "title": "Tor Project to lead Web3 crowdfunding to support internet freedom",
+      "title": "EU opens consultation on MiCA stablecoin rules and DeFi gaps",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/privacy-coalition-turns-to-crypto-to-fund-anti-censorship-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 19 May 2026 16:00:00 +0000",
-      "summary": "Global internet freedom has declined for 15 consecutive years, with more countries restricting access to more of the internet, according to Freedom House. \n"
+      "url": "https://cointelegraph.com/news/eu-mica-crypto-rules-review-updates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 20 May 2026 14:16:40 +0000",
+      "summary": "EU opens MiCA review as consultation probes stablecoin interest rules, DeFi risks and classification gaps ahead of July's crypto authorization deadline."
     },
     {
-      "title": "Recent Bitcoin holders sell $770M BTC at a loss amid $65K BTC price calls",
+      "title": "Fireblocks launches agentic payment support, joins x402 Foundation ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/recent-bitcoin-holders-sell-770m-btc-at-a-loss-amid-65k-btc-price-calls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 19 May 2026 14:19:38 +0000",
-      "summary": "More than 10,000 Bitcoin have been sold at a loss by short-term holders in recent days, adding fuel to analysts\u2019 predictions that BTC price will fall to $65,000."
+      "url": "https://cointelegraph.com/news/fireblocks-launches-agent-payment-support-for-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 20 May 2026 14:00:00 +0000",
+      "summary": "If even a fraction of the more than 1 billion people who use AI daily delegate authority to AI agents for online spending, stablecoin adoption would grow substantially, a Fireblocks executive said."
     },
     {
-      "title": "Bitcoin miner Canaan posts $88.7M net loss in Q1 amid BTC decline",
+      "title": "This Bitcoin price model targets \u2018conservative\u2019 $255K by year-end",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-miner-canaan-posts-887m-net-loss-q1-btc-decline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 19 May 2026 14:07:06 +0000",
-      "summary": "Canaan\u2019s Q1 results were dragged down by a $25 million inventory write-down and a 75% quarterly drop in equipment sales as Bitcoin prices retreated from their highs."
+      "url": "https://cointelegraph.com/markets/this-bitcoin-price-model-targets-conservative-255k-by-year-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 20 May 2026 13:08:01 +0000",
+      "summary": "Earlier, analysts at Bernstein and BitMEX co-founder Arthur Hayes also projected Bitcoin to reach new record highs in 2026."
     }
   ],
   "aiNews": [
     {
-      "title": "OpenAI co-founder Andrej Karpathy joins Anthropic\u2019s pre-training team",
+      "title": "AI search startups are blowing up",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
-      "publishedAt": "Tue, 19 May 2026 15:43:04 +0000",
-      "summary": "Pre-training is responsible for the large-scale training runs that give Claude its core knowledge and capabilities, according to the company. It's also one of the most expensive, compute-intensive pha"
+      "url": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
+      "publishedAt": "Wed, 20 May 2026 15:04:45 +0000",
+      "summary": "AI search has quietly become one of the most attractive targets in consumer AI."
     },
     {
-      "title": "SandboxAQ brings its drug discovery models to Claude \u2014 no PhD in computing required",
+      "title": "Stability AI releases a new audio model that can create six-minute songs",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
-      "publishedAt": "Mon, 18 May 2026 21:29:31 +0000",
-      "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it. "
+      "url": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
+      "publishedAt": "Wed, 20 May 2026 15:00:00 +0000",
+      "summary": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks "
     },
     {
-      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+      "title": "NanoClaw\u00a0creator\u00a0turns\u00a0down $20M buyout offer, raises $12M seed instead",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-      "publishedAt": "Mon, 18 May 2026 19:27:52 +0000",
-      "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs \u2014 the libraries d"
+      "url": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
+      "publishedAt": "Wed, 20 May 2026 14:00:00 +0000",
+      "summary": "NanoCo, the company behind  OpenClaw alternative NanoClaw, has raised a $12 million seed after a viral launch, the founders tell TechCrunch.\u00a0"
     },
     {
-      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "title": "Startup Battlefield 200 applications close in one week: Window to nominate and apply for the most promising startups ends May 27",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-      "publishedAt": "Mon, 18 May 2026 17:34:43 +0000",
-      "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late."
+      "url": "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-one-week-window-to-nominate-and-apply-for-the-most-promising-startups-ends-may-27/",
+      "publishedAt": "Wed, 20 May 2026 14:00:00 +0000",
+      "summary": "Startup Battlefield 200 applications close May 27. Pitch at TechCrunch Disrupt, get investor access, win $100K, plus more scaling perks. Nominate an early-stage founder or submit your startup here."
     },
     {
-      "title": "Amazon\u2019s new Alexa+ powered feature can generate podcast episodes",
+      "title": "Figma adds an AI assistant to its collaborative canvas",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
-      "publishedAt": "Mon, 18 May 2026 14:56:47 +0000",
-      "summary": "Amazon\u2019s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform."
+      "url": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
+      "publishedAt": "Wed, 20 May 2026 13:00:00 +0000",
+      "summary": "Figma's new AI assistant will be first available on Figma Design"
     }
   ],
   "techMovers": [
     {
-      "ticker": "AMZN",
-      "name": "Amazon.com",
-      "price": 256.08,
-      "change": -8.77,
-      "changePercent": -3.31
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla Inc",
-      "price": 397.18,
-      "change": -12.8,
-      "changePercent": -3.12
-    },
-    {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc",
-      "price": 383.61,
-      "change": -9.5,
-      "changePercent": -2.42
-    },
-    {
       "ticker": "AMD",
       "name": "AMD Inc",
-      "price": 411.53,
-      "change": -9.46,
-      "changePercent": -2.25
+      "price": 443.77,
+      "change": 29.72,
+      "changePercent": 7.18
+    },
+    {
+      "ticker": "SNOW",
+      "name": "Snowflake Inc",
+      "price": 164.49,
+      "change": -5.06,
+      "changePercent": -2.98
     },
     {
       "ticker": "AVGO",
       "name": "Broadcom Inc",
-      "price": 411.25,
-      "change": -9.46,
-      "changePercent": -2.25
+      "price": 419.41,
+      "change": 8.34,
+      "changePercent": 2.03
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "price": 184.98,
+      "change": 3.51,
+      "changePercent": 1.94
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla Inc",
+      "price": 411.82,
+      "change": 7.71,
+      "changePercent": 1.91
     }
   ],
-  "fearGreedIndex": 25,
+  "fearGreedIndex": 27,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 331.5,
-    "change": -1.14,
-    "changePercent": -0.34
+    "price": 329.65,
+    "change": -0.26,
+    "changePercent": -0.08
   },
   "sectors": [
     {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": 1.25
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": 0.81
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": 0.6
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 0.5
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 0.46
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": -0.42
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": -0.91
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": 1.89
     },
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": -0.94
+      "changePercent": 1.6
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": -0.97
+      "changePercent": 1.37
     },
     {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": -1.62
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 0.96
     },
     {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": -2.02
+      "changePercent": 0.89
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": 0.72
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": 0.59
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -0.14
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -0.28
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -0.6
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": -1.55
     }
   ],
   "economicCalendar": [
