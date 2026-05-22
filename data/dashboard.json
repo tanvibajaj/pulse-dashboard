@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-05-21T16:15:04.758128+00:00",
+  "lastUpdated": "2026-05-22T15:47:00.062361+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Iran steps up claim to control Strait of Hormuz",
+      "title": "Ebola risk raised to 'very high' in DR Congo",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 21 May 2026 14:37:29 GMT",
-      "summary": "Iran publishes a map claiming \"armed forces oversight\" across more than 22,000 sq km of the waterway."
+      "url": "https://www.bbc.com/news/articles/cr7p30m1dn1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 22 May 2026 15:07:38 GMT",
+      "summary": "The head of the UN health agency says the risk in the wider region is \"high\", but it remains \"low\" at the global level."
     },
     {
-      "title": "China says US should stop 'threats' against Cuba after ex-leader charged",
+      "title": "Rubio tries to reassure Nato allies over US troop deployments",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/clype0x7pkgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 21 May 2026 11:22:18 GMT",
-      "summary": "It comes after the US charged Cuba's ex-leader with murder, the latest move putting pressure on the regime."
+      "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 22 May 2026 15:18:30 GMT",
+      "summary": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment."
     },
     {
-      "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+      "title": "Cubans grapple with fuel shortages and blackouts as US steps up pressure",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 21 May 2026 15:58:46 GMT",
-      "summary": "The companies were found guilty by a French court over an air disaster which killed 228 people. "
+      "url": "https://www.bbc.com/news/articles/c3e2w43lkvzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 22 May 2026 09:32:42 GMT",
+      "summary": "The BBC speaks to Havana residents after the US charges the country's former leader, Ra\u00fal Castro, with murder."
     },
     {
-      "title": "Charges dismissed against official at school where 6-year-old shot teacher",
+      "title": "UK scientists developing Ebola vaccine that could be ready for trials in months",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cy82y34y101o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 21 May 2026 15:38:14 GMT",
-      "summary": "The child fired a single shot at a teacher, who had to have surgery after the incident in 2023."
+      "url": "https://www.bbc.com/news/articles/cy82gkr7xzlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 22 May 2026 15:03:51 GMT",
+      "summary": "The rare species of Ebola involved - known as Bundibugyo - kills around a third of those infected and has no proven vaccine yet. "
     },
     {
-      "title": "Gaza flotilla activists deported from Israel as backlash over treatment grows ",
+      "title": "US navy chief says $14bn arms sale to Taiwan paused due to Iran war",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c9d3v2d6p1eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 21 May 2026 16:08:34 GMT",
-      "summary": "On Thursday, the UK confirmed it had summoned Israel's top diplomat in Britain to express its \"condemnation\" of the incident. "
+      "url": "https://www.bbc.com/news/articles/c232z4yk437o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 22 May 2026 08:12:47 GMT",
+      "summary": "Hung Cao told a Senate hearing they were \"doing a pause\" on the sale to make sure they had munitions for the Iran war."
     }
   ],
   "cryptoAssets": [
@@ -43,72 +43,86 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 77202,
-      "change24h": -0.31053,
-      "marketCap": 1547044351228,
+      "price": 76624,
+      "change24h": -0.82002,
+      "marketCap": 1534689719794,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2132.08,
-      "change24h": -0.21035,
-      "marketCap": 257482454948,
+      "price": 2115.92,
+      "change24h": -0.78886,
+      "marketCap": 255322375428,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Bitcoin due '5%+' move as analysis stays bullish on BTC price outlook",
+      "title": "NYSE owner ICE to launch oil-linked futures with OKX",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-due-5-move-as-analysis-stays-bullish-on-btc-price-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 21 May 2026 15:50:16 +0000",
-      "summary": "Bitcoin should shift 5% or more \"soon\" with $77,000 staying the focus amid mixed messages over the latest US-Iran peace deal plans."
+      "url": "https://cointelegraph.com/news/nyse-owner-ice-oil-perpetual-futures-okx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 22 May 2026 14:42:45 +0000",
+      "summary": "ICE and OKX plan to launch oil-linked perpetual futures based on Brent and WTI benchmarks, bringing crypto derivatives further into traditional energy markets under licensing restrictions."
     },
     {
-      "title": "IG Europe taps Bitpanda to expand crypto trading across Europe",
+      "title": "Bitcoin miner MARA spent $4.3M on CEO security in 2025 as crypto attacks rise",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ig-europe-taps-bitpanda-to-expand-crypto-trading-across-the-bloc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 21 May 2026 14:50:23 +0000",
-      "summary": "IG Group, which launched spot crypto in the UK last year, is bringing the service to European investors through Bitpanda\u2019s infrastructure."
+      "url": "https://cointelegraph.com/news/mara-spends-430k-ceo-vehicle-armoring-wrench-attacks-rise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 22 May 2026 14:25:50 +0000",
+      "summary": "MARA spent $4.3 million on CEO Fred Thiel\u2019s security in 2025, including vehicle armoring, as crypto wrench attacks increased globally."
     },
     {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 21 May 2026 14:45:16 +0000",
+      "publishedAt": "Fri, 22 May 2026 14:02:22 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
     },
     {
-      "title": "Hyperliquid whale won\u2019t close HYPE short despite $22M unrealized loss",
+      "title": "Space X IPO: 'Bad news' for tech stocks but what about Bitcoin?",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/hyperliquid-whale-wont-close-hype-short-despite-22-unrealized-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 21 May 2026 13:44:06 +0000",
-      "summary": "HYPE\u2019s rally is flashing exhaustion near its record-high resistance, raising the risk of a 20% pullback toward the $51.5\u2013$45 support zone."
+      "url": "https://cointelegraph.com/markets/space-x-ipo-bad-news-for-tech-stocks-but-what-about-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 22 May 2026 13:54:47 +0000",
+      "summary": "SpaceX\u2019s IPO could turn the Mag 7 into a Mag 8, with Tesla and SpaceX comprising 25% of the group's Bitcoin balance-sheet exposure."
     },
     {
-      "title": "Kraken moves closer to UAE launch after Dubai regulatory approval",
+      "title": "DeFi hacks shake institutional confidence as risks outpace yields",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/kraken-uae-vara-approval-ahead-of-full-region-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 21 May 2026 13:35:41 +0000",
-      "summary": "Kraken\u2019s parent company, Payward, received preliminary approval from Dubai's VARA, paving the way for UAE dirham funding, margin and OTC trading and institutional access via Kraken Prime.\n"
+      "url": "https://cointelegraph.com/features/defi-hacks-institutional-confidence-risks-outpace-yields?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 22 May 2026 13:51:53 +0000",
+      "summary": "Repeated bridge exploits and shrinking yields are making institutions question whether DeFi\u2019s risks still justify the returns, says Symbiotic\u2019s Putiatin."
     }
   ],
   "aiNews": [
     {
-      "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
+      "title": "We tried Google\u2019s AI glasses and they\u2019re almost there",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
-      "publishedAt": "Thu, 21 May 2026 15:27:00 +0000",
-      "summary": "Spotify is releasing new audiobook plans later this year"
+      "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
+      "publishedAt": "Fri, 22 May 2026 15:37:15 +0000",
+      "summary": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view. "
     },
     {
-      "title": "Spotify takes on Google\u2019s NotebookLM with its new app",
+      "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
-      "publishedAt": "Thu, 21 May 2026 15:27:00 +0000",
-      "summary": "Spotify is releasing the new desktop app as a research preview in more than 20 markets"
+      "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+      "publishedAt": "Thu, 21 May 2026 19:45:00 +0000",
+      "summary": "Spotify is partnering with  Universal Music Group\ufffc to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue."
+    },
+    {
+      "title": "Six search engines worth trying now that Google isn\u2019t really Google anymore",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+      "publishedAt": "Thu, 21 May 2026 19:19:05 +0000",
+      "summary": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming. "
+    },
+    {
+      "title": "Trump delays AI security executive order, saying language \u2018could have been a blocker\u2019",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+      "publishedAt": "Thu, 21 May 2026 17:30:45 +0000",
+      "summary": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language."
     },
     {
       "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
@@ -116,125 +130,118 @@
       "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
       "publishedAt": "Thu, 21 May 2026 15:27:00 +0000",
       "summary": "Spotify will let you generate daily or weekly briefs based on your prompts"
-    },
-    {
-      "title": "Hark raises $700M Series A for its secretive \u201cuniversal\u201d AI interface",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
-      "publishedAt": "Thu, 21 May 2026 14:00:00 +0000",
-      "summary": "Brett Adcock's new AI startup is now valued at $6 billion by its investors."
-    },
-    {
-      "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
-      "publishedAt": "Thu, 21 May 2026 14:00:00 +0000",
-      "summary": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots.\u00a0"
     }
   ],
   "techMovers": [
     {
-      "ticker": "CRM",
-      "name": "Salesforce Inc",
-      "price": 174.8,
-      "change": -5.3,
-      "changePercent": -2.94
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 470.88,
+      "change": 21.29,
+      "changePercent": 4.74
     },
     {
       "ticker": "SNOW",
       "name": "Snowflake Inc",
-      "price": 163.14,
-      "change": -3.83,
-      "changePercent": -2.29
+      "price": 171.57,
+      "change": 6.03,
+      "changePercent": 3.64
     },
     {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corp",
-      "price": 219.46,
-      "change": -4.01,
-      "changePercent": -1.79
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "price": 189.07,
+      "change": -4.49,
+      "changePercent": -2.32
     },
     {
-      "ticker": "UBER",
-      "name": "Uber Technologies",
-      "price": 73.28,
-      "change": -1.32,
-      "changePercent": -1.77
+      "ticker": "TSLA",
+      "name": "Tesla Inc",
+      "price": 426.46,
+      "change": 8.61,
+      "changePercent": 2.06
     },
     {
-      "ticker": "NFLX",
-      "name": "Netflix Inc",
-      "price": 89.4,
-      "change": 1.31,
-      "changePercent": 1.49
+      "ticker": "AAPL",
+      "name": "Apple Inc",
+      "price": 310.64,
+      "change": 5.65,
+      "changePercent": 1.85
     }
   ],
-  "fearGreedIndex": 29,
+  "fearGreedIndex": 28,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 331.43,
-    "change": 0.68,
-    "changePercent": 0.21
+    "price": 330.4,
+    "change": -0.72,
+    "changePercent": -0.22
   },
   "sectors": [
     {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": 0.89
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": 1.42
     },
     {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": 0.27
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 0.05
-    },
-    {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": 0.03
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": -0.04
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": -0.18
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": -0.26
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": -0.34
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": -0.37
+      "changePercent": 1.09
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": -0.7
+      "changePercent": 0.93
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": 0.62
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": 0.6
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 0.53
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": 0.45
     },
     {
       "ticker": "XLP",
       "name": "Consumer Staples",
-      "changePercent": -1.51
+      "changePercent": 0.23
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": 0.16
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": 0.14
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -0.24
     }
   ],
   "economicCalendar": [
+    {
+      "date": "2026-06-05",
+      "time": "08:30 ET",
+      "event": "Non-Farm Payrolls",
+      "importance": "high",
+      "description": "Monthly jobs report - employment and wage data"
+    },
     {
       "date": "2026-06-17",
       "time": "14:00 ET",
