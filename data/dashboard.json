@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-05-25T15:48:03.872291+00:00",
+  "lastUpdated": "2026-05-26T16:39:37.343254+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Deal with US not imminent, Iran says",
+      "title": "Iran condemns US strikes as 'gross violation' of ceasefire",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 25 May 2026 11:17:49 GMT",
-      "summary": "The US secretary of state earlier said that an agreement could possibly come on Monday."
+      "url": "https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 26 May 2026 15:15:29 GMT",
+      "summary": "The attacks took place while Iranian and Qatari negotiators were in Doha for peace talks."
     },
     {
-      "title": "Oil prices slide on hopes of US-Iran peace deal",
+      "title": "Four killed as school minibus collides with train in Belgium",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 25 May 2026 13:05:56 GMT",
-      "summary": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details."
+      "url": "https://www.bbc.com/news/articles/c70vvd17rg7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 26 May 2026 16:15:42 GMT",
+      "summary": "Two schoolchildren, their chaperone and the minibus driver were killed in the crash, says a Belgian minister."
     },
     {
-      "title": "She was told to marry in a country which bans girls' education. So she got in a taxi and fled",
+      "title": "Eleven killed in Lebanon village as Israel intensifies strikes",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 24 May 2026 21:02:08 GMT",
-      "summary": "Nearly five years on from Afghanistan's school ban, young women say they have waved goodbye to their dreams."
+      "url": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 26 May 2026 12:44:57 GMT",
+      "summary": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" Hezbollah."
     },
     {
-      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+      "title": "Ebola needs swift response to prevent catastrophe, says DR Congo governor",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 25 May 2026 04:45:13 GMT",
-      "summary": "A hypersonic missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed."
+      "url": "https://www.bbc.com/news/articles/c3022rd2er4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 26 May 2026 11:22:04 GMT",
+      "summary": "The governor of Ituri said the more time they lose, the closer the province is to disaster."
     },
     {
-      "title": "Anger grows after China's deadliest coal mining disaster in years",
+      "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c893543gn20o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 25 May 2026 08:00:35 GMT",
-      "summary": "On China's tightly-controlled internet, people are calling for justice and questioning how this happened.  "
+      "url": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 26 May 2026 10:48:55 GMT",
+      "summary": "The Israeli military hits targets in eastern Lebanon after the prime minister announces further strikes. "
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 77563,
-      "change24h": 1.57848,
-      "marketCap": 1554067637644,
+      "price": 76576,
+      "change24h": -1.25441,
+      "marketCap": 1533258791404,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2123.36,
-      "change24h": 1.4418,
-      "marketCap": 256273575250,
+      "price": 2080.36,
+      "change24h": -2.19057,
+      "marketCap": 251063954546,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "ARIQO makes its Bangkok debut at SEABW, drawing industry attention",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/press-releases/ariqo-makes-its-bangkok-debut-at-seabw-drawing-industry-attention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 25 May 2026 14:35:34 +0000",
-      "summary": "Canton Foundation, Toss, BitGo Among Co-Hosts at Private Event; Token Launch Slated for Second Half of 2026"
-    },
-    {
-      "title": "Coinbase CEO\u2019s finance wishlist mirrors company\u2019s product roadmap",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/coinbase-ceo-finance-wishlist-mirrors-companys-product-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 25 May 2026 14:28:12 +0000",
-      "summary": "Brian Armstrong's wishlist for upgrading global finance aligns with the exchange's push into stocks, prediction markets and stablecoin payments, though some priorities remain aspirational."
-    },
-    {
-      "title": "Ethereum whale opens $100M short as Vitalik Buterin vows to 'sell less ETH'",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/ethereum-whale-opens-100m-short-as-vitalik-buterin-vows-to-sell-less-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 25 May 2026 14:13:17 +0000",
-      "summary": "ETH\u2019s rebound toward the whale\u2019s liquidation zone near $2,150 puts its short at risk of over $1 million in potential losses.\n"
-    },
-    {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 25 May 2026 14:02:39 +0000",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
+      "publishedAt": "Tue, 26 May 2026 15:39:04 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Paper losses and scrapped ETFs. What Trump Media\u2019s 2,650 BTC transfer really means",
+      "title": "AI guardrail removals raise questions over limits of open-source model regulation",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/features/paper-losses-and-scrapped-etfs-what-trump-medias-2650-btc-transfer-really-means?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 25 May 2026 13:24:54 +0000",
-      "summary": "Digital asset treasuries (DATs) and the broader practice of building corporate Bitcoin reserves became hugely popular in 2024 and 2025, thanks in large part to the success of Strategy, whose \"flywheel"
+      "url": "https://cointelegraph.com/news/ai-guardrail-removals-raise-questions-over-limits-of-open-source-model-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 26 May 2026 15:25:18 +0000",
+      "summary": "Financial Times testing found safety controls on open AI models from Meta and Google could be stripped in minutes, raising governance concerns."
+    },
+    {
+      "title": "Strategy buys back $1.5B of debt at discount, cuts outstanding notes to $6.7B",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/strategy-repurchases-15b-notes-cuts-outstanding-debt-67b-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 26 May 2026 15:11:32 +0000",
+      "summary": "Strategy reduced aggregate convertible notes outstanding to $6.7 billion after repurchasing 2029 notes for $1.38 billion in cash."
+    },
+    {
+      "title": "Grvt adds 3 tokenized yield funds tied to institutional-grade RWAs",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/grvt-taps-plume-for-tokenized-rwa-yield-products?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 26 May 2026 15:00:00 +0000",
+      "summary": "Grvt will work with Plume to launch tokenized fixed-income and structured credit products tied to institutional-grade real world assets and onchain yield strategies."
+    },
+    {
+      "title": "RWA market hits $51B as tokenized private credits surges: Bernstein",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/rwa-market-cap-51-billion-tokenized-private-credit-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 26 May 2026 14:50:43 +0000",
+      "summary": "Bernstein Research data shows the RWA market at $51 billion, with tokenized private credit leading and Figure leading RWA platforms with $18 billion in tokenized assets."
     }
   ],
   "aiNews": [
+    {
+      "title": "This startup is betting India\u2019s gig economy can train the world\u2019s robots",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+      "publishedAt": "Tue, 26 May 2026 16:00:00 +0000",
+      "summary": "Human Archive, a startup founded by Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data t"
+    },
+    {
+      "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
+      "publishedAt": "Tue, 26 May 2026 14:55:05 +0000",
+      "summary": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026 Early Bird\u00a0ticket\u00a0rates end May 29",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/26/techcrunch-disrupt-2026-early-bird-ticket-rates-end-may-29/",
+      "publishedAt": "Tue, 26 May 2026 14:00:00 +0000",
+      "summary": "Save up to $410 on your TechCrunch Disrupt 2026 pass before prices increase on May 29 at 11:59 p.m. PT. Register here to join the tech epicenter in San Francisco."
+    },
+    {
+      "title": "What ClickUp\u2019s mass layoff tells us about the future of work",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+      "publishedAt": "Mon, 25 May 2026 16:00:00 +0000",
+      "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents."
+    },
     {
       "title": "The pope\u2019s AI encyclical isn\u2019t really about AI",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
       "publishedAt": "Mon, 25 May 2026 15:09:41 +0000",
       "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage."
-    },
-    {
-      "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
-      "publishedAt": "Mon, 25 May 2026 14:30:00 +0000",
-      "summary": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now."
-    },
-    {
-      "title": "5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/",
-      "publishedAt": "Mon, 25 May 2026 14:00:00 +0000",
-      "summary": "Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase."
-    },
-    {
-      "title": "Everyone is navigating AI security in real time \u2014 even Google",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
-      "publishedAt": "Sun, 24 May 2026 21:39:21 +0000",
-      "summary": "We're in the transition period -- all of us."
-    },
-    {
-      "title": "I tried Amazon\u2019s Bee wearable and am both intrigued and slightly creeped out",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
-      "publishedAt": "Sun, 24 May 2026 15:00:00 +0000",
-      "summary": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety. "
     }
   ],
   "techMovers": [
     {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "price": 184.99,
-      "change": -8.57,
-      "changePercent": -4.43
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 496.81,
+      "change": 29.3,
+      "changePercent": 6.27
     },
     {
       "ticker": "SNOW",
       "name": "Snowflake Inc",
-      "price": 172.2,
-      "change": 6.66,
-      "changePercent": 4.02
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 467.51,
-      "change": 17.92,
-      "changePercent": 3.99
+      "price": 178.8,
+      "change": 6.6,
+      "changePercent": 3.84
     },
     {
       "ticker": "UBER",
       "name": "Uber Technologies",
-      "price": 71.82,
-      "change": -1.79,
-      "changePercent": -2.43
+      "price": 70.41,
+      "change": -1.41,
+      "changePercent": -1.96
     },
     {
-      "ticker": "CRM",
-      "name": "Salesforce Inc",
-      "price": 180.07,
-      "change": 3.76,
-      "changePercent": 2.13
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "price": 422.21,
+      "change": 8.07,
+      "changePercent": 1.95
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla Inc",
+      "price": 432.26,
+      "change": 6.24,
+      "changePercent": 1.47
     }
   ],
-  "fearGreedIndex": 30,
+  "fearGreedIndex": 34,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 328.88,
-    "change": -2.24,
-    "changePercent": -0.68
+    "price": 326.35,
+    "change": -2.53,
+    "changePercent": -0.77
   },
   "sectors": [
     {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": 1.17
-    },
-    {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": 1.0
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": 0.78
+      "changePercent": 2.39
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": 0.73
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": 0.61
+      "changePercent": 1.33
     },
     {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": 0.54
+      "changePercent": 1.22
     },
     {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 0.41
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 0.4
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 0.17
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": 0.51
     },
     {
       "ticker": "XLRE",
       "name": "Real Estate",
-      "changePercent": 0.13
+      "changePercent": 0.43
     },
     {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": -0.55
+      "changePercent": 0.01
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -0.09
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": -0.13
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -0.4
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -1.09
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": -1.7
     }
   ],
   "economicCalendar": [
