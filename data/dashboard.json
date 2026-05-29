@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-05-28T16:52:38.029861+00:00",
+  "lastUpdated": "2026-05-29T16:40:29.768465+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders",
+      "title": "'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cn9p40en4ngo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 28 May 2026 16:20:50 GMT",
-      "summary": "At least five children were reportedly killed in the strike, which appears to have targeted a Hamas commander."
+      "url": "https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 29 May 2026 15:29:12 GMT",
+      "summary": "Kenneth Law admitted charges relating to Canadian victims - but families say he should also be charged in the UK over 79 deaths in Britain."
     },
     {
-      "title": "Are US and Iran close to peace or sliding back to war?",
+      "title": "Nato condemns Russian 'recklessness' after drone hits Romanian residential block",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 28 May 2026 14:42:27 GMT",
-      "summary": "Neither side seems interested in a return to all-out conflict, despite the latest exchange of strikes."
+      "url": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 29 May 2026 16:13:28 GMT",
+      "summary": "Romania will hold an emergency meeting following the incident, in which two people were injured. "
     },
     {
-      "title": "Iran says it targeted American base after fresh US strikes",
+      "title": "'Controversial' North Korean invasion setting for next Call of Duty game",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 28 May 2026 15:53:05 GMT",
-      "summary": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war. "
+      "url": "https://www.bbc.com/news/articles/c9q391y5088o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 29 May 2026 13:55:04 GMT",
+      "summary": "Developer Infinity Ward said the game will be \"grounded in the military authenticity\" the series is known for."
     },
     {
-      "title": "Israel hits Lebanese capital in 'targeted strike'",
+      "title": "Former US attorney general Pam Bondi testifies in congressional Epstein probe",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cgqpjwdv7xeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 28 May 2026 15:57:01 GMT",
-      "summary": "Beirut had until now largely been spared even as both Israel and Hezbollah accused each other of breaking last month's ceasefire."
+      "url": "https://www.bbc.com/news/articles/czj2ldllgwgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 29 May 2026 13:17:19 GMT",
+      "summary": "The testimony comes about a month after America's top prosecutor was ousted by US President Donald Trump."
     },
     {
-      "title": "Villas, cars and cash: Italy seizes dead Mafia mobster's millions",
+      "title": "Eight students arrested in Kenya after suspected deadly school arson attack",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/ceqpd4gqgveo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 28 May 2026 14:47:05 GMT",
-      "summary": "Police say the operation targeted the network of notorious late Sicilian mafia boss Matteo Messina Denaro."
+      "url": "https://www.bbc.com/news/articles/cx21r3138m9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 29 May 2026 11:22:10 GMT",
+      "summary": "Sixteen pupils died in the fire that ripped through a dormitory while they were asleep."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 73199,
-      "change24h": -2.5787,
-      "marketCap": 1466638788113,
+      "price": 73845,
+      "change24h": 1.05275,
+      "marketCap": 1480598147093,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2007.36,
-      "change24h": -2.86088,
-      "marketCap": 242126798638,
+      "price": 2035.89,
+      "change24h": 1.84627,
+      "marketCap": 245793669321,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Argentina bill targets crypto payments to illegal gambling sites",
+      "title": "Ethereum analysts say \u2018downside pressure\u2019 remains as $1.8K becomes key",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/argentina-bill-crypto-payments-illegal-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 28 May 2026 15:05:21 +0000",
-      "summary": "Argentina\u2019s proposed online gambling bill would restrict banks, payment firms and crypto providers from serving unauthorized betting platforms."
+      "url": "https://cointelegraph.com/markets/analysts-say-ethereums-downside-pressure-remains-as-18k-becomes-key?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 29 May 2026 15:50:08 +0000",
+      "summary": "Analysts warn Ether\u2019s downside risks remain elevated as traders closely watch the $1,800 support zone for stability."
     },
     {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 28 May 2026 14:54:02 +0000",
+      "publishedAt": "Fri, 29 May 2026 14:28:38 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "ERC-7943 author says institutions can\u2019t play DeFi\u2019s \u2018pirate game\u2019",
+      "title": "Bitcoin ETFs bleed $2.8B in record nine-day outflow streak",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/features/erc-7943-author-institutions-defi-pirate-game?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 28 May 2026 14:45:44 +0000",
-      "summary": "RWA standard ERC-7943 reaches final stage as Ethereum builders rethink how institutional finance move onchain."
+      "url": "https://cointelegraph.com/news/bitcoin-etfs-longest-outflow-streak-institutional-demand-cools?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 29 May 2026 14:20:32 +0000",
+      "summary": "Spot Bitcoin ETFs recorded a nine-day outflow streak totaling $2.84 billion, surpassing an eight-session outflow run in February 2025."
     },
     {
-      "title": "StanChart says Ethereum price will catch up to bullish internal metrics",
+      "title": "Why is Stellar's XLM up by over 50% this week?",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/standard-chartered-says-ethereums-onchain-metrics-are-improving-eth-price-underperforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 28 May 2026 14:26:25 +0000",
-      "summary": "Standard Chartered reaffirms bullish Ether price targets, citing strong network fundamentals even as ETH trades 57% below its 2025 peak and fund flows turn negative."
+      "url": "https://cointelegraph.com/markets/why-is-stellars-xlm-up-by-over-50-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 29 May 2026 13:34:59 +0000",
+      "summary": "XLM rallied after US financial giant DTCC announced a partnership with the Stellar Network, but it still risks a sharp downside in the coming weeks."
     },
     {
-      "title": "Bitcoin bids farewell to CME futures gaps with $67K still on the radar",
+      "title": "NYSE parent ICE pushes \u2018level playing field\u2019 for 24/7 onchain perps",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-bids-farewell-to-cme-gaps-with-67k-still-on-the-radar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 28 May 2026 13:52:26 +0000",
-      "summary": "Bitcoin approached the final week of CME futures gaps with several still open, providing potential BTC price targets as low as $67,000."
+      "url": "https://cointelegraph.com/news/nyse-ice-level-playing-field-247-onchain-perps-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 29 May 2026 13:25:20 +0000",
+      "summary": "ICE\u2019s CEO said regulators need to create a \u201clevel playing field\u201d for launching 24/7 onchain perps contracts, which are already trading on exchanges such as Hyperliquid."
     }
   ],
   "aiNews": [
     {
-      "title": "How long is Anthropic\u2019s lease with SpaceX? Opinions vary.",
+      "title": "Cognition\u2019s Scott Wu says AI coding agents shouldn\u2019t replace humans",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
-      "publishedAt": "Thu, 28 May 2026 15:36:00 +0000",
-      "summary": "Elon Musk is publicly reframing xAI\u2019s massive Anthropic compute deal as short-term and cancellable, despite SpaceX\u2019s own S-1 filing describing payments through May 2029."
+      "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+      "publishedAt": "Fri, 29 May 2026 16:13:47 +0000",
+      "summary": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers."
     },
     {
-      "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
+      "title": "Today is the last\u00a0day to apply to speak at TechCrunch Disrupt 2026",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
-      "publishedAt": "Thu, 28 May 2026 15:35:43 +0000",
-      "summary": "Sesame\u2019s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a per"
+      "url": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
+      "publishedAt": "Fri, 29 May 2026 14:15:00 +0000",
+      "summary": "Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conversations defining the tech industry."
     },
     {
-      "title": "Sneak peek at new Siri app reveals Apple\u2019s plans to take on ChatGPT and more",
+      "title": "Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
-      "publishedAt": "Thu, 28 May 2026 14:45:13 +0000",
-      "summary": "New renders offer a closer look at Apple\u2019s planned AI overhaul for iOS 27, including a redesigned Siri experience powered and standalone Siri app."
+      "url": "https://techcrunch.com/2026/05/29/final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket/",
+      "publishedAt": "Fri, 29 May 2026 14:00:00 +0000",
+      "summary": "You now have until tonight at 11:59 p.m. PT to lock in Early Bird savings of up to $410 for TechCrunch Disrupt 2026 before prices increase. Join 10,000+ tech leaders in October for one of the most ant"
     },
     {
-      "title": "RSI is the new AGI \u2014 and it\u2019s just as hard to pin down",
+      "title": "Kiwibit\u2019s AI-powered bird feeder is my new backyard buddy",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/",
-      "publishedAt": "Thu, 28 May 2026 14:30:17 +0000",
-      "summary": "A new crop of AI labs are focused on recursive self-improvement \u2014 but the goal is proving elusive."
+      "url": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
+      "publishedAt": "Fri, 29 May 2026 13:00:00 +0000",
+      "summary": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pok\u00e9mon, give this smart feeder a try."
     },
     {
-      "title": "At TechCrunch Disrupt 2026: Databricks\u2019 co-founder on what kills enterprise AI deals",
+      "title": "This chip startup just raised $135M on a bet that AI\u2019s biggest bottleneck isn\u2019t compute \u2014 it\u2019s memory",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
-      "publishedAt": "Thu, 28 May 2026 14:30:00 +0000",
-      "summary": "Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting. They are evaluating whether it is safe to deploy broadly."
+      "url": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+      "publishedAt": "Fri, 29 May 2026 12:00:00 +0000",
+      "summary": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory."
     }
   ],
   "techMovers": [
     {
-      "ticker": "SNOW",
-      "name": "Snowflake Inc",
-      "price": 239.07,
-      "change": 63.81,
-      "changePercent": 36.41
+      "ticker": "CRM",
+      "name": "Salesforce Inc",
+      "price": 193.0,
+      "change": 16.83,
+      "changePercent": 9.55
     },
     {
       "ticker": "ORCL",
       "name": "Oracle Corp",
-      "price": 202.61,
-      "change": 11.65,
-      "changePercent": 6.1
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 521.11,
-      "change": 25.57,
-      "changePercent": 5.16
-    },
-    {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "price": 178.96,
-      "change": 5.18,
-      "changePercent": 2.98
+      "price": 222.43,
+      "change": 18.73,
+      "changePercent": 9.19
     },
     {
       "ticker": "MSFT",
       "name": "Microsoft Corp",
-      "price": 423.07,
-      "change": 10.4,
-      "changePercent": 2.52
+      "price": 444.7,
+      "change": 17.71,
+      "changePercent": 4.15
+    },
+    {
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "price": 189.8,
+      "change": 7.55,
+      "changePercent": 4.14
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "price": 440.86,
+      "change": 14.28,
+      "changePercent": 3.35
     }
   ],
-  "fearGreedIndex": 22,
+  "fearGreedIndex": 23,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 321.02,
-    "change": -6.59,
-    "changePercent": -2.01
+    "price": 329.72,
+    "change": 4.77,
+    "changePercent": 1.47
   },
   "sectors": [
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": 1.58
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": 1.3
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 0.53
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": 0.22
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 0.2
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": 0.16
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 0.12
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 0.06
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 0.02
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": -0.22
+      "changePercent": 2.13
     },
     {
       "ticker": "XLF",
       "name": "Financials",
-      "changePercent": -0.4
+      "changePercent": 0.87
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": 0.06
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": -0.09
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -0.39
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": -0.5
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -0.63
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -0.75
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -0.9
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": -1.2
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -1.55
     }
   ],
   "economicCalendar": [
@@ -241,6 +241,13 @@
       "event": "Non-Farm Payrolls",
       "importance": "high",
       "description": "Monthly jobs report - employment and wage data"
+    },
+    {
+      "date": "2026-06-12",
+      "time": "08:30 ET",
+      "event": "CPI Inflation Data",
+      "importance": "high",
+      "description": "Consumer Price Index - key inflation measure"
     },
     {
       "date": "2026-06-17",
