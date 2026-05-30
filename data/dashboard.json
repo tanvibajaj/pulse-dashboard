@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-05-29T16:40:29.768465+00:00",
-  "marketStatus": "Open",
+  "lastUpdated": "2026-05-30T14:26:46.881273+00:00",
+  "marketStatus": "Closed",
   "globalNews": [
+    {
+      "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 30 May 2026 11:39:32 GMT",
+      "summary": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal."
+    },
+    {
+      "title": "US not 'turning back' on Asia allies, but expects them to boost defence, says Hegseth",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c5ye34k7yejo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 30 May 2026 13:34:57 GMT",
+      "summary": "The US defense secretary is questioned about US commitment, including further arms deals, at an Asian security summit in Singapore."
+    },
     {
       "title": "'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 29 May 2026 15:29:12 GMT",
+      "publishedAt": "Fri, 29 May 2026 21:40:45 GMT",
       "summary": "Kenneth Law admitted charges relating to Canadian victims - but families say he should also be charged in the UK over 79 deaths in Britain."
     },
     {
-      "title": "Nato condemns Russian 'recklessness' after drone hits Romanian residential block",
+      "title": "Nato and EU condemn Russia after drone hits Romanian residential block",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 29 May 2026 16:13:28 GMT",
-      "summary": "Romania will hold an emergency meeting following the incident, in which two people were injured. "
+      "publishedAt": "Fri, 29 May 2026 17:27:09 GMT",
+      "summary": "Romania says the Russian drone was likely hit over Ukraine by its air defences and altered its trajectory. "
     },
     {
-      "title": "'Controversial' North Korean invasion setting for next Call of Duty game",
+      "title": "Four more men freed from flooded Laos cave after 10 days",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c9q391y5088o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 29 May 2026 13:55:04 GMT",
-      "summary": "Developer Infinity Ward said the game will be \"grounded in the military authenticity\" the series is known for."
-    },
-    {
-      "title": "Former US attorney general Pam Bondi testifies in congressional Epstein probe",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/czj2ldllgwgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 29 May 2026 13:17:19 GMT",
-      "summary": "The testimony comes about a month after America's top prosecutor was ousted by US President Donald Trump."
-    },
-    {
-      "title": "Eight students arrested in Kenya after suspected deadly school arson attack",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cx21r3138m9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 29 May 2026 11:22:10 GMT",
-      "summary": "Sixteen pupils died in the fire that ripped through a dormitory while they were asleep."
+      "url": "https://www.bbc.com/news/articles/cn4pn4ex0ymo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 30 May 2026 09:50:56 GMT",
+      "summary": "Two of the seven villagers who entered the narrow tunnels in search for gold on 20 May are still missing. "
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 73845,
-      "change24h": 1.05275,
-      "marketCap": 1480598147093,
+      "price": 73855,
+      "change24h": 1.74228,
+      "marketCap": 1479776475022,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2035.89,
-      "change24h": 1.84627,
-      "marketCap": 245793669321,
+      "price": 2022.41,
+      "change24h": 2.03933,
+      "marketCap": 244060633211,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Ethereum analysts say \u2018downside pressure\u2019 remains as $1.8K becomes key",
+      "title": "SEC charges Texas man with $12.3M crypto fraud using fake AI trading bots",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/analysts-say-ethereums-downside-pressure-remains-as-18k-becomes-key?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 29 May 2026 15:50:08 +0000",
-      "summary": "Analysts warn Ether\u2019s downside risks remain elevated as traders closely watch the $1,800 support zone for stability."
+      "url": "https://cointelegraph.com/news/sec-charges-texas-man-with-123m-crypto-fraud-fake-ai-trading-bots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 30 May 2026 13:30:00 +0000",
+      "summary": "The SEC charged Texas man Nathan Fuller with raising $12.3 million from 150 investors through a crypto fraud scheme built around fake AI trading bots."
     },
     {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 29 May 2026 14:28:38 +0000",
+      "publishedAt": "Sat, 30 May 2026 13:20:00 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Bitcoin ETFs bleed $2.8B in record nine-day outflow streak",
+      "title": "Spot Bitcoin ETFs see record 10-day outflow streak, analyst calls it \u2018contrarian indicator\u2019",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-etfs-longest-outflow-streak-institutional-demand-cools?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 29 May 2026 14:20:32 +0000",
-      "summary": "Spot Bitcoin ETFs recorded a nine-day outflow streak totaling $2.84 billion, surpassing an eight-session outflow run in February 2025."
+      "url": "https://cointelegraph.com/news/spot-bitcoin-etfs-see-record-10-day-outflow-streak-analyst-calls-it-contrarian-indicator?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 30 May 2026 10:50:00 +0000",
+      "summary": "Spot Bitcoin ETFs logged a record 10-day outflow streak totaling nearly $3 billion, while Ether ETFs bled for 14 consecutive sessions. "
     },
     {
-      "title": "Why is Stellar's XLM up by over 50% this week?",
+      "title": "Bitcoin treasury space still has fair share of \u2018carnival barkers\u2019: BSTR founder",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/why-is-stellars-xlm-up-by-over-50-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 29 May 2026 13:34:59 +0000",
-      "summary": "XLM rallied after US financial giant DTCC announced a partnership with the Stellar Network, but it still risks a sharp downside in the coming weeks."
+      "url": "https://cointelegraph.com/news/bitcoin-treasury-space-still-has-fair-share-of-carnival-barkers-bstr-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 30 May 2026 09:28:16 +0000",
+      "summary": "BSTR co-founder Sean Bill says many Bitcoin treasury companies lack the \u201cability to actually deploy Bitcoin.\u201d"
     },
     {
-      "title": "NYSE parent ICE pushes \u2018level playing field\u2019 for 24/7 onchain perps",
+      "title": "US has seized nearly $1 billion in Iranian crypto, Treasury secretary says",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/nyse-ice-level-playing-field-247-onchain-perps-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 29 May 2026 13:25:20 +0000",
-      "summary": "ICE\u2019s CEO said regulators need to create a \u201clevel playing field\u201d for launching 24/7 onchain perps contracts, which are already trading on exchanges such as Hyperliquid."
+      "url": "https://cointelegraph.com/news/us-has-seized-nearly-1-billion-in-iranian-crypto-treasury-secretary-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 30 May 2026 08:38:16 +0000",
+      "summary": "US Treasury Secretary Scott Bessent said the US has seized roughly $1 billion in Iranian crypto assets, double the figure disclosed in late April."
     }
   ],
   "aiNews": [
     {
-      "title": "Cognition\u2019s Scott Wu says AI coding agents shouldn\u2019t replace humans",
+      "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
-      "publishedAt": "Fri, 29 May 2026 16:13:47 +0000",
-      "summary": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers."
+      "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "publishedAt": "Sat, 30 May 2026 13:00:00 +0000",
+      "summary": "We\u2019ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
     },
     {
-      "title": "Today is the last\u00a0day to apply to speak at TechCrunch Disrupt 2026",
+      "title": "Coders are refusing to work without AI\u00a0\u2014\u00a0and that could come back to bite them\u00a0",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
-      "publishedAt": "Fri, 29 May 2026 14:15:00 +0000",
-      "summary": "Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conversations defining the tech industry."
+      "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+      "publishedAt": "Fri, 29 May 2026 22:14:22 +0000",
+      "summary": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.\u00a0"
     },
     {
-      "title": "Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket",
+      "title": "So you\u2019ve heard these AI terms and nodded along; let\u2019s fix that",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/29/final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket/",
-      "publishedAt": "Fri, 29 May 2026 14:00:00 +0000",
-      "summary": "You now have until tonight at 11:59 p.m. PT to lock in Early Bird savings of up to $410 for TechCrunch Disrupt 2026 before prices increase. Join 10,000+ tech leaders in October for one of the most ant"
+      "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "publishedAt": "Fri, 29 May 2026 18:49:19 +0000",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
     },
     {
-      "title": "Kiwibit\u2019s AI-powered bird feeder is my new backyard buddy",
+      "title": "What happens when companies become too AI-pilled?",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
-      "publishedAt": "Fri, 29 May 2026 13:00:00 +0000",
-      "summary": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pok\u00e9mon, give this smart feeder a try."
+      "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+      "publishedAt": "Fri, 29 May 2026 17:57:05 +0000",
+      "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job\u00a0truly involves, according to Box founder Aaron Levie, who pointed to this as an example of\u00a0\u201c"
     },
     {
-      "title": "This chip startup just raised $135M on a bet that AI\u2019s biggest bottleneck isn\u2019t compute \u2014 it\u2019s memory",
+      "title": "After Nvidia\u2019s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
-      "publishedAt": "Fri, 29 May 2026 12:00:00 +0000",
-      "summary": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory."
+      "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+      "publishedAt": "Fri, 29 May 2026 17:27:13 +0000",
+      "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, pe"
     }
   ],
   "techMovers": [
     {
-      "ticker": "CRM",
-      "name": "Salesforce Inc",
-      "price": 193.0,
-      "change": 16.83,
-      "changePercent": 9.55
-    },
-    {
       "ticker": "ORCL",
       "name": "Oracle Corp",
-      "price": 222.43,
-      "change": 18.73,
-      "changePercent": 9.19
+      "price": 225.78,
+      "change": 22.08,
+      "changePercent": 10.84
+    },
+    {
+      "ticker": "CRM",
+      "name": "Salesforce Inc",
+      "price": 191.1,
+      "change": 14.93,
+      "changePercent": 8.47
+    },
+    {
+      "ticker": "SNOW",
+      "name": "Snowflake Inc",
+      "price": 255.55,
+      "change": 16.35,
+      "changePercent": 6.84
     },
     {
       "ticker": "MSFT",
       "name": "Microsoft Corp",
-      "price": 444.7,
-      "change": 17.71,
-      "changePercent": 4.15
-    },
-    {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "price": 189.8,
-      "change": 7.55,
-      "changePercent": 4.14
+      "price": 450.24,
+      "change": 23.25,
+      "changePercent": 5.45
     },
     {
       "ticker": "AVGO",
       "name": "Broadcom Inc",
-      "price": 440.86,
-      "change": 14.28,
-      "changePercent": 3.35
+      "price": 446.77,
+      "change": 20.19,
+      "changePercent": 4.73
     }
   ],
   "fearGreedIndex": 23,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 329.72,
-    "change": 4.77,
-    "changePercent": 1.47
+    "price": 326.36,
+    "change": 1.41,
+    "changePercent": 0.43
   },
   "sectors": [
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": 2.13
+      "changePercent": 2.23
     },
     {
       "ticker": "XLF",
       "name": "Financials",
-      "changePercent": 0.87
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 0.06
+      "changePercent": 0.6
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": -0.09
+      "changePercent": -0.39
     },
     {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": -0.39
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -0.41
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": -0.5
+      "changePercent": -0.47
     },
     {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": -0.63
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": -0.75
+      "changePercent": -0.84
     },
     {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": -0.9
+      "changePercent": -0.93
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -0.95
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -0.97
     },
     {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": -1.2
+      "changePercent": -1.16
     },
     {
       "ticker": "XLP",
       "name": "Consumer Staples",
-      "changePercent": -1.55
+      "changePercent": -1.8
     }
   ],
   "economicCalendar": [
