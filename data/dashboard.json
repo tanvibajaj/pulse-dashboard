@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-05-30T14:26:46.881273+00:00",
+  "lastUpdated": "2026-05-31T14:41:53.603600+00:00",
   "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
+      "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 30 May 2026 11:39:32 GMT",
-      "summary": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal."
+      "url": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 31 May 2026 11:26:08 GMT",
+      "summary": "Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers."
     },
     {
-      "title": "US not 'turning back' on Asia allies, but expects them to boost defence, says Hegseth",
+      "title": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c5ye34k7yejo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 30 May 2026 13:34:57 GMT",
-      "summary": "The US defense secretary is questioned about US commitment, including further arms deals, at an Asian security summit in Singapore."
+      "url": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 31 May 2026 06:34:04 GMT",
+      "summary": "Shinjiro Koizumi makes some of Tokyo's most pointed remarks yet in the dispute over Japan's military build-up."
     },
     {
-      "title": "'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides",
+      "title": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 29 May 2026 21:40:45 GMT",
-      "summary": "Kenneth Law admitted charges relating to Canadian victims - but families say he should also be charged in the UK over 79 deaths in Britain."
+      "url": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 31 May 2026 06:47:05 GMT",
+      "summary": "The medical charity's comments come as the head of the World Health Organization visits the region worst-hit by the virus outbreak."
     },
     {
-      "title": "Nato and EU condemn Russia after drone hits Romanian residential block",
+      "title": "Laos cave survivors help with plan to find last two missing men",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 29 May 2026 17:27:09 GMT",
-      "summary": "Romania says the Russian drone was likely hit over Ukraine by its air defences and altered its trajectory. "
+      "url": "https://www.bbc.com/news/articles/c8094jdpzv3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 31 May 2026 11:38:19 GMT",
+      "summary": "So far, five men have been freed from the narrow, flooded cave but efforts are ongoing to locate two more."
     },
     {
-      "title": "Four more men freed from flooded Laos cave after 10 days",
+      "title": "Colombia votes in presidential election that could redefine relations with US",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cn4pn4ex0ymo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 30 May 2026 09:50:56 GMT",
-      "summary": "Two of the seven villagers who entered the narrow tunnels in search for gold on 20 May are still missing. "
+      "url": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 31 May 2026 14:03:43 GMT",
+      "summary": "The election is held after months of public recrimination between current left-wing President Gustavo Petro and his US counterpart Donald Trump."
     }
   ],
   "cryptoAssets": [
@@ -43,93 +43,93 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 73855,
-      "change24h": 1.74228,
-      "marketCap": 1479776475022,
+      "price": 73556,
+      "change24h": -0.48908,
+      "marketCap": 1474193565356,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2022.41,
-      "change24h": 2.03933,
-      "marketCap": 244060633211,
+      "price": 2007.92,
+      "change24h": -0.89248,
+      "marketCap": 242434704776,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "SEC charges Texas man with $12.3M crypto fraud using fake AI trading bots",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/sec-charges-texas-man-with-123m-crypto-fraud-fake-ai-trading-bots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 30 May 2026 13:30:00 +0000",
-      "summary": "The SEC charged Texas man Nathan Fuller with raising $12.3 million from 150 investors through a crypto fraud scheme built around fake AI trading bots."
-    },
-    {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 30 May 2026 13:20:00 +0000",
+      "publishedAt": "Sun, 31 May 2026 13:10:00 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Spot Bitcoin ETFs see record 10-day outflow streak, analyst calls it \u2018contrarian indicator\u2019",
+      "title": "Bitcoin price targets $78K as BTC holders defend 'strongest near-term support'",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/spot-bitcoin-etfs-see-record-10-day-outflow-streak-analyst-calls-it-contrarian-indicator?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 30 May 2026 10:50:00 +0000",
-      "summary": "Spot Bitcoin ETFs logged a record 10-day outflow streak totaling nearly $3 billion, while Ether ETFs bled for 14 consecutive sessions. "
+      "url": "https://cointelegraph.com/markets/bitcoin-price-rebound-targets-78k-as-short-term-holders-defend-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 31 May 2026 12:39:47 +0000",
+      "summary": "Bitcoin\u2019s bounce from a key holder cost-basis level has improved the case for further upside, with historical data pointing to $101,000 as a potential best-case target."
     },
     {
-      "title": "Bitcoin treasury space still has fair share of \u2018carnival barkers\u2019: BSTR founder",
+      "title": "Vietnam proposes allowing SMEs to use digital assets as loan collateral",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-treasury-space-still-has-fair-share-of-carnival-barkers-bstr-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 30 May 2026 09:28:16 +0000",
-      "summary": "BSTR co-founder Sean Bill says many Bitcoin treasury companies lack the \u201cability to actually deploy Bitcoin.\u201d"
+      "url": "https://cointelegraph.com/news/vietnam-proposes-allowing-smes-to-use-digital-assets-as-loan-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 31 May 2026 10:03:56 +0000",
+      "summary": "Vietnam\u2019s Ministry of Finance has proposed letting SMEs use digital assets, virtual assets and intellectual property as loan collateral."
     },
     {
-      "title": "US has seized nearly $1 billion in Iranian crypto, Treasury secretary says",
+      "title": "Cosmos-based Gravity Bridge halts bridge after reported $5.4M exploit",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/us-has-seized-nearly-1-billion-in-iranian-crypto-treasury-secretary-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 30 May 2026 08:38:16 +0000",
-      "summary": "US Treasury Secretary Scott Bessent said the US has seized roughly $1 billion in Iranian crypto assets, double the figure disclosed in late April."
+      "url": "https://cointelegraph.com/news/cosmos-based-gravity-bridge-halts-bridge-after-reported-54m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 31 May 2026 08:57:25 +0000",
+      "summary": "Gravity Bridge was drained of roughly $5.4 million in a suspected signing key compromise, prompting validators to halt the bridge while an investigation is underway.\n"
+    },
+    {
+      "title": "Bitcoin sentiment reaches most \u2018lopsided positive\u2019 ratio for 2026: Santiment",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/crypto-sentiment-reaches-most-lopsided-positive-ratio-for-2026-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 31 May 2026 06:02:05 +0000",
+      "summary": "Crypto sentiment platform Santiment warned that the two biggest spikes in social media bullishness around Bitcoin have previously been followed by short-term price pullbacks."
     }
   ],
   "aiNews": [
+    {
+      "title": "SoftBank says it will invest up to \u20ac75 billion to build French data centers",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+      "publishedAt": "Sat, 30 May 2026 21:45:00 +0000",
+      "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity."
+    },
+    {
+      "title": "\u2018What a joke\u2019: Github Copilot\u2019s new token-based billing spurs consternation among devs",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+      "publishedAt": "Sat, 30 May 2026 16:30:00 +0000",
+      "summary": "The golden age of Microsoft's Github Copilot appears to be at an end."
+    },
+    {
+      "title": "Meta is reportedly developing an AI pendant",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+      "publishedAt": "Sat, 30 May 2026 15:59:58 +0000",
+      "summary": "Meta seems to be making big bets on AI-powered hardware."
+    },
+    {
+      "title": "I put Google\u2019s 24/7 AI assistant Gemini Spark to work, and it\u2019s actually pretty useful",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+      "publishedAt": "Sat, 30 May 2026 15:30:00 +0000",
+      "summary": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it\u2019s unclear why Google made it a separate product."
+    },
     {
       "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
       "publishedAt": "Sat, 30 May 2026 13:00:00 +0000",
       "summary": "We\u2019ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
-    },
-    {
-      "title": "Coders are refusing to work without AI\u00a0\u2014\u00a0and that could come back to bite them\u00a0",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
-      "publishedAt": "Fri, 29 May 2026 22:14:22 +0000",
-      "summary": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.\u00a0"
-    },
-    {
-      "title": "So you\u2019ve heard these AI terms and nodded along; let\u2019s fix that",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "publishedAt": "Fri, 29 May 2026 18:49:19 +0000",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
-    },
-    {
-      "title": "What happens when companies become too AI-pilled?",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
-      "publishedAt": "Fri, 29 May 2026 17:57:05 +0000",
-      "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job\u00a0truly involves, according to Box founder Aaron Levie, who pointed to this as an example of\u00a0\u201c"
-    },
-    {
-      "title": "After Nvidia\u2019s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
-      "publishedAt": "Fri, 29 May 2026 17:27:13 +0000",
-      "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, pe"
     }
   ],
   "techMovers": [
@@ -169,7 +169,7 @@
       "changePercent": 4.73
     }
   ],
-  "fearGreedIndex": 23,
+  "fearGreedIndex": 28,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
