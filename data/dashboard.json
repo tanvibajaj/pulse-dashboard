@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-05-31T14:41:53.603600+00:00",
-  "marketStatus": "Closed",
+  "lastUpdated": "2026-06-01T18:35:33.366163+00:00",
+  "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
+      "title": "Iran warns Israeli attacks in Lebanon threaten ceasefire with US",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 31 May 2026 11:26:08 GMT",
-      "summary": "Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers."
+      "url": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 01 Jun 2026 18:34:14 GMT",
+      "summary": "Earlier Israel's PM ordered strikes on Beirut's southern suburbs in response to Hezbollah rocket and drone attacks on northern Israel."
     },
     {
-      "title": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
+      "title": "Bowen: Trump needs this war to end but Iran is not backing down",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 31 May 2026 06:34:04 GMT",
-      "summary": "Shinjiro Koizumi makes some of Tokyo's most pointed remarks yet in the dispute over Japan's military build-up."
+      "url": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 01 Jun 2026 15:25:54 GMT",
+      "summary": "Under pressure from the polls and Gulf allies, the White House is pushing for a deal but Iran wants concessions, writes BBC's international editor."
     },
     {
-      "title": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
+      "title": "Three Ebola vaccines in development amid growing outbreak fears",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 31 May 2026 06:47:05 GMT",
-      "summary": "The medical charity's comments come as the head of the World Health Organization visits the region worst-hit by the virus outbreak."
+      "url": "https://www.bbc.com/news/articles/cn8pw93929wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 01 Jun 2026 14:30:39 GMT",
+      "summary": "IAVI, Moderna and the University of Oxford are all working on new vaccines. "
     },
     {
-      "title": "Laos cave survivors help with plan to find last two missing men",
+      "title": "AI giant Anthropic says it plans to list on US stock market",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c8094jdpzv3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 31 May 2026 11:38:19 GMT",
-      "summary": "So far, five men have been freed from the narrow, flooded cave but efforts are ongoing to locate two more."
+      "url": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 01 Jun 2026 18:20:56 GMT",
+      "summary": "The AI company behind Claude is set to offer the public shares of stock sometime this year.\n"
     },
     {
-      "title": "Colombia votes in presidential election that could redefine relations with US",
+      "title": "Hungarian PM threatens to oust Orb\u00e1n-era president",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 31 May 2026 14:03:43 GMT",
-      "summary": "The election is held after months of public recrimination between current left-wing President Gustavo Petro and his US counterpart Donald Trump."
+      "url": "https://www.bbc.com/news/articles/c3w2vdd6jj3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 01 Jun 2026 16:54:28 GMT",
+      "summary": "Hungary's president has refused Prime Minister P\u00e9ter Magyar's demands to step aside, setting up a constitutional clash. "
     }
   ],
   "cryptoAssets": [
@@ -43,211 +43,211 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 73556,
-      "change24h": -0.48908,
-      "marketCap": 1474193565356,
+      "price": 71532,
+      "change24h": -2.76906,
+      "marketCap": 1430990979127,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2007.92,
-      "change24h": -0.89248,
-      "marketCap": 242434704776,
+      "price": 1990.69,
+      "change24h": -0.51417,
+      "marketCap": 239977887874,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
+      "title": "Are Ethereum OGs jumping ship? Here's what the data says",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/are-ethereum-ogs-jumping-ship-heres-what-the-data-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 01 Jun 2026 15:44:00 +0000",
+      "summary": "Long-term whales have cashed out millions of dollars from Ethereum following the recent sell-off, potentially putting ETH at risk of further losses."
+    },
+    {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 31 May 2026 13:10:00 +0000",
+      "publishedAt": "Mon, 01 Jun 2026 14:46:40 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Bitcoin price targets $78K as BTC holders defend 'strongest near-term support'",
+      "title": "Hyperliquid's HYPE breakout puts $100 price target in play",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-rebound-targets-78k-as-short-term-holders-defend-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 31 May 2026 12:39:47 +0000",
-      "summary": "Bitcoin\u2019s bounce from a key holder cost-basis level has improved the case for further upside, with historical data pointing to $101,000 as a potential best-case target."
+      "url": "https://cointelegraph.com/markets/hyperliquids-hype-breakout-may-lead-price-to-100-record-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 01 Jun 2026 14:42:09 +0000",
+      "summary": "HYPE has entered the breakout stage of its prevailing bull pennant setup with an upside target near $105, with strong fundamentals backing the bullish case."
     },
     {
-      "title": "Vietnam proposes allowing SMEs to use digital assets as loan collateral",
+      "title": "Recovery hopes fade as Kelp DAO hacker launders nearly all $220M in stolen funds",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/vietnam-proposes-allowing-smes-to-use-digital-assets-as-loan-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 31 May 2026 10:03:56 +0000",
-      "summary": "Vietnam\u2019s Ministry of Finance has proposed letting SMEs use digital assets, virtual assets and intellectual property as loan collateral."
+      "url": "https://cointelegraph.com/news/kelp-dao-recovery-hacker-launders-most-funds-293m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 01 Jun 2026 14:09:52 +0000",
+      "summary": "The Kelp DAO exploiter laundered about $220 million worth of remaining stolen funds in a bid to make them untraceable, excluding the $71 million frozen by Arbitrum\u2019s Security Council."
     },
     {
-      "title": "Cosmos-based Gravity Bridge halts bridge after reported $5.4M exploit",
+      "title": "Strategy sells 32 BTC in first Bitcoin sale since 2022; Stock falls on open",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/cosmos-based-gravity-bridge-halts-bridge-after-reported-54m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 31 May 2026 08:57:25 +0000",
-      "summary": "Gravity Bridge was drained of roughly $5.4 million in a suspected signing key compromise, prompting validators to halt the bridge while an investigation is underway.\n"
-    },
-    {
-      "title": "Bitcoin sentiment reaches most \u2018lopsided positive\u2019 ratio for 2026: Santiment",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/crypto-sentiment-reaches-most-lopsided-positive-ratio-for-2026-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 31 May 2026 06:02:05 +0000",
-      "summary": "Crypto sentiment platform Santiment warned that the two biggest spikes in social media bullishness around Bitcoin have previously been followed by short-term price pullbacks."
+      "url": "https://cointelegraph.com/news/strategy-first-ever-bitcoin-sale-offloads-32-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 01 Jun 2026 13:50:00 +0000",
+      "summary": "The world's largest public Bitcoin holder reduced its stash to 843,706 BTC, while raising $128.3 million through Class A stock sales."
     }
   ],
   "aiNews": [
     {
-      "title": "SoftBank says it will invest up to \u20ac75 billion to build French data centers",
+      "title": "Water access is now a risk factor in SpaceX\u2019s IPO",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-      "publishedAt": "Sat, 30 May 2026 21:45:00 +0000",
-      "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity."
+      "url": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
+      "publishedAt": "Mon, 01 Jun 2026 18:19:53 +0000",
+      "summary": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge."
     },
     {
-      "title": "\u2018What a joke\u2019: Github Copilot\u2019s new token-based billing spurs consternation among devs",
+      "title": "Anthropic files to go public",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-      "publishedAt": "Sat, 30 May 2026 16:30:00 +0000",
-      "summary": "The golden age of Microsoft's Github Copilot appears to be at an end."
+      "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+      "publishedAt": "Mon, 01 Jun 2026 16:36:55 +0000",
+      "summary": "The company said Monday it has filed confidentially for an IPO."
     },
     {
-      "title": "Meta is reportedly developing an AI pendant",
+      "title": "This AI weather startup is out-forecasting government agencies",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-      "publishedAt": "Sat, 30 May 2026 15:59:58 +0000",
-      "summary": "Meta seems to be making big bets on AI-powered hardware."
+      "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+      "publishedAt": "Mon, 01 Jun 2026 16:00:00 +0000",
+      "summary": "Windborne Systems' newest weather forecasting model beats the best government predictions by days."
     },
     {
-      "title": "I put Google\u2019s 24/7 AI assistant Gemini Spark to work, and it\u2019s actually pretty useful",
+      "title": "DuckDuckGo makes its \u2018no-AI\u2019 search engine easier to access as its traffic booms",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-      "publishedAt": "Sat, 30 May 2026 15:30:00 +0000",
-      "summary": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it\u2019s unclear why Google made it a separate product."
+      "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+      "publishedAt": "Mon, 01 Jun 2026 14:49:10 +0000",
+      "summary": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users. "
     },
     {
-      "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
+      "title": "Erin Brockovich takes aim at data center secrecy",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "publishedAt": "Sat, 30 May 2026 13:00:00 +0000",
-      "summary": "We\u2019ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
+      "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+      "publishedAt": "Sun, 31 May 2026 21:05:14 +0000",
+      "summary": "Environmental activist Erin Brockovich has a new mission."
     }
   ],
   "techMovers": [
     {
       "ticker": "ORCL",
       "name": "Oracle Corp",
-      "price": 225.78,
-      "change": 22.08,
-      "changePercent": 10.84
-    },
-    {
-      "ticker": "CRM",
-      "name": "Salesforce Inc",
-      "price": 191.1,
-      "change": 14.93,
-      "changePercent": 8.47
+      "price": 249.32,
+      "change": 23.54,
+      "changePercent": 10.42
     },
     {
       "ticker": "SNOW",
       "name": "Snowflake Inc",
-      "price": 255.55,
-      "change": 16.35,
-      "changePercent": 6.84
+      "price": 280.25,
+      "change": 24.7,
+      "changePercent": 9.67
     },
     {
-      "ticker": "MSFT",
-      "name": "Microsoft Corp",
-      "price": 450.24,
-      "change": 23.25,
-      "changePercent": 5.45
+      "ticker": "CRM",
+      "name": "Salesforce Inc",
+      "price": 209.2,
+      "change": 18.1,
+      "changePercent": 9.47
     },
     {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc",
-      "price": 446.77,
-      "change": 20.19,
-      "changePercent": 4.73
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp",
+      "price": 224.47,
+      "change": 13.33,
+      "changePercent": 6.31
+    },
+    {
+      "ticker": "UBER",
+      "name": "Uber Technologies",
+      "price": 74.11,
+      "change": 3.71,
+      "changePercent": 5.27
     }
   ],
-  "fearGreedIndex": 28,
+  "fearGreedIndex": 29,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 326.36,
-    "change": 1.41,
-    "changePercent": 0.43
+    "price": 321.47,
+    "change": -4.89,
+    "changePercent": -1.5
   },
   "sectors": [
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": 2.23
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 0.6
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": -0.39
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": -0.41
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": -0.47
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": -0.84
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": -0.93
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": -0.95
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": -0.97
+      "changePercent": 2.65
     },
     {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": -1.16
+      "changePercent": 1.87
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": 0.14
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": -0.25
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": -0.3
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -0.3
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -1.04
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -1.05
     },
     {
       "ticker": "XLP",
       "name": "Consumer Staples",
+      "changePercent": -1.1
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
       "changePercent": -1.8
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": -2.48
     }
   ],
   "economicCalendar": [
-    {
-      "date": "2026-06-05",
-      "time": "08:30 ET",
-      "event": "Non-Farm Payrolls",
-      "importance": "high",
-      "description": "Monthly jobs report - employment and wage data"
-    },
     {
       "date": "2026-06-12",
       "time": "08:30 ET",
       "event": "CPI Inflation Data",
       "importance": "high",
       "description": "Consumer Price Index - key inflation measure"
+    },
+    {
+      "date": "2026-06-15",
+      "time": "08:30 ET",
+      "event": "Retail Sales",
+      "importance": "medium",
+      "description": "Monthly consumer spending data"
     },
     {
       "date": "2026-06-17",
