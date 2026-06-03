@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-06-02T17:19:48.389703+00:00",
+  "lastUpdated": "2026-06-03T17:58:38.649422+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Ukraine rescuers pull dead from rubble after Russian strikes kill 22 people",
+      "title": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 02 Jun 2026 15:10:23 GMT",
-      "summary": "An eight-year-old boy killed in a strike on an apartment block are among the dead, officials say."
+      "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 03 Jun 2026 14:02:25 GMT",
+      "summary": "Iran says the attack on Kuwait was in retaliation for earlier US strikes on an Iranian oil tanker and island. "
     },
     {
-      "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
+      "title": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 02 Jun 2026 16:11:05 GMT",
-      "summary": "Israel continues its campaign in the south, though has not struck Beirut after a deal announced by the US."
+      "url": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 03 Jun 2026 11:34:07 GMT",
+      "summary": "Several long-range drones struck oil storage facilities near the city, days before Vladimir Putin is due to address the event."
     },
     {
-      "title": "British couple lose Iran jail sentence appeal, family says",
+      "title": "Foreign nationals among at least 21 killed in Delhi fire",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 02 Jun 2026 16:04:18 GMT",
-      "summary": "Lindsay and Craig Foreman were arrested in January 2025 during a global motorbike journey."
+      "url": "https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 03 Jun 2026 11:54:25 GMT",
+      "summary": "Many victims were South Asians who had travelled to India for treatment or to accompany relatives."
     },
     {
-      "title": "Two people shot dead amid Kenya protests against US Ebola quarantine centre plan",
+      "title": "Eight killed after drone hits bus in Russian-occupied part of Ukraine",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cvgz7zny3pzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 02 Jun 2026 15:58:23 GMT",
-      "summary": "The US plan has sparked public anger and led to demonstrations near the site of the proposed treatment facility. "
+      "url": "https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 03 Jun 2026 15:18:28 GMT",
+      "summary": "The bus was hit in the eastern Donetsk region, an official says."
     },
     {
-      "title": "Canada formally requests renewal of North American free trade pact",
+      "title": "Shell pumped oil through Nigeria pipeline for years despite pollution evidence, documents show",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cn9prr3w9nlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 02 Jun 2026 15:20:59 GMT",
-      "summary": "In a letter to his North American counterparts, US-Canada Trade Minister Dominic LeBlanc said the three countries should renew the USMCA trade deal."
+      "url": "https://www.bbc.com/news/articles/cdrp8v7407ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 03 Jun 2026 05:13:02 GMT",
+      "summary": "The oil giant says the documents ignore the critical context of the complex operating environment at the time."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 67426,
-      "change24h": -5.57135,
-      "marketCap": 1350527936584,
+      "price": 65830,
+      "change24h": -2.33462,
+      "marketCap": 1318456794346,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1921.57,
-      "change24h": -2.97146,
-      "marketCap": 231945034792,
+      "price": 1824.59,
+      "change24h": -4.99873,
+      "marketCap": 220150438569,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
+      "title": "Bitcoin copying 2022 'almost perfectly' as trader sees key support failing",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-copying-2022-almost-perfectly-as-trader-sees-key-support-failing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 03 Jun 2026 16:09:12 +0000",
+      "summary": "Bitcoin traders warned of a key BTC price support trend line failing as 2022 bear market history continued to repeat."
+    },
+    {
+      "title": "Crypto firms face July 1 EU cutoff as MiCA grace period ends",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/eu-mica-deadline-looms-for-unlicensed-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 03 Jun 2026 16:01:06 +0000",
+      "summary": "The ESMA says crypto companies without MiCA authorization must stop serving EU clients from July 1, even if their licence applications remain under review."
+    },
+    {
+      "title": "Hyperliquid bear turns bullish after losing over $46M shorting HYPE",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/hyperliquid-bear-turns-bullish-after-losing-over-46m-betting-on-hype-price-decline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 03 Jun 2026 16:00:40 +0000",
+      "summary": "The whale is now backing Arthur Hayes\u2019 favored HYPE, ZEC and NEAR plays, signaling a sharp pivot toward momentum-led crypto bets."
+    },
+    {
+      "title": "Ethereum drops to 14-week lows: Can ETH price hold $1.8K support?",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/ethereum-drops-to-14-week-lows-can-eth-price-hold-18k-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 03 Jun 2026 15:32:39 +0000",
+      "summary": "Ethereum price slides to a 14-week low as weakening demand and persistent ETF outflows put the key $1,800 support at risk."
+    },
+    {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 02 Jun 2026 15:46:14 +0000",
+      "publishedAt": "Wed, 03 Jun 2026 15:23:52 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-    },
-    {
-      "title": "Zama accelerates compliance after court lifts $12.5M USDC freeze",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/zama-tightens-compliance-framework-after-court-ordered-usdc-freeze-reversed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 02 Jun 2026 15:28:08 +0000",
-      "summary": "Privacy protocol Zama says it will accelerate compliance measures after a court lifted a $12.5 million USDC freeze tied to an unrelated legal dispute."
-    },
-    {
-      "title": "Georgia targets illegal crypto mining in Mestia crackdown: Report",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/georgias-vice-pm-governmental-crackdown-illegal-bitcoin-mining?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 02 Jun 2026 15:02:29 +0000",
-      "summary": "Georgia will reportedly install electricity meters across Mestia to curb illegal crypto mining after officials blamed miners for grid strain and outages."
-    },
-    {
-      "title": "Kaiko acquires Amberdata in blockchain data consolidation push",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/kaiko-acquires-amberdata-blockchain-data-consolidation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 02 Jun 2026 14:43:46 +0000",
-      "summary": "Kaiko acquired Amberdata to expand its institutional crypto data platform with derivatives analytics, onchain tools and AI-powered research."
-    },
-    {
-      "title": "HIVE Bitcoin holdings drop by 331 BTC in Q1, reports record $298M revenue",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/hive-sells-331-btc-q1-record-298-million-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 02 Jun 2026 14:14:02 +0000",
-      "summary": "HIVE reduced its Bitcoin holdings to 150 BTC while annual revenue climbed to $297.8 million, driven by growth in mining and AI computing."
     }
   ],
   "aiNews": [
     {
-      "title": "Trump signs narrower executive order on AI oversight after industry objections\u00a0",
+      "title": "Amazon will show AI product images when you search for some reason",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
-      "publishedAt": "Tue, 02 Jun 2026 16:23:08 +0000",
-      "summary": "After industry objections, President Trump signed a revised AI executive order requiring only voluntary prerelease government reviews of advanced models."
+      "url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+      "publishedAt": "Wed, 03 Jun 2026 15:50:26 +0000",
+      "summary": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products."
     },
     {
-      "title": "OpenAI launches new Codex tools for white-collar work",
+      "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
-      "publishedAt": "Tue, 02 Jun 2026 16:00:00 +0000",
-      "summary": "OpenAI is getting serious about courting enterprise users. On Tuesday, the AI lab released a new set of capabilities for Codex, meant to expand the agentic tool\u2019s uses in the workplace. Together with "
+      "url": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+      "publishedAt": "Wed, 03 Jun 2026 15:00:00 +0000",
+      "summary": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day."
     },
     {
-      "title": "Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries",
+      "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
-      "publishedAt": "Tue, 02 Jun 2026 14:44:21 +0000",
-      "summary": "Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries \u2014 targeting critical infrastructure in power, water, healthc"
+      "url": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
+      "publishedAt": "Wed, 03 Jun 2026 14:58:33 +0000",
+      "summary": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally. "
     },
     {
-      "title": "ZeroDrift raises $10M to protect AI models from themselves",
+      "title": "Meta\u2019s AI agent for WhatsApp Business is now available globally",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
-      "publishedAt": "Tue, 02 Jun 2026 12:32:59 +0000",
-      "summary": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem. "
+      "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+      "publishedAt": "Wed, 03 Jun 2026 13:40:00 +0000",
+      "summary": "WhatsApp will charge businesses for using its AI agent based on token usage."
     },
     {
-      "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
+      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
-      "publishedAt": "Tue, 02 Jun 2026 12:00:00 +0000",
-      "summary": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo."
+      "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+      "publishedAt": "Wed, 03 Jun 2026 13:02:51 +0000",
+      "summary": "Coralogix is among a growing number of infrastructure firms betting that as AI systems move into production, demand will rise for tools that can monitor their behavior, troubleshoot failures, and prov"
     }
   ],
   "techMovers": [
     {
-      "ticker": "SNOW",
-      "name": "Snowflake Inc",
-      "price": 261.72,
-      "change": -18.44,
-      "changePercent": -6.58
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "price": 230.1,
+      "change": -14.49,
+      "changePercent": -5.92
     },
     {
-      "ticker": "CRM",
-      "name": "Salesforce Inc",
-      "price": 197.9,
-      "change": -11.71,
-      "changePercent": -5.58
+      "ticker": "SNOW",
+      "name": "Snowflake Inc",
+      "price": 246.06,
+      "change": -15.08,
+      "changePercent": -5.77
     },
     {
       "ticker": "COIN",
       "name": "Coinbase",
-      "price": 174.92,
-      "change": -7.69,
-      "changePercent": -4.21
+      "price": 165.19,
+      "change": -8.8,
+      "changePercent": -5.06
     },
     {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc",
-      "price": 477.82,
-      "change": 17.85,
-      "changePercent": 3.88
+      "ticker": "CRM",
+      "name": "Salesforce Inc",
+      "price": 191.06,
+      "change": -9.78,
+      "changePercent": -4.87
     },
     {
-      "ticker": "MSFT",
-      "name": "Microsoft Corp",
-      "price": 444.56,
-      "change": -15.96,
-      "changePercent": -3.47
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "price": 622.56,
+      "change": 24.93,
+      "changePercent": 4.17
     }
   ],
-  "fearGreedIndex": 23,
+  "fearGreedIndex": 11,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 316.32,
-    "change": -6.45,
-    "changePercent": -2.0
+    "price": 313.91,
+    "change": -3.41,
+    "changePercent": -1.07
   },
   "sectors": [
     {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": 1.89
-    },
-    {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": 1.37
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 0.83
-    },
-    {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": 0.72
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": 0.52
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 0.35
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 0.09
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": -0.16
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": -0.41
+      "changePercent": 1.7
     },
     {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": -1.16
+      "changePercent": 1.1
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": 0.81
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": 0.67
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": 0.38
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": 0.31
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": 0.24
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": -0.86
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -0.87
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": -0.92
     },
     {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": -1.16
+      "changePercent": -1.2
     }
   ],
   "economicCalendar": [
