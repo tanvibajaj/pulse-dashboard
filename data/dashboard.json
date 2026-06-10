@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-06-09T15:52:29.727509+00:00",
+  "lastUpdated": "2026-06-10T16:33:16.580159+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
+      "title": "Trump says US will hit Iran 'hard' again on Wednesday ",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 09 Jun 2026 15:15:29 GMT",
-      "summary": "Iran warned Israel on Monday that it could resume hostilities if attacks on its Lebanese ally Hezbollah do not stop."
+      "url": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 10 Jun 2026 16:23:53 GMT",
+      "summary": "The US president warns Iran \"will have to pay the price\" for taking too long to agree a deal, after Tehran vows retaliation to any attacks."
     },
     {
-      "title": "Sea drone rescues US army helicopter crew near Strait of Hormuz",
+      "title": "Israeli strikes in southern Lebanon kill 17, reports say",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 09 Jun 2026 13:15:59 GMT",
-      "summary": "An uncrewed vessel picked up two crew members of an Apache helicopter that went down on Monday, US officials tells CBS News."
+      "url": "https://www.bbc.com/news/articles/cpq3d44l907o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 10 Jun 2026 14:44:49 GMT",
+      "summary": "Nine of them were killed in a series of attacks in the town of Tayr Debba, according to Lebanon's state news agency."
     },
     {
-      "title": "Hundreds of aftershocks jolt Philippines as officials say death toll could rise",
+      "title": "Norway crown princess's son to stay in custody before rape verdict, says court",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/ckg50pypn2eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 09 Jun 2026 07:36:15 GMT",
-      "summary": "Dozens of people are dead and hundreds more injured following an earthquake in the country's south."
+      "url": "https://www.bbc.com/news/articles/c621lnee131o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 10 Jun 2026 15:00:45 GMT",
+      "summary": "Thr ruling overturns a lower court's decision on Monday ordering the release of the crown princess's 29-year-old son."
     },
     {
-      "title": "300 migrants bound for UK kidnapped and threatened with kidney removal",
+      "title": "World Cup referee denied US entry arrives home to hero's welcome in Somalia",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c8xwxdgvx8lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 09 Jun 2026 05:00:06 GMT",
-      "summary": "The Iraqi Kurds were captured by a militia who demanded a ransom of $5,000 (\u00a33,700) per person."
+      "url": "https://www.bbc.com/sport/football/articles/c2dylj8kj82o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 10 Jun 2026 14:08:28 GMT",
+      "summary": "Omar Artan vows to officiate at the 2030 tournament instead, following his ban from entering the US."
     },
     {
-      "title": "ICC suspends top prosecutor after investigating misconduct allegations",
+      "title": "Ukraine says missiles hit military plant deep inside Russia",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c77yx53015no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 09 Jun 2026 07:29:55 GMT",
-      "summary": "Karim Khan denies all allegations of sexual misconduct and his lawyers say he rejects the decision in the strongest terms."
+      "url": "https://www.bbc.com/news/articles/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 10 Jun 2026 11:43:40 GMT",
+      "summary": "Ukraine's military also says it has struck a Russian oil refinery and a \"shadow fleet\" oil tanker in the Black Sea."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 61277,
-      "change24h": -4.09022,
-      "marketCap": 1227275490894,
+      "price": 62177,
+      "change24h": 1.74227,
+      "marketCap": 1247048331449,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1639.85,
-      "change24h": -3.24899,
-      "marketCap": 197876143736,
+      "price": 1645.28,
+      "change24h": 0.90227,
+      "marketCap": 198835625760,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Bitcoin bottom? These four charts hint at BTC price dropping to $50K",
+      "title": "Bitcoin rises despite US inflation hitting 3-year high: Where will BTC price go?",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-bottom-these-four-charts-hint-at-btc-price-dropping-to-50k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 09 Jun 2026 14:33:53 +0000",
-      "summary": "A $50,000 Bitcoin price target remains in play despite BTC maintaining above $60,000 support for now, as multiple indicators warn the bottom may not be in."
+      "url": "https://cointelegraph.com/markets/bitcoin-rises-despite-us-inflation-hitting-3-year-high-where-will-btc-price-go?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 10 Jun 2026 15:54:35 +0000",
+      "summary": "BTC's rebound shows signs of weakening under a string of technical resistance levels, raising the odds of a dip below $60,000 in June."
     },
     {
-      "title": "Blockchain researchers warn HTX sanctions may blur crypto risk signals ",
+      "title": "Onchain gambling keeps rolling with $14B quarter despite crypto slump: TRM Labs",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/blockchain-researchers-htx-sanctions-crypto-risk-signals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 09 Jun 2026 14:22:11 +0000",
-      "summary": "Researchers say broad HTX tainting could freeze legitimate users and make compliance tools less useful for tracing illicit funds."
+      "url": "https://cointelegraph.com/news/onchain-gambling-market-pullback-trm-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 10 Jun 2026 15:00:00 +0000",
+      "summary": "TRM Labs said onchain gambling reached $51 billion in 2025, with repeat users and stablecoin flows helping the sector remain resilient during a broader crypto market pullback."
     },
     {
-      "title": "Privacy push as StarkWare and Sui move toward compliance-ready confidential transfers",
+      "title": "AI deepfake election ad in Minnesota raises transparency concerns",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/privacy-starkware-sui-move-compliance-confidential-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 09 Jun 2026 14:01:11 +0000",
-      "summary": "StarkWare and Sui roll out confidential transfer systems as Zama boosts compliance efforts and Zcash\u2019s Orchard bug highlights risks in shielded privacy models."
+      "url": "https://cointelegraph.com/features/ai-deepfake-election-ad-in-minnesota-raises-transparency-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 10 Jun 2026 15:00:00 +0000",
+      "summary": "A deepfake campaign attack ad in the US state of Minnesota has raised questions around the ethics of using AI in political ads and the regulations surround AI use.\n"
     },
     {
-      "title": "MiCA architect says EU should prioritize tokenization over DeFi rules",
+      "title": "Tenev says Robinhood won underwriter approval as crypto markets front-run mega IPOs",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/eu-broader-crypto-market-framework-mica-2-defi-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 09 Jun 2026 12:30:52 +0000",
-      "summary": "One of MiCA's architects said he sees no need to regulate DeFi as the European Commission gathers feedback on the framework's future."
+      "url": "https://cointelegraph.com/news/robinhood-secures-underwriter-status-crypto-front-mega-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 10 Jun 2026 14:33:37 +0000",
+      "summary": "Robinhood\u2019s new IPO underwriter role comes as SpaceX prepares a record-breaking public offering, with retail brokers and crypto-native derivatives platforms racing to shape price discovery and access."
     },
     {
-      "title": "Bitcoin 'normal' 4-year cycle puts focus on $53K low before 2028 BTC price high",
+      "title": "Crypto outflows are sentiment shock, not structural crisis: CoinShares' Butterfill",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-normal-four-year-cycle-puts-focus-on-53k-low-before-2028-btc-price-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 09 Jun 2026 12:25:03 +0000",
-      "summary": "Bitcoin trader said that BTC price was approaching its cycle bottom \"window\" with the $53,000 cycle midpoint a potential buy-in level."
+      "url": "https://cointelegraph.com/news/crypto-outflows-sentiment-shock-structural-crisis-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 10 Jun 2026 14:08:44 +0000",
+      "summary": "CoinShares\u2019 James Butterfill said recent crypto outflows reflect a macro-driven sentiment shock, while other analysts warned Bitcoin\u2019s rebound may remain fragile."
     }
   ],
   "aiNews": [
     {
-      "title": "Sandstone raises $30M to bring AI to in-house legal teams",
+      "title": "How memory tools can make AI models worse",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
-      "publishedAt": "Tue, 09 Jun 2026 13:47:25 +0000",
-      "summary": "Sandstone's Series A was led by Lightspeed Partners, with participation from Sequoia."
+      "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+      "publishedAt": "Wed, 10 Jun 2026 16:11:08 +0000",
+      "summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies."
     },
     {
-      "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
+      "title": "Cybersecurity researchers aren\u2019t happy about the guardrails on Anthropic\u2019s Fable",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
-      "publishedAt": "Tue, 09 Jun 2026 13:00:00 +0000",
-      "summary": "Lovable says it has now surpassed $500 million in annualized run-rate revenue and its users are building businesses and replacing internal software."
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "publishedAt": "Wed, 10 Jun 2026 15:41:22 +0000",
+      "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work."
     },
     {
-      "title": "How an e-scooter founder raised $5 million to build space data centers",
+      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
-      "publishedAt": "Tue, 09 Jun 2026 12:00:00 +0000",
-      "summary": "Orbital founder Euwyn Poon built 250,000 scooters at Spin. Now he wants to launch 10,000 space data centers. "
+      "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+      "publishedAt": "Wed, 10 Jun 2026 15:00:00 +0000",
+      "summary": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers."
     },
     {
-      "title": "Why Apple\u2019s slow-and-steady AI bet is starting to look pretty smart",
+      "title": "The three hard-tech moonshots fueling SpaceX\u2019s unbelievable IPO",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
-      "publishedAt": "Tue, 09 Jun 2026 01:56:48 +0000",
-      "summary": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race? "
+      "url": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
+      "publishedAt": "Wed, 10 Jun 2026 14:48:01 +0000",
+      "summary": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans. "
     },
     {
-      "title": "Mercor\u2019s Brendan Foody calls out Sequoia, accusing it of \u2018dual-pricing\u2019 valuation tricks",
+      "title": "Warner Music acquires AI attribution startup Sureel AI",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
-      "publishedAt": "Tue, 09 Jun 2026 00:45:56 +0000",
-      "summary": "Sequoia is just one of the top firms that sells same equity at two different prices."
+      "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+      "publishedAt": "Wed, 10 Jun 2026 14:31:30 +0000",
+      "summary": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models."
     }
   ],
   "techMovers": [
     {
-      "ticker": "CRM",
-      "name": "Salesforce Inc",
-      "price": 174.54,
-      "change": -8.01,
-      "changePercent": -4.39
-    },
-    {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "price": 155.46,
-      "change": -6.65,
-      "changePercent": -4.11
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "price": 374.06,
+      "change": -18.1,
+      "changePercent": -4.62
     },
     {
       "ticker": "AMD",
       "name": "AMD Inc",
-      "price": 470.45,
-      "change": -19.88,
-      "changePercent": -4.05
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc",
-      "price": 382.94,
-      "change": -13.66,
-      "changePercent": -3.44
+      "price": 455.67,
+      "change": -19.84,
+      "changePercent": -4.17
     },
     {
       "ticker": "TSLA",
       "name": "Tesla Inc",
-      "price": 395.51,
-      "change": -13.44,
-      "changePercent": -3.29
+      "price": 384.03,
+      "change": -12.65,
+      "changePercent": -3.19
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp",
+      "price": 202.89,
+      "change": -5.3,
+      "changePercent": -2.55
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon.com",
+      "price": 239.2,
+      "change": -4.99,
+      "changePercent": -2.04
     }
   ],
-  "fearGreedIndex": 10,
+  "fearGreedIndex": 9,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 322.29,
-    "change": 2.61,
-    "changePercent": 0.82
+    "price": 321.17,
+    "change": -3.88,
+    "changePercent": -1.19
   },
   "sectors": [
     {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 1.93
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": 2.44
     },
     {
       "ticker": "XLP",
       "name": "Consumer Staples",
-      "changePercent": 1.16
+      "changePercent": 1.47
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": 0.5
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": 0.69
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": 0.65
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 0.42
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 0.28
+      "changePercent": 0.35
     },
     {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": -0.07
+      "changePercent": 0.21
     },
     {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": -0.09
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 0.16
     },
     {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": -0.1
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -0.49
     },
     {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": -2.28
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -1.36
     },
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": -2.72
+      "changePercent": -1.46
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -1.54
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": -2.48
     }
   ],
   "economicCalendar": [
