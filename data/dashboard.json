@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-06-11T16:51:51.334197+00:00",
+  "lastUpdated": "2026-06-12T16:15:31.386153+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "El Ni\u00f1o under way and threatens weather extremes, scientists say",
+      "title": "Tributes paid to David Hockney, a 'giant' and 'true icon' of British art",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c75ylx7g00xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 11 Jun 2026 13:26:24 GMT",
-      "summary": "An El Ni\u00f1o event has officially started, say US scientists, raising fears of extreme weather and higher temperatures."
+      "url": "https://www.bbc.com/news/articles/cvgjxdr27z4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 12 Jun 2026 14:03:35 GMT",
+      "summary": "Hockney, one of the UK's most important and influential artists, has died at the age of 88."
     },
     {
-      "title": "Deadly Sudan drone strike targets funeral procession",
+      "title": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near ",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c70yeee2jvqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 11 Jun 2026 15:57:04 GMT",
-      "summary": "Rights groups accuse the RSF paramilitary group of killing civilians in el-Obeid, a city on the civil war's front line."
+      "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 12 Jun 2026 08:09:37 GMT",
+      "summary": "Iran says reports of a deal are \"speculative\" after the US president says a \"great settlement\" to end the conflict has been reached."
     },
     {
-      "title": "US and Iran exchange strikes across Middle East for second day in a row",
+      "title": "Discovery of \u20ac1.2m jewellery prompts fresh probe into former Spanish PM",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 11 Jun 2026 12:09:44 GMT",
-      "summary": "Iran says it responded to US strikes by targeting American assets in Kuwait, Jordan and Bahrain, which reported damage to its capital city overnight."
+      "url": "https://www.bbc.com/news/articles/cjeg9p1xqdwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 12 Jun 2026 15:55:46 GMT",
+      "summary": "Jos\u00e9 Luis Rodriguez Zapatero is suspected of being unable to show proof he paid import duties on the jewellery."
     },
     {
-      "title": "Nigeria evacuates citizens from South Africa as anti-migrant sentiment rises",
+      "title": "Taylor Swift makes tearful 21-minute speech as she joins Songwriters Hall of Fame",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cq512vgyzl9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 11 Jun 2026 16:25:17 GMT",
-      "summary": "Nigeria is the latest African state to repatriate citizens following reports of xenophobic attacks."
+      "url": "https://www.bbc.com/news/articles/c5yzxd0g833o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 12 Jun 2026 11:12:11 GMT",
+      "summary": "The singer thanks her family as she becomes the youngest woman to be inducted into the Hall of Fame."
     },
     {
-      "title": "The furious dispute over what caused Air India flight 171 to crash",
+      "title": "More time needed for deadly Air India crash inquiry, officials say",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 10 Jun 2026 23:10:11 GMT",
-      "summary": "The final conclusions of the investigation have yet to be published, although more could become apparent in the coming days. "
+      "url": "https://www.bbc.com/news/articles/cnv93899vzqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 12 Jun 2026 15:09:40 GMT",
+      "summary": "A statement says \"significant progress\" has been made into investigating the crash, in which 260 people died a year ago."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 62564,
-      "change24h": 0.75608,
-      "marketCap": 1254089955074,
+      "price": 63820,
+      "change24h": 1.77315,
+      "marketCap": 1277117083489,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1639.29,
-      "change24h": 0.0969,
-      "marketCap": 197903997669,
+      "price": 1669.84,
+      "change24h": 1.44259,
+      "marketCap": 200900699970,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "MassPay taps Coinbase to expand stablecoin payouts",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/masspay-coinbase-partner-stablecoin-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 11 Jun 2026 16:00:00 +0000",
-      "summary": "MassPay taps Coinbase to add USDC-powered cross-border payouts, betting stablecoin rails will cut costs and speed up settlement for businesses paying globally."
-    },
-    {
-      "title": "Franklin Templeton, BNP Paribas see tokenization boosting EU's capital efficiency",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/liquidity-capital-efficiency-tokenization-adoption-banks-franklin-templeton-bnp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 11 Jun 2026 15:01:27 +0000",
-      "summary": "Executives from Franklin Templeton and BNP Paribas say tokenized assets and stablecoins could improve capital efficiency across Europe as Wall Street expands tokenization efforts."
-    },
-    {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 11 Jun 2026 15:01:00 +0000",
+      "publishedAt": "Fri, 12 Jun 2026 14:05:58 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Bitcoin tags $63.2K as BTC price action ignores inflation, Iran Hormuz closure",
+      "title": "Polish president vetoes crypto bill for third time ahead of MiCA deadline",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-tags-632k-as-btc-price-action-ignores-new-iran-hormuz-closure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 11 Jun 2026 13:41:47 +0000",
-      "summary": "Bitcoin mostly preserved a recent rebound despite the highest US PPI inflation since October 2022 and Iran closing the Strait of Hormuz oil route."
+      "url": "https://cointelegraph.com/news/polish-president-vetoes-crypto-bill-third-time-mica-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 12 Jun 2026 13:25:53 +0000",
+      "summary": "Polish President Karol Nawrocki vetoed a bill to implement MiCA for the third time, just weeks before the end of the EU crypto framework's transitional period."
     },
     {
-      "title": "Digital Asset lands $355M as a16z doubles down on Wall Street blockchain rails",
+      "title": "KuCoin has not paid $2M award tied to delisted token dispute, investor says",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/digital-asset-355m-16z-wall-street-blockchain-rails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 11 Jun 2026 12:59:11 +0000",
-      "summary": "Digital Asset raised $355M in an a16z\u2011led round at a $2B valuation, extending a Wall Street\u2011backed funding run as banks ramp up pilots on its Canton Network blockchain."
+      "url": "https://cointelegraph.com/news/kucoin-yet-pay-seychelles-court-order-2m-token-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 12 Jun 2026 13:03:23 +0000",
+      "summary": "A Seychelles court said KuCoin can\u2019t treat unwithdrawn tokens as \u201cabandoned,\u201d and awarded a Swiss investor over $2 million. He says the exchange still hasn\u2019t paid and plans to sue again."
+    },
+    {
+      "title": "Metaplanet to form securities arm through Siiibo acquisition",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/metaplanet-to-form-securities-arm-through-siiibo-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 12 Jun 2026 12:05:09 +0000",
+      "summary": "Metaplanet will acquire Siiibo Securities and rename it Metaplanet Securities as it builds out Project Nova, its Bitcoin-centric finance strategy in Japan."
+    },
+    {
+      "title": "SpaceX tokenized IPO campaign draws $557M on Binance ahead of debut",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/spacex-ipo-550m-binance-crypto-rails-front-run-wall-street-pre-ipo-price-discovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 12 Jun 2026 11:32:44 +0000",
+      "summary": "Crypto markets are becoming a new venue for pre-IPO price discovery ahead of SpaceX's highly anticipated debut today."
     }
   ],
   "aiNews": [
     {
-      "title": "Deezer\u2019s new tool can identify AI music from Spotify, Apple Music, and others",
+      "title": "It\u2019s\u00a0hot IPO summer, and the MANGOS are ripe",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
-      "publishedAt": "Thu, 11 Jun 2026 16:36:20 +0000",
-      "summary": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music. "
+      "url": "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/",
+      "publishedAt": "Fri, 12 Jun 2026 15:50:52 +0000",
+      "summary": "The IPO market is back, and\u00a0it\u2019s\u00a0not the same\u00a0companies\u00a0leading the charge. FAANG had a good run, but a\u00a0new acronym is taking over: MANGOS\u00a0\u2014 Meta (or Microsoft, depending on who you ask), Anthropic, N"
     },
     {
-      "title": "Pool\u2019s new app turns your screenshots into something useful",
+      "title": "SpaceX IPO: Everything you need to know",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
-      "publishedAt": "Thu, 11 Jun 2026 15:30:00 +0000",
-      "summary": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other t"
+      "url": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/",
+      "publishedAt": "Fri, 12 Jun 2026 14:08:54 +0000",
+      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb"
     },
     {
-      "title": "DoorDash\u2019s new AI chatbot lets you order with prompts and photos",
+      "title": "Cheaper, faster, and culturally aware, Avataar\u2019s video AI is built for India\u2019s scale",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
-      "publishedAt": "Thu, 11 Jun 2026 14:23:43 +0000",
-      "summary": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart. "
+      "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+      "publishedAt": "Fri, 12 Jun 2026 04:30:00 +0000",
+      "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation."
     },
     {
-      "title": "Opendoor\u2019s India exit is fueling a bigger conversation about AI and outsourcing",
+      "title": "Theker just raised $85M to build the factory robot that doesn\u2019t specialize in anything",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
-      "publishedAt": "Thu, 11 Jun 2026 04:02:19 +0000",
-      "summary": "The decision comes as India emerges as the world\u2019s largest GCC market."
+      "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+      "publishedAt": "Fri, 12 Jun 2026 01:48:07 +0000",
+      "summary": "Unlike humanoid robots designed around a fixed form \u2014 think Boston Dynamics \u2014 Theker's machines are built to be reconfigured."
     },
     {
-      "title": "Anthropic\u2019s Dario Amodei has just one direct report",
+      "title": "Jeff Bezos\u2019s Prometheus raises $12B to build an \u2018artificial general engineer\u2019 for the physical world",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
-      "publishedAt": "Thu, 11 Jun 2026 03:53:06 +0000",
-      "summary": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're going to be seriously envious now."
+      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "publishedAt": "Fri, 12 Jun 2026 01:04:38 +0000",
+      "summary": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion."
     }
   ],
   "techMovers": [
     {
-      "ticker": "ORCL",
-      "name": "Oracle Corp",
-      "price": 176.87,
-      "change": -24.39,
-      "changePercent": -12.12
-    },
-    {
-      "ticker": "CRM",
-      "name": "Salesforce Inc",
-      "price": 165.82,
-      "change": -5.1,
-      "changePercent": -2.98
-    },
-    {
-      "ticker": "MSFT",
-      "name": "Microsoft Corp",
-      "price": 386.62,
-      "change": -10.74,
-      "changePercent": -2.7
-    },
-    {
       "ticker": "AMD",
       "name": "AMD Inc",
-      "price": 464.5,
-      "change": 12.1,
-      "changePercent": 2.67
+      "price": 512.3,
+      "change": 23.85,
+      "changePercent": 4.88
     },
     {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc",
-      "price": 345.52,
-      "change": -7.8,
-      "changePercent": -2.21
+      "ticker": "TSLA",
+      "name": "Tesla Inc",
+      "price": 389.42,
+      "change": -9.73,
+      "changePercent": -2.44
+    },
+    {
+      "ticker": "UBER",
+      "name": "Uber Technologies",
+      "price": 67.92,
+      "change": -1.64,
+      "changePercent": -2.35
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon.com",
+      "price": 236.76,
+      "change": -4.75,
+      "changePercent": -1.97
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "price": 380.88,
+      "change": -4.69,
+      "changePercent": -1.22
     }
   ],
   "fearGreedIndex": 12,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 318.61,
-    "change": -4.35,
-    "changePercent": -1.35
+    "price": 324.96,
+    "change": 5.92,
+    "changePercent": 1.85
   },
   "sectors": [
     {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": 1.5
-    },
-    {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": 1.41
-    },
-    {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": 1.08
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": 0.59
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": 0.58
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 0.26
+      "changePercent": 1.93
     },
     {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": 0.1
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 0.02
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": -0.01
+      "changePercent": 1.52
     },
     {
       "ticker": "XLF",
       "name": "Financials",
-      "changePercent": -0.13
+      "changePercent": 1.35
     },
     {
       "ticker": "XLRE",
       "name": "Real Estate",
-      "changePercent": -0.54
+      "changePercent": 1.1
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": 1.07
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": 0.75
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": 0.58
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": 0.22
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -0.09
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -0.2
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -0.87
     }
   ],
   "economicCalendar": [
