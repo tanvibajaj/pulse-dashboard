@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-06-12T16:15:31.386153+00:00",
-  "marketStatus": "Open",
+  "lastUpdated": "2026-06-13T14:57:58.032316+00:00",
+  "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "Tributes paid to David Hockney, a 'giant' and 'true icon' of British art",
+      "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cvgjxdr27z4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 12 Jun 2026 14:03:35 GMT",
-      "summary": "Hockney, one of the UK's most important and influential artists, has died at the age of 88."
+      "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 13 Jun 2026 11:15:18 GMT",
+      "summary": "The strikes come as Iran's foreign minister says a deal to end fighting with the US is close."
     },
     {
-      "title": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near ",
+      "title": "Switzerland to vote on plan to cap population at 10 million",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 12 Jun 2026 08:09:37 GMT",
-      "summary": "Iran says reports of a deal are \"speculative\" after the US president says a \"great settlement\" to end the conflict has been reached."
+      "url": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 13 Jun 2026 11:47:42 GMT",
+      "summary": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\",  but opponents say it is a recipe for chaos."
     },
     {
-      "title": "Discovery of \u20ac1.2m jewellery prompts fresh probe into former Spanish PM",
+      "title": "Married at First Sight Australia stars not told partners had drug and violence convictions",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cjeg9p1xqdwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 12 Jun 2026 15:55:46 GMT",
-      "summary": "Jos\u00e9 Luis Rodriguez Zapatero is suspected of being unable to show proof he paid import duties on the jewellery."
+      "url": "https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 13 Jun 2026 05:00:04 GMT",
+      "summary": "Stars of the hit TV show say they did not know their on-screen husbands had previous convictions."
     },
     {
-      "title": "Taylor Swift makes tearful 21-minute speech as she joins Songwriters Hall of Fame",
+      "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c5yzxd0g833o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 12 Jun 2026 11:12:11 GMT",
-      "summary": "The singer thanks her family as she becomes the youngest woman to be inducted into the Hall of Fame."
+      "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 12 Jun 2026 22:00:52 GMT",
+      "summary": "Musk is now worth $1.11tn according to the Bloomberg rich list, while SpaceX listed on the Nasdaq stock exchange with a value of $2.2tn."
     },
     {
-      "title": "More time needed for deadly Air India crash inquiry, officials say",
+      "title": "Fans on concourses instead of in seats, claims Fifa",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cnv93899vzqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 12 Jun 2026 15:09:40 GMT",
-      "summary": "A statement says \"significant progress\" has been made into investigating the crash, in which 260 people died a year ago."
+      "url": "https://www.bbc.com/sport/football/articles/c14y0dp6vrdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 12 Jun 2026 20:26:23 GMT",
+      "summary": "Fifa says numerous empty seats were visible in the near-sell-out Group A match between South Korea and the Czech Republic because of fans remaining on concourses."
     }
   ],
   "cryptoAssets": [
@@ -43,205 +43,198 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 63820,
-      "change24h": 1.77315,
-      "marketCap": 1277117083489,
+      "price": 64182,
+      "change24h": 0.44245,
+      "marketCap": 1286246143916,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1669.84,
-      "change24h": 1.44259,
-      "marketCap": 200900699970,
+      "price": 1679.04,
+      "change24h": -0.26288,
+      "marketCap": 202622379700,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
+      "title": "Bitcoin sales are necessary for Strategy's digital credit business, Saylor says",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/saylor-strategys-bitcoin-sale-defend-digital-credit-products?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 13 Jun 2026 13:58:24 +0000",
+      "summary": "Strategy's recent Bitcoin sale appeared to clash with Saylor's \"never sell\" mantra, but he says the move reflects how the company's digital credit business works."
+    },
+    {
+      "title": "Morpho's $175M raise shows where crypto VC money is flowing",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/morphos-175m-raise-shows-where-the-last-of-the-crypto-vc-money-is-going?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 13 Jun 2026 11:52:41 +0000",
+      "summary": "Morpho\u2019s recent $175 million raise reflects growing investor bets on onchain credit infrastructure as stablecoin adoption expands."
+    },
+    {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 12 Jun 2026 14:05:58 +0000",
+      "publishedAt": "Sat, 13 Jun 2026 05:47:00 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Polish president vetoes crypto bill for third time ahead of MiCA deadline",
+      "title": "ETH futures flash bearish signal, but stakers\u2019 resilience points to underlying strength",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/polish-president-vetoes-crypto-bill-third-time-mica-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 12 Jun 2026 13:25:53 +0000",
-      "summary": "Polish President Karol Nawrocki vetoed a bill to implement MiCA for the third time, just weeks before the end of the EU crypto framework's transitional period."
+      "url": "https://cointelegraph.com/markets/eth-futures-flash-bearish-signal-but-stakers-resilience-points-to-underlying-strength?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 13 Jun 2026 03:24:05 +0000",
+      "summary": "Demand for ETH leverage remains low, but corporate accumulation and stakers\u2019 dedication may prevent an Ether price crash to $1,500. "
     },
     {
-      "title": "KuCoin has not paid $2M award tied to delisted token dispute, investor says",
+      "title": "Anthropic suspends access to Fable 5, Mythos 5, citing US directive",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/kucoin-yet-pay-seychelles-court-order-2m-token-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 12 Jun 2026 13:03:23 +0000",
-      "summary": "A Seychelles court said KuCoin can\u2019t treat unwithdrawn tokens as \u201cabandoned,\u201d and awarded a Swiss investor over $2 million. He says the exchange still hasn\u2019t paid and plans to sue again."
-    },
-    {
-      "title": "Metaplanet to form securities arm through Siiibo acquisition",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/metaplanet-to-form-securities-arm-through-siiibo-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 12 Jun 2026 12:05:09 +0000",
-      "summary": "Metaplanet will acquire Siiibo Securities and rename it Metaplanet Securities as it builds out Project Nova, its Bitcoin-centric finance strategy in Japan."
-    },
-    {
-      "title": "SpaceX tokenized IPO campaign draws $557M on Binance ahead of debut",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/spacex-ipo-550m-binance-crypto-rails-front-run-wall-street-pre-ipo-price-discovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 12 Jun 2026 11:32:44 +0000",
-      "summary": "Crypto markets are becoming a new venue for pre-IPO price discovery ahead of SpaceX's highly anticipated debut today."
+      "url": "https://cointelegraph.com/news/anthropic-suspends-access-to-fable-mythos-citing-us-directive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 13 Jun 2026 02:37:40 +0000",
+      "summary": "Anthropic has abruptly disabled its flagship AI models after a US government directive citing national security concerns."
     }
   ],
   "aiNews": [
     {
-      "title": "It\u2019s\u00a0hot IPO summer, and the MANGOS are ripe",
+      "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/",
-      "publishedAt": "Fri, 12 Jun 2026 15:50:52 +0000",
-      "summary": "The IPO market is back, and\u00a0it\u2019s\u00a0not the same\u00a0companies\u00a0leading the charge. FAANG had a good run, but a\u00a0new acronym is taking over: MANGOS\u00a0\u2014 Meta (or Microsoft, depending on who you ask), Anthropic, N"
+      "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+      "publishedAt": "Sat, 13 Jun 2026 04:14:19 +0000",
+      "summary": "Andrew Yang made a list of everything Americans overpay for \u2014 housing, food, wireless \u2014 and thinks the next startup gold rush is giving that money back."
     },
     {
-      "title": "SpaceX IPO: Everything you need to know",
+      "title": "Anthropic\u2019s safety warnings may have just backfired \u2014 the government has pulled the plug on its most powerful AI",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/",
-      "publishedAt": "Fri, 12 Jun 2026 14:08:54 +0000",
+      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "publishedAt": "Sat, 13 Jun 2026 02:26:30 +0000",
+      "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the "
+    },
+    {
+      "title": "SpaceX IPO: Live updates on everything you need to know",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+      "publishedAt": "Fri, 12 Jun 2026 23:15:14 +0000",
       "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb"
     },
     {
-      "title": "Cheaper, faster, and culturally aware, Avataar\u2019s video AI is built for India\u2019s scale",
+      "title": "Meta\u2019s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
-      "publishedAt": "Fri, 12 Jun 2026 04:30:00 +0000",
-      "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation."
+      "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+      "publishedAt": "Fri, 12 Jun 2026 23:00:54 +0000",
+      "summary": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt. "
     },
     {
-      "title": "Theker just raised $85M to build the factory robot that doesn\u2019t specialize in anything",
+      "title": "Chinese cybercrime operation that used AI to scam \u2018hundreds of thousands of victims\u2019 sued by Google",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
-      "publishedAt": "Fri, 12 Jun 2026 01:48:07 +0000",
-      "summary": "Unlike humanoid robots designed around a fixed form \u2014 think Boston Dynamics \u2014 Theker's machines are built to be reconfigured."
-    },
-    {
-      "title": "Jeff Bezos\u2019s Prometheus raises $12B to build an \u2018artificial general engineer\u2019 for the physical world",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-      "publishedAt": "Fri, 12 Jun 2026 01:04:38 +0000",
-      "summary": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion."
+      "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+      "publishedAt": "Fri, 12 Jun 2026 20:38:09 +0000",
+      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks."
     }
   ],
   "techMovers": [
     {
       "ticker": "AMD",
       "name": "AMD Inc",
-      "price": 512.3,
-      "change": 23.85,
-      "changePercent": 4.88
+      "price": 511.57,
+      "change": 23.12,
+      "changePercent": 4.73
+    },
+    {
+      "ticker": "SNOW",
+      "name": "Snowflake Inc",
+      "price": 232.78,
+      "change": -7.61,
+      "changePercent": -3.17
     },
     {
       "ticker": "TSLA",
       "name": "Tesla Inc",
-      "price": 389.42,
-      "change": -9.73,
-      "changePercent": -2.44
+      "price": 406.43,
+      "change": 7.28,
+      "changePercent": 1.82
     },
     {
-      "ticker": "UBER",
-      "name": "Uber Technologies",
-      "price": 67.92,
-      "change": -1.64,
-      "changePercent": -2.35
+      "ticker": "AAPL",
+      "name": "Apple Inc",
+      "price": 291.13,
+      "change": -4.5,
+      "changePercent": -1.52
     },
     {
       "ticker": "AMZN",
       "name": "Amazon.com",
-      "price": 236.76,
-      "change": -4.75,
-      "changePercent": -1.97
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc",
-      "price": 380.88,
-      "change": -4.69,
-      "changePercent": -1.22
+      "price": 238.55,
+      "change": -2.96,
+      "changePercent": -1.23
     }
   ],
-  "fearGreedIndex": 12,
+  "fearGreedIndex": 13,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 324.96,
-    "change": 5.92,
-    "changePercent": 1.85
+    "price": 322.39,
+    "change": 3.34,
+    "changePercent": 1.05
   },
   "sectors": [
     {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": 1.93
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": 1.52
+      "changePercent": 1.87
     },
     {
       "ticker": "XLF",
       "name": "Financials",
-      "changePercent": 1.35
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 1.1
-    },
-    {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": 1.07
+      "changePercent": 1.37
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": 0.75
+      "changePercent": 1.09
     },
     {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": 0.58
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": 0.98
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": 0.87
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": 0.75
     },
     {
       "ticker": "XLP",
       "name": "Consumer Staples",
-      "changePercent": 0.22
+      "changePercent": 0.65
     },
     {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": -0.09
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": -0.2
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": 0.59
     },
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": -0.87
+      "changePercent": 0.26
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -0.18
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -0.42
     }
   ],
   "economicCalendar": [
-    {
-      "date": "2026-06-12",
-      "time": "08:30 ET",
-      "event": "CPI Inflation Data",
-      "importance": "high",
-      "description": "Consumer Price Index - key inflation measure"
-    },
     {
       "date": "2026-06-15",
       "time": "08:30 ET",
