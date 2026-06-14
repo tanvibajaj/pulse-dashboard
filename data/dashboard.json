@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-06-13T14:57:58.032316+00:00",
+  "lastUpdated": "2026-06-14T15:08:23.269077+00:00",
   "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
+      "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 13 Jun 2026 11:15:18 GMT",
-      "summary": "The strikes come as Iran's foreign minister says a deal to end fighting with the US is close."
+      "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 14 Jun 2026 11:23:36 GMT",
+      "summary": "The US president's comments come as Iran says an exact date has not been decided."
     },
     {
-      "title": "Switzerland to vote on plan to cap population at 10 million",
+      "title": "Swiss voters reject 10 million population cap, early projections say",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 13 Jun 2026 11:47:42 GMT",
-      "summary": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\",  but opponents say it is a recipe for chaos."
+      "url": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 14 Jun 2026 11:31:32 GMT",
+      "summary": "Not all votes have been counted, but the current trend suggests 55% of participants voted against the proposal."
     },
     {
-      "title": "Married at First Sight Australia stars not told partners had drug and violence convictions",
+      "title": "Teen shot and buses torched in Manhattan after historic NBA win for Knicks",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 13 Jun 2026 05:00:04 GMT",
-      "summary": "Stars of the hit TV show say they did not know their on-screen husbands had previous convictions."
+      "url": "https://www.bbc.com/news/articles/c8623n5pq2vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 14 Jun 2026 14:08:03 GMT",
+      "summary": "At least 63 people were arrested in the disorder after the Knicks beat the Spurs to clinch the title."
     },
     {
-      "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
+      "title": "Tourist train overturns and injures 17 during C\u00e1rtama tapas festival",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 12 Jun 2026 22:00:52 GMT",
-      "summary": "Musk is now worth $1.11tn according to the Bloomberg rich list, while SpaceX listed on the Nasdaq stock exchange with a value of $2.2tn."
+      "url": "https://www.bbc.com/news/articles/c14yn10jzyeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 14 Jun 2026 12:04:54 GMT",
+      "summary": "Nobody was seriously hurt as a result of the accident in the Spanish town, local authorities say."
     },
     {
-      "title": "Fans on concourses instead of in seats, claims Fifa",
+      "title": "Fifa to pay Somali referee Artan full World Cup fee",
       "source": "BBC",
-      "url": "https://www.bbc.com/sport/football/articles/c14y0dp6vrdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 12 Jun 2026 20:26:23 GMT",
-      "summary": "Fifa says numerous empty seats were visible in the near-sell-out Group A match between South Korea and the Czech Republic because of fans remaining on concourses."
+      "url": "https://www.bbc.com/sport/football/articles/c79y10r2plzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 14 Jun 2026 09:00:08 GMT",
+      "summary": "Somali referee Omar Artan, who was denied entry to the United States to officiate at the World Cup, will still receive his tournament fee from Fifa in full."
     }
   ],
   "cryptoAssets": [
@@ -43,93 +43,93 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 64182,
-      "change24h": 0.44245,
-      "marketCap": 1286246143916,
+      "price": 64090,
+      "change24h": -0.12874,
+      "marketCap": 1284597143496,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1679.04,
-      "change24h": -0.26288,
-      "marketCap": 202622379700,
+      "price": 1661.54,
+      "change24h": -1.00863,
+      "marketCap": 200467629878,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Bitcoin sales are necessary for Strategy's digital credit business, Saylor says",
+      "title": "Ethereum can quantum-proof accounts for just 7 cents, says Ethereum's Kohaku lead",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/saylor-strategys-bitcoin-sale-defend-digital-credit-products?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 13 Jun 2026 13:58:24 +0000",
-      "summary": "Strategy's recent Bitcoin sale appeared to clash with Saylor's \"never sell\" mantra, but he says the move reflects how the company's digital credit business works."
+      "url": "https://cointelegraph.com/news/ethereum-quantum-proof-accounts-7-cents-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 14 Jun 2026 13:49:48 +0000",
+      "summary": "The SPHINCS- proposal aims to reduce the cost of post-quantum signature verification on Ethereum while the network works toward a longer-term solution."
     },
     {
-      "title": "Morpho's $175M raise shows where crypto VC money is flowing",
+      "title": "Humanity Protocol\u2019s $36M hack tied to suspected North Korean hackers: Quantstamp",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/morphos-175m-raise-shows-where-the-last-of-the-crypto-vc-money-is-going?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 13 Jun 2026 11:52:41 +0000",
-      "summary": "Morpho\u2019s recent $175 million raise reflects growing investor bets on onchain credit infrastructure as stablecoin adoption expands."
+      "url": "https://cointelegraph.com/news/humanity-protocol-hack-linked-north-korean-actors-quantstamp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 14 Jun 2026 11:07:34 +0000",
+      "summary": "A fake Bithumb email used in the $36 million Humanity Protocol hack points to the involvement of North Korean threat actors, according to Quantstamp."
+    },
+    {
+      "title": "Bitcoin nears $65K as Trump says Hormuz will 'open to all' in Sunday Iran peace deal",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-nears-65k-as-trump-says-hormuz-will-open-to-all-in-sunday-iran-peace-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 14 Jun 2026 10:06:04 +0000",
+      "summary": "Bitcoin stayed near local highs on a new US-Iran peace deal pledge as analysis saw conditions favoring a sustained BTC price rebound."
     },
     {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 13 Jun 2026 05:47:00 +0000",
+      "publishedAt": "Sun, 14 Jun 2026 05:32:00 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "ETH futures flash bearish signal, but stakers\u2019 resilience points to underlying strength",
+      "title": "Trump says Iran peace deal to be signed Sunday, contradicting Tehran",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/eth-futures-flash-bearish-signal-but-stakers-resilience-points-to-underlying-strength?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 13 Jun 2026 03:24:05 +0000",
-      "summary": "Demand for ETH leverage remains low, but corporate accumulation and stakers\u2019 dedication may prevent an Ether price crash to $1,500. "
-    },
-    {
-      "title": "Anthropic suspends access to Fable 5, Mythos 5, citing US directive",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/anthropic-suspends-access-to-fable-mythos-citing-us-directive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 13 Jun 2026 02:37:40 +0000",
-      "summary": "Anthropic has abruptly disabled its flagship AI models after a US government directive citing national security concerns."
+      "url": "https://cointelegraph.com/news/trump-says-iran-peace-deal-to-be-signed-sunday-contradicting-tehran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 14 Jun 2026 05:07:31 +0000",
+      "summary": "Crypto analyst Micha\u00ebl van de Poppe said a peace deal, which would reopen the Strait of Hormuz, would likely send liquidity back to risk-on assets such as cryptocurrencies."
     }
   ],
   "aiNews": [
     {
-      "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+      "title": "As Anthropic suspends access to new models, India debates its AI future",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
-      "publishedAt": "Sat, 13 Jun 2026 04:14:19 +0000",
-      "summary": "Andrew Yang made a list of everything Americans overpay for \u2014 housing, food, wireless \u2014 and thinks the next startup gold rush is giving that money back."
+      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+      "publishedAt": "Sun, 14 Jun 2026 03:00:00 +0000",
+      "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India\u2019s AI ambitions."
     },
     {
-      "title": "Anthropic\u2019s safety warnings may have just backfired \u2014 the government has pulled the plug on its most powerful AI",
+      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing\u2019s demand",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
-      "publishedAt": "Sat, 13 Jun 2026 02:26:30 +0000",
-      "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the "
+      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+      "publishedAt": "Sun, 14 Jun 2026 00:03:49 +0000",
+      "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed."
     },
     {
-      "title": "SpaceX IPO: Live updates on everything you need to know",
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
-      "publishedAt": "Fri, 12 Jun 2026 23:15:14 +0000",
-      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb"
+      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "publishedAt": "Sat, 13 Jun 2026 20:42:31 +0000",
+      "summary": "Once again, AI proves to be an unreliable source of information about AI."
     },
     {
-      "title": "Meta\u2019s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
-      "publishedAt": "Fri, 12 Jun 2026 23:00:54 +0000",
-      "summary": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt. "
+      "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+      "publishedAt": "Sat, 13 Jun 2026 19:11:41 +0000",
+      "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday."
     },
     {
-      "title": "Chinese cybercrime operation that used AI to scam \u2018hundreds of thousands of victims\u2019 sued by Google",
+      "title": "OpenAI faces investigation from state attorneys general",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
-      "publishedAt": "Fri, 12 Jun 2026 20:38:09 +0000",
-      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks."
+      "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+      "publishedAt": "Sat, 13 Jun 2026 16:47:18 +0000",
+      "summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data."
     }
   ],
   "techMovers": [
@@ -169,7 +169,7 @@
       "changePercent": -1.23
     }
   ],
-  "fearGreedIndex": 13,
+  "fearGreedIndex": 18,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
