@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-06-14T15:08:23.269077+00:00",
-  "marketStatus": "Closed",
+  "lastUpdated": "2026-06-15T17:58:54.150157+00:00",
+  "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+      "title": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 14 Jun 2026 11:23:36 GMT",
-      "summary": "The US president's comments come as Iran says an exact date has not been decided."
+      "url": "https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 15 Jun 2026 14:26:28 GMT",
+      "summary": "The deal to end fighting and re-open the Strait of Hormuz leaves the sides where they were 24 hours before the war - only with thousands now dead."
     },
     {
-      "title": "Swiss voters reject 10 million population cap, early projections say",
+      "title": "Norwegian crown princess's son found guilty of two counts of rape",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 14 Jun 2026 11:31:32 GMT",
-      "summary": "Not all votes have been counted, but the current trend suggests 55% of participants voted against the proposal."
+      "url": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 15 Jun 2026 17:10:30 GMT",
+      "summary": "Marius Borg H\u00f8iby, the 29-year-old son of Norway's Crown Princess Mette Marit, has been sentenced to four years in jail."
     },
     {
-      "title": "Teen shot and buses torched in Manhattan after historic NBA win for Knicks",
+      "title": "Brazil woman dies after rope-jumping instructors fail to attach cord",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c8623n5pq2vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 14 Jun 2026 14:08:03 GMT",
-      "summary": "At least 63 people were arrested in the disorder after the Knicks beat the Spurs to clinch the title."
+      "url": "https://www.bbc.com/news/articles/c5yz4xelnveo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 15 Jun 2026 10:24:09 GMT",
+      "summary": "Three men have been arrested after instructors failed to attach a rope to her before helping her jump from a bridge."
     },
     {
-      "title": "Tourist train overturns and injures 17 during C\u00e1rtama tapas festival",
+      "title": "South African jazz legend Abdullah Ibrahim dies at 91",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c14yn10jzyeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 14 Jun 2026 12:04:54 GMT",
-      "summary": "Nobody was seriously hurt as a result of the accident in the Spanish town, local authorities say."
+      "url": "https://www.bbc.com/news/articles/cy5vngrq3q5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 15 Jun 2026 17:25:15 GMT",
+      "summary": "Ibrahim helped define a genre of South African jazz music in a career that spanned eight decades. "
     },
     {
-      "title": "Fifa to pay Somali referee Artan full World Cup fee",
+      "title": "MSF staff abused Sudanese refugees in sex-for-food scandal",
       "source": "BBC",
-      "url": "https://www.bbc.com/sport/football/articles/c79y10r2plzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 14 Jun 2026 09:00:08 GMT",
-      "summary": "Somali referee Omar Artan, who was denied entry to the United States to officiate at the World Cup, will still receive his tournament fee from Fifa in full."
+      "url": "https://www.bbc.com/news/articles/c74ykjl8mx3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 15 Jun 2026 16:32:48 GMT",
+      "summary": "Some victims said they chose not to speak out because they feared staff would cut off access to aid."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 64090,
-      "change24h": -0.12874,
-      "marketCap": 1284597143496,
+      "price": 66838,
+      "change24h": 4.94086,
+      "marketCap": 1340544663643,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1661.54,
-      "change24h": -1.00863,
-      "marketCap": 200467629878,
+      "price": 1827.38,
+      "change24h": 9.99363,
+      "marketCap": 220793072549,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Ethereum can quantum-proof accounts for just 7 cents, says Ethereum's Kohaku lead",
+      "title": "These Bitcoin charts show how BTC price could hit $100K before October",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ethereum-quantum-proof-accounts-7-cents-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 14 Jun 2026 13:49:48 +0000",
-      "summary": "The SPHINCS- proposal aims to reduce the cost of post-quantum signature verification on Ethereum while the network works toward a longer-term solution."
+      "url": "https://cointelegraph.com/markets/these-bitcoin-charts-show-how-btc-price-could-hit-100k-before-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 15 Jun 2026 16:18:14 +0000",
+      "summary": "Bitcoin\u2019s double-bottom setup, weekly RSI divergence and whale flows put traders on alert as BTC tests a key breakout zone."
     },
     {
-      "title": "Humanity Protocol\u2019s $36M hack tied to suspected North Korean hackers: Quantstamp",
+      "title": "Bitcoin analysis warns over BTC price rejection as $67K approaches",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/humanity-protocol-hack-linked-north-korean-actors-quantstamp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 14 Jun 2026 11:07:34 +0000",
-      "summary": "A fake Bithumb email used in the $36 million Humanity Protocol hack points to the involvement of North Korean threat actors, according to Quantstamp."
+      "url": "https://cointelegraph.com/markets/bitcoin-analysis-warn-over-btc-price-rejection-as-67k-approaches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 15 Jun 2026 15:22:18 +0000",
+      "summary": "Bitcoin snatched upside liquidity as the US trading session began, but traders warned over a failure to preserve BTC price gains."
     },
     {
-      "title": "Bitcoin nears $65K as Trump says Hormuz will 'open to all' in Sunday Iran peace deal",
+      "title": "Pudgy Penguins winds down Pudgy Party mobile game",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-nears-65k-as-trump-says-hormuz-will-open-to-all-in-sunday-iran-peace-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 14 Jun 2026 10:06:04 +0000",
-      "summary": "Bitcoin stayed near local highs on a new US-Iran peace deal pledge as analysis saw conditions favoring a sustained BTC price rebound."
+      "url": "https://cointelegraph.com/news/pudgy-penguins-winds-down-pudgy-party-mobile-game?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 15 Jun 2026 15:05:14 +0000",
+      "summary": "Pudgy Penguins will halt development of Pudgy Party and focus on Pudgy World, as another Web3 gaming project shuts down after failing to find a sustainable business model."
     },
     {
-      "title": "Here\u2019s what happened in crypto today",
+      "title": "Saylor\u2019s Strategy buys 1,587 BTC for $100M, holdings hit 846.8K",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 14 Jun 2026 05:32:00 +0000",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+      "url": "https://cointelegraph.com/news/strategy-michael-saylor-1587-btc-buy-100-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 15 Jun 2026 13:52:12 +0000",
+      "summary": "Strategy acquired 1,587 Bitcoin for $100 million last week, lifting holdings to 846,842 BTC after raising $209 million through MSTR stock sales."
     },
     {
-      "title": "Trump says Iran peace deal to be signed Sunday, contradicting Tehran",
+      "title": "Tokenization could push DeFi assets to $2.7T by 2030: Standard Chartered",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/trump-says-iran-peace-deal-to-be-signed-sunday-contradicting-tehran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 14 Jun 2026 05:07:31 +0000",
-      "summary": "Crypto analyst Micha\u00ebl van de Poppe said a peace deal, which would reopen the Strait of Hormuz, would likely send liquidity back to risk-on assets such as cryptocurrencies."
+      "url": "https://cointelegraph.com/news/tokenization-push-defi-assets-trillion-2030-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 15 Jun 2026 13:28:24 +0000",
+      "summary": "Standard Chartered forecasts assets locked in decentralized finance will reach $2.7 trillion by 2030, driven by tokenization and crypto-native growth."
     }
   ],
   "aiNews": [
     {
-      "title": "As Anthropic suspends access to new models, India debates its AI future",
+      "title": "Cybersecurity vets protest \u2018dangerous\u2019 US government ban on Anthropic\u2019s most powerful models",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-      "publishedAt": "Sun, 14 Jun 2026 03:00:00 +0000",
-      "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India\u2019s AI ambitions."
+      "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+      "publishedAt": "Mon, 15 Jun 2026 15:29:51 +0000",
+      "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export control restrictions on Anthropic\u2019s models Fable and Mythos, arguing that the order is going to limit the abil"
     },
     {
-      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing\u2019s demand",
+      "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
-      "publishedAt": "Sun, 14 Jun 2026 00:03:49 +0000",
-      "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed."
+      "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+      "publishedAt": "Mon, 15 Jun 2026 14:34:45 +0000",
+      "summary": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks."
     },
     {
-      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "title": "Sarvam becomes India\u2019s newest AI unicorn with $234 million funding round led by HCLTech",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-      "publishedAt": "Sat, 13 Jun 2026 20:42:31 +0000",
-      "summary": "Once again, AI proves to be an unreliable source of information about AI."
+      "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+      "publishedAt": "Mon, 15 Jun 2026 13:46:08 +0000",
+      "summary": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup."
     },
     {
-      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
-      "publishedAt": "Sat, 13 Jun 2026 19:11:41 +0000",
-      "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday."
+      "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+      "publishedAt": "Mon, 15 Jun 2026 13:00:00 +0000",
+      "summary": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people."
     },
     {
-      "title": "OpenAI faces investigation from state attorneys general",
+      "title": "A satellite just learned to find things on its own \u2014 here\u2019s what that means",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
-      "publishedAt": "Sat, 13 Jun 2026 16:47:18 +0000",
-      "summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data."
+      "url": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
+      "publishedAt": "Mon, 15 Jun 2026 12:00:00 +0000",
+      "summary": "In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own."
     }
   ],
   "techMovers": [
     {
       "ticker": "AMD",
       "name": "AMD Inc",
-      "price": 511.57,
-      "change": 23.12,
-      "changePercent": 4.73
+      "price": 549.23,
+      "change": 37.66,
+      "changePercent": 7.36
     },
     {
-      "ticker": "SNOW",
-      "name": "Snowflake Inc",
-      "price": 232.78,
-      "change": -7.61,
-      "changePercent": -3.17
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "price": 171.54,
+      "change": 11.76,
+      "changePercent": 7.36
     },
     {
-      "ticker": "TSLA",
-      "name": "Tesla Inc",
-      "price": 406.43,
-      "change": 7.28,
-      "changePercent": 1.82
+      "ticker": "UBER",
+      "name": "Uber Technologies",
+      "price": 72.55,
+      "change": 3.7,
+      "changePercent": 5.37
     },
     {
-      "ticker": "AAPL",
-      "name": "Apple Inc",
-      "price": 291.13,
-      "change": -4.5,
-      "changePercent": -1.52
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "price": 193.6,
+      "change": 9.47,
+      "changePercent": 5.14
     },
     {
-      "ticker": "AMZN",
-      "name": "Amazon.com",
-      "price": 238.55,
-      "change": -2.96,
-      "changePercent": -1.23
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "price": 595.34,
+      "change": 28.36,
+      "changePercent": 5.0
     }
   ],
-  "fearGreedIndex": 18,
+  "fearGreedIndex": 20,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 322.39,
-    "change": 3.34,
-    "changePercent": 1.05
+    "price": 324.55,
+    "change": 2.16,
+    "changePercent": 0.67
   },
   "sectors": [
     {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 1.87
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 1.37
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": 1.09
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 0.98
-    },
-    {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": 0.87
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": 0.75
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 0.65
+      "changePercent": 3.63
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": 0.59
+      "changePercent": 1.96
     },
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": 0.26
+      "changePercent": 1.8
     },
     {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": -0.18
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": 1.19
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": 0.85
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 0.77
     },
     {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": -0.42
+      "changePercent": 0.32
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -0.34
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -0.56
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -0.76
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": -3.24
     }
   ],
   "economicCalendar": [
