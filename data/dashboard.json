@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-06-16T18:03:31.017058+00:00",
+  "lastUpdated": "2026-06-17T16:37:13.474224+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
+      "title": "Iran sends tankers loaded with oil past US military blockade",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 16 Jun 2026 17:48:13 GMT",
-      "summary": "BBC News understands the yacht had drifted towards the Admiral Grigorovich, a Russian frigate which has been operating in the Channel."
+      "url": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 17 Jun 2026 13:27:47 GMT",
+      "summary": "Three Iranian tankers loaded with crude oil have passed the US blockade line in the Gulf of Oman, ship-tracking data shows."
     },
     {
-      "title": "Tehran selling deal with US as victory \u2013 but for Iranians it was necessity",
+      "title": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 16 Jun 2026 15:31:24 GMT",
-      "summary": "For many Iranians, the question is not whether the deal means victory, but whether it lowers prices and reduces fear of another war."
+      "url": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 17 Jun 2026 09:13:34 GMT",
+      "summary": "Israeli nationalists are increasingly flouting a convention on how faiths share the al-Aqsa mosque compound."
     },
     {
-      "title": "Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions",
+      "title": "Search for six-year-old Ebola patient after armed men storm DR Congo hospital",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cvgepl5gdp1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 16 Jun 2026 16:20:33 GMT",
-      "summary": "Many Lebanese remain doubtful that the agreement could finally mean the end of the fighting between Israel and Hezbollah."
+      "url": "https://www.bbc.com/news/articles/cvgep4l397eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 17 Jun 2026 11:26:39 GMT",
+      "summary": "Health facilities have come under attack during the current outbreak as a result of misinformation and fear."
     },
     {
-      "title": "Russian artist and Putin critic shot dead in Poland",
+      "title": "Israel launches fresh strikes on Lebanon despite Trump criticism",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 16 Jun 2026 17:33:50 GMT",
-      "summary": "Robert Kuzovkov, who used the pseudonym Semyon Skrepetsky, has been known for his caricatures of politicians including Vladimir Putin."
+      "url": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 17 Jun 2026 10:01:42 GMT",
+      "summary": "Speaking on Tuesday, Trump said Israel's PM Benjamin Netanyahu needed \"to be more responsible with respect to Lebanon\"."
     },
     {
-      "title": "France's oldest female detainee, 79, goes on trial for in-law's grisly murder",
+      "title": "Serial killer who murdered eight women in Long Island town imprisoned for life",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cy498llene1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 16 Jun 2026 14:46:35 GMT",
-      "summary": "A dismembered body found in a chain-bound trunk in the Seine in 1995 was only recently connected to the defendant by DNA evidence."
+      "url": "https://www.bbc.com/news/articles/clyw29kvlydo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 17 Jun 2026 16:14:59 GMT",
+      "summary": "In fiery exchange, judge sentenced him to three life sentences plus 25 years to life on four other charges, all running consecutively.\n\n"
     }
   ],
   "cryptoAssets": [
@@ -43,206 +43,198 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 65941,
-      "change24h": -1.28973,
-      "marketCap": 1321207427636,
+      "price": 65981,
+      "change24h": 0.34435,
+      "marketCap": 1322692352692,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1794.5,
-      "change24h": -1.7939,
-      "marketCap": 216394467875,
+      "price": 1775.49,
+      "change24h": 0.04843,
+      "marketCap": 214251682836,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "State Street launches GENIUS Act-aligned money market fund for stablecoin reserves",
+      "title": "Bybit lands on Singapore MAS Investor Alert List",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/state-street-launches-genius-act-aligned-money-market-fund-for-stablecoin-reserves?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "publishedAt": "Tue, 16 Jun 2026 17:28:40 GMT",
-      "summary": "The launch comes amid growing competition among financial institutions to manage assets backing dollar-pegged stablecoins."
+      "url": "https://cointelegraph.com/news/bybit-singapore-mas-investor-alert-list?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "publishedAt": "Wed, 17 Jun 2026 16:25:10 GMT",
+      "summary": "Crypto exchange Bybit has been added to Singapore\u2019s MAS Investor Alert List, which flags entities that may be mistakenly perceived as licensed or regulated.\n"
     },
     {
-      "title": "Ripple targets Africa\u2019s booming remittance market with Flutterwave investment",
+      "title": "Trace Finance raises $32M for cross-border stablecoin settlement expansion",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ripple-flutterwave-africa-stablecoin-remittances-investment?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "publishedAt": "Tue, 16 Jun 2026 17:28:00 GMT",
-      "summary": "Ripple\u2019s investment in Flutterwave will bring RLUSD, Ripple Payments and XRPL to one of Africa\u2019s largest fintechs as blockchain remittances gain traction.\n"
+      "url": "https://cointelegraph.com/news/trace-finance-cross-border-stablecoin-settlement-expansion?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "publishedAt": "Wed, 17 Jun 2026 15:00:00 GMT",
+      "summary": "The raise comes as stablecoin regulation advances globally and financial firms invest in infrastructure connecting blockchain payments with traditional banking systems."
     },
     {
-      "title": "Why US-regulated Bitcoin perpetuals could change crypto trading",
+      "title": "Bitcoin price sets $64.5K week-to-date low as Strategy selling worries return",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/learn/us-regulated-bitcoin-perpetual-futures?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "publishedAt": "Tue, 16 Jun 2026 17:00:00 GMT",
-      "summary": "US-regulated Bitcoin perpetual futures could give retail and institutional traders new ways to access crypto derivatives."
+      "url": "https://cointelegraph.com/markets/bitcoin-price-sets-645k-week-to-date-low-as-strategy-selling-worries-return?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "publishedAt": "Wed, 17 Jun 2026 14:49:02 GMT",
+      "summary": "Bitcoin circled $65,000 after downside BTC price pressure into the FOMC meeting as analysis warned over the impact of Strategy potentially selling more BTC in the future."
     },
     {
-      "title": "Binance says it considers EU license compliant amid reports of potential rejection",
+      "title": "Ready USDC card halts non-EEA service after issuer change, users report",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/binance-response-mica-european-union-license?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "publishedAt": "Tue, 16 Jun 2026 16:26:00 GMT",
-      "summary": "Without specifically calling out a report on Binance\u2019s EU license, the crypto exchange warned that any rejection forcing it to delay activities in the region could \u201cweaken liquidity\u201d and present other"
+      "url": "https://cointelegraph.com/news/ready-usdc-card-service-halt-non-eea-report?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "publishedAt": "Wed, 17 Jun 2026 14:08:14 GMT",
+      "summary": "Users reported losing access to Ready\u2019s USDC card outside the EEA after a card provider change triggered rapid deactivation notices."
     },
     {
-      "title": "Bitcoin stocks divergence returns as BTC dips to $66K while oil drops under $78",
+      "title": "CoinMENA, Standard Chartered partner on UAE payment rails",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-stocks-divergence-returns-as-btc-drops-to-66k-while-nasdaq-adds-3?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "publishedAt": "Tue, 16 Jun 2026 14:18:19 GMT",
-      "summary": "Bitcoin joined oil in heading lower while stocks gained on US-Iran peace momentum, with traders seeing a quick end to the BTC price rebound."
+      "url": "https://cointelegraph.com/news/coinmena-standard-chartered-revolut-uae-crypto-finance?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "publishedAt": "Wed, 17 Jun 2026 13:44:36 GMT",
+      "summary": "CoinMENA will use Standard Chartered to strengthen fiat payment rails in the UAE, while Revolut reportedly secured central bank licenses ahead of a planned local launch."
     }
   ],
   "aiNews": [
     {
-      "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+      "title": "Google bets on Gemini to reinvent the smart home speaker",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
-      "publishedAt": "Tue, 16 Jun 2026 18:00:00 +0000",
-      "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that bri"
+      "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
+      "publishedAt": "Wed, 17 Jun 2026 16:30:09 +0000",
+      "summary": "Google is betting generative AI can breathe new life into the smart speaker. The company's new $99.99 Google Home Speaker replaces the rigid commands of the Google Assistant era with more conversation"
     },
     {
-      "title": "Sixty percent of US consumers say \u2018AI\u2019 in brand messaging is a turnoff, survey finds",
+      "title": "The slowtech revolution is here to kill your phone addiction and rescue your attention span",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
-      "publishedAt": "Tue, 16 Jun 2026 16:49:44 +0000",
-      "summary": "WordPress VIP\u2019s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel."
+      "url": "https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span/",
+      "publishedAt": "Wed, 17 Jun 2026 15:24:41 +0000",
+      "summary": "\u201cPeople just really want to take back control of their time, their lives, their attention... They\u2019re down for whatever helps them do that.\u201d"
     },
     {
-      "title": "SpaceX is public: Everything you need to know post-IPO",
+      "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
-      "publishedAt": "Tue, 16 Jun 2026 15:53:12 +0000",
-      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb"
+      "url": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+      "publishedAt": "Wed, 17 Jun 2026 15:00:00 +0000",
+      "summary": "If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved."
     },
     {
-      "title": "DOJ claims xAI\u2019s unpermitted gas turbines are a matter of \u2018national, economic, and energy security\u2019",
+      "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
-      "publishedAt": "Tue, 16 Jun 2026 15:05:03 +0000",
-      "summary": "The Justice department says the Pentagon needs xAI to keep using its unpermitted gas turbines."
+      "url": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+      "publishedAt": "Wed, 17 Jun 2026 14:15:22 +0000",
+      "summary": "Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation \u2014 where errors can be costly and reliability is at a premium."
     },
     {
-      "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
+      "title": "Canadian pension giant joins race to fund India\u2019s AI-fueled data center boom",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
-      "publishedAt": "Tue, 16 Jun 2026 15:00:00 +0000",
-      "summary": "Plaud is trying to make a mark in a crowded market full of AI-powered meeting notetakers."
+      "url": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
+      "publishedAt": "Wed, 17 Jun 2026 12:38:09 +0000",
+      "summary": "The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India."
     }
   ],
   "techMovers": [
     {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 521.07,
-      "change": -26.19,
-      "changePercent": -4.79
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla Inc",
-      "price": 405.32,
-      "change": NaN,
-      "changePercent": NaN
-    },
-    {
-      "ticker": "NFLX",
-      "name": "Netflix Inc",
-      "price": 77.96,
-      "change": -3.71,
-      "changePercent": -4.54
-    },
-    {
       "ticker": "AVGO",
       "name": "Broadcom Inc",
-      "price": 380.47,
-      "change": -13.47,
-      "changePercent": -3.42
+      "price": 397.59,
+      "change": 20.88,
+      "changePercent": 5.54
     },
     {
-      "ticker": "CRM",
-      "name": "Salesforce Inc",
-      "price": 160.84,
-      "change": -3.71,
-      "changePercent": -2.25
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "price": 578.97,
+      "change": -21.24,
+      "changePercent": -3.54
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 522.86,
+      "change": 15.57,
+      "changePercent": 3.07
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon.com",
+      "price": 239.79,
+      "change": -6.21,
+      "changePercent": -2.53
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft Corp",
+      "price": 384.9,
+      "change": -8.92,
+      "changePercent": -2.27
     }
   ],
-  "fearGreedIndex": 23,
+  "fearGreedIndex": 22,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 332.13,
-    "change": NaN,
-    "changePercent": NaN
+    "price": 332.65,
+    "change": -0.47,
+    "changePercent": -0.14
   },
   "sectors": [
     {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 1.34
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": 1.35
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": 1.21
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": 1.03
+      "changePercent": 1.27
     },
     {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": 0.65
+      "changePercent": 0.8
     },
     {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 0.13
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 0.11
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 0.4
     },
     {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": 0.08
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 0.08
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": -0.32
+      "changePercent": -0.51
     },
     {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": -0.86
+      "changePercent": -0.6
     },
     {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": -1.75
-    }
-  ],
-  "economicCalendar": [
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": -0.69
+    },
     {
-      "date": "2026-06-17",
-      "time": "14:00 ET",
-      "event": "FOMC Interest Rate Decision",
-      "importance": "high",
-      "description": "Federal Reserve interest rate announcement and policy statement"
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -0.75
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -1.05
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -1.29
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -1.84
     }
   ],
+  "economicCalendar": [],
   "marketIndicators": [
     {
       "label": "S&P 500",
