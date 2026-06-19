@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-06-18T16:27:19.081212+00:00",
+  "lastUpdated": "2026-06-19T15:57:59.321615+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Bowen: US-Iran deal raises inescapable question of what the war was for",
+      "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 18 Jun 2026 15:53:55 GMT",
-      "summary": "While the human cost is clear, the Iranian regime has not just survived the war, it has been empowered."
+      "url": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 19 Jun 2026 13:42:47 GMT",
+      "summary": "The highly public exchange is an indication that their earlier close ties have frayed  since Trump's decision to go to war with Iran."
     },
     {
-      "title": "Why Iran believes deal with US leaves it stronger than before",
+      "title": "Do it at home too, women tell Japanese fans who cleaned World Cup stadium",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 18 Jun 2026 15:38:18 GMT",
-      "summary": "Iran has come out of the war's first chapter stronger than many expected, but its next challenge may be harder, the BBC Persian Service's Amir Azimi writes."
+      "url": "https://www.bbc.com/news/articles/crel9xlp8r1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 19 Jun 2026 04:30:47 GMT",
+      "summary": "Some see a double standard: Japanese men who clean in public while their wives do all the housework."
     },
     {
-      "title": "Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery",
+      "title": "Six-year-old Ebola patient taken from DR Congo hospital found and 'doing well'",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 18 Jun 2026 15:46:36 GMT",
-      "summary": "A refinery and a shopping centre burned after almost 200 Ukrainian drones struck an area to the south-east of the Russian capital."
+      "url": "https://www.bbc.com/news/articles/c0qyg29wpk2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 19 Jun 2026 14:45:57 GMT",
+      "summary": "Health facilities have come under attack during the current outbreak as a result of misinformation and fear."
     },
     {
-      "title": "Gunmen attack Niger's biggest airport for second time in months",
+      "title": "Morocco captain Achraf Hakimi to stand trial for rape",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 18 Jun 2026 16:01:07 GMT",
-      "summary": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport."
+      "url": "https://www.bbc.com/sport/football/articles/c20y18z7le1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 19 Jun 2026 10:28:22 GMT",
+      "summary": "French prosecutors confirm Morocco captain Achraf Hakimi will stand trial for rape, in accusations dating back to 2023. "
     },
     {
-      "title": "Hegseth renews Nato criticism and says US will review presence in Europe",
+      "title": "Zimbabwe MPs pass bill to extend president's time in power",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 18 Jun 2026 13:31:01 GMT",
-      "summary": "The US defence secretary's move follows a US decision to scale back its commitments to a high readiness force within the alliance."
+      "url": "https://www.bbc.com/news/articles/c20y15m0337o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 19 Jun 2026 08:03:32 GMT",
+      "summary": "The proposal would extend Emmerson Mnangagwa's term by two years and scrap direct presidential elections."
     }
   ],
   "cryptoAssets": [
@@ -43,198 +43,164 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 62608,
-      "change24h": -5.5912,
-      "marketCap": 1255328061175,
+      "price": 63190,
+      "change24h": 1.42149,
+      "marketCap": 1266635381992,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1686.05,
-      "change24h": -5.54884,
-      "marketCap": 203521465540,
+      "price": 1707.19,
+      "change24h": 1.55724,
+      "marketCap": 205945931841,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Bybit lands on Singapore MAS Investor Alert List",
+      "title": "Andrew Tate loses nearly $86,000 longing and shorting Bitcoin",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bybit-singapore-mas-investor-alert-list?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "publishedAt": "Thu, 18 Jun 2026 15:14:27 GMT",
-      "summary": "Crypto exchange Bybit has been added to Singapore\u2019s MAS Investor Alert List, which flags entities that may be mistakenly perceived as licensed or regulated.\n"
+      "url": "https://cointelegraph.com/markets/andrew-tate-loses-nearly-86000-longing-and-shorting-bitcoin?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "publishedAt": "Fri, 19 Jun 2026 15:05:10 GMT",
+      "summary": "Andrew Tate\u2019s Hyperliquid wallet shows over $803,800 in all-time perps losses after repeated crypto WLFI liquidations."
     },
     {
-      "title": "Bitcoin to $145K by October? Why this 'crazy accurate' 4chan prediction is sketchy",
+      "title": "Aave survived $8.45B in withdrawals, but risk questions remain",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-to-145k-by-october-why-this-crazy-accurate-4chan-prediction-is-sketchy?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "publishedAt": "Thu, 18 Jun 2026 14:46:56 GMT",
-      "summary": "A viral 4chan Bitcoin prediction appears to have nailed past BTC prices, but edited targets and impossible supply claims weaken its $145,000 call."
+      "url": "https://cointelegraph.com/learn/aave-defi-bank-run-lending-risk?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "publishedAt": "Fri, 19 Jun 2026 15:00:00 GMT",
+      "summary": "Aave handled $8.45 billion in withdrawals without freezing funds, but the episode raised fresh questions about hidden risks in DeFi lending."
     },
     {
-      "title": "What happens when ChatGPT becomes the front door to crypto",
+      "title": "Bitcoin taps $63K on Juneteenth as July Fed rate-hike odds near 40%",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/learn/ai-chatbots-crypto-users?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "publishedAt": "Thu, 18 Jun 2026 14:30:00 GMT",
-      "summary": "ChatGPT could become crypto\u2019s new onboarding gateway, making Bitcoin and wallets easier to use while creating new trust risks."
-    },
-    {
-      "title": "Ledn adds Tether Gold as loan collateral, expanding Bitcoin-backed lending model",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ledn-tether-gold-xaut-loans-bitcoin-backed-lending?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "publishedAt": "Thu, 18 Jun 2026 14:00:00 GMT",
-      "summary": "Ledn\u2019s addition of Tether Gold lending comes as tokenized commodities expand, with the sector accounting for nearly 17% of the $43 billion RWA market."
+      "url": "https://cointelegraph.com/markets/bitcoin-taps-63k-on-juneteenth-as-july-fed-rate-hike-odds-near-40?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "publishedAt": "Fri, 19 Jun 2026 14:31:40 GMT",
+      "summary": "Bitcoin price action avoided volatility but failed to bounce from local lows after a hawkish Fed meeting and posturing over Strait of Hormuz control from Iran."
     },
     {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "publishedAt": "Thu, 18 Jun 2026 13:28:23 GMT",
+      "publishedAt": "Fri, 19 Jun 2026 14:09:17 GMT",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Kalshi in early IPO talks with investment banks: Report",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/kalshi-early-ipo-talks-investment-banks-report?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "publishedAt": "Fri, 19 Jun 2026 13:44:34 GMT",
+      "summary": "The prediction market platform is reportedly exploring a public listing after surpassing $2 billion in annualized revenue as sports contracts face mounting legal scrutiny."
     }
   ],
   "aiNews": [
     {
-      "title": "General Intuition in talks to raise $300M at around $2B valuation",
+      "title": "Billionaire Ambani wants AI in every call, app, and home",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
-      "publishedAt": "Thu, 18 Jun 2026 15:20:37 +0000",
-      "summary": "The startup trains embodied AI and world models using Medal\u2019s dataset of 2 billion videos per year from 10 million monthly active users. "
+      "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+      "publishedAt": "Fri, 19 Jun 2026 15:23:28 +0000",
+      "summary": "Reliance is weaving AI into telecom services used by more than 500 million people."
     },
     {
-      "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech\u2019s $100M gunfight\u00a0",
+      "title": "The CEO of Allbirds\u2019 new AI biz has a plan, but no employees",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
-      "publishedAt": "Thu, 18 Jun 2026 15:13:21 +0000",
-      "summary": "Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom. "
+      "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+      "publishedAt": "Fri, 19 Jun 2026 13:00:00 +0000",
+      "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear."
     },
     {
-      "title": "Pixi\u2019s new iOS app turns text messages into interactive AR experiences",
+      "title": "The US says ASML\u2019s top chip tool may be in China. ASML says it isn\u2019t",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/",
-      "publishedAt": "Thu, 18 Jun 2026 12:00:00 +0000",
-      "summary": "Forget stickers, GIFs, and emoji reactions. Pixi is betting that the next evolution of messaging is interactive augmented reality (AR)."
+      "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+      "publishedAt": "Fri, 19 Jun 2026 07:59:12 +0000",
+      "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer."
     },
     {
-      "title": "How to turn off AI in your Google Docs",
+      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
-      "publishedAt": "Thu, 18 Jun 2026 01:23:51 +0000",
-      "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away."
+      "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+      "publishedAt": "Fri, 19 Jun 2026 00:51:11 +0000",
+      "summary": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago. "
     },
     {
-      "title": "Roelof Botha joins SpaceX\u2019s board of directors",
+      "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
-      "publishedAt": "Wed, 17 Jun 2026 20:32:52 +0000",
-      "summary": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever."
+      "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+      "publishedAt": "Thu, 18 Jun 2026 21:20:13 +0000",
+      "summary": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the \u201cinference gold rush\" marches on."
     }
   ],
-  "techMovers": [
-    {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 534.62,
-      "change": 22.15,
-      "changePercent": 4.32
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc",
-      "price": 408.99,
-      "change": 16.1,
-      "changePercent": 4.1
-    },
-    {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corp",
-      "price": 209.88,
-      "change": 5.23,
-      "changePercent": 2.56
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon.com",
-      "price": 243.38,
-      "change": 5.88,
-      "changePercent": 2.48
-    },
-    {
-      "ticker": "SNOW",
-      "name": "Snowflake Inc",
-      "price": 229.72,
-      "change": -4.8,
-      "changePercent": -2.05
-    }
-  ],
-  "fearGreedIndex": 15,
-  "visaStock": {
-    "ticker": "V",
-    "name": "Visa Inc",
-    "price": 329.07,
-    "change": -1.31,
-    "changePercent": -0.4
-  },
+  "techMovers": [],
+  "fearGreedIndex": 14,
+  "visaStock": null,
   "sectors": [
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": 2.83
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": 1.63
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 1.37
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": 0.95
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 0.54
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 0.53
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": -0.01
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": -0.24
+      "changePercent": NaN
     },
     {
       "ticker": "XLF",
       "name": "Financials",
-      "changePercent": -0.45
+      "changePercent": NaN
     },
     {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": -1.08
+      "changePercent": NaN
     },
     {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": -1.97
+      "changePercent": NaN
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": NaN
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": NaN
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": NaN
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": NaN
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": NaN
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": NaN
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": NaN
     }
   ],
-  "economicCalendar": [],
+  "economicCalendar": [
+    {
+      "date": "2026-07-03",
+      "time": "08:30 ET",
+      "event": "Non-Farm Payrolls",
+      "importance": "high",
+      "description": "Monthly jobs report - employment and wage data"
+    }
+  ],
   "marketIndicators": [
     {
       "label": "S&P 500",
