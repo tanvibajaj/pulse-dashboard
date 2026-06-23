@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-06-22T17:28:35.819405+00:00",
+  "lastUpdated": "2026-06-23T15:45:20.926481+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Vance says Iran will allow nuclear inspectors back into the country",
+      "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 22 Jun 2026 14:18:19 GMT",
-      "summary": "The US vice-president says a great deal of progress has been made after the first round of talks between the US and Iran."
+      "url": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 23 Jun 2026 14:37:11 GMT",
+      "summary": "Forty people have drowned in heatwave-related deaths in France since last Thursday, Prime Minister S\u00e9bastien Lecornu says."
     },
     {
-      "title": "At least 13 killed and dozens injured after Qatar gas explosion",
+      "title": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 22 Jun 2026 15:15:42 GMT",
-      "summary": "The city's main liquified natural gas (LNG) processing site suffered a \"technical accident\" in the Ras Laffan industrial zone."
+      "url": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 23 Jun 2026 14:55:31 GMT",
+      "summary": "Traffic in the waterway has risen since the US and Iran signed a deal aimed at ending the war, including 42 ships on Saturday alone."
     },
     {
-      "title": "Myanmar army killed over 700 civilians in six months, UN says",
+      "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 22 Jun 2026 15:31:55 GMT",
-      "summary": "The new UN report says the 702 civilian deaths over six months last year included 153 children."
+      "url": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 23 Jun 2026 12:14:58 GMT",
+      "summary": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland."
     },
     {
-      "title": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
+      "title": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 21 Jun 2026 23:57:59 GMT",
-      "summary": "If Kostyantynivka falls, Russian forces would be able push towards Ukraine's last remaining strongholds in the east."
+      "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 23 Jun 2026 11:10:06 GMT",
+      "summary": "Israel rejects the new report by the three-member expert panel, calling it a \"libellous sham\"."
     },
     {
-      "title": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
+      "title": "Zambia ex-president's family wins latest legal battle over what should happen to his body ",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c3vy3e6q90qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 22 Jun 2026 17:06:12 GMT",
-      "summary": "The record company executive also worked with Billy Joel, Pink Floyd, Alicia Keys and Aerosmith."
+      "url": "https://www.bbc.co.uk/news/articles/c8r2yryr5mvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 23 Jun 2026 12:02:29 GMT",
+      "summary": "Edgar Lungu's family and the Zambian government remain in dispute 12 months after he died."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 64500,
-      "change24h": 0.69893,
-      "marketCap": 1293255686984,
+      "price": 62237,
+      "change24h": -4.25514,
+      "marketCap": 1248338963554,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1735.42,
-      "change24h": 0.58861,
-      "marketCap": 209558131445,
+      "price": 1653.95,
+      "change24h": -5.63549,
+      "marketCap": 199664867564,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Andrew Cuomo to lead joint TradFi-crypto venture between OKX and Intercontinental Exchange",
+      "title": "Bitcoin teases $62K breakdown as analysis sees Micron earnings volatility next",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/andrew-cuomo-okx-intercontinental-exchange-venture?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "publishedAt": "Mon, 22 Jun 2026 16:53:35 GMT",
-      "summary": "The venture is subject to regulatory approvals but will be co-chaired by ICE and former New York Governor Andrew Cuomo, who began working with OKX in 2023."
+      "url": "https://cointelegraph.com/markets/bitcoin-teases-62k-breakdown-as-analysis-sees-micron-earnings-volatility-next?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "publishedAt": "Tue, 23 Jun 2026 15:15:41 GMT",
+      "summary": "Bitcoin stayed volatile while bulls tried to preserve support at local lows while stocks prepared for Micron forward earnings and digested Asia losses."
     },
     {
-      "title": "Bitcoin weekly close above $63K amid RSI divergence may be bottom signal: Data",
+      "title": "Bitcoin slump worsens amid SpaceX rout: Can BTC price hold $60K any longer?",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-holds-63k-as-three-market-signals-remain-supportive?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "publishedAt": "Mon, 22 Jun 2026 16:52:38 GMT",
-      "summary": "Bitcoin's repeated weekly candle close above $63,000 align with signals that may mark a market bottom."
+      "url": "https://cointelegraph.com/markets/bitcoin-slump-worsens-amid-spacex-rout-can-btc-price-hold-60k-any-longer?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "publishedAt": "Tue, 23 Jun 2026 14:38:32 GMT",
+      "summary": "SpaceX\u2019s $600 billion wipeout rattles tech markets, putting Bitcoin\u2019s $60,000 support at risk as traders brace for a deeper BTC selloff."
     },
     {
-      "title": "Bitcoin price taps $65.5K as Iran deal sees oil drop toward 16-week low",
+      "title": "Why tokenized SpaceX shares broke before retail investors could buy them ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-taps-655k-as-iran-deal-sees-oil-drop-toward-16-week-low?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "publishedAt": "Mon, 22 Jun 2026 15:48:49 GMT",
-      "summary": "Bitcoin sought a breakout toward a potential BTC price target near $70,000 as Iran news sent oil toward its lowest levels since early March."
+      "url": "https://cointelegraph.com/learn/tokenized-spacex-shares-xstocks-refunds?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "publishedAt": "Tue, 23 Jun 2026 14:30:00 GMT",
+      "summary": "Tokenized SpaceX shares drew more than $1 billion in demand, but many investors received refunds instead. What went wrong?"
     },
     {
-      "title": "Why Google search can be a crypto wallet risk",
+      "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/learn/fake-google-ads-crypto-wallet-security?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "publishedAt": "Mon, 22 Jun 2026 14:30:00 GMT",
-      "summary": "Think your wallet is safe? A major crypto risk may start with a Google search and one wrong click."
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "publishedAt": "Tue, 23 Jun 2026 13:07:43 GMT",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Enso launches RWA app and trading for over 500 tokenized assets",
+      "title": "Kalshi adds India to growing list of restricted jurisdictions",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/enso-launches-rwa-app-trading-500-tokenized-assets?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "publishedAt": "Mon, 22 Jun 2026 14:00:00 GMT",
-      "summary": "Enso launched access to over 500 tokenized assets and US stocks, citing a growing demand for US equity exposure among European investors."
+      "url": "https://cointelegraph.com/news/kalshi-adds-india-restricted-jurisdictions?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "publishedAt": "Tue, 23 Jun 2026 12:40:13 GMT",
+      "summary": "Kalshi has added India to its list of 55 restricted jurisdictions, months after Indian authorities warned VPN providers to stop facilitating access to these platforms."
     }
   ],
   "aiNews": [
     {
-      "title": "SpaceX inks compute deal with Reflection AI, an open-source AI lab",
+      "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
-      "publishedAt": "Mon, 22 Jun 2026 16:51:29 +0000",
-      "summary": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center ne"
+      "url": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+      "publishedAt": "Tue, 23 Jun 2026 14:00:00 +0000",
+      "summary": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 - the ultimate founder bootcamp - before Early Bird rates end on June 26 at 11:59 p.m. PT. Register here."
     },
     {
-      "title": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
+      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
-      "publishedAt": "Mon, 22 Jun 2026 14:00:00 +0000",
-      "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June 26, 11:59 p.m. PT. Designed for founders first on November 4 in Boston. Register today."
+      "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+      "publishedAt": "Tue, 23 Jun 2026 13:00:00 +0000",
+      "summary": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedI"
     },
     {
-      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
-      "publishedAt": "Sun, 21 Jun 2026 15:28:17 +0000",
-      "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem."
+      "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "publishedAt": "Tue, 23 Jun 2026 01:27:55 +0000",
+      "summary": "A running look \u2014 in reverse chronological order \u2014 at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
     },
     {
-      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "title": "OpenAI launches new initiative to help find and patch open source bugs",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
-      "publishedAt": "Sun, 21 Jun 2026 14:40:28 +0000",
-      "summary": "Siri\u2019s AI overhaul may have grabbed the headlines at WWDC, but some of Apple\u2019s most useful AI features are arriving elsewhere in iOS 27. "
+      "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+      "publishedAt": "Tue, 23 Jun 2026 00:11:31 +0000",
+      "summary": "OpenAI is using AI to help the open source community better protect itself."
     },
     {
-      "title": "Signal\u2019s Meredith Whittaker wants you to remember that AI chatbots \u2018are not your friends\u2019",
+      "title": "The AI world is getting \u2018loopy\u2019",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
-      "publishedAt": "Sat, 20 Jun 2026 20:32:29 +0000",
-      "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.\u201d"
+      "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+      "publishedAt": "Mon, 22 Jun 2026 20:53:11 +0000",
+      "summary": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly. "
     }
   ],
   "techMovers": [
     {
-      "ticker": "NFLX",
-      "name": "Netflix Inc",
-      "price": 72.14,
-      "change": -5.24,
-      "changePercent": -6.77
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 518.67,
+      "change": -32.96,
+      "changePercent": -5.98
     },
     {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc",
-      "price": 346.72,
-      "change": -20.74,
-      "changePercent": -5.64
+      "ticker": "TSLA",
+      "name": "Tesla Inc",
+      "price": 382.68,
+      "change": -22.37,
+      "changePercent": -5.52
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp",
+      "price": 201.34,
+      "change": -7.31,
+      "changePercent": -3.51
     },
     {
       "ticker": "ORCL",
       "name": "Oracle Corp",
-      "price": 175.13,
-      "change": -9.16,
-      "changePercent": -4.97
+      "price": 169.27,
+      "change": -5.8,
+      "changePercent": -3.31
     },
     {
-      "ticker": "AMZN",
-      "name": "Amazon.com",
-      "price": 233.8,
-      "change": -10.59,
-      "changePercent": -4.33
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc",
-      "price": 396.6,
-      "change": -14.76,
-      "changePercent": -3.59
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "price": 159.48,
+      "change": -5.36,
+      "changePercent": -3.25
     }
   ],
-  "fearGreedIndex": 20,
+  "fearGreedIndex": 23,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 328.88,
-    "change": 1.64,
-    "changePercent": 0.5
+    "price": 330.26,
+    "change": 3.66,
+    "changePercent": 1.12
   },
   "sectors": [
     {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": 1.77
+    },
+    {
       "ticker": "XLRE",
       "name": "Real Estate",
-      "changePercent": 0.71
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": 0.66
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": 0.59
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 0.33
-    },
-    {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": 0.22
+      "changePercent": 1.24
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": 0.21
+      "changePercent": 0.88
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": 0.84
     },
     {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": 0.06
+      "changePercent": 0.47
     },
     {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": -0.2
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": -0.86
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": -1.44
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 0.39
     },
     {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": -2.64
+      "changePercent": 0.28
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -0.81
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -1.0
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": -1.64
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": -3.85
     }
   ],
   "economicCalendar": [
