@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-06-24T15:31:40.936739+00:00",
+  "lastUpdated": "2026-06-25T15:38:03.915931+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Power outages hit France as record heatwave set to peak",
+      "title": "'I thought I was going to die' - Venezuelans describe earthquake panic",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 24 Jun 2026 13:44:08 GMT",
-      "summary": "About 68,000 homes in Brittany have been affected, with electricity unlikely to be fully restored until Wednesday night."
+      "url": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 25 Jun 2026 15:04:21 GMT",
+      "summary": "Buildings were flattened in the capital Caracas, where voices have been heard calling from the rubble."
     },
     {
-      "title": "Air conditioning creates political divide after France records hottest day",
+      "title": "Earthquake is devastating blow to Venezuela at time of uncertainty  ",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 24 Jun 2026 13:51:24 GMT",
-      "summary": "France is being forced to re-think its longstanding reservations about air-conditioning as temperatures soar. "
+      "url": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 25 Jun 2026 13:09:58 GMT",
+      "summary": "The twin quakes come less than six months after Venezuela's then-leader Nicol\u00e1s Maduro was seized by US forces. "
     },
     {
-      "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
+      "title": "Europe's heatwave shifts east as France raises health alert to highest level",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 24 Jun 2026 12:32:00 GMT",
-      "summary": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian  minister says such access would only be part of a final deal with the US."
+      "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 25 Jun 2026 15:15:45 GMT",
+      "summary": "Temperatures in Germany could hit 40C in some areas while French officials say deaths linked to the heat are being seen among young people."
     },
     {
-      "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary ",
+      "title": "Trump asks Congress for billions for Iran war, after tension with Republicans",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 24 Jun 2026 13:03:35 GMT",
-      "summary": "Brad Lander unseats Dan Goldman in a race that laid bare the city's divisions over the Israel-Gaza war. "
+      "url": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 25 Jun 2026 09:06:59 GMT",
+      "summary": "But the budget faces an uphill battle as the president spars with some members of his own party over the issue."
     },
     {
-      "title": "Biggest city in Crimea without power after Ukraine strikes",
+      "title": "Key figure in South Africa police corruption scandal pleads guilty",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 24 Jun 2026 09:48:24 GMT",
-      "summary": "Sevastopol's Moscow-installed governor warns there will be no electricity in some areas until the evening."
+      "url": "https://www.bbc.co.uk/news/articles/cx2j4g5k52jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 25 Jun 2026 14:00:13 GMT",
+      "summary": "Prosecutors say Vusimusi \"Cat\" Matlala could provide evidence against \"high-ranking officials\"."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 60747,
-      "change24h": -2.57803,
-      "marketCap": 1218329924728,
+      "price": 59284,
+      "change24h": -2.13988,
+      "marketCap": 1188198689698,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1640.86,
-      "change24h": -0.96592,
-      "marketCap": 198125450865,
+      "price": 1560.92,
+      "change24h": -4.32605,
+      "marketCap": 188301499802,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Trump cancels signing of housing bill with CBDC ban",
+      "title": "Bitcoin drops to $58K on high US PCE inflation as trader sees 'manipulation'",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/donald-trump-cancels-signing-housing-bill-cbdc-ban?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "publishedAt": "Wed, 24 Jun 2026 15:18:07 GMT",
-      "summary": "The 21st Century ROAD to Housing Act included a provision that the US Federal Reserve was barred from issuing or creating a CBDC until 2030, but exempted certain stablecoins."
+      "url": "https://cointelegraph.com/markets/bitcoin-drops-to-58-on-pce-highs?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "publishedAt": "Thu, 25 Jun 2026 15:34:45 GMT",
+      "summary": "Bitcoin fell to 21-month lows as stock market volatility accompanied three-year highs in US PCE inflation, leading to $600 million in hourly crypto liquidations."
     },
     {
-      "title": "Binance withdraws Greece-filed MiCA application.",
+      "title": "Why Wall Street values some crypto firms for AI power, not just crypto",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/binance-eu-license-greece-mica-setback?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "publishedAt": "Wed, 24 Jun 2026 15:04:43 GMT",
-      "summary": "Binance said it plans to seek authorization in another EU jurisdiction just days ahead of the July 1 MiCA deadline, as unlicensed crypto firms are expected to wind down activities in the bloc."
+      "url": "https://cointelegraph.com/learn/galaxy-digital-ai-infrastructure-valuation?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "publishedAt": "Thu, 25 Jun 2026 15:00:00 GMT",
+      "summary": "Galaxy Digital\u2019s stock surge points to a new trend: Investors are rewarding some crypto firms for AI infrastructure, not just digital asset exposure."
     },
     {
-      "title": "The Impossibility of Perfect Fairness in Transaction Ordering",
+      "title": "Story Protocol rebrands to DATA Foundation in AI pivot",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/research/the-impossibility-of-perfect-fairness-in-transaction-ordering?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "publishedAt": "Wed, 24 Jun 2026 15:00:00 GMT",
-      "summary": "Why perfect fairness cannot hold in asynchronous networks, and how different blockchains adopt different relaxations to fairness."
+      "url": "https://cointelegraph.com/news/story-protocol-pivots-to-ai-with-rebrand-to-data-foundation?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "publishedAt": "Thu, 25 Jun 2026 15:00:00 GMT",
+      "summary": "Story Protocol is now the DATA Foundation as it aims to provide licensable data to AI firms that have \u201crun out of internet to scrape.\u201d "
     },
     {
-      "title": "How memecoin marketing moved from online speculation to real-world risk",
+      "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/learn/pump-fun-go-bounty-memecoin-risks?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "publishedAt": "Wed, 24 Jun 2026 14:30:00 GMT",
-      "summary": "From alcohol dares to head-shaving challenges, memecoin campaigns are turning engagement into exploitation."
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "publishedAt": "Thu, 25 Jun 2026 13:19:46 GMT",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "DeFi TVL drops 39% in 2026 amid market downturn and record hack activity",
+      "title": "SBI to acquire Bitbank in $289M deal creating Japan's biggest crypto exchange",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/defi-tvl-falls-39-2026-erases-45b-value?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "publishedAt": "Wed, 24 Jun 2026 14:14:39 GMT",
-      "summary": "DeFi TVL fell 39% in 2026 as a broader market downturn and fallout from major exploits, including the Kelp DAO hack, weighed on the sector."
+      "url": "https://cointelegraph.com/news/sbi-acquire-bitbank-289-million-deal?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "publishedAt": "Thu, 25 Jun 2026 13:08:11 GMT",
+      "summary": "The Japanese financial conglomerate plans to take full control of Bitbank as it expands an ecosystem spanning crypto trading, stablecoins, tokenization and blockchain infrastructure."
     }
   ],
   "aiNews": [
     {
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "publishedAt": "Wed, 24 Jun 2026 14:54:46 +0000",
-      "summary": "Named Jalape\u00f1o, the new processor was designed specifically for the unique needs of OpenAI's inference systems."
+      "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+      "publishedAt": "Thu, 25 Jun 2026 14:55:38 +0000",
+      "summary": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live."
     },
     {
-      "title": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
+      "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
-      "publishedAt": "Wed, 24 Jun 2026 14:00:00 +0000",
-      "summary": "You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register here."
+      "url": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
+      "publishedAt": "Thu, 25 Jun 2026 14:00:00 +0000",
+      "summary": "2 days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register here."
     },
     {
-      "title": "India\u2019s MoEngage bets that the future of marketing is millions of AI agents",
+      "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
-      "publishedAt": "Tue, 23 Jun 2026 23:30:00 +0000",
-      "summary": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers."
+      "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
+      "publishedAt": "Thu, 25 Jun 2026 13:30:00 +0000",
+      "summary": "Adobe said that it will integrate Topaz Labs' tools across its apps."
     },
     {
-      "title": "Anthropic\u2019s Claude Tag is learning your company, one Slack message at a time",
+      "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
-      "publishedAt": "Tue, 23 Jun 2026 17:00:00 +0000",
-      "summary": "Anthropic\u2019s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise"
+      "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+      "publishedAt": "Thu, 25 Jun 2026 12:00:38 +0000",
+      "summary": "Amazon\u2019s latest India investment comes as global tech companies race to expand AI infrastructure in the country."
     },
     {
-      "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
+      "title": "Europe is pushing back on Washington\u2019s chip war",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
-      "publishedAt": "Tue, 23 Jun 2026 14:00:00 +0000",
-      "summary": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 \u2014 the ultimate founder bootcamp \u2014 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today."
+      "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
+      "publishedAt": "Thu, 25 Jun 2026 00:08:36 +0000",
+      "summary": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools \u2014 gear first shipped about a decade ago \u2014 the same machines the MATCH Ac"
     }
   ],
   "techMovers": [
     {
-      "ticker": "UBER",
-      "name": "Uber Technologies",
-      "price": 75.26,
-      "change": 5.6,
-      "changePercent": 8.03
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon.com",
-      "price": 241.63,
-      "change": 7.52,
-      "changePercent": 3.21
+      "ticker": "AAPL",
+      "name": "Apple Inc",
+      "price": 278.76,
+      "change": -14.32,
+      "changePercent": -4.89
     },
     {
       "ticker": "ORCL",
       "name": "Oracle Corp",
-      "price": 160.04,
-      "change": -5.12,
-      "changePercent": -3.1
+      "price": 152.09,
+      "change": -5.44,
+      "changePercent": -3.46
     },
     {
       "ticker": "COIN",
       "name": "Coinbase",
-      "price": 154.39,
-      "change": -3.79,
-      "changePercent": -2.4
+      "price": 145.9,
+      "change": -4.21,
+      "changePercent": -2.8
     },
     {
-      "ticker": "AAPL",
-      "name": "Apple Inc",
-      "price": 298.99,
-      "change": 4.7,
-      "changePercent": 1.6
+      "ticker": "MSFT",
+      "name": "Microsoft Corp",
+      "price": 355.86,
+      "change": -9.6,
+      "changePercent": -2.63
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon.com",
+      "price": 230.29,
+      "change": -3.98,
+      "changePercent": -1.7
     }
   ],
-  "fearGreedIndex": 17,
+  "fearGreedIndex": 12,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 333.73,
-    "change": 5.25,
-    "changePercent": 1.6
+    "price": 337.27,
+    "change": 5.04,
+    "changePercent": 1.52
   },
   "sectors": [
     {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 2.68
-    },
-    {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": 2.03
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 1.16
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 1.11
+      "changePercent": 2.23
     },
     {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": 0.77
+      "changePercent": 1.99
     },
     {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": 0.72
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 0.37
-    },
-    {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": 0.34
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 0.33
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": -0.2
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": 1.65
     },
     {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": -2.26
+      "changePercent": 1.01
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 0.97
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": 0.19
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": 0.13
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -0.31
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -0.42
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -0.54
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -0.72
     }
   ],
   "economicCalendar": [
