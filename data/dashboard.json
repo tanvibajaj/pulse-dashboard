@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-06-26T15:22:03.837174+00:00",
-  "marketStatus": "Open",
+  "lastUpdated": "2026-06-27T14:26:43.237656+00:00",
+  "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "Earthquake is devastating blow to Venezuela at time of uncertainty  ",
+      "title": "US strikes Iran after attack on cargo ship",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 02:12:07 GMT",
-      "summary": "The twin quakes come less than six months after Venezuela's then-leader Nicol\u00e1s Maduro was seized by US forces. "
+      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 27 Jun 2026 10:40:38 GMT",
+      "summary": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response."
     },
     {
-      "title": "Aerial footage reveals destruction in coastal Venezuela",
+      "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/videos/c75y1kd16qdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 05:13:22 GMT",
-      "summary": "Multi-storey buildings have collapsed in La Guaira following two major earthquakes on Wednesday."
+      "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 27 Jun 2026 08:56:30 GMT",
+      "summary": "Hundreds are still feared trapped under the rubble, as families desperate for news."
     },
     {
-      "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
+      "title": "Mother dies saving daughter in Venezuela earthquakes",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 11:27:59 GMT",
-      "summary": "The ship was reportedly struck by an \"unknown projectile\" near Oman but no casualties were reported."
+      "url": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 18:36:32 GMT",
+      "summary": "H\u00e9ctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people."
     },
     {
-      "title": "Christmas market attacker jailed for life for murdering six in Germany",
+      "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 10:49:11 GMT",
-      "summary": "A nine-year-old and five women were killed when Taleb Al-Abdulmohsen drove into the market in 2024."
+      "url": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 23:01:50 GMT",
+      "summary": "Italy's PM was not long ago being called the \"Trump whisperer\", but their relationship has gone from public attacks to personal insults."
     },
     {
-      "title": "Senior Ukrainian intelligence official jailed for life for spying for Russia",
+      "title": "Europe's deadly heatwave breaks German record and halts public events",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cg4w3wyxzzno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 10:38:37 GMT",
-      "summary": "Col Dmytro Kozyura agreed to share state secrets and systematically disclosed classified information, prosecutors say."
+      "url": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 18:14:36 GMT",
+      "summary": "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbr\u00fccken, over the border from France."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 59874,
-      "change24h": 1.10658,
-      "marketCap": 1200016150430,
+      "price": 60529,
+      "change24h": 0.82219,
+      "marketCap": 1213669682385,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1568.91,
-      "change24h": 0.46643,
-      "marketCap": 189286189797,
+      "price": 1592.08,
+      "change24h": 1.40857,
+      "marketCap": 192168632143,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
+      "title": " SecondFi targets two-week recovery after Cardano wallet exploit",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/secondfi-two-week-recovery-cardano-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 27 Jun 2026 12:00:56 +0000",
+      "summary": "SecondFi says it has completed forensic investigations, taken a final balance snapshot and is preparing to return assets."
+    },
+    {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 26 Jun 2026 14:06:06 +0000",
+      "publishedAt": "Sat, 27 Jun 2026 11:30:05 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Framework Ventures raises $400M to invest beyond crypto: Report",
+      "title": "EU lawmakers urge assessing DeFi, staking, NFT regulation",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/framework-ventures-raise-400-million-push-beyond-crypto-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 26 Jun 2026 13:58:28 +0000",
-      "summary": "Framework Ventures raises $400 million fourth fund as it expands into AI, robotics and energy while reportedly planning to continue crypto investments."
+      "url": "https://cointelegraph.com/news/eu-lawmakers-assessing-defi-staking-nft-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 27 Jun 2026 08:21:04 +0000",
+      "summary": "The nonbinding report outlines Parliament's vision for future EU crypto regulation and warns against national MiCA rules."
     },
     {
-      "title": "Hyperliquid added to Singapore's Investor Alert List",
+      "title": "Securitize expects to raise $400M ahead of public debut",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/hyperliquid-singapore-mas-investor-alert-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 26 Jun 2026 13:11:29 +0000",
-      "summary": "Singapore\u2019s financial regulator added Hyperliquid to its Investor Alert List, as a reminder that the decentralized exchange was not licensed in the region."
+      "url": "https://cointelegraph.com/news/securitize-expects-to-raise-400m-ahead-of-public-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 27 Jun 2026 05:35:27 +0000",
+      "summary": "Securitize says less than 30% of shareholders in the acquisition firm taking it public elected to redeem, giving it an expected $400 million on its upcoming debut."
     },
     {
-      "title": "Australian regulator extends no-action period for crypto licensing",
+      "title": "SOL reclaims $72, but onchain data flags weakening momentum",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/australia-asic-extends-crypto-licensing-relief-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 26 Jun 2026 12:14:31 +0000",
-      "summary": "Australia\u2019s financial regulator extended temporary enforcement relief for digital asset businesses until Sept. 30 as firms transition into the country\u2019s licensing system."
-    },
-    {
-      "title": "AscendEX withdrawal complaints mount as ZachXBT questions reserves",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ascendex-exchange-reportedly-faces-liquidity-issues-claims-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 26 Jun 2026 11:47:02 +0000",
-      "summary": "Multiple users reported delayed AscendEX withdrawals after ZachXBT flagged potential liquidity issues and urged the exchange to explain its reserves."
+      "url": "https://cointelegraph.com/markets/sol-reclaims-72-but-onchain-data-flags-weakening-momentum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 27 Jun 2026 02:47:59 +0000",
+      "summary": "Solana found strength from tokenized stock trading on its network, but a declining TVL and DEX volumes point to fading momentum. \n"
     }
   ],
   "aiNews": [
     {
-      "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
+      "title": "The fittest founder in the room got cancer. Here\u2019s how he used AI to fight back.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
-      "publishedAt": "Fri, 26 Jun 2026 13:00:00 +0000",
-      "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now."
+      "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "publishedAt": "Sat, 27 Jun 2026 14:00:00 +0000",
+      "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime \u2014 blood results, scan data, wearable output, journal entries \u2014 into Claude. "
     },
     {
-      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+      "title": "Asian AI startups launch Mythos-like  models as Anthropic\u2019s export ban drags on",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-      "publishedAt": "Thu, 25 Jun 2026 23:34:39 +0000",
-      "summary": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to."
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "publishedAt": "Sat, 27 Jun 2026 12:00:00 +0000",
+      "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market."
     },
     {
-      "title": "Patronus AI lands $50M to build \u2018digital worlds\u2019 that stress-test AI agents",
+      "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-      "publishedAt": "Thu, 25 Jun 2026 20:19:25 +0000",
-      "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says."
+      "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "publishedAt": "Sat, 27 Jun 2026 01:01:37 +0000",
+      "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees."
     },
     {
-      "title": "Anthropic\u2019s Claude is winning over paid consumers, a market owned by ChatGPT",
+      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn\u2019t be the norm",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-      "publishedAt": "Thu, 25 Jun 2026 17:38:27 +0000",
-      "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows. "
+      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "publishedAt": "Fri, 26 Jun 2026 18:32:14 +0000",
+      "summary": "\u201cWe don\u2019t believe this kind of government access process should become the long-term default,\u201d says OpenAI. \u201cIt keeps the best tools from users, developers, enterprises, cyber defenders, and global pa"
     },
     {
-      "title": "General Intuition\u2019s $2.3B bet that video games can train AI agents for the real world",
+      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-      "publishedAt": "Thu, 25 Jun 2026 16:55:00 +0000",
-      "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition."
+      "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+      "publishedAt": "Fri, 26 Jun 2026 18:19:36 +0000",
+      "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring."
     }
   ],
   "techMovers": [
     {
-      "ticker": "NFLX",
-      "name": "Netflix Inc",
-      "price": 74.69,
-      "change": 3.79,
-      "changePercent": 5.35
+      "ticker": "SNOW",
+      "name": "Snowflake Inc",
+      "price": 248.96,
+      "change": 21.9,
+      "changePercent": 9.65
     },
     {
       "ticker": "MSFT",
       "name": "Microsoft Corp",
-      "price": 368.22,
-      "change": 15.39,
-      "changePercent": 4.36
+      "price": 372.97,
+      "change": 20.14,
+      "changePercent": 5.71
     },
     {
       "ticker": "UBER",
       "name": "Uber Technologies",
-      "price": 74.93,
-      "change": 2.68,
-      "changePercent": 3.72
+      "price": 76.2,
+      "change": 3.95,
+      "changePercent": 5.47
     },
     {
       "ticker": "CRM",
       "name": "Salesforce Inc",
-      "price": 155.71,
-      "change": 5.52,
-      "changePercent": 3.68
+      "price": 158.37,
+      "change": 8.18,
+      "changePercent": 5.45
     },
     {
-      "ticker": "SNOW",
-      "name": "Snowflake Inc",
-      "price": 235.3,
-      "change": 8.24,
-      "changePercent": 3.63
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "price": 149.06,
+      "change": 6.54,
+      "changePercent": 4.59
     }
   ],
-  "fearGreedIndex": 13,
+  "fearGreedIndex": 15,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 337.68,
-    "change": 7.17,
-    "changePercent": 2.17
+    "price": 336.23,
+    "change": 5.71,
+    "changePercent": 1.73
   },
   "sectors": [
     {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": 2.7
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 1.5
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 1.39
+      "changePercent": 3.03
     },
     {
       "ticker": "XLRE",
       "name": "Real Estate",
-      "changePercent": 1.12
+      "changePercent": 1.46
     },
     {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 1.03
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": 0.92
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": 0.9
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": 0.49
+      "changePercent": 0.76
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": 0.57
     },
     {
       "ticker": "XLF",
       "name": "Financials",
-      "changePercent": 0.48
+      "changePercent": 0.22
     },
     {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": -0.29
+      "changePercent": -0.46
     },
     {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": -0.48
+      "changePercent": -0.46
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": -1.0
+      "changePercent": -1.59
     },
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": -1.74
+      "changePercent": -1.87
     }
   ],
   "economicCalendar": [
