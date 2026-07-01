@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-06-30T15:24:04.358447+00:00",
+  "lastUpdated": "2026-07-01T15:38:52.753422+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Supreme Court's birthright ruling is major blow to Trump",
+      "title": "Three die in Mexico City World Cup celebrations",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 30 Jun 2026 14:37:54 GMT",
-      "summary": "The BBC\u2019s Gary O\u2019Donoghue explains what the court's landmark ruling means for the US president."
+      "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 01 Jul 2026 11:01:12 GMT",
+      "summary": "More than one million people took to the streets of Mexico City on Tuesday to mark the country's win over Ecuador."
     },
     {
-      "title": "US Supreme Court upholds bans on transgender women in female school and college sports",
+      "title": "Trump made more than $1bn from crypto in first year back in office",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 30 Jun 2026 15:15:09 GMT",
-      "summary": "It rules that states can ban transgender athletes from competing in women's and girls' sports."
+      "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 01 Jul 2026 13:52:20 GMT",
+      "summary": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.  "
     },
     {
-      "title": "Angry Venezuelans accuse government of negligence over earthquake response",
+      "title": "Fire at Antwerp apartment block kills at least six",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 30 Jun 2026 03:53:48 GMT",
-      "summary": "People in areas devastated by twin earthquakes say they need more support from the government."
+      "url": "https://www.bbc.co.uk/news/articles/c621dx0vl7xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 01 Jul 2026 13:10:23 GMT",
+      "summary": "A man is seen clambering through a window to escape black smoke in the block where some 200 people live."
     },
     {
-      "title": "Manhunt after bomb injures Ukrainian oligarch in Monaco",
+      "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 30 Jun 2026 13:22:15 GMT",
-      "summary": "The blast was caused by an explosive device which appeared to contain bolts and pellets, the head of Monaco's government said."
+      "url": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 30 Jun 2026 23:24:05 GMT",
+      "summary": "The collision left holes on the side of the tower, but Beijing has scrubbed other visible traces of the incident."
     },
     {
-      "title": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
+      "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 30 Jun 2026 13:51:52 GMT",
-      "summary": "Qatar's foreign ministry spokesman says no high-level meetings or direct talks between the US and Iran are scheduled."
+      "url": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 01 Jul 2026 06:03:08 GMT",
+      "summary": "Video footage shows rescuers cheering as the child is pulled from rubble in La Guaira state."
     }
   ],
   "cryptoAssets": [
@@ -43,211 +43,211 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 58250,
-      "change24h": -1.44058,
-      "marketCap": 1167991767192,
+      "price": 60191,
+      "change24h": 3.32402,
+      "marketCap": 1206866566318,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1562.53,
-      "change24h": -0.02683,
-      "marketCap": 188628525001,
+      "price": 1620.77,
+      "change24h": 3.74527,
+      "marketCap": 195600463112,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "MetaMask launches stablecoin yield account with card spending",
+      "title": "French banking giant Cr\u00e9dit Agricole launches EURXT euro stablecoin",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/metamask-money-account-musd-stablecoin-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 30 Jun 2026 14:00:00 +0000",
-      "summary": "MetaMask launches Money Account it says offers up to 4% variable APY on mUSD stablecoin balances and card spending, with DeFi-powered yield via vaults, excluding the UK and EU."
+      "url": "https://cointelegraph.com/news/credit-agricole-eurxt-euro-stablecoin-caceis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 01 Jul 2026 14:24:19 +0000",
+      "summary": "Cr\u00e9dit Agricole\u2019s CACEIS launches a euro-pegged stablecoin on Ethereum with 20.02 million tokens issued, targeting institutional flows and tokenized fund access."
     },
     {
-      "title": "OKX launches AI marketplace for autonomous agent economy",
+      "title": "Bank of Korea governor outlines tokenized bond vision, unified ledger plan",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/okx-ai-marketplace-autonomous-agent-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 30 Jun 2026 13:39:39 +0000",
-      "summary": "OKX launched a beta marketplace for the agentic economy, enabling AI agents to autonomously find work and collaborate with other agents."
+      "url": "https://cointelegraph.com/news/bank-korea-governor-tokenized-government-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 01 Jul 2026 13:36:13 +0000",
+      "summary": "The Bank of Korea\u2019s governor praised tokenized government bonds for easing the issuance and management of government debt during a panel discussion at the ECB Forum."
     },
     {
-      "title": "Strategy's new plan divides industry observers even as MSTR, STRC climb",
+      "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/strategy-new-plan-split-community-mstr-strc-climb?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 30 Jun 2026 13:14:47 +0000",
-      "summary": "Strategy\u2019s new Bitcoin capital framework draws Wall Street backing from Benchmark with a $570 per share target even as traders question long-term demand risk."
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 01 Jul 2026 13:12:41 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Theo becomes first crypto-native investor in Fidelity tokenized fund",
+      "title": "Circle CEO touts USDC's network advantage as OUSD emerges",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/fidelity-tokenized-fund-first-crypto-native-investor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 30 Jun 2026 13:00:00 +0000",
-      "summary": "The onchain capital markets platform allocated $20 million to Fidelity International's tokenized liquidity fund as tokenized Treasury products continue to attract institutional capital. "
+      "url": "https://cointelegraph.com/news/circle-ceo-challenges-ousd-revenue-sharing-governance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 01 Jul 2026 12:38:05 +0000",
+      "summary": "Bernstein said OUSD could become the strongest new challenger to the Circle-Tether duopoly, while flagging unresolved questions around governance, operations and revenue sharing."
     },
     {
-      "title": "Swan's Cory Klippsten sees record Bitcoin holder supply revealing early bottom",
+      "title": "Last-minute MiCA approvals mark end of EU transition period",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/record-bitcoin-holder-supply-early-bottom-swan-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 30 Jun 2026 12:44:21 +0000",
-      "summary": "The record Bitcoin supply held by long-term holders may suggest that the crypto market bottom will come early, according to Swan\u2019s Cory Klippsten."
+      "url": "https://cointelegraph.com/news/new-licenses-issued-eu-mica-grace-period-ends?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 01 Jul 2026 12:17:54 +0000",
+      "summary": "A final wave of MiCA approvals expanded Europe's roster of licensed crypto firms as the transitional period came to a close."
     }
   ],
   "aiNews": [
     {
-      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
-      "publishedAt": "Tue, 30 Jun 2026 15:08:42 +0000",
-      "summary": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company\u2019s API. "
+      "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+      "publishedAt": "Wed, 01 Jul 2026 14:25:23 +0000",
+      "summary": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said. "
     },
     {
-      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+      "title": "Gemini Spark, Google\u2019s agentic assistant, is now available on Mac",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
-      "publishedAt": "Tue, 30 Jun 2026 15:00:00 +0000",
-      "summary": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency."
+      "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+      "publishedAt": "Wed, 01 Jul 2026 14:20:19 +0000",
+      "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps."
     },
     {
-      "title": "Podcasting platform Riverside enters the newsletter publishing game",
+      "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
-      "publishedAt": "Tue, 30 Jun 2026 15:00:00 +0000",
-      "summary": "Users will be able use AI to create newsletters based on their recordings."
+      "url": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
+      "publishedAt": "Wed, 01 Jul 2026 14:00:00 +0000",
+      "summary": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&A on what it takes to build and scal"
     },
     {
-      "title": "Lumo, Proton\u2019s privacy-focused AI chatbot, gets an upgrade",
+      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
-      "publishedAt": "Tue, 30 Jun 2026 14:00:00 +0000",
-      "summary": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities. "
+      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+      "publishedAt": "Wed, 01 Jul 2026 13:43:07 +0000",
+      "summary": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Clou"
     },
     {
-      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
+      "title": "The \u2018Father of the Internet\u2019 is finally retiring",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
-      "publishedAt": "Tue, 30 Jun 2026 09:00:00 +0000",
-      "summary": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents."
+      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+      "publishedAt": "Wed, 01 Jul 2026 03:15:37 +0000",
+      "summary": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week. "
     }
   ],
   "techMovers": [
     {
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "price": 621.28,
+      "change": 57.99,
+      "changePercent": 10.29
+    },
+    {
       "ticker": "COIN",
       "name": "Coinbase",
-      "price": 144.07,
-      "change": -7.58,
-      "changePercent": -5.0
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 565.82,
-      "change": 26.33,
-      "changePercent": 4.88
-    },
-    {
-      "ticker": "AAPL",
-      "name": "Apple Inc",
-      "price": 288.52,
-      "change": 6.78,
-      "changePercent": 2.41
-    },
-    {
-      "ticker": "UBER",
-      "name": "Uber Technologies",
-      "price": 73.71,
-      "change": -1.79,
-      "changePercent": -2.37
+      "price": 160.79,
+      "change": 14.6,
+      "changePercent": 9.99
     },
     {
       "ticker": "CRM",
       "name": "Salesforce Inc",
-      "price": 155.02,
-      "change": -2.9,
-      "changePercent": -1.84
+      "price": 164.57,
+      "change": 7.91,
+      "changePercent": 5.05
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 554.75,
+      "change": -26.16,
+      "changePercent": -4.5
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft Corp",
+      "price": 385.0,
+      "change": 11.98,
+      "changePercent": 3.21
     }
   ],
-  "fearGreedIndex": 15,
+  "fearGreedIndex": 11,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 342.99,
-    "change": 1.35,
-    "changePercent": 0.39
+    "price": 350.23,
+    "change": 7.14,
+    "changePercent": 2.08
   },
   "sectors": [
     {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": 1.97
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": 1.29
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 0.4
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": 0.15
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": 3.11
     },
     {
       "ticker": "XLF",
       "name": "Financials",
-      "changePercent": -0.06
+      "changePercent": 2.08
     },
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": -0.21
+      "changePercent": 1.34
     },
     {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": -0.64
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": -0.89
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": -0.91
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": -1.37
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": 0.79
     },
     {
       "ticker": "XLRE",
       "name": "Real Estate",
-      "changePercent": -1.61
+      "changePercent": 0.6
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": 0.36
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": -0.06
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -0.07
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": -0.4
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": -1.17
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": -1.7
     }
   ],
   "economicCalendar": [
-    {
-      "date": "2026-07-03",
-      "time": "08:30 ET",
-      "event": "Non-Farm Payrolls",
-      "importance": "high",
-      "description": "Monthly jobs report - employment and wage data"
-    },
     {
       "date": "2026-07-12",
       "time": "08:30 ET",
       "event": "CPI Inflation Data",
       "importance": "high",
       "description": "Consumer Price Index - key inflation measure"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "08:30 ET",
+      "event": "Retail Sales",
+      "importance": "medium",
+      "description": "Monthly consumer spending data"
     },
     {
       "date": "2026-07-29",
