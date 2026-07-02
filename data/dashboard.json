@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-07-01T15:38:52.753422+00:00",
+  "lastUpdated": "2026-07-02T15:12:25.787213+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Three die in Mexico City World Cup celebrations",
+      "title": "Venezuela quake survivor pulled out alive after eight days",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 01 Jul 2026 11:01:12 GMT",
-      "summary": "More than one million people took to the streets of Mexico City on Tuesday to mark the country's win over Ecuador."
+      "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 02 Jul 2026 14:11:50 GMT",
+      "summary": "Hern\u00e1n Gil was trapped under a collapsed multi-storey car park, and encouraged them as they inched closer to him.\n"
     },
     {
-      "title": "Trump made more than $1bn from crypto in first year back in office",
+      "title": "'Most massive' Russian attack on Kyiv kills at least 20",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 01 Jul 2026 13:52:20 GMT",
-      "summary": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.  "
+      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 02 Jul 2026 14:43:07 GMT",
+      "summary": "Kyiv's mayor declares a day of mourning after the major drone and missile attack on the Ukrainian capital."
     },
     {
-      "title": "Fire at Antwerp apartment block kills at least six",
+      "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c621dx0vl7xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 01 Jul 2026 13:10:23 GMT",
-      "summary": "A man is seen clambering through a window to escape black smoke in the block where some 200 people live."
+      "url": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 02 Jul 2026 05:00:03 GMT",
+      "summary": "Once described as \"the godfather\" of French migrant camps, he has been working in a Leicestershire village."
     },
     {
-      "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
+      "title": "Canadian boy, 11, dies of rabies after waking to bat on his face",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 30 Jun 2026 23:24:05 GMT",
-      "summary": "The collision left holes on the side of the tower, but Beijing has scrubbed other visible traces of the incident."
+      "url": "https://www.bbc.co.uk/news/articles/c982m1m95q9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 02 Jul 2026 03:07:39 GMT",
+      "summary": "Rabies infections are rare in Canada. There have been 28 human deaths due to rabies in the country since 1924."
     },
     {
-      "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
+      "title": "China says pilot crashed small plane into skyscraper for 'personal reasons'",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 01 Jul 2026 06:03:08 GMT",
-      "summary": "Video footage shows rescuers cheering as the child is pulled from rubble in La Guaira state."
+      "url": "https://www.bbc.co.uk/news/articles/cr47129ky6do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 02 Jul 2026 09:21:31 GMT",
+      "summary": "The 66-year-old, who died in the crash, had anxiety and referenced \"ending his life\" in his diary."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 60191,
-      "change24h": 3.32402,
-      "marketCap": 1206866566318,
+      "price": 61465,
+      "change24h": 2.68079,
+      "marketCap": 1232467065522,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1620.77,
-      "change24h": 3.74527,
-      "marketCap": 195600463112,
+      "price": 1691.2,
+      "change24h": 5.05191,
+      "marketCap": 204139114531,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "French banking giant Cr\u00e9dit Agricole launches EURXT euro stablecoin",
+      "title": "The biggest blockchain upgrades still to come in 2026",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/credit-agricole-eurxt-euro-stablecoin-caceis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 01 Jul 2026 14:24:19 +0000",
-      "summary": "Cr\u00e9dit Agricole\u2019s CACEIS launches a euro-pegged stablecoin on Ethereum with 20.02 million tokens issued, targeting institutional flows and tokenized fund access."
+      "url": "https://cointelegraph.com/features/the-biggest-blockchain-upgrades-still-to-come-in-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 02 Jul 2026 13:30:00 +0000",
+      "summary": "From Ethereum\u2019s Glamsterdam to Solana\u2019s Alpenglow, 2026\u2019s most important developments are protocol upgrades, not price charts."
     },
     {
-      "title": "Bank of Korea governor outlines tokenized bond vision, unified ledger plan",
+      "title": "UK payments blueprint outlines tokenized payments for \u2018multi-money ecosystem\u2019",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bank-korea-governor-tokenized-government-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 01 Jul 2026 13:36:13 +0000",
-      "summary": "The Bank of Korea\u2019s governor praised tokenized government bonds for easing the issuance and management of government debt during a panel discussion at the ECB Forum."
+      "url": "https://cointelegraph.com/news/uk-payment-blueprint-tokenized-payments-multi-money-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 02 Jul 2026 13:04:23 +0000",
+      "summary": "UK regulators published an update to a national retail payments blueprint, calling for infrastructure support for tokenization and interoperability with new forms of digital money."
+    },
+    {
+      "title": "Aave brings V3 lending and GHO stablecoin to Monad ",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/aave-v3-lending-gho-stablecoin-monad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 02 Jul 2026 13:00:00 +0000",
+      "summary": "Aave launched its V3 lending protocol on Monad with 12 supported assets as the network commits $15 million in first-year incentives to build liquidity and adoption."
     },
     {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 01 Jul 2026 13:12:41 +0000",
+      "publishedAt": "Thu, 02 Jul 2026 12:34:45 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Circle CEO touts USDC's network advantage as OUSD emerges",
+      "title": "Standard Chartered, Circle bring USDC minting onto banking rails",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/circle-ceo-challenges-ousd-revenue-sharing-governance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 01 Jul 2026 12:38:05 +0000",
-      "summary": "Bernstein said OUSD could become the strongest new challenger to the Circle-Tether duopoly, while flagging unresolved questions around governance, operations and revenue sharing."
-    },
-    {
-      "title": "Last-minute MiCA approvals mark end of EU transition period",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/new-licenses-issued-eu-mica-grace-period-ends?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 01 Jul 2026 12:17:54 +0000",
-      "summary": "A final wave of MiCA approvals expanded Europe's roster of licensed crypto firms as the transitional period came to a close."
+      "url": "https://cointelegraph.com/news/standard-chartered-circle-usdc-minting-banking-rails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 02 Jul 2026 11:41:44 +0000",
+      "summary": "Standard Chartered and Circle launch bank-led USDC minting and redemption for institutions, starting in Dubai\u2019s DIFC with planned global expansion."
     }
   ],
   "aiNews": [
     {
-      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
-      "publishedAt": "Wed, 01 Jul 2026 14:25:23 +0000",
-      "summary": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said. "
+      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "publishedAt": "Thu, 02 Jul 2026 13:53:00 +0000",
+      "summary": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group."
     },
     {
-      "title": "Gemini Spark, Google\u2019s agentic assistant, is now available on Mac",
+      "title": "Yep, we\u2019re using OpenClaw to date now",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
-      "publishedAt": "Wed, 01 Jul 2026 14:20:19 +0000",
-      "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps."
+      "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+      "publishedAt": "Thu, 02 Jul 2026 12:00:00 +0000",
+      "summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials."
     },
     {
-      "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
+      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
-      "publishedAt": "Wed, 01 Jul 2026 14:00:00 +0000",
-      "summary": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&A on what it takes to build and scal"
+      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "publishedAt": "Thu, 02 Jul 2026 05:30:00 +0000",
+      "summary": "Neo is Bhavin Turakhia\u2019s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI."
     },
     {
-      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
-      "publishedAt": "Wed, 01 Jul 2026 13:43:07 +0000",
-      "summary": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Clou"
+      "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+      "publishedAt": "Wed, 01 Jul 2026 18:54:18 +0000",
+      "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless."
     },
     {
-      "title": "The \u2018Father of the Internet\u2019 is finally retiring",
+      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-      "publishedAt": "Wed, 01 Jul 2026 03:15:37 +0000",
-      "summary": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week. "
+      "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+      "publishedAt": "Wed, 01 Jul 2026 18:47:22 +0000",
+      "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies \u2014 the infrastructure a"
     }
   ],
   "techMovers": [
     {
-      "ticker": "META",
-      "name": "Meta Platforms",
-      "price": 621.28,
-      "change": 57.99,
-      "changePercent": 10.29
+      "ticker": "TSLA",
+      "name": "Tesla Inc",
+      "price": 396.79,
+      "change": -28.51,
+      "changePercent": -6.7
     },
     {
       "ticker": "COIN",
       "name": "Coinbase",
-      "price": 160.79,
-      "change": 14.6,
-      "changePercent": 9.99
+      "price": 167.09,
+      "change": 7.85,
+      "changePercent": 4.93
     },
     {
-      "ticker": "CRM",
-      "name": "Salesforce Inc",
-      "price": 164.57,
-      "change": 7.91,
-      "changePercent": 5.05
+      "ticker": "AAPL",
+      "name": "Apple Inc",
+      "price": 306.74,
+      "change": 12.36,
+      "changePercent": 4.2
+    },
+    {
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "price": 588.0,
+      "change": -24.91,
+      "changePercent": -4.06
     },
     {
       "ticker": "AMD",
       "name": "AMD Inc",
-      "price": 554.75,
-      "change": -26.16,
-      "changePercent": -4.5
-    },
-    {
-      "ticker": "MSFT",
-      "name": "Microsoft Corp",
-      "price": 385.0,
-      "change": 11.98,
-      "changePercent": 3.21
+      "price": 519.46,
+      "change": -21.42,
+      "changePercent": -3.96
     }
   ],
-  "fearGreedIndex": 11,
+  "fearGreedIndex": 19,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 350.23,
-    "change": 7.14,
-    "changePercent": 2.08
+    "price": 357.81,
+    "change": 6.73,
+    "changePercent": 1.92
   },
   "sectors": [
     {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 3.11
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 2.08
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 1.34
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 0.79
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 0.6
-    },
-    {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": 0.36
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": -0.06
+      "changePercent": 2.54
     },
     {
       "ticker": "XLP",
       "name": "Consumer Staples",
-      "changePercent": -0.07
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": -0.4
+      "changePercent": 1.75
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": -1.17
+      "changePercent": 1.28
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": 1.17
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 1.02
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": 1.02
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": 0.97
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": 0.2
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -0.59
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -0.84
     },
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": -1.7
+      "changePercent": -1.71
     }
   ],
   "economicCalendar": [
