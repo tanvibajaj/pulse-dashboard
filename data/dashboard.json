@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-07-02T15:12:25.787213+00:00",
+  "lastUpdated": "2026-07-03T15:07:52.021195+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Venezuela quake survivor pulled out alive after eight days",
+      "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 02 Jul 2026 14:11:50 GMT",
-      "summary": "Hern\u00e1n Gil was trapped under a collapsed multi-storey car park, and encouraged them as they inched closer to him.\n"
+      "url": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 03 Jul 2026 10:23:32 GMT",
+      "summary": "Forecasters are warning of further extreme temperatures on the continent in the next few days."
     },
     {
-      "title": "'Most massive' Russian attack on Kyiv kills at least 20",
+      "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 02 Jul 2026 14:43:07 GMT",
-      "summary": "Kyiv's mayor declares a day of mourning after the major drone and missile attack on the Ukrainian capital."
+      "url": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 03 Jul 2026 14:59:40 GMT",
+      "summary": "Officials believe the suspect may not have acted alone and spent days casing out scene of the attack."
     },
     {
-      "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
+      "title": "Nasa launches mission to save falling space telescope",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 02 Jul 2026 05:00:03 GMT",
-      "summary": "Once described as \"the godfather\" of French migrant camps, he has been working in a Leicestershire village."
+      "url": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 03 Jul 2026 10:28:17 GMT",
+      "summary": "A Nasa-funded robot has blasted off to catch a falling telescope in mid-orbit and blast it back to safety before it burns up."
     },
     {
-      "title": "Canadian boy, 11, dies of rabies after waking to bat on his face",
+      "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c982m1m95q9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 02 Jul 2026 03:07:39 GMT",
-      "summary": "Rabies infections are rare in Canada. There have been 28 human deaths due to rabies in the country since 1924."
+      "url": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 02 Jul 2026 23:15:22 GMT",
+      "summary": "The BBC travels to the city of Bandar Abbas - the first international journalists to visit the Iranian side of the strait."
     },
     {
-      "title": "China says pilot crashed small plane into skyscraper for 'personal reasons'",
+      "title": "Iran begins public mourning for Ayatollah killed in February",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cr47129ky6do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 02 Jul 2026 09:21:31 GMT",
-      "summary": "The 66-year-old, who died in the crash, had anxiety and referenced \"ending his life\" in his diary."
+      "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 03 Jul 2026 08:50:21 GMT",
+      "summary": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla from Friday ahead of days-long funeral events."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 61465,
-      "change24h": 2.68079,
-      "marketCap": 1232467065522,
+      "price": 62217,
+      "change24h": 1.23992,
+      "marketCap": 1245788715551,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1691.2,
-      "change24h": 5.05191,
-      "marketCap": 204139114531,
+      "price": 1738.76,
+      "change24h": 2.80413,
+      "marketCap": 209419739481,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "The biggest blockchain upgrades still to come in 2026",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/features/the-biggest-blockchain-upgrades-still-to-come-in-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 02 Jul 2026 13:30:00 +0000",
-      "summary": "From Ethereum\u2019s Glamsterdam to Solana\u2019s Alpenglow, 2026\u2019s most important developments are protocol upgrades, not price charts."
-    },
-    {
-      "title": "UK payments blueprint outlines tokenized payments for \u2018multi-money ecosystem\u2019",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/uk-payment-blueprint-tokenized-payments-multi-money-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 02 Jul 2026 13:04:23 +0000",
-      "summary": "UK regulators published an update to a national retail payments blueprint, calling for infrastructure support for tokenization and interoperability with new forms of digital money."
-    },
-    {
-      "title": "Aave brings V3 lending and GHO stablecoin to Monad ",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/aave-v3-lending-gho-stablecoin-monad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 02 Jul 2026 13:00:00 +0000",
-      "summary": "Aave launched its V3 lending protocol on Monad with 12 supported assets as the network commits $15 million in first-year incentives to build liquidity and adoption."
-    },
-    {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 02 Jul 2026 12:34:45 +0000",
+      "publishedAt": "Fri, 03 Jul 2026 14:20:46 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Standard Chartered, Circle bring USDC minting onto banking rails",
+      "title": "EU crypto rulebook faces enforcement challenge as MiCA transition ends",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/standard-chartered-circle-usdc-minting-banking-rails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 02 Jul 2026 11:41:44 +0000",
-      "summary": "Standard Chartered and Circle launch bank-led USDC minting and redemption for institutions, starting in Dubai\u2019s DIFC with planned global expansion."
+      "url": "https://cointelegraph.com/news/eu-crypto-rulebook-enforcement-challenge-mica-transition-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 03 Jul 2026 13:59:16 +0000",
+      "summary": "Lawyers and industry executives expect EU regulators to enforce MiCA differently as unauthorized crypto companies are required to wind down operations."
+    },
+    {
+      "title": "Upbit says it only expressed interest in future OUSD participation",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/upbit-clarifies-ousd-role-open-standard-partner-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 03 Jul 2026 13:19:49 +0000",
+      "summary": "Upbit said it only expressed interest in potentially joining the OpenStandard ecosystem in the future, as several South Korean firms distanced themselves from the OUSD initiative."
+    },
+    {
+      "title": "Belgian police arrest suspected phishing gang leader tied to $572K theft",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/belgian-police-arrest-phishing-gang-leader-572k-stolen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 03 Jul 2026 12:43:47 +0000",
+      "summary": "Belgian authorities say a European phishing gang stole over $572,000 from victims before laundering the proceeds through cryptocurrency."
+    },
+    {
+      "title": "StanChart joins ESMA's first MiCA register update since deadline",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/esma-mica-register-new-casps-stanchart-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 03 Jul 2026 12:02:41 +0000",
+      "summary": "ESMA publishes its first post-deadline MiCA register update, adding 37 crypto-asset service providers, including Standard Chartered and FalconX."
     }
   ],
   "aiNews": [
     {
-      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "title": "Mark Zuckerberg tells staff that AI agents haven\u2019t progressed as quickly as he\u2019d hoped",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-      "publishedAt": "Thu, 02 Jul 2026 13:53:00 +0000",
-      "summary": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group."
+      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "publishedAt": "Thu, 02 Jul 2026 23:38:10 +0000",
+      "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated."
     },
     {
-      "title": "Yep, we\u2019re using OpenClaw to date now",
+      "title": "Jersey Mike\u2019s IPO illustrates how bad the AI hype has become",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
-      "publishedAt": "Thu, 02 Jul 2026 12:00:00 +0000",
-      "summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials."
+      "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+      "publishedAt": "Thu, 02 Jul 2026 20:11:59 +0000",
+      "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold. "
     },
     {
-      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+      "title": "Meta quietly launches vibe-coded gaming app Pocket",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
-      "publishedAt": "Thu, 02 Jul 2026 05:30:00 +0000",
-      "summary": "Neo is Bhavin Turakhia\u2019s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI."
+      "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+      "publishedAt": "Thu, 02 Jul 2026 18:44:02 +0000",
+      "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts."
     },
     {
-      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+      "title": "Anthropic is discussing a new custom chip with Samsung",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
-      "publishedAt": "Wed, 01 Jul 2026 18:54:18 +0000",
-      "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless."
+      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "publishedAt": "Thu, 02 Jul 2026 18:31:09 +0000",
+      "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom. "
     },
     {
-      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
-      "publishedAt": "Wed, 01 Jul 2026 18:47:22 +0000",
-      "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies \u2014 the infrastructure a"
+      "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "publishedAt": "Thu, 02 Jul 2026 15:20:51 +0000",
+      "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company\u2019s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI "
     }
   ],
   "techMovers": [
     {
       "ticker": "TSLA",
       "name": "Tesla Inc",
-      "price": 396.79,
-      "change": -28.51,
-      "changePercent": -6.7
-    },
-    {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "price": 167.09,
-      "change": 7.85,
-      "changePercent": 4.93
-    },
-    {
-      "ticker": "AAPL",
-      "name": "Apple Inc",
-      "price": 306.74,
-      "change": 12.36,
-      "changePercent": 4.2
+      "price": 393.45,
+      "change": -31.85,
+      "changePercent": -7.49
     },
     {
       "ticker": "META",
       "name": "Meta Platforms",
-      "price": 588.0,
-      "change": -24.91,
-      "changePercent": -4.06
+      "price": 582.9,
+      "change": -30.01,
+      "changePercent": -4.9
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc",
+      "price": 308.63,
+      "change": 14.25,
+      "changePercent": 4.84
+    },
+    {
+      "ticker": "NFLX",
+      "name": "Netflix Inc",
+      "price": 77.65,
+      "change": 3.46,
+      "changePercent": 4.66
     },
     {
       "ticker": "AMD",
       "name": "AMD Inc",
-      "price": 519.46,
-      "change": -21.42,
-      "changePercent": -3.96
+      "price": 517.82,
+      "change": -23.06,
+      "changePercent": -4.26
     }
   ],
-  "fearGreedIndex": 19,
+  "fearGreedIndex": 21,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 357.81,
-    "change": 6.73,
-    "changePercent": 1.92
+    "price": 362.13,
+    "change": 11.05,
+    "changePercent": 3.15
   },
   "sectors": [
     {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": 2.54
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 1.75
+      "changePercent": 2.63
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": 1.28
+      "changePercent": 2.21
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": 2.03
     },
     {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": 1.17
+      "changePercent": 1.94
     },
     {
       "ticker": "XLF",
       "name": "Financials",
-      "changePercent": 1.02
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": 1.02
+      "changePercent": 1.53
     },
     {
       "ticker": "XLRE",
       "name": "Real Estate",
-      "changePercent": 0.97
+      "changePercent": 1.13
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": 0.78
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": 0.2
+      "changePercent": 0.3
     },
     {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": -0.59
+      "changePercent": -0.13
     },
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": -0.84
+      "changePercent": -0.82
     },
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": -1.71
+      "changePercent": -2.71
     }
   ],
   "economicCalendar": [
