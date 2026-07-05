@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-07-04T14:26:26.612248+00:00",
+  "lastUpdated": "2026-07-05T14:38:31.022878+00:00",
   "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler",
+      "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c982ry2pen3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 04 Jul 2026 02:26:54 GMT",
-      "summary": "The star-studded celebration saw several streets in Midtown Manhattan shut, as hordes of fans gathered outside the arena. "
+      "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 05 Jul 2026 12:29:18 GMT",
+      "summary": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the onset of the US-Israel war with Iran."
     },
     {
-      "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia ",
+      "title": "US marks 250th birthday with fireworks, flyovers and extreme weather",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 04 Jul 2026 02:57:48 GMT",
-      "summary": "More than 165 million people are enduring dangerous heat and humidity, with temperatures expected to stay at 38C (100F) for several days."
+      "url": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 05 Jul 2026 08:24:32 GMT",
+      "summary": "US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history."
     },
     {
-      "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
+      "title": "Evacuations in Guam as super typhoon Bavi approaches",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 04 Jul 2026 07:52:55 GMT",
-      "summary": "The daughter of disgraced president Alberto Fujimori is declared winner of tight race nearly a month after voting took place."
+      "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 05 Jul 2026 09:26:56 GMT",
+      "summary": "The storm is forecast to bring winds in excess of 160mph and waves nearly 11m high when it makes landfall on Monday."
     },
     {
-      "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
+      "title": "Australia probes mystery space balls that washed up on beach",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 04 Jul 2026 09:45:55 GMT",
-      "summary": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla until Monday, before travelling across Iran and Iraq."
+      "url": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 05 Jul 2026 12:55:58 GMT",
+      "summary": "Officials are searching for the origins of six pieces of space debris discovered on Forrest Beach in Queensland."
     },
     {
-      "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+      "title": "Chinese underground church figure Jin Mingri freed from prison",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 04 Jul 2026 14:07:31 GMT",
-      "summary": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\"."
+      "url": "https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 05 Jul 2026 05:58:21 GMT",
+      "summary": "The Zion Church founder's release comes after a direct plea to Xi Jinping from Donald Trump."
     }
   ],
   "cryptoAssets": [
@@ -43,93 +43,93 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 62628,
-      "change24h": 1.27974,
-      "marketCap": 1255672933108,
+      "price": 62638,
+      "change24h": 0.08979,
+      "marketCap": 1256035953220,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1770.6,
-      "change24h": 2.25418,
-      "marketCap": 213656099512,
+      "price": 1764.75,
+      "change24h": -0.15247,
+      "marketCap": 212970780629,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Bollinger Bands creator eyes Bitcoin bear-market end, 'W'-shaped reversal",
+      "title": "South Africa proposes crypto tax guidance under existing framework",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bollinger-bands-creator-eyes-bitcoin-bear-market-end-w-shaped-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 04 Jul 2026 13:09:16 +0000",
-      "summary": "Bitcoin price strength could \"break\" the entire downtrend if the reversal pattern completed, John Bollinger suggested in light of the BTC rebound."
+      "url": "https://cointelegraph.com/news/south-africa-proposes-crypto-tax-draft-guidance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 05 Jul 2026 11:52:47 +0000",
+      "summary": "South Africa\u2019s tax authority proposed draft guidance clarifying how crypto assets are taxed under existing income and capital gains tax rules, seeking public input until Aug. 31."
+    },
+    {
+      "title": "Binance outflows triple to $1.2B as ETH withdrawals hit 3-year high",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/binance-outflows-1-23-billion-eth-withdrawals-3-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 05 Jul 2026 08:33:39 +0000",
+      "summary": "Binance recorded $1.23 billion in weekly net outflows, up 207% from the previous week, as Ethereum withdrawals surged to a three-year high."
     },
     {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 04 Jul 2026 12:04:07 +0000",
+      "publishedAt": "Sun, 05 Jul 2026 03:51:24 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Revolut to delist USDT in August, citing regulatory and risk concerns",
+      "title": "Vitalik Buterin shares top priorities for new 'Lean Ethereum' strawmap ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/revolut-usdt-delisting-regulatory-risk-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 04 Jul 2026 11:25:34 +0000",
-      "summary": "Revolut notified some customers it will delist USDT after Aug. 31, with remaining holdings automatically converted into users\u2019 base currency."
+      "url": "https://cointelegraph.com/news/vitalik-buterin-shares-top-priorities-for-new-lean-ethereum-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 05 Jul 2026 03:50:36 +0000",
+      "summary": "Part of the Ethereum Foundation\u2019s plan to make Ethereum more private and scalable is to introduce a new virtual machine, with leanISA and RISC-V among the top candidates.\n"
     },
     {
-      "title": "Tim Draper denies moving Bitcoin, reiterates $250,000 BTC prediction",
+      "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/tim-draper-denies-moving-bitcoin-250k-btc-prediction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 04 Jul 2026 08:31:02 +0000",
-      "summary": "Tim Draper denies moving Bitcoin after blockchain analysts linked him to a wallet that transferred 1,000 BTC to Coinbase Prime."
-    },
-    {
-      "title": "Bitcoin profit and loss ratio falls to 43-month low",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-realized-profit-loss-ratio-falls-to-lowest-level-since-2022-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 04 Jul 2026 05:05:19 +0000",
-      "summary": "Bitwise chief investment officer Matt Hougan said the bottom is \u201ccloser than ever,\u201d while a Swan Bitcoin analyst suggested investors buy now at a discount rather than overpaying later."
+      "url": "https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 05 Jul 2026 00:50:30 +0000",
+      "summary": "Moonbeam didn\u2019t provide a timeline for when it would launch the AI agent platform but told GLMR holders to bridge their tokens from the Polkadot parachain to Base before July 31."
     }
   ],
   "aiNews": [
+    {
+      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "publishedAt": "Sat, 04 Jul 2026 20:55:25 +0000",
+      "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?"
+    },
+    {
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "publishedAt": "Sat, 04 Jul 2026 18:00:05 +0000",
+      "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves."
+    },
+    {
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "publishedAt": "Sat, 04 Jul 2026 16:32:08 +0000",
+      "summary": "Alibaba has reportedly classified Claude Code as high-risk software."
+    },
+    {
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "publishedAt": "Sat, 04 Jul 2026 15:51:32 +0000",
+      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to \u201cput frontier AI in the hands of everyone.\u201d"
+    },
     {
       "title": "The only AI glossary you\u2019ll need this year",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
       "publishedAt": "Fri, 03 Jul 2026 21:20:00 +0000",
       "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
-    },
-    {
-      "title": "The browser wars aren\u2019t about search anymore \u2014 here are the best alternatives to Chrome and Safari",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "publishedAt": "Fri, 03 Jul 2026 18:43:00 +0000",
-      "summary": "We\u2019ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
-    },
-    {
-      "title": "Mark Zuckerberg tells staff that AI agents haven\u2019t progressed as quickly as he\u2019d hoped",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-      "publishedAt": "Thu, 02 Jul 2026 23:38:10 +0000",
-      "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated."
-    },
-    {
-      "title": "Jersey Mike\u2019s IPO illustrates how bad the AI hype has become",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-      "publishedAt": "Thu, 02 Jul 2026 20:11:59 +0000",
-      "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold. "
-    },
-    {
-      "title": "Meta quietly launches vibe-coded gaming app Pocket",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-      "publishedAt": "Thu, 02 Jul 2026 18:44:02 +0000",
-      "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts."
     }
   ],
   "techMovers": [
@@ -169,7 +169,7 @@
       "changePercent": -4.26
     }
   ],
-  "fearGreedIndex": 22,
+  "fearGreedIndex": 23,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
