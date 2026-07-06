@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-07-05T14:38:31.022878+00:00",
-  "marketStatus": "Closed",
+  "lastUpdated": "2026-07-06T16:17:37.785651+00:00",
+  "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+      "title": "Trump confirms he asked Fifa to review Balogun ban",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 05 Jul 2026 12:29:18 GMT",
-      "summary": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the onset of the US-Israel war with Iran."
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 06 Jul 2026 15:27:59 GMT",
+      "summary": "President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup."
     },
     {
-      "title": "US marks 250th birthday with fireworks, flyovers and extreme weather",
+      "title": "Ukraine warns of interceptor missile shortage as 22 killed in Kyiv region",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 05 Jul 2026 08:24:32 GMT",
-      "summary": "US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history."
+      "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 06 Jul 2026 15:09:57 GMT",
+      "summary": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones. "
     },
     {
-      "title": "Evacuations in Guam as super typhoon Bavi approaches",
+      "title": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 05 Jul 2026 09:26:56 GMT",
-      "summary": "The storm is forecast to bring winds in excess of 160mph and waves nearly 11m high when it makes landfall on Monday."
+      "url": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 06 Jul 2026 12:07:44 GMT",
+      "summary": "Many people were waving Iranian flags and red banners symbolising vengeance for the former supreme leader's war death."
     },
     {
-      "title": "Australia probes mystery space balls that washed up on beach",
+      "title": "Wildfire in southern France forces evacuation of 10,000 people",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 05 Jul 2026 12:55:58 GMT",
-      "summary": "Officials are searching for the origins of six pieces of space debris discovered on Forrest Beach in Queensland."
+      "url": "https://www.bbc.co.uk/news/articles/crlwweye9glo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 06 Jul 2026 13:08:23 GMT",
+      "summary": "Tour de France organisers ban spectators from stage three as a wildfire hits the Pyr\u00e9n\u00e9es-Orientales region."
     },
     {
-      "title": "Chinese underground church figure Jin Mingri freed from prison",
+      "title": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 05 Jul 2026 05:58:21 GMT",
-      "summary": "The Zion Church founder's release comes after a direct plea to Xi Jinping from Donald Trump."
+      "url": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 06 Jul 2026 05:04:28 GMT",
+      "summary": "Fabiana was trapped in the rubble of a 10-storey residential building after two earthquakes rocked Venezuela in June."
     }
   ],
   "cryptoAssets": [
@@ -43,59 +43,80 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 62638,
-      "change24h": 0.08979,
-      "marketCap": 1256035953220,
+      "price": 63705,
+      "change24h": 1.691,
+      "marketCap": 1277464630017,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1764.75,
-      "change24h": -0.15247,
-      "marketCap": 212970780629,
+      "price": 1799.22,
+      "change24h": 1.52991,
+      "marketCap": 217152509812,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "South Africa proposes crypto tax guidance under existing framework",
+      "title": "Bitcoin price falls up to 4% on Strategy BTC sale as trader sees Summer 2022 repeat",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/south-africa-proposes-crypto-tax-draft-guidance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 05 Jul 2026 11:52:47 +0000",
-      "summary": "South Africa\u2019s tax authority proposed draft guidance clarifying how crypto assets are taxed under existing income and capital gains tax rules, seeking public input until Aug. 31."
-    },
-    {
-      "title": "Binance outflows triple to $1.2B as ETH withdrawals hit 3-year high",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/binance-outflows-1-23-billion-eth-withdrawals-3-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 05 Jul 2026 08:33:39 +0000",
-      "summary": "Binance recorded $1.23 billion in weekly net outflows, up 207% from the previous week, as Ethereum withdrawals surged to a three-year high."
+      "url": "https://cointelegraph.com/markets/bitcoin-price-falls-on-strategy-btc-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 06 Jul 2026 15:22:45 +0000",
+      "summary": "Bitcoin wiped out much of its latest gains thanks to a market reaction to Strategy's 3,600 BTC sell-off, but analysis eyed a potential buy announcement in the coming days."
     },
     {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 05 Jul 2026 03:51:24 +0000",
+      "publishedAt": "Mon, 06 Jul 2026 14:06:57 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Vitalik Buterin shares top priorities for new 'Lean Ethereum' strawmap ",
+      "title": "FCA warns of major shakeup as AI agents meet tokenized money",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/vitalik-buterin-shares-top-priorities-for-new-lean-ethereum-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 05 Jul 2026 03:50:36 +0000",
-      "summary": "Part of the Ethereum Foundation\u2019s plan to make Ethereum more private and scalable is to introduce a new virtual machine, with leanISA and RISC-V among the top candidates.\n"
+      "url": "https://cointelegraph.com/news/fca-warns-of-major-shakeup-as-ai-agents-meet-tokenized-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 06 Jul 2026 13:50:06 +0000",
+      "summary": "The FCA\u2019s vision for agentic AI points toward a financial system where programmable money and tokenized assets could play a much larger role."
     },
     {
-      "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
+      "title": "Crypto hacks fell 47% in H1 but ecosystem is no safer: CertiK",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 05 Jul 2026 00:50:30 +0000",
-      "summary": "Moonbeam didn\u2019t provide a timeline for when it would launch the AI agent platform but told GLMR holders to bridge their tokens from the Polkadot parachain to Base before July 31."
+      "url": "https://cointelegraph.com/news/crypto-hacks-fell-47-percent-in-h1-but-ecosystem-is-no-safer-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 06 Jul 2026 13:00:00 +0000",
+      "summary": "Crypto exploits rose 59% quarter-on-quarter to $807.5 million in Q2, due partly to the KelpDAO and Drift Protocol exploits, which came at the hands of North Korean hackers."
+    },
+    {
+      "title": "Strategy sells 3,588 Bitcoin for $216M to fund dividends, keeps $2.55B reserve intact",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/strategy-sells-bitcoin-bernstein-btc-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 06 Jul 2026 12:59:04 +0000",
+      "summary": "Strategy sold $216 million in Bitcoin to fund its dividend payments, as wealth manager Bernstein maintained its year-end Bitcoin price target of $150,000."
     }
   ],
   "aiNews": [
+    {
+      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+      "publishedAt": "Mon, 06 Jul 2026 15:32:43 +0000",
+      "summary": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday \u2014 the latest in a series of layoffs that\u2019s stoking fears of AI replacing jobs.\u00a0The layoffs will hit Xbox and commercial sal"
+    },
+    {
+      "title": "Station F ramps up as a launchpad for Europe\u2019s hottest AI startups",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "publishedAt": "Mon, 06 Jul 2026 13:00:00 +0000",
+      "summary": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping sto"
+    },
+    {
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "publishedAt": "Sun, 05 Jul 2026 17:43:36 +0000",
+      "summary": "These may be the last days of Amazon\u2019s Mechanical Turk."
+    },
     {
       "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
       "source": "TechCrunch",
@@ -109,129 +130,108 @@
       "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
       "publishedAt": "Sat, 04 Jul 2026 18:00:05 +0000",
       "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves."
-    },
-    {
-      "title": "Alibaba reportedly bans employees from using Claude Code",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-      "publishedAt": "Sat, 04 Jul 2026 16:32:08 +0000",
-      "summary": "Alibaba has reportedly classified Claude Code as high-risk software."
-    },
-    {
-      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-      "publishedAt": "Sat, 04 Jul 2026 15:51:32 +0000",
-      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to \u201cput frontier AI in the hands of everyone.\u201d"
-    },
-    {
-      "title": "The only AI glossary you\u2019ll need this year",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "publishedAt": "Fri, 03 Jul 2026 21:20:00 +0000",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
     }
   ],
   "techMovers": [
     {
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 563.45,
+      "change": 45.63,
+      "changePercent": 8.81
+    },
+    {
       "ticker": "TSLA",
       "name": "Tesla Inc",
-      "price": 393.45,
-      "change": -31.85,
-      "changePercent": -7.49
+      "price": 417.95,
+      "change": 24.5,
+      "changePercent": 6.23
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "price": 375.47,
+      "change": 15.02,
+      "changePercent": 4.17
+    },
+    {
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "price": 170.04,
+      "change": 4.57,
+      "changePercent": 2.76
     },
     {
       "ticker": "META",
       "name": "Meta Platforms",
-      "price": 582.9,
-      "change": -30.01,
-      "changePercent": -4.9
-    },
-    {
-      "ticker": "AAPL",
-      "name": "Apple Inc",
-      "price": 308.63,
-      "change": 14.25,
-      "changePercent": 4.84
-    },
-    {
-      "ticker": "NFLX",
-      "name": "Netflix Inc",
-      "price": 77.65,
-      "change": 3.46,
-      "changePercent": 4.66
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 517.82,
-      "change": -23.06,
-      "changePercent": -4.26
+      "price": 595.92,
+      "change": 13.02,
+      "changePercent": 2.23
     }
   ],
-  "fearGreedIndex": 23,
+  "fearGreedIndex": 24,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 362.13,
-    "change": 11.05,
-    "changePercent": 3.15
+    "price": 355.1,
+    "change": -7.03,
+    "changePercent": -1.94
   },
   "sectors": [
     {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": 2.63
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": 2.21
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 2.03
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 1.94
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 1.53
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 1.13
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": 0.78
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": 2.39
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": 0.3
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": -0.13
+      "changePercent": 0.76
     },
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": -0.82
+      "changePercent": 0.61
     },
     {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": -2.71
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 0.45
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": 0.35
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": -0.18
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -1.03
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -1.07
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": -1.34
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -1.49
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -1.91
     }
   ],
   "economicCalendar": [
