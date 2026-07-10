@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-07-09T15:54:31.243283+00:00",
+  "lastUpdated": "2026-07-10T15:29:36.963938+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Tehran launches more strikes after explosions reported in southern Iran",
+      "title": "Huge crowds in Mashhad as Iran's late supreme leader is buried",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 09 Jul 2026 13:29:56 GMT",
-      "summary": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday."
+      "url": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 09 Jul 2026 23:18:18 GMT",
+      "summary": "Ali Khamenei was buried at the Imam Reza shrine, Iran's holiest Shia Muslim site, ending six days of public mourning ceremonies."
     },
     {
-      "title": "Big fall in Strait of Hormuz tanker and cargo ship sailings after new strikes",
+      "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 09 Jul 2026 14:41:54 GMT",
-      "summary": "Data shows a decline in the number of ships - many carrying oil and gas - going through the waterway after attacks this week."
+      "url": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 09 Jul 2026 20:47:41 GMT",
+      "summary": "Two men with links to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in woods."
     },
     {
-      "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
+      "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 09 Jul 2026 14:37:19 GMT",
-      "summary": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\"."
+      "url": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 10 Jul 2026 13:53:11 GMT",
+      "summary": "Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades."
     },
     {
-      "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
+      "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 09 Jul 2026 15:21:17 GMT",
-      "summary": "The attacks appear to be the latest phase of Ukraine's bid to choke off supplies and routes into and out of occupied Crimea."
+      "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 10 Jul 2026 12:31:08 GMT",
+      "summary": "Ryanair confirm a passenger was given medical treatment after an incident on a Malta Air flight, which is owned by Ryanair. "
     },
     {
-      "title": "Factory fire kills at least 28 in China's 'shoe capital'",
+      "title": "China lands reusable rocket for first time, state media says",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cx2vz51v2pjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 09 Jul 2026 15:14:35 GMT",
-      "summary": "Footage shows huge flames rising from a building and thick, black smoke rising into the sky."
+      "url": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 10 Jul 2026 06:44:21 GMT",
+      "summary": "It follows similar landings of reusable rockets by US-owned companies SpaceX and Blue Origin."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 62940,
-      "change24h": 2.09795,
-      "marketCap": 1262198794977,
+      "price": 64097,
+      "change24h": 1.72842,
+      "marketCap": 1285701059627,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1740.03,
-      "change24h": 1.12348,
-      "marketCap": 209993507272,
+      "price": 1793.2,
+      "change24h": 2.86234,
+      "marketCap": 216432449432,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Bitcoin\u2019s quantum dilemma: Bigger blocks or STARK proofs? ",
+      "title": "Bitcoin whales sent BTC price to $64K as Coinbase Premium broke key level: CryptoQuant",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/features/bigger-blocks-or-stark-proofs-bitcoins-quantum-dilemma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 09 Jul 2026 13:30:00 +0000",
-      "summary": "Dealing with large post quantum signatures slowing down Bitcoin can be solved with bigger blocks, or aggregating signatures using STARK proofs."
+      "url": "https://cointelegraph.com/markets/bitcoin-whales-sent-btc-price-to-64k-as-coinbase-premium-broke-key-level-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 10 Jul 2026 14:59:30 +0000",
+      "summary": "Bitcoin price gains came thanks to US whales propeling the Coinbase Premium above a key trend line, new analysis from CryptoQuant reported. "
     },
     {
-      "title": "Hong Kong regulator orders new anti-phishing measures for crypto platforms",
+      "title": "A16z\u2019s Andreessen lands Federal Reserve role as AI reshapes policy debate",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/hong-kong-regulator-anti-phishing-measures-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 09 Jul 2026 12:53:44 +0000",
-      "summary": "Hong Kong\u2019s regulator has ordered crypto platforms and online brokers to meet newly issued phishing-resistant login requirements within the next 12 months."
+      "url": "https://cointelegraph.com/news/federal-reserve-a16z-co-founder-monetary-policy-task-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 10 Jul 2026 14:12:53 +0000",
+      "summary": "The Fed named a16z co-founder Marc Andreessen to co-lead an AI productivity and jobs task force under Chair Kevin Warsh\u2019s policy review."
     },
     {
-      "title": "Sony Bank gets US regulator nod to issue stablecoins",
+      "title": "MiCA licensing only the beginning as crypto custodians face scrutiny",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/sony-bank-preliminary-approval-us-stablecoin-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 09 Jul 2026 11:18:41 +0000",
-      "summary": "Sony Bank received preliminary approval from the Office of the Comptroller of the Currency to establish a US stablecoin issuance business, with $40 million in starting capital."
+      "url": "https://cointelegraph.com/news/mica-only-beginning-crypto-custodians-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 10 Jul 2026 13:54:50 +0000",
+      "summary": "A MiCA license allows crypto firms to operate in the EU, but the ESMA\u2019s review will test whether custodians can meet the required security and resilience standards."
     },
     {
-      "title": "Interpol operation exposes $122M crypto wallet tied to romance scam laundering",
+      "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/interpol-122m-crypto-flows-romance-scam-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 09 Jul 2026 11:18:21 +0000",
-      "summary": "Interpol said a suspect's crypto wallet processed over $122.5 million in 10 months as authorities uncovered the scheme during a global anti-fraud operation that led to 5,811 arrests."
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 10 Jul 2026 13:46:13 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Revolut says USDT delisting is limited to EEA, Switzerland",
+      "title": "Will the crypto lobby's $189M campaign get CLARITY over the line?",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/revolut-usdt-delisting-limited-eea-switzerland?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 09 Jul 2026 10:23:24 +0000",
-      "summary": "Revolut said USDT support remains unchanged outside EEA and Switzerland as it winds down the stablecoin offering in selected European markets."
+      "url": "https://cointelegraph.com/features/how-crypto-built-political-influence-in-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 10 Jul 2026 13:30:00 +0000",
+      "summary": "As the CLARITY Act advances, crypto's growing political influence in Washington is under scrutiny. But the crypto lobby's massive campaign spend is only part of the story."
     }
   ],
   "aiNews": [
     {
-      "title": "Anthropic\u2019s new Claude feature is quietly selling you on AI",
+      "title": "OpenAI says GPT 5.6 is the \u2018preferred model\u2019 for Microsoft Copilot 365 amid breakup chatter",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
-      "publishedAt": "Thu, 09 Jul 2026 14:53:09 +0000",
-      "summary": "Claude\u2019s new Reflect dashboard doesn\u2019t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic\u2019s chatbot."
+      "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+      "publishedAt": "Fri, 10 Jul 2026 00:16:54 +0000",
+      "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps. "
     },
     {
-      "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
+      "title": "Fidji Simo steps down from OpenAI\u2019s No. 2 role",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
-      "publishedAt": "Thu, 09 Jul 2026 14:51:00 +0000",
-      "summary": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000."
+      "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+      "publishedAt": "Thu, 09 Jul 2026 23:38:00 +0000",
+      "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected \u2014 a leadership vacuum that comes at a tricky time as the company eyes"
     },
     {
-      "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+      "title": "OpenAI launches its new family of models with GPT-5.6",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
-      "publishedAt": "Thu, 09 Jul 2026 13:00:00 +0000",
-      "summary": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs."
+      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "publishedAt": "Thu, 09 Jul 2026 22:24:24 +0000",
+      "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity. "
     },
     {
-      "title": "Character.AI enters the microdrama arena with its own productions, but there\u2019s a twist",
+      "title": "An AI agent startup just let its agent run its $100M fundraise",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
-      "publishedAt": "Thu, 09 Jul 2026 13:00:00 +0000",
-      "summary": "In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines."
+      "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+      "publishedAt": "Thu, 09 Jul 2026 22:08:58 +0000",
+      "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round \u2014 proof, evidently, that the product actually works."
     },
     {
-      "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
+      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
-      "publishedAt": "Thu, 09 Jul 2026 12:00:00 +0000",
-      "summary": "Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India."
+      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "publishedAt": "Thu, 09 Jul 2026 22:03:54 +0000",
+      "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.\u00a0"
     }
   ],
   "techMovers": [
     {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 555.43,
-      "change": 38.02,
-      "changePercent": 7.35
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "price": 674.34,
+      "change": 42.86,
+      "changePercent": 6.79
+    },
+    {
+      "ticker": "NFLX",
+      "name": "Netflix Inc",
+      "price": 73.14,
+      "change": -2.33,
+      "changePercent": -3.08
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp",
+      "price": 208.52,
+      "change": 5.74,
+      "changePercent": 2.83
+    },
+    {
+      "ticker": "SNOW",
+      "name": "Snowflake Inc",
+      "price": 260.76,
+      "change": -6.73,
+      "changePercent": -2.52
     },
     {
       "ticker": "ORCL",
       "name": "Oracle Corp",
-      "price": 146.76,
-      "change": 6.27,
-      "changePercent": 4.46
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc",
-      "price": 400.91,
-      "change": 12.22,
-      "changePercent": 3.14
-    },
-    {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc",
-      "price": 349.8,
-      "change": -8.91,
-      "changePercent": -2.48
-    },
-    {
-      "ticker": "CRM",
-      "name": "Salesforce Inc",
-      "price": 162.93,
-      "change": -3.65,
-      "changePercent": -2.19
+      "price": 141.09,
+      "change": -3.13,
+      "changePercent": -2.17
     }
   ],
-  "fearGreedIndex": 22,
+  "fearGreedIndex": 23,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 347.47,
-    "change": -0.06,
-    "changePercent": -0.02
+    "price": 346.07,
+    "change": -2.13,
+    "changePercent": -0.61
   },
   "sectors": [
     {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": 2.53
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 1.03
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": 0.88
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 0.59
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 0.57
-    },
-    {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": 0.37
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": -0.02
+      "changePercent": 1.39
     },
     {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": -0.21
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": -0.53
+      "changePercent": 1.0
     },
     {
       "ticker": "XLP",
       "name": "Consumer Staples",
-      "changePercent": -0.9
+      "changePercent": 0.93
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": 0.7
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": 0.59
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": 0.34
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 0.08
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": -0.09
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -0.11
     },
     {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": -1.14
+      "changePercent": -0.23
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -0.71
     }
   ],
   "economicCalendar": [
