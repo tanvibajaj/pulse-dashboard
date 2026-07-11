@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-07-10T15:29:36.963938+00:00",
-  "marketStatus": "Open",
+  "lastUpdated": "2026-07-11T14:20:13.369673+00:00",
+  "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "Huge crowds in Mashhad as Iran's late supreme leader is buried",
+      "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 09 Jul 2026 23:18:18 GMT",
-      "summary": "Ali Khamenei was buried at the Imam Reza shrine, Iran's holiest Shia Muslim site, ending six days of public mourning ceremonies."
+      "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 11 Jul 2026 14:08:07 GMT",
+      "summary": "US media say Iran has told US officials an attack on ships crossing the strait early this week was \"a mistake\"."
     },
     {
-      "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
+      "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 09 Jul 2026 20:47:41 GMT",
-      "summary": "Two men with links to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in woods."
+      "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 11 Jul 2026 09:01:15 GMT",
+      "summary": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing. "
     },
     {
-      "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
+      "title": "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 10 Jul 2026 13:53:11 GMT",
-      "summary": "Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades."
+      "url": "https://www.bbc.co.uk/news/articles/cwyd7x22lp1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 11 Jul 2026 13:44:03 GMT",
+      "summary": "Local media say 21 people were saved after the boat overturned in rough seas near an island in south Vietnam."
     },
     {
-      "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
+      "title": "China braced for second typhoon in a week as Bavi approaches landfall",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 10 Jul 2026 12:31:08 GMT",
-      "summary": "Ryanair confirm a passenger was given medical treatment after an incident on a Malta Air flight, which is owned by Ryanair. "
+      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 11 Jul 2026 12:06:47 GMT",
+      "summary": "Hundreds of thousands of people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm."
     },
     {
-      "title": "China lands reusable rocket for first time, state media says",
+      "title": "US pays out $3m to victims of mystery Havana Syndrome condition reported by spies",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 10 Jul 2026 06:44:21 GMT",
-      "summary": "It follows similar landings of reusable rockets by US-owned companies SpaceX and Blue Origin."
+      "url": "https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 11 Jul 2026 13:11:52 GMT",
+      "summary": "US officials and diplomats and their families began reporting a mysterious illness a decade ago."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,189 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 64097,
-      "change24h": 1.72842,
-      "marketCap": 1285701059627,
+      "price": 64232,
+      "change24h": 0.23733,
+      "marketCap": 1288130499378,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1793.2,
-      "change24h": 2.86234,
-      "marketCap": 216432449432,
+      "price": 1801.62,
+      "change24h": 0.74599,
+      "marketCap": 217445340712,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Bitcoin whales sent BTC price to $64K as Coinbase Premium broke key level: CryptoQuant",
+      "title": "Bitcoin nearing late stages of bear market: Jamie Coutts, Real Vision",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-whales-sent-btc-price-to-64k-as-coinbase-premium-broke-key-level-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 10 Jul 2026 14:59:30 +0000",
-      "summary": "Bitcoin price gains came thanks to US whales propeling the Coinbase Premium above a key trend line, new analysis from CryptoQuant reported. "
+      "url": "https://cointelegraph.com/features/bitcoin-is-approaching-the-second-half-of-the-bear-market-jamie-coutts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 11 Jul 2026 13:30:00 +0000",
+      "summary": "Real Vision chief crypto analyst Jamie Coutts said it's far too early to call $1 million by 2030, but he's confident Bitcoin could climb up to $250,000 over the next couple of years."
     },
     {
-      "title": "A16z\u2019s Andreessen lands Federal Reserve role as AI reshapes policy debate",
+      "title": "Ethereum climbs 3% on tokenization boom: Can bulls push ETH price past $1,800?",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/federal-reserve-a16z-co-founder-monetary-policy-task-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 10 Jul 2026 14:12:53 +0000",
-      "summary": "The Fed named a16z co-founder Marc Andreessen to co-lead an AI productivity and jobs task force under Chair Kevin Warsh\u2019s policy review."
+      "url": "https://cointelegraph.com/markets/ethereum-climbs-3-on-tokenization-boom-can-bulls-push-eth-price-past-1800?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 11 Jul 2026 12:55:18 +0000",
+      "summary": "Despite strong tokenization gains and institutional accumulation, weak onchain and derivatives data leaves ETH vulnerable to a $1,700 retest.\n"
     },
     {
-      "title": "MiCA licensing only the beginning as crypto custodians face scrutiny",
+      "title": "Bonzo Lend loses $9M in oracle exploit on Hedera",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/mica-only-beginning-crypto-custodians-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 10 Jul 2026 13:54:50 +0000",
-      "summary": "A MiCA license allows crypto firms to operate in the EU, but the ESMA\u2019s review will test whether custodians can meet the required security and resilience standards."
+      "url": "https://cointelegraph.com/news/bonzo-lend-9m-oracle-exploit-hedera?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 11 Jul 2026 11:56:54 +0000",
+      "summary": "An attacker inflated the value of SAUCE collateral and borrowed $9 million from Bonzo Lend through a flaw in Supra\u2019s on-chain oracle verifier."
     },
     {
-      "title": "Here\u2019s what happened in crypto today",
+      "title": "Bitcoin price gains nearly 10% in July, but traders still see BTC copying 2022 bear market",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 10 Jul 2026 13:46:13 +0000",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+      "url": "https://cointelegraph.com/markets/bitcoin-price-gains-nearly-10-in-july-but-traders-still-see-btc-copying-2022-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 11 Jul 2026 11:21:07 +0000",
+      "summary": "Bitcoin price gains approached 10% for the first two weeks of the month, but analysis warned of the bear market returning from August onward."
     },
     {
-      "title": "Will the crypto lobby's $189M campaign get CLARITY over the line?",
+      "title": "Dollar stablecoins could improve FX access but amplify currency runs: IMF paper",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/features/how-crypto-built-political-influence-in-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 10 Jul 2026 13:30:00 +0000",
-      "summary": "As the CLARITY Act advances, crypto's growing political influence in Washington is under scrutiny. But the crypto lobby's massive campaign spend is only part of the story."
+      "url": "https://cointelegraph.com/news/imf-stablecoins-fx-access-currency-runs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 11 Jul 2026 09:14:12 +0000",
+      "summary": "An IMF working paper says dollar stablecoins can improve access to foreign currency but may also help coordinate exits from local currencies during periods of severe exchange-rate stress."
     }
   ],
   "aiNews": [
     {
-      "title": "OpenAI says GPT 5.6 is the \u2018preferred model\u2019 for Microsoft Copilot 365 amid breakup chatter",
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-      "publishedAt": "Fri, 10 Jul 2026 00:16:54 +0000",
-      "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps. "
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "publishedAt": "Sat, 11 Jul 2026 14:13:00 +0000",
+      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting. "
     },
     {
-      "title": "Fidji Simo steps down from OpenAI\u2019s No. 2 role",
+      "title": "Meta removes controversial AI feature on Instagram after backlash",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
-      "publishedAt": "Thu, 09 Jul 2026 23:38:00 +0000",
-      "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected \u2014 a leadership vacuum that comes at a tricky time as the company eyes"
+      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "publishedAt": "Fri, 10 Jul 2026 23:55:07 +0000",
+      "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedb"
     },
     {
-      "title": "OpenAI launches its new family of models with GPT-5.6",
+      "title": "Apple sues OpenAI over alleged trade secret theft",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-      "publishedAt": "Thu, 09 Jul 2026 22:24:24 +0000",
-      "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity. "
+      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "publishedAt": "Fri, 10 Jul 2026 21:00:29 +0000",
+      "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee."
     },
     {
-      "title": "An AI agent startup just let its agent run its $100M fundraise",
+      "title": "Open source AI matters more than ever, according to Hugging Face\u2019s Clem Delangue",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-      "publishedAt": "Thu, 09 Jul 2026 22:08:58 +0000",
-      "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round \u2014 proof, evidently, that the product actually works."
+      "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+      "publishedAt": "Fri, 10 Jul 2026 19:00:00 +0000",
+      "summary": "Open source AI is booming, according to\u00a0Hugging Face\u00a0CEO\u00a0Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models "
     },
     {
-      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-      "publishedAt": "Thu, 09 Jul 2026 22:03:54 +0000",
-      "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.\u00a0"
+      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "publishedAt": "Fri, 10 Jul 2026 17:17:12 +0000",
+      "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories."
     }
   ],
   "techMovers": [
     {
       "ticker": "META",
       "name": "Meta Platforms",
-      "price": 674.34,
-      "change": 42.86,
-      "changePercent": 6.79
-    },
-    {
-      "ticker": "NFLX",
-      "name": "Netflix Inc",
-      "price": 73.14,
-      "change": -2.33,
-      "changePercent": -3.08
+      "price": 669.21,
+      "change": 37.73,
+      "changePercent": 5.97
     },
     {
       "ticker": "NVDA",
       "name": "NVIDIA Corp",
-      "price": 208.52,
-      "change": 5.74,
-      "changePercent": 2.83
+      "price": 210.96,
+      "change": 8.18,
+      "changePercent": 4.03
+    },
+    {
+      "ticker": "NFLX",
+      "name": "Netflix Inc",
+      "price": 73.37,
+      "change": -2.1,
+      "changePercent": -2.78
     },
     {
       "ticker": "SNOW",
       "name": "Snowflake Inc",
-      "price": 260.76,
-      "change": -6.73,
-      "changePercent": -2.52
+      "price": 261.45,
+      "change": -6.04,
+      "changePercent": -2.26
     },
     {
       "ticker": "ORCL",
       "name": "Oracle Corp",
-      "price": 141.09,
-      "change": -3.13,
-      "changePercent": -2.17
+      "price": 140.64,
+      "change": -3.08,
+      "changePercent": -2.14
     }
   ],
-  "fearGreedIndex": 23,
-  "visaStock": {
-    "ticker": "V",
-    "name": "Visa Inc",
-    "price": 346.07,
-    "change": -2.13,
-    "changePercent": -0.61
-  },
+  "fearGreedIndex": 26,
+  "visaStock": null,
   "sectors": [
     {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": 1.39
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 1.0
+      "changePercent": 1.25
     },
     {
       "ticker": "XLP",
       "name": "Consumer Staples",
-      "changePercent": 0.93
+      "changePercent": 1.11
     },
     {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 0.7
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": 0.59
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": 1.02
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": 0.34
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 0.08
-    },
-    {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": -0.09
+      "changePercent": 0.62
     },
     {
       "ticker": "XLRE",
       "name": "Real Estate",
-      "changePercent": -0.11
+      "changePercent": 0.5
     },
     {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": -0.23
+      "changePercent": 0.47
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": 0.45
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": 0.33
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 0.31
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": 0.23
     },
     {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": -0.71
+      "changePercent": -0.82
     }
   ],
   "economicCalendar": [
@@ -248,6 +242,13 @@
       "event": "Retail Sales",
       "importance": "medium",
       "description": "Monthly consumer spending data"
+    },
+    {
+      "date": "2026-07-25",
+      "time": "08:30 ET",
+      "event": "GDP Growth Rate",
+      "importance": "high",
+      "description": "Quarterly economic growth data"
     },
     {
       "date": "2026-07-29",
