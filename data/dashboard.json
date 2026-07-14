@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-07-13T15:43:43.547754+00:00",
+  "lastUpdated": "2026-07-14T14:45:49.333337+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "At least 28 killed, 25 critically injured after fire engulfs Bangkok bar",
+      "title": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Jul 2026 15:04:36 GMT",
-      "summary": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape."
+      "url": "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 14 Jul 2026 05:00:03 GMT",
+      "summary": "Simon Andriesz made the discovery about Howard Lutnick in publicly released Epstein files."
     },
     {
-      "title": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
+      "title": "Israeli strike on police post in north Gaza kills seven, officials say",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Jul 2026 11:52:55 GMT",
-      "summary": "Friends, politicians and fellow film stars remember Neill following his \"sudden and unexpected\" death."
+      "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 14 Jul 2026 13:46:14 GMT",
+      "summary": "A senior officer in the Hamas-run police force was among those killed in the strike, which Israel's military says targeted \"terrorists\"."
     },
     {
-      "title": "Senator Lindsey Graham died of aortic tear, examiner says",
+      "title": "Diamond giant De Beers halts work at flagship South African mine as demand plummets",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cn75083d472o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Jul 2026 10:14:01 GMT",
-      "summary": "Graham, a close Republican ally of Donald Trump, died at the age of 71 on Saturday evening."
+      "url": "https://www.bbc.co.uk/news/articles/cjrgr7lr1ejo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 14 Jul 2026 13:22:09 GMT",
+      "summary": "Production will stop for two years at the mine which employs more than 4,000 people."
     },
     {
-      "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
+      "title": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Jul 2026 10:29:17 GMT",
-      "summary": "It was the first time firefighting planes had been sent up from the normally drier and hotter south of the country to tackle fires in the Paris region."
+      "url": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 14 Jul 2026 13:49:42 GMT",
+      "summary": "Svetlana Grkovi\u0107 told Serbian media that her husband is \"seriously injured and in shock\". "
     },
     {
-      "title": "Men disguised as police kill Ecuadorean drug lord's brother",
+      "title": "Bangkok fire investigation finds locked doors and flammable decor as deaths climb to 30",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c20yx84g103o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Jul 2026 10:30:51 GMT",
-      "summary": "The victim, David Mac\u00edas, was the brother of drug lord 'El Fito', who is awaiting trial in the US. "
+      "url": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 14 Jul 2026 03:47:41 GMT",
+      "summary": "Survivors and first responders reported locked doors and a lack of signage marking emergency exits."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 62552,
-      "change24h": -2.42878,
-      "marketCap": 1255174627934,
+      "price": 63953,
+      "change24h": 2.06929,
+      "marketCap": 1282462909422,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1776.48,
-      "change24h": -2.42043,
-      "marketCap": 214485098184,
+      "price": 1868.7,
+      "change24h": 5.19969,
+      "marketCap": 225494277238,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Bitcoin threatens $62K in risk-asset rout as Donald Trump says US will 'run' closed Hormuz Strait",
+      "title": "OpenAI quietly adds Kalshi World Cup odds to ChatGPT: Report",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-threatens-62k-in-risk-asset-out-as-donald-trump-says-us-will-run-closed-hormuz-strait?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 13 Jul 2026 15:05:45 +0000",
-      "summary": "Bitcoin bulls faced an uphill struggle to preserve $62,000 as stocks opened down on Strait of Hormuz rhetoric between the US and Iran."
+      "url": "https://cointelegraph.com/news/openai-kalshi-prediction-markets-world-cup-chatgpt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 14 Jul 2026 13:30:06 +0000",
+      "summary": "OpenAI\u2019s ChatGPT now displays Kalshi\u2019s World Cup prediction market odds in search results, marking the AI firm\u2019s first reported deal with a prediction market platform."
     },
     {
-      "title": "Here\u2019s what happened in crypto today",
+      "title": "Strategy became a symbol of the dot-com crash: Could history repeat?",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 13 Jul 2026 14:07:00 +0000",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+      "url": "https://cointelegraph.com/features/from-dot-com-bust-to-bitcoin-king-has-michael-saylor-rewritten-his-legacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 14 Jul 2026 13:30:00 +0000",
+      "summary": "MicroStrategy blew up during the dot-com era, before Michael Saylor transformed it into the world's largest corporate Bitcoin holder. Did he learn his lesson?"
     },
     {
-      "title": "Coinbase Ventures tops crypto VC list for H1 2026",
+      "title": "Humanity Protocol to prioritize operational security following $36M hack",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/coinbase-ventures-leading-crypto-vc-h1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 13 Jul 2026 13:26:50 +0000",
-      "summary": "Coinbase\u2019s venture capital arm leads 2026 crypto investing even as funding withered and unique investors shied away amid the bear market.\n"
+      "url": "https://cointelegraph.com/news/humanity-protocol-operational-security-36m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 14 Jul 2026 13:08:00 +0000",
+      "summary": "Humanity Protocol\u2019s founder said they will refocus on operational security, as malicious actors are switching from smart contract vulnerabilities to exploiting human behavior.\n"
     },
     {
-      "title": "Strategy sells $467M in MSTR shares, leaves 843,775 BTC stack untouched",
+      "title": "ABA, state banking groups push back on CLARITY Act stablecoin yield provisions",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/strategy-sells-467-million-mstr-keeps-843775-btc-stack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 13 Jul 2026 13:08:49 +0000",
-      "summary": "Strategy boosted its US dollar reserve to $3 billion after selling $466.7 million in MSTR shares, while keeping its 843,775 Bitcoin holdings unchanged."
+      "url": "https://cointelegraph.com/news/aba-banking-associations-clarity-act-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 14 Jul 2026 11:40:00 +0000",
+      "summary": "ABA and state banking associations published a joint letter calling for more detail on the CLARITY Act\u2019s stablecoin yield provisions, ahead of the bill\u2019s House hearing on Friday."
     },
     {
-      "title": "UK tokenization push could add as much as $44B to annual output by 2035: Report ",
+      "title": "Solana community lead enters UK by-election with onchain transparency pitch",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/uk-tokenization-44-billion-annual-output-2035?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 13 Jul 2026 11:50:04 +0000",
-      "summary": "The government-backed roadmap calls for the UK\u2019s first digital gilt by early 2027 and seeks to make tokenized bonds usable for trading and borrowing."
+      "url": "https://cointelegraph.com/news/solana-community-lead-uk-by-election-pension-self-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 14 Jul 2026 11:38:00 +0000",
+      "summary": "Superteam UK lead Stephen \u201cCap\u201d Newnham is taking on Nigel Farage in the Clacton by-election with pledges on pension reform and onchain transparency."
     }
   ],
   "aiNews": [
     {
-      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+      "title": "Reflection inks $1B compute deal with Nebius",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
-      "publishedAt": "Mon, 13 Jul 2026 15:34:59 +0000",
-      "summary": "Claude users in India are starting to see Indian rupee-denominated subscription plans."
+      "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
+      "publishedAt": "Tue, 14 Jul 2026 14:37:48 +0000",
+      "summary": "Reflection AI has signed a $1 billion deal to access Nebius's compute. Reflection was founded in 2024 and is developing open source AI technology."
     },
     {
-      "title": "Waze adds new AI-powered features and customization updates",
+      "title": "The real AI race may no longer be at the frontier",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
-      "publishedAt": "Mon, 13 Jul 2026 14:18:16 +0000",
-      "summary": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete"
+      "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+      "publishedAt": "Tue, 14 Jul 2026 14:24:53 +0000",
+      "summary": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open "
     },
     {
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "publishedAt": "Sat, 11 Jul 2026 14:13:00 +0000",
-      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting. "
+      "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+      "publishedAt": "Tue, 14 Jul 2026 14:06:47 +0000",
+      "summary": "Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, audiobooks, and more."
     },
     {
-      "title": "Meta removes controversial AI feature on Instagram after backlash",
+      "title": "Superhuman\u2019s new auto-draft feature almost makes me like AI replies",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-      "publishedAt": "Fri, 10 Jul 2026 23:55:07 +0000",
-      "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedb"
+      "url": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
+      "publishedAt": "Tue, 14 Jul 2026 14:00:00 +0000",
+      "summary": "Superhuman\u2019s latest AI email drafting feature is its most convincing yet, generating replies that often required little to no editing in our testing."
     },
     {
-      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-      "publishedAt": "Fri, 10 Jul 2026 21:00:29 +0000",
-      "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee."
+      "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+      "publishedAt": "Tue, 14 Jul 2026 02:46:42 +0000",
+      "summary": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more."
     }
   ],
   "techMovers": [
     {
-      "ticker": "CRM",
-      "name": "Salesforce Inc",
-      "price": 172.34,
-      "change": 9.02,
-      "changePercent": 5.52
-    },
-    {
-      "ticker": "SNOW",
-      "name": "Snowflake Inc",
-      "price": 273.47,
-      "change": 12.02,
-      "changePercent": 4.6
-    },
-    {
-      "ticker": "ORCL",
-      "name": "Oracle Corp",
-      "price": 135.88,
-      "change": -4.76,
-      "changePercent": -3.38
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla Inc",
-      "price": 397.16,
-      "change": -10.6,
-      "changePercent": -2.6
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 552.27,
+      "change": 17.88,
+      "changePercent": 3.35
     },
     {
       "ticker": "AVGO",
       "name": "Broadcom Inc",
-      "price": 390.72,
-      "change": -9.25,
-      "changePercent": -2.31
+      "price": 393.89,
+      "change": 9.84,
+      "changePercent": 2.56
+    },
+    {
+      "ticker": "UBER",
+      "name": "Uber Technologies",
+      "price": 72.63,
+      "change": -1.63,
+      "changePercent": -2.19
+    },
+    {
+      "ticker": "CRM",
+      "name": "Salesforce Inc",
+      "price": 168.2,
+      "change": -3.02,
+      "changePercent": -1.76
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "price": 129.31,
+      "change": -2.23,
+      "changePercent": -1.7
     }
   ],
-  "fearGreedIndex": 28,
+  "fearGreedIndex": 22,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 354.35,
-    "change": 5.38,
-    "changePercent": 1.54
+    "price": 358.92,
+    "change": 1.17,
+    "changePercent": 0.33
   },
   "sectors": [
     {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": 2.33
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 0.49
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 0.46
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": 0.34
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": 0.25
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 0.22
-    },
-    {
       "ticker": "XLF",
       "name": "Financials",
-      "changePercent": 0.19
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": -0.37
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": -0.46
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": -0.55
+      "changePercent": 0.95
     },
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": -1.44
+      "changePercent": 0.92
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": 0.85
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": 0.62
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": 0.25
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": 0.03
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": -0.11
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -0.28
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -0.48
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -0.66
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -1.96
     }
   ],
   "economicCalendar": [
