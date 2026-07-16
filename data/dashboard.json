@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-07-15T14:45:59.836430+00:00",
+  "lastUpdated": "2026-07-16T14:57:49.178136+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Iran threatens to block more trade routes as US launches fresh strikes",
+      "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 15 Jul 2026 12:26:38 GMT",
-      "summary": "US President Donald Trump vowed to strike Iran's bridges and power plants next week if the country does not return to talks."
+      "url": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Jul 2026 14:57:13 GMT",
+      "summary": "The ex-head of Italy's motorway operator Giovanni Castellucci was handed a 12-year term over the 2018 bridge collapse."
     },
     {
-      "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
+      "title": "Protests in Ukrainian cities against Zelensky's removal of defence minister",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 14 Jul 2026 23:17:27 GMT",
-      "summary": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months."
+      "url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Jul 2026 14:22:11 GMT",
+      "summary": "Ukraine's president has not explained Mykhailo Fedorov's dismissal, which is causing great upset among civil society and the military."
     },
     {
-      "title": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
+      "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 14 Jul 2026 19:13:49 GMT",
-      "summary": "Control of the waterway has become a key point of contention between the US and Iran, as a ceasefire deal falters. "
+      "url": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Jul 2026 13:08:28 GMT",
+      "summary": "Polish security services say the aim was to incite ethnic tensions between Poland and Ukraine."
     },
     {
-      "title": "Russian attacks kill eight as Ukraine hits Black Sea oil tankers",
+      "title": "Iran targets military bases as US launches wave of strikes",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 15 Jul 2026 13:32:05 GMT",
-      "summary": "Civilian casualties are reported in four Ukrainian regions, while Kyiv hits 20 Russian vessels in the Black Sea. "
+      "url": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Jul 2026 11:48:49 GMT",
+      "summary": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks."
     },
     {
-      "title": "Italy's Meloni suffers surprise setback in close vote on electoral reform",
+      "title": "More than 800 Canadian wildfires burning as air quality alerts extend to US",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c1kykx3vnyyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 15 Jul 2026 11:44:28 GMT",
-      "summary": "The defeat triggered opposition calls for Meloni to resign ahead of next year's general election."
+      "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Jul 2026 13:56:54 GMT",
+      "summary": "The air quality in large parts of Michigan, Minneapolis and Minnesota is deemed \"hazardous\" by authorities."
     }
   ],
   "cryptoAssets": [
@@ -43,205 +43,198 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 65330,
-      "change24h": 2.18943,
-      "marketCap": 1310301270467,
+      "price": 64428,
+      "change24h": -1.39351,
+      "marketCap": 1293217844174,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1925.66,
-      "change24h": 2.96926,
-      "marketCap": 232356897251,
+      "price": 1877.12,
+      "change24h": -2.7918,
+      "marketCap": 226656723407,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Is Robinhood Chain\u2019s success bullish or bearish for ETH the asset?",
+      "title": "Alpaca raises $135M to fund tokenized agent-first infrastructure",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/features/has-robinhoods-layer-2-given-eth-a-new-bull-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 15 Jul 2026 13:30:00 +0000",
-      "summary": "Surging volumes on Robinhood Chain could be very good for Ethereum, but only if the \u201cETH is money\u201d crowd turn out to be right. "
+      "url": "https://cointelegraph.com/news/alpaca-raises-135m-to-fund-tokenized-agent-first-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 16 Jul 2026 13:34:19 +0000",
+      "summary": "The BNP-backed brokerage infrastructure provider is expanding into tokenized markets and AI-native financial services as both DeFi and TradFi companies pursue onchain business."
     },
     {
-      "title": "Here\u2019s what happened in crypto today",
+      "title": "Gambling on random Pok\u00e9mon cards: Onchain gagcha hits record high as crypto sinks",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 15 Jul 2026 13:22:37 +0000",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+      "url": "https://cointelegraph.com/features/pokemon-cards-as-rwas-gacha-spending-hits-records-as-crypto-sinks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 16 Jul 2026 13:30:00 +0000",
+      "summary": "Users spent a record $324 million on onchain gacha in June, even as Bitcoin hit a 21-month low. The thrill of scoring a top Pokemon card from a random pack is becoming big business"
     },
     {
-      "title": "Crypto firms face AML risks during post-MiCA migration, says AMLA chair",
+      "title": "Prediction markets defy crypto downturn with record Q2 volume: CoinGecko",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/amla-customer-migration-strain-mica-licensed-casps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 15 Jul 2026 13:08:43 +0000",
-      "summary": "AMLA is expanding its crypto oversight as firms complete the transition to the EU\u2019s MiCA licensing regime."
+      "url": "https://cointelegraph.com/news/crypto-cool-q2-prediction-markets-hit-records-coingecko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 16 Jul 2026 13:05:09 +0000",
+      "summary": "Prediction markets reached a record $113.8 billion in notional volume in Q2 as spot CEX trading, derivatives volume and stablecoin market cap declined."
     },
     {
-      "title": "Japan passes crypto overhaul to bring digital assets under financial rules",
+      "title": "MoonPay buys Glide to bolster crypto deposits infrastructure",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/japan-crypto-amendment-digital-assets-financial-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 15 Jul 2026 11:05:46 +0000",
-      "summary": "Japan\u2019s revised Financial Instruments and Exchange Act introduces crypto insider trading rules, tougher penalties and new oversight requirements for crypto businesses."
+      "url": "https://cointelegraph.com/news/moonpay-acquires-glide-strengthen-crypto-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 16 Jul 2026 13:00:00 +0000",
+      "summary": "MoonPay acquired Glide, a crypto infrastructure startup founded by former Robinhood Wallet engineers, to expand cross-chain crypto deposit infrastructure."
     },
     {
-      "title": "South Korea to bring digital assets under new state asset management system",
+      "title": "Tokenized stocks market cap gains to record $2.3B",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/south-korea-digital-assets-state-asset-management?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 15 Jul 2026 10:53:34 +0000",
-      "summary": "South Korea\u2019s Economy Ministry plans to include digital assets and intellectual property under the country\u2019s new state-asset management framework."
+      "url": "https://cointelegraph.com/news/tokenized-stocks-rise-23b-all-time-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 16 Jul 2026 12:35:52 +0000",
+      "summary": "The market capitalization of tokenized stocks rose to a record $2.3 billion, as investors sought exposure to the growing list of tokenized equity products launched by cryptocurrency exchanges."
     }
   ],
   "aiNews": [
     {
-      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+      "title": "Why AMI Labs\u2019 Alexandre LeBrun won\u2019t call his AI \u2018AGI\u2019 or \u2018superintelligence\u2019",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-      "publishedAt": "Wed, 15 Jul 2026 13:10:47 +0000",
-      "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption."
+      "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
+      "publishedAt": "Thu, 16 Jul 2026 14:40:00 +0000",
+      "summary": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun\u2019s world model startup, AMI Labs, dismisses the word."
     },
     {
-      "title": "Reelful\u2019s AI turns your camera roll into short-form videos for social media",
+      "title": "Moonshot\u2019s upcoming Kimi 3 is expected to close the gap with Anthropic\u2019s Opus 4.8",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
-      "publishedAt": "Wed, 15 Jul 2026 13:00:00 +0000",
-      "summary": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming."
+      "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+      "publishedAt": "Thu, 16 Jul 2026 14:26:29 +0000",
+      "summary": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.\u00a0"
     },
     {
-      "title": "Rime picks up $24M Series A to help enterprises field customer calls",
+      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
-      "publishedAt": "Wed, 15 Jul 2026 13:00:00 +0000",
-      "summary": "Rime is handling over 100 million calls each month across multiple companies."
+      "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "publishedAt": "Thu, 16 Jul 2026 13:17:59 +0000",
+      "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market. "
     },
     {
-      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
-      "publishedAt": "Wed, 15 Jul 2026 12:00:00 +0000",
-      "summary": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers."
+      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+      "publishedAt": "Thu, 16 Jul 2026 04:00:00 +0000",
+      "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry."
     },
     {
-      "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
-      "publishedAt": "Wed, 15 Jul 2026 12:00:00 +0000",
-      "summary": "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild. "
+      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "publishedAt": "Wed, 15 Jul 2026 23:59:44 +0000",
+      "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models. "
     }
   ],
   "techMovers": [
     {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc",
-      "price": 365.38,
-      "change": 8.05,
-      "changePercent": 2.25
-    },
-    {
-      "ticker": "CRM",
-      "name": "Salesforce Inc",
-      "price": 170.35,
-      "change": NaN,
-      "changePercent": NaN
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "price": 126.46,
+      "change": -6.04,
+      "changePercent": -4.56
     },
     {
       "ticker": "AMD",
       "name": "AMD Inc",
-      "price": 518.47,
-      "change": NaN,
-      "changePercent": NaN
+      "price": 508.3,
+      "change": -20.84,
+      "changePercent": -3.94
     },
     {
-      "ticker": "AMZN",
-      "name": "Amazon.com",
-      "price": 253.53,
-      "change": NaN,
-      "changePercent": NaN
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "price": 381.7,
+      "change": -12.58,
+      "changePercent": -3.19
     },
     {
-      "ticker": "TSLA",
-      "name": "Tesla Inc",
-      "price": 394.99,
-      "change": NaN,
-      "changePercent": NaN
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp",
+      "price": 206.47,
+      "change": -6.03,
+      "changePercent": -2.84
+    },
+    {
+      "ticker": "UBER",
+      "name": "Uber Technologies",
+      "price": 74.73,
+      "change": 2.06,
+      "changePercent": 2.83
     }
   ],
   "fearGreedIndex": 25,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 357.6,
-    "change": NaN,
-    "changePercent": NaN
+    "price": 361.42,
+    "change": 6.27,
+    "changePercent": 1.77
   },
   "sectors": [
     {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": NaN
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": NaN
-    },
-    {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": NaN
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": NaN
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": NaN
+      "changePercent": 2.57
     },
     {
       "ticker": "XLP",
       "name": "Consumer Staples",
-      "changePercent": NaN
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": NaN
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": NaN
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": NaN
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 1.55
+      "changePercent": 1.84
     },
     {
       "ticker": "XLRE",
       "name": "Real Estate",
-      "changePercent": 1.15
+      "changePercent": 1.82
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": 1.0
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": 0.88
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": 0.59
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": 0.44
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 0.43
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": 0.32
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": 0.17
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": -2.09
     }
   ],
   "economicCalendar": [
-    {
-      "date": "2026-07-15",
-      "time": "08:30 ET",
-      "event": "Retail Sales",
-      "importance": "medium",
-      "description": "Monthly consumer spending data"
-    },
     {
       "date": "2026-07-25",
       "time": "08:30 ET",
