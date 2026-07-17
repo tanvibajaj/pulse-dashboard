@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-07-16T14:57:49.178136+00:00",
+  "lastUpdated": "2026-07-17T14:40:00.986490+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
+      "title": "Iran accuses US of hitting civilian infrastructure",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Jul 2026 14:57:13 GMT",
-      "summary": "The ex-head of Italy's motorway operator Giovanni Castellucci was handed a 12-year term over the 2018 bridge collapse."
+      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 17 Jul 2026 14:32:07 GMT",
+      "summary": "The US military says its attacks were intended to \"further degrade Iranian military capabilities\"."
     },
     {
-      "title": "Protests in Ukrainian cities against Zelensky's removal of defence minister",
+      "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Jul 2026 14:22:11 GMT",
-      "summary": "Ukraine's president has not explained Mykhailo Fedorov's dismissal, which is causing great upset among civil society and the military."
+      "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 17 Jul 2026 11:37:00 GMT",
+      "summary": " China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections."
     },
     {
-      "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
+      "title": "More than 500 Rohingya vanished at sea - what happened?",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Jul 2026 13:08:28 GMT",
-      "summary": "Polish security services say the aim was to incite ethnic tensions between Poland and Ukraine."
+      "url": "https://www.bbc.co.uk/news/articles/cr59n096mrmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 17 Jul 2026 03:07:11 GMT",
+      "summary": "Two boats carrying an estimated 530 Rohingyas have disappeared since leaving Myanmar on 29 June."
     },
     {
-      "title": "Iran targets military bases as US launches wave of strikes",
+      "title": "Japan relaxes royal succession rules - but ban on female emperors remains",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Jul 2026 11:48:49 GMT",
-      "summary": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks."
+      "url": "https://www.bbc.co.uk/news/articles/cy07rz79zg9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 17 Jul 2026 05:16:34 GMT",
+      "summary": "The law now allows the adoption of male distant relatives aged over 15 back into the imperial family."
     },
     {
-      "title": "More than 800 Canadian wildfires burning as air quality alerts extend to US",
+      "title": "Philippines condemns monkey video on Chinese media as racist",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Jul 2026 13:56:54 GMT",
-      "summary": "The air quality in large parts of Michigan, Minneapolis and Minnesota is deemed \"hazardous\" by authorities."
+      "url": "https://www.bbc.co.uk/news/articles/cj632307934o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 17 Jul 2026 02:37:45 GMT",
+      "summary": "The AI video on China Daily showed a monkey in Philippine garments singing its claims to the South China Sea."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 64428,
-      "change24h": -1.39351,
-      "marketCap": 1293217844174,
+      "price": 63220,
+      "change24h": -2.2289,
+      "marketCap": 1268022208338,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1877.12,
-      "change24h": -2.7918,
-      "marketCap": 226656723407,
+      "price": 1823.26,
+      "change24h": -3.36474,
+      "marketCap": 219907712741,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Alpaca raises $135M to fund tokenized agent-first infrastructure",
+      "title": "HSBC wins Bank of England approval to enter Digital Securities Sandbox",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/alpaca-raises-135m-to-fund-tokenized-agent-first-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 16 Jul 2026 13:34:19 +0000",
-      "summary": "The BNP-backed brokerage infrastructure provider is expanding into tokenized markets and AI-native financial services as both DeFi and TradFi companies pursue onchain business."
+      "url": "https://cointelegraph.com/news/hsbc-bank-of-england-approval-digital-securities-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 17 Jul 2026 13:54:27 +0000",
+      "summary": "The Bank of England approved HSBC Orion to go live in its Digital Securities Sandbox, with the first Digital Gilt Instrument transaction expected in the first quarter of 2027."
     },
     {
-      "title": "Gambling on random Pok\u00e9mon cards: Onchain gagcha hits record high as crypto sinks",
+      "title": "SBI acquires Singaporean crypto platform Coinhako after MAS approval",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/features/pokemon-cards-as-rwas-gacha-spending-hits-records-as-crypto-sinks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 16 Jul 2026 13:30:00 +0000",
-      "summary": "Users spent a record $324 million on onchain gacha in June, even as Bitcoin hit a 21-month low. The thrill of scoring a top Pokemon card from a random pack is becoming big business"
+      "url": "https://cointelegraph.com/news/sbi-receives-mas-approval-to-acquire-singaporean-coinhako?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 17 Jul 2026 13:30:20 +0000",
+      "summary": "SBI Holdings received regulatory approval to acquire a majority stake in Singapore-based crypto exchange Coinhako as it expands into stablecoins, onchain finance and tokenized assets."
     },
     {
-      "title": "Prediction markets defy crypto downturn with record Q2 volume: CoinGecko",
+      "title": "The British Virgin Islands are a top crypto hub no one ever talks about: Here\u2019s why",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/crypto-cool-q2-prediction-markets-hit-records-coingecko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 16 Jul 2026 13:05:09 +0000",
-      "summary": "Prediction markets reached a record $113.8 billion in notional volume in Q2 as spot CEX trading, derivatives volume and stablecoin market cap declined."
+      "url": "https://cointelegraph.com/magazine/why-is-the-british-virgin-islands-becoming-a-legal-home-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 17 Jul 2026 13:30:00 +0000",
+      "summary": "Kraken, Bitstamp, 1inch and Bitfinex have all set up shop in the British Virgin Islands \u2014 but you might find it tricky to book an on-site meeting with one of their executives.  "
     },
     {
-      "title": "MoonPay buys Glide to bolster crypto deposits infrastructure",
+      "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/moonpay-acquires-glide-strengthen-crypto-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 16 Jul 2026 13:00:00 +0000",
-      "summary": "MoonPay acquired Glide, a crypto infrastructure startup founded by former Robinhood Wallet engineers, to expand cross-chain crypto deposit infrastructure."
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 17 Jul 2026 12:30:36 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Tokenized stocks market cap gains to record $2.3B",
+      "title": "Dutch court declares crypto platform Knaken bankrupt over missing funds",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/tokenized-stocks-rise-23b-all-time-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 16 Jul 2026 12:35:52 +0000",
-      "summary": "The market capitalization of tokenized stocks rose to a record $2.3 billion, as investors sought exposure to the growing list of tokenized equity products launched by cryptocurrency exchanges."
+      "url": "https://cointelegraph.com/news/dutch-court-knaken-crypto-platform-bankruptcy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 17 Jul 2026 12:21:55 +0000",
+      "summary": "The Rotterdam court said bankruptcy was necessary to ensure an orderly settlement because the company lacked enough assets to fully repay users."
     }
   ],
   "aiNews": [
     {
-      "title": "Why AMI Labs\u2019 Alexandre LeBrun won\u2019t call his AI \u2018AGI\u2019 or \u2018superintelligence\u2019",
+      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
-      "publishedAt": "Thu, 16 Jul 2026 14:40:00 +0000",
-      "summary": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun\u2019s world model startup, AMI Labs, dismisses the word."
+      "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+      "publishedAt": "Fri, 17 Jul 2026 12:00:00 +0000",
+      "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals."
     },
     {
-      "title": "Moonshot\u2019s upcoming Kimi 3 is expected to close the gap with Anthropic\u2019s Opus 4.8",
+      "title": "Google Vids now lets you star in your own AI videos",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
-      "publishedAt": "Thu, 16 Jul 2026 14:26:29 +0000",
-      "summary": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.\u00a0"
+      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "publishedAt": "Thu, 16 Jul 2026 18:32:54 +0000",
+      "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from promp"
     },
     {
-      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
+      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "publishedAt": "Thu, 16 Jul 2026 13:17:59 +0000",
-      "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market. "
+      "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+      "publishedAt": "Thu, 16 Jul 2026 18:22:06 +0000",
+      "summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt. "
     },
     {
-      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+      "title": "Google\u2019s AI Mode now lets you link and interact with select apps",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
-      "publishedAt": "Thu, 16 Jul 2026 04:00:00 +0000",
-      "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry."
+      "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+      "publishedAt": "Thu, 16 Jul 2026 16:00:00 +0000",
+      "summary": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly."
     },
     {
-      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+      "title": "Yes, you can now order DoorDash from the command line",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-      "publishedAt": "Wed, 15 Jul 2026 23:59:44 +0000",
-      "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models. "
+      "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+      "publishedAt": "Thu, 16 Jul 2026 15:38:55 +0000",
+      "summary": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward softwar"
     }
   ],
   "techMovers": [
     {
-      "ticker": "ORCL",
-      "name": "Oracle Corp",
-      "price": 126.46,
-      "change": -6.04,
-      "changePercent": -4.56
+      "ticker": "NFLX",
+      "name": "Netflix Inc",
+      "price": 68.03,
+      "change": -6.32,
+      "changePercent": -8.51
     },
     {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 508.3,
-      "change": -20.84,
-      "changePercent": -3.94
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc",
-      "price": 381.7,
-      "change": -12.58,
-      "changePercent": -3.19
-    },
-    {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corp",
-      "price": 206.47,
-      "change": -6.03,
-      "changePercent": -2.84
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "price": 636.02,
+      "change": -28.52,
+      "changePercent": -4.29
     },
     {
       "ticker": "UBER",
       "name": "Uber Technologies",
-      "price": 74.73,
-      "change": 2.06,
-      "changePercent": 2.83
+      "price": 72.17,
+      "change": -1.88,
+      "changePercent": -2.53
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla Inc",
+      "price": 381.64,
+      "change": -9.42,
+      "changePercent": -2.41
+    },
+    {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc",
+      "price": 345.8,
+      "change": -8.01,
+      "changePercent": -2.26
     }
   ],
-  "fearGreedIndex": 25,
+  "fearGreedIndex": 27,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 361.42,
-    "change": 6.27,
-    "changePercent": 1.77
+    "price": 358.36,
+    "change": -6.78,
+    "changePercent": -1.86
   },
   "sectors": [
     {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": 2.57
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 1.84
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 1.82
-    },
-    {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": 1.0
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 0.88
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 0.59
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 0.44
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 0.43
+      "changePercent": 1.09
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": 0.32
+      "changePercent": 0.6
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": 0.48
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": 0.48
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": 0.17
+      "changePercent": 0.39
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": 0.37
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": 0.32
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": -0.18
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -0.82
     },
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": -2.09
+      "changePercent": -0.9
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -1.51
     }
   ],
   "economicCalendar": [
