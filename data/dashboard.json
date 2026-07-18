@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-07-17T14:40:00.986490+00:00",
-  "marketStatus": "Open",
+  "lastUpdated": "2026-07-18T14:18:34.316419+00:00",
+  "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "Iran accuses US of hitting civilian infrastructure",
+      "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 17 Jul 2026 14:32:07 GMT",
-      "summary": "The US military says its attacks were intended to \"further degrade Iranian military capabilities\"."
+      "url": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 18 Jul 2026 13:06:25 GMT",
+      "summary": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\"."
     },
     {
-      "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+      "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 17 Jul 2026 11:37:00 GMT",
-      "summary": " China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections."
+      "url": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 17 Jul 2026 19:04:09 GMT",
+      "summary": "Protests erupted in Ukraine on Thursday after Mykhailo Fedorov's removal - and now soldiers are also criticising the move."
     },
     {
-      "title": "More than 500 Rohingya vanished at sea - what happened?",
+      "title": "US strikes hit Iran for seventh consecutive night",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cr59n096mrmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 17 Jul 2026 03:07:11 GMT",
-      "summary": "Two boats carrying an estimated 530 Rohingyas have disappeared since leaving Myanmar on 29 June."
+      "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 18 Jul 2026 11:48:44 GMT",
+      "summary": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit."
     },
     {
-      "title": "Japan relaxes royal succession rules - but ban on female emperors remains",
+      "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cy07rz79zg9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 17 Jul 2026 05:16:34 GMT",
-      "summary": "The law now allows the adoption of male distant relatives aged over 15 back into the imperial family."
+      "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 18 Jul 2026 01:29:47 GMT",
+      "summary": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions."
     },
     {
-      "title": "Philippines condemns monkey video on Chinese media as racist",
+      "title": "Space start-up launches India\u2019s first commercial rocket designed for orbit",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cj632307934o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 17 Jul 2026 02:37:45 GMT",
-      "summary": "The AI video on China Daily showed a monkey in Philippine garments singing its claims to the South China Sea."
+      "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 18 Jul 2026 07:05:19 GMT",
+      "summary": "India's first space-tech unicorn Skyroot Aerospace successfully launched Vikram-1 on Saturday."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 63220,
-      "change24h": -2.2289,
-      "marketCap": 1268022208338,
+      "price": 64097,
+      "change24h": 1.31625,
+      "marketCap": 1285865118155,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1823.26,
-      "change24h": -3.36474,
-      "marketCap": 219907712741,
+      "price": 1841.49,
+      "change24h": 0.83303,
+      "marketCap": 222283020453,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "HSBC wins Bank of England approval to enter Digital Securities Sandbox",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/hsbc-bank-of-england-approval-digital-securities-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 17 Jul 2026 13:54:27 +0000",
-      "summary": "The Bank of England approved HSBC Orion to go live in its Digital Securities Sandbox, with the first Digital Gilt Instrument transaction expected in the first quarter of 2027."
-    },
-    {
-      "title": "SBI acquires Singaporean crypto platform Coinhako after MAS approval",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/sbi-receives-mas-approval-to-acquire-singaporean-coinhako?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 17 Jul 2026 13:30:20 +0000",
-      "summary": "SBI Holdings received regulatory approval to acquire a majority stake in Singapore-based crypto exchange Coinhako as it expands into stablecoins, onchain finance and tokenized assets."
-    },
-    {
-      "title": "The British Virgin Islands are a top crypto hub no one ever talks about: Here\u2019s why",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/magazine/why-is-the-british-virgin-islands-becoming-a-legal-home-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 17 Jul 2026 13:30:00 +0000",
-      "summary": "Kraken, Bitstamp, 1inch and Bitfinex have all set up shop in the British Virgin Islands \u2014 but you might find it tricky to book an on-site meeting with one of their executives.  "
-    },
-    {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 17 Jul 2026 12:30:36 +0000",
+      "publishedAt": "Sat, 18 Jul 2026 11:42:51 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Dutch court declares crypto platform Knaken bankrupt over missing funds",
+      "title": "Kaspersky identifies malware framework targeting crypto investors",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/dutch-court-knaken-crypto-platform-bankruptcy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 17 Jul 2026 12:21:55 +0000",
-      "summary": "The Rotterdam court said bankruptcy was necessary to ensure an orderly settlement because the company lacked enough assets to fully repay users."
+      "url": "https://cointelegraph.com/news/kaspersky-malware-framework-crypto-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 18 Jul 2026 11:40:48 +0000",
+      "summary": "Cybersecurity company Kaspersky said a newly identified malware framework is targeting cryptocurrency investors through social engineering tactics and trojanized GitHub apps."
+    },
+    {
+      "title": "French gambling regulator orders ISPs to block Polymarket",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/french-gambling-authority-blocks-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 18 Jul 2026 09:58:55 +0000",
+      "summary": "France\u2019s gambling authority has ordered the country\u2019s internet service providers to geoblock Polymarket, citing illegal gambling and market manipulation concerns."
+    },
+    {
+      "title": "FTX to distribute $900M to creditors in fifth payment round",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/ftx-distribute-millions-creditors-fifth-payment-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 17 Jul 2026 21:40:18 +0000",
+      "summary": "The FTX Recovery Trust and company have distributed about $10 billion since the exchange filed for bankruptcy in November 2022, leaving users cut off from their funds."
+    },
+    {
+      "title": "Galaxy lands 15-year Texas Tech stadium naming rights deal",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/galaxy-lands-15-year-texas-tech-stadium-naming-rights-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 17 Jul 2026 20:03:32 +0000",
+      "summary": "Galaxy Digital will rename Texas Tech\u2019s football stadium under a 15-year agreement, expanding its West Texas presence as the state attracts growing crypto investment. "
     }
   ],
   "aiNews": [
     {
-      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+      "title": "Neil Rimer thinks the AI money is coming back out",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-      "publishedAt": "Fri, 17 Jul 2026 12:00:00 +0000",
-      "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals."
+      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "publishedAt": "Sat, 18 Jul 2026 04:47:25 +0000",
+      "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily."
     },
     {
-      "title": "Google Vids now lets you star in your own AI videos",
+      "title": "Vertu wants executives to pay $6,880 for an AI agent \u2014 here\u2019s how it actually performs",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-      "publishedAt": "Thu, 16 Jul 2026 18:32:54 +0000",
-      "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from promp"
+      "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "publishedAt": "Fri, 17 Jul 2026 22:55:09 +0000",
+      "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day."
     },
     {
-      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
+      "title": "Databricks hits $188B valuation, extending its run as AI\u2019s favorite second act",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-      "publishedAt": "Thu, 16 Jul 2026 18:22:06 +0000",
-      "summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt. "
+      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "publishedAt": "Fri, 17 Jul 2026 22:12:56 +0000",
+      "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding."
     },
     {
-      "title": "Google\u2019s AI Mode now lets you link and interact with select apps",
+      "title": "The Zoom hack that says, \u2018Don\u2019t record me\u2019",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
-      "publishedAt": "Thu, 16 Jul 2026 16:00:00 +0000",
-      "summary": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly."
+      "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+      "publishedAt": "Fri, 17 Jul 2026 21:20:47 +0000",
+      "summary": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?"
     },
     {
-      "title": "Yes, you can now order DoorDash from the command line",
+      "title": "Agility Robotics plants its flag in Tesla\u2019s backyard",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
-      "publishedAt": "Thu, 16 Jul 2026 15:38:55 +0000",
-      "summary": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward softwar"
+      "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+      "publishedAt": "Fri, 17 Jul 2026 20:19:49 +0000",
+      "summary": "Agility is opening a new training center for its Digit robots in Fremont, California. "
     }
   ],
   "techMovers": [
     {
       "ticker": "NFLX",
       "name": "Netflix Inc",
-      "price": 68.03,
-      "change": -6.32,
-      "changePercent": -8.51
+      "price": 68.95,
+      "change": -5.4,
+      "changePercent": -7.26
     },
     {
       "ticker": "META",
       "name": "Meta Platforms",
-      "price": 636.02,
-      "change": -28.52,
-      "changePercent": -4.29
-    },
-    {
-      "ticker": "UBER",
-      "name": "Uber Technologies",
-      "price": 72.17,
-      "change": -1.88,
-      "changePercent": -2.53
+      "price": 646.01,
+      "change": -18.53,
+      "changePercent": -2.79
     },
     {
       "ticker": "TSLA",
       "name": "Tesla Inc",
-      "price": 381.64,
-      "change": -9.42,
-      "changePercent": -2.41
+      "price": 380.84,
+      "change": -10.22,
+      "changePercent": -2.61
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp",
+      "price": 202.81,
+      "change": -4.59,
+      "changePercent": -2.21
     },
     {
       "ticker": "GOOG",
       "name": "Alphabet Inc",
-      "price": 345.8,
-      "change": -8.01,
-      "changePercent": -2.26
+      "price": 346.12,
+      "change": -7.69,
+      "changePercent": -2.17
     }
   ],
-  "fearGreedIndex": 27,
+  "fearGreedIndex": 25,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 358.36,
-    "change": -6.78,
-    "changePercent": -1.86
+    "price": 358.56,
+    "change": -6.58,
+    "changePercent": -1.8
   },
   "sectors": [
     {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": 1.09
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": 0.6
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 0.48
+      "changePercent": 1.16
     },
     {
       "ticker": "XLRE",
       "name": "Real Estate",
-      "changePercent": 0.48
+      "changePercent": -0.09
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": 0.39
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 0.37
+      "changePercent": -0.41
     },
     {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": 0.32
+      "changePercent": -0.44
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": -0.66
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -0.71
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -0.72
     },
     {
       "ticker": "XLF",
       "name": "Financials",
-      "changePercent": -0.18
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": -0.82
+      "changePercent": -0.86
     },
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": -0.9
+      "changePercent": -1.09
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -1.62
     },
     {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": -1.51
+      "changePercent": -1.78
     }
   ],
   "economicCalendar": [
