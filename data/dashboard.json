@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-07-18T14:18:34.316419+00:00",
+  "lastUpdated": "2026-07-19T14:22:16.083139+00:00",
   "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
+      "title": "US and Iran trade fire after two US soldiers killed in Jordan",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 18 Jul 2026 13:06:25 GMT",
-      "summary": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\"."
+      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 19 Jul 2026 13:10:57 GMT",
+      "summary": "Kuwait says an electricity and water plant is on fire after the second such attack in two days. Iran says US strikes hit an under-construction nuclear power plant."
     },
     {
-      "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
+      "title": "Tate brothers arrested in US as further UK charges take total to 59",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 17 Jul 2026 19:04:09 GMT",
-      "summary": "Protests erupted in Ukraine on Thursday after Mykhailo Fedorov's removal - and now soldiers are also criticising the move."
+      "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 19 Jul 2026 12:53:20 GMT",
+      "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent."
     },
     {
-      "title": "US strikes hit Iran for seventh consecutive night",
+      "title": "Russia launches major ballistic missile attack on Ukrainian cities",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 18 Jul 2026 11:48:44 GMT",
-      "summary": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit."
+      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 19 Jul 2026 11:28:24 GMT",
+      "summary": "Five people are killed and at least 35 injured as Ukraine's two largest cities are targeted, as Kyiv continues its own assault on Russian infrastructure."
     },
     {
-      "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
+      "title": "New EU border system tripling time at passport control, airport boss says",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 18 Jul 2026 01:29:47 GMT",
-      "summary": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions."
+      "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 19 Jul 2026 01:47:59 GMT",
+      "summary": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.  "
     },
     {
-      "title": "Space start-up launches India\u2019s first commercial rocket designed for orbit",
+      "title": "Cuban dissident Luis Manuel Otero Alc\u00e1ntara goes into exile in US",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 18 Jul 2026 07:05:19 GMT",
-      "summary": "India's first space-tech unicorn Skyroot Aerospace successfully launched Vikram-1 on Saturday."
+      "url": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 19 Jul 2026 07:47:02 GMT",
+      "summary": "He was arrested in 2021 during Cuba's largest anti-government protests in decades and spent five years \u2060in prison."
     }
   ],
   "cryptoAssets": [
@@ -43,18 +43,18 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 64097,
-      "change24h": 1.31625,
-      "marketCap": 1285865118155,
+      "price": 64447,
+      "change24h": 0.5372,
+      "marketCap": 1292758758549,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1841.49,
-      "change24h": 0.83303,
-      "marketCap": 222283020453,
+      "price": 1870.0,
+      "change24h": 1.50239,
+      "marketCap": 225688831649,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
@@ -63,39 +63,53 @@
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 18 Jul 2026 11:42:51 +0000",
+      "publishedAt": "Sun, 19 Jul 2026 13:20:25 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "US agencies miss GENIUS Act deadline for final stablecoin rules",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/federal-agencies-miss-genius-act-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 19 Jul 2026 12:53:12 +0000",
+      "summary": "US regulators failed to finalize implementing regulations by the GENIUS Act\u2019s one-year deadline, issuing 10 proposed rules instead."
+    },
+    {
+      "title": "Upbit parent Dunamu faces South Korean regulator sanctions process: Report",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/south-korean-regulator-inspection-letter-upbit-36m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 19 Jul 2026 10:23:00 +0000",
+      "summary": "Korea\u2019s Virtual Asset User Protection Act lacks explicit sanctions provisions for hacking and similar incidents, clouding the scope of penalties facing the Upbit operator Dunamu."
+    },
+    {
+      "title": "Electronic Transactions Association CEO Expecting More Partnerships with Bitcoin Startups",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/electronic-transactions-association-ceo-expecting-more-partnerships-with-bitcoin-startups?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 19 Jul 2026 09:16:42 +0000",
+      "summary": "Electronic Transactions Association (ETA) CEO, Jason Oxman, indicated that members of his organization might start recognizing Bitcoin\u2019s disruptive potential, suggesting that this might lead to more p"
     },
     {
       "title": "Kaspersky identifies malware framework targeting crypto investors",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/kaspersky-malware-framework-crypto-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 18 Jul 2026 11:40:48 +0000",
+      "publishedAt": "Sat, 18 Jul 2026 11:45:00 +0000",
       "summary": "Cybersecurity company Kaspersky said a newly identified malware framework is targeting cryptocurrency investors through social engineering tactics and trojanized GitHub apps."
-    },
-    {
-      "title": "French gambling regulator orders ISPs to block Polymarket",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/french-gambling-authority-blocks-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 18 Jul 2026 09:58:55 +0000",
-      "summary": "France\u2019s gambling authority has ordered the country\u2019s internet service providers to geoblock Polymarket, citing illegal gambling and market manipulation concerns."
-    },
-    {
-      "title": "FTX to distribute $900M to creditors in fifth payment round",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ftx-distribute-millions-creditors-fifth-payment-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 17 Jul 2026 21:40:18 +0000",
-      "summary": "The FTX Recovery Trust and company have distributed about $10 billion since the exchange filed for bankruptcy in November 2022, leaving users cut off from their funds."
-    },
-    {
-      "title": "Galaxy lands 15-year Texas Tech stadium naming rights deal",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/galaxy-lands-15-year-texas-tech-stadium-naming-rights-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 17 Jul 2026 20:03:32 +0000",
-      "summary": "Galaxy Digital will rename Texas Tech\u2019s football stadium under a 15-year agreement, expanding its West Texas presence as the state attracts growing crypto investment. "
     }
   ],
   "aiNews": [
+    {
+      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "publishedAt": "Sun, 19 Jul 2026 14:00:00 +0000",
+      "summary": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more. "
+    },
+    {
+      "title": "Kimi: Threat or menace?",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "publishedAt": "Sat, 18 Jul 2026 18:51:07 +0000",
+      "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\""
+    },
     {
       "title": "Neil Rimer thinks the AI money is coming back out",
       "source": "TechCrunch",
@@ -116,20 +130,6 @@
       "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
       "publishedAt": "Fri, 17 Jul 2026 22:12:56 +0000",
       "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding."
-    },
-    {
-      "title": "The Zoom hack that says, \u2018Don\u2019t record me\u2019",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
-      "publishedAt": "Fri, 17 Jul 2026 21:20:47 +0000",
-      "summary": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?"
-    },
-    {
-      "title": "Agility Robotics plants its flag in Tesla\u2019s backyard",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-      "publishedAt": "Fri, 17 Jul 2026 20:19:49 +0000",
-      "summary": "Agility is opening a new training center for its Digit robots in Fremont, California. "
     }
   ],
   "techMovers": [
@@ -169,7 +169,7 @@
       "changePercent": -2.17
     }
   ],
-  "fearGreedIndex": 25,
+  "fearGreedIndex": 28,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
