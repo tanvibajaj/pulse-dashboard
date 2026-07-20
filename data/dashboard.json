@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-07-19T14:22:16.083139+00:00",
-  "marketStatus": "Closed",
+  "lastUpdated": "2026-07-20T15:08:32.018114+00:00",
+  "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "US and Iran trade fire after two US soldiers killed in Jordan",
+      "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 19 Jul 2026 13:10:57 GMT",
-      "summary": "Kuwait says an electricity and water plant is on fire after the second such attack in two days. Iran says US strikes hit an under-construction nuclear power plant."
+      "url": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 20 Jul 2026 11:18:40 GMT",
+      "summary": "Iran responded with attacks in Syria and Jordan, as two ships reportedly exploded in the Strait of Hormuz."
     },
     {
-      "title": "Tate brothers arrested in US as further UK charges take total to 59",
+      "title": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 19 Jul 2026 12:53:20 GMT",
-      "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent."
+      "url": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 20 Jul 2026 14:14:08 GMT",
+      "summary": "Russian strikes on the Odesa region have killed 28 people in July alone, local authorities say."
     },
     {
-      "title": "Russia launches major ballistic missile attack on Ukrainian cities",
+      "title": "Boy, 13, dies during World Cup celebrations in Spain ",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 19 Jul 2026 11:28:24 GMT",
-      "summary": "Five people are killed and at least 35 injured as Ukraine's two largest cities are targeted, as Kyiv continues its own assault on Russian infrastructure."
+      "url": "https://www.bbc.co.uk/news/articles/c0qvdy0jv05o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 20 Jul 2026 10:02:44 GMT",
+      "summary": "Two other young people were injured after a fountain partially collapsed in Salamanca's Ciudad Rodrigo. "
     },
     {
-      "title": "New EU border system tripling time at passport control, airport boss says",
+      "title": "Hamas names Khalil al-Hayya as new overall leader",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 19 Jul 2026 01:47:59 GMT",
-      "summary": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.  "
+      "url": "https://www.bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 20 Jul 2026 14:02:31 GMT",
+      "summary": "The Palestinian armed group's Qatar-based chief negotiator replaces Yahya Sinwar, who was killed by Israeli forces in Gaza in 2024."
     },
     {
-      "title": "Cuban dissident Luis Manuel Otero Alc\u00e1ntara goes into exile in US",
+      "title": "Police block thousands of 'cockroach' protesters marching on India's parliament",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 19 Jul 2026 07:47:02 GMT",
-      "summary": "He was arrested in 2021 during Cuba's largest anti-government protests in decades and spent five years \u2060in prison."
+      "url": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 20 Jul 2026 12:31:10 GMT",
+      "summary": "Some protesters demanding education reforms said they were injured in clashes with police who banned the march. "
     }
   ],
   "cryptoAssets": [
@@ -43,65 +43,86 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 64447,
-      "change24h": 0.5372,
-      "marketCap": 1292758758549,
+      "price": 64577,
+      "change24h": 0.09866,
+      "marketCap": 1293793275646,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1870.0,
-      "change24h": 1.50239,
-      "marketCap": 225688831649,
+      "price": 1873.75,
+      "change24h": 0.04829,
+      "marketCap": 225844964273,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
+      "title": "Peter Brandt predicts the exact day Bitcoin\u2019s bear market will be over",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/magazine/peter-brandt-says-bitcoins-bear-market-isnt-over-predicts-final-bottom-in-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 20 Jul 2026 13:30:00 +0000",
+      "summary": "Renowned trading analyst Peter Brandt says investing in Bitcoin today, will pay off much better in two to three years than buying AI stocks at current prices.  "
+    },
+    {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 19 Jul 2026 13:20:25 +0000",
+      "publishedAt": "Mon, 20 Jul 2026 13:07:28 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "US agencies miss GENIUS Act deadline for final stablecoin rules",
+      "title": "Strategy raises $263.5M through MSTR sales, holds 843,775 Bitcoin",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/federal-agencies-miss-genius-act-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 19 Jul 2026 12:53:12 +0000",
-      "summary": "US regulators failed to finalize implementing regulations by the GENIUS Act\u2019s one-year deadline, issuing 10 proposed rules instead."
+      "url": "https://cointelegraph.com/news/strategy-263-5-million-mstr-raise-holds-843775-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 20 Jul 2026 12:39:49 +0000",
+      "summary": "Strategy boosted its cash reserve to $3.225 billion after selling MSTR shares, while investors weighed the value of its STRC preferred stock."
     },
     {
-      "title": "Upbit parent Dunamu faces South Korean regulator sanctions process: Report",
+      "title": "Hyperliquid sets 500,000 HYPE stake for permissionless prediction market deployers",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/south-korean-regulator-inspection-letter-upbit-36m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 19 Jul 2026 10:23:00 +0000",
-      "summary": "Korea\u2019s Virtual Asset User Protection Act lacks explicit sanctions provisions for hacking and similar incidents, clouding the scope of penalties facing the Upbit operator Dunamu."
+      "url": "https://cointelegraph.com/news/hyperliquid-hype-stake-permissionless-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 20 Jul 2026 12:20:23 +0000",
+      "summary": "Hyperliquid plans to require developers to stake 500,000 HYPE, worth about $30.4 million, to deploy permissionless prediction markets under HIP-4."
     },
     {
-      "title": "Electronic Transactions Association CEO Expecting More Partnerships with Bitcoin Startups",
+      "title": "Vietnam sets fines for unlicensed crypto trading ahead of regulation rollout",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/electronic-transactions-association-ceo-expecting-more-partnerships-with-bitcoin-startups?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 19 Jul 2026 09:16:42 +0000",
-      "summary": "Electronic Transactions Association (ETA) CEO, Jason Oxman, indicated that members of his organization might start recognizing Bitcoin\u2019s disruptive potential, suggesting that this might lead to more p"
-    },
-    {
-      "title": "Kaspersky identifies malware framework targeting crypto investors",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/kaspersky-malware-framework-crypto-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 18 Jul 2026 11:45:00 +0000",
-      "summary": "Cybersecurity company Kaspersky said a newly identified malware framework is targeting cryptocurrency investors through social engineering tactics and trojanized GitHub apps."
+      "url": "https://cointelegraph.com/news/vietnam-crypto-traders-unlicensed-platforms-fines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 20 Jul 2026 12:04:06 +0000",
+      "summary": "The new rules establish penalties as much as $1,900 for crypto violations, including unlicensed trading and AML breaches, ahead of Vietnam\u2019s regulated crypto market launch."
     }
   ],
   "aiNews": [
+    {
+      "title": "What to watch for after Jensen Huang\u2019s Japan visit",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+      "publishedAt": "Sun, 19 Jul 2026 21:16:07 +0000",
+      "summary": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem."
+    },
+    {
+      "title": "Can an Apple lawsuit derail OpenAI\u2019s hardware plans?",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "publishedAt": "Sun, 19 Jul 2026 19:24:45 +0000",
+      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public."
+    },
+    {
+      "title": "\u2018Odyssey\u2019 director Christopher Nolan calls AI an obvious \u2018Trojan horse\u2019",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "publishedAt": "Sun, 19 Jul 2026 14:52:08 +0000",
+      "summary": "\"Everybody knows the Greeks are inside.\""
+    },
     {
       "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
       "publishedAt": "Sun, 19 Jul 2026 14:00:00 +0000",
-      "summary": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more. "
+      "summary": "Current AI, a nonprofit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat, and more. "
     },
     {
       "title": "Kimi: Threat or menace?",
@@ -109,129 +130,108 @@
       "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
       "publishedAt": "Sat, 18 Jul 2026 18:51:07 +0000",
       "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\""
-    },
-    {
-      "title": "Neil Rimer thinks the AI money is coming back out",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-      "publishedAt": "Sat, 18 Jul 2026 04:47:25 +0000",
-      "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily."
-    },
-    {
-      "title": "Vertu wants executives to pay $6,880 for an AI agent \u2014 here\u2019s how it actually performs",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-      "publishedAt": "Fri, 17 Jul 2026 22:55:09 +0000",
-      "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day."
-    },
-    {
-      "title": "Databricks hits $188B valuation, extending its run as AI\u2019s favorite second act",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-      "publishedAt": "Fri, 17 Jul 2026 22:12:56 +0000",
-      "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding."
     }
   ],
   "techMovers": [
     {
-      "ticker": "NFLX",
-      "name": "Netflix Inc",
-      "price": 68.95,
-      "change": -5.4,
-      "changePercent": -7.26
-    },
-    {
-      "ticker": "META",
-      "name": "Meta Platforms",
-      "price": 646.01,
-      "change": -18.53,
-      "changePercent": -2.79
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla Inc",
-      "price": 380.84,
-      "change": -10.22,
-      "changePercent": -2.61
-    },
-    {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corp",
-      "price": 202.81,
-      "change": -4.59,
-      "changePercent": -2.21
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "price": 121.33,
+      "change": -5.08,
+      "changePercent": -4.02
     },
     {
       "ticker": "GOOG",
       "name": "Alphabet Inc",
-      "price": 346.12,
-      "change": -7.69,
-      "changePercent": -2.17
+      "price": 356.03,
+      "change": 9.91,
+      "changePercent": 2.86
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 509.5,
+      "change": 13.74,
+      "changePercent": 2.77
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "price": 378.98,
+      "change": 8.15,
+      "changePercent": 2.2
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc",
+      "price": 326.69,
+      "change": -7.05,
+      "changePercent": -2.11
     }
   ],
-  "fearGreedIndex": 28,
+  "fearGreedIndex": 29,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 358.56,
-    "change": -6.58,
-    "changePercent": -1.8
+    "price": 361.2,
+    "change": 2.64,
+    "changePercent": 0.74
   },
   "sectors": [
     {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": 0.59
+    },
+    {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": 1.16
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": -0.09
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": -0.41
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": -0.44
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": -0.66
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": -0.71
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": -0.72
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": -0.86
+      "changePercent": 0.54
     },
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": -1.09
+      "changePercent": 0.53
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": 0.15
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": -0.22
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -0.22
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -0.25
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": -0.43
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -0.45
     },
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": -1.62
+      "changePercent": -0.45
     },
     {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": -1.78
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -0.8
     }
   ],
   "economicCalendar": [
