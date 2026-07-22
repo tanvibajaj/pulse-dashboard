@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-07-21T15:00:53.780658+00:00",
+  "lastUpdated": "2026-07-22T15:01:38.859323+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+      "title": "US to announce deal allowing Saudi Arabia a nuclear programme",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Jul 2026 11:42:41 GMT",
-      "summary": "The duties mark a major escalation in trade tensions between the North American neighbours. "
+      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Jul 2026 14:49:12 GMT",
+      "summary": "The agreement would fulfil a long-held Saudi ambition but could attract concern in Israel and from some US lawmakers."
     },
     {
-      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Jul 2026 09:48:20 GMT",
-      "summary": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan."
+      "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Jul 2026 10:15:03 GMT",
+      "summary": "Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz. "
     },
     {
-      "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+      "title": "Tankers make sharp U-turns after Houthi shipping threat",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Jul 2026 10:43:48 GMT",
-      "summary": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah."
+      "url": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Jul 2026 14:42:49 GMT",
+      "summary": "All of the ships were travelling to or from Saudi ports before changing course, ship-tracking data shows."
     },
     {
-      "title": "Row escalates in Ukraine over army chief's future",
+      "title": "Ukrainian drones hit Russian online giant retailer Wildberries for second time",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c7vgel8374yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Jul 2026 12:33:15 GMT",
-      "summary": "Protesters are demanding Oleksandr Syrskyi be removed and former defence minister Mykhailo Fedorov reinstated by Friday."
+      "url": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Jul 2026 14:52:25 GMT",
+      "summary": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight."
     },
     {
-      "title": "Dozens hurt in Bologna protests after man dies while being restrained by police",
+      "title": "Zelensky sacks Ukraine's top army commander after days of protests",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Jul 2026 12:48:37 GMT",
-      "summary": "Thousands of people took to the streets demanding justice for a Moroccan-born man who died on Sunday."
+      "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Jul 2026 05:37:43 GMT",
+      "summary": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 66794,
-      "change24h": 3.56608,
-      "marketCap": 1340323028146,
+      "price": 65729,
+      "change24h": -1.3738,
+      "marketCap": 1318346970476,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1930.69,
-      "change24h": 3.18159,
-      "marketCap": 233052496367,
+      "price": 1930.59,
+      "change24h": 0.23893,
+      "marketCap": 232934650556,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "CoinShares debuts Bitcoin mining ETF in Europe entrance",
+      "title": "The digital euro: Surveillance money, or a better alternative to cash?",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/coinshares-debuts-bitcoin-mining-ucits-etf-in-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 21 Jul 2026 13:34:26 +0000",
-      "summary": "The UCITS ETF, CoinShares\u2019 first in Europe, began trading on Deutsche B\u00f6rse Xetra, tracking a rules-based index of publicly listed BTC miners."
+      "url": "https://cointelegraph.com/magazine/what-is-the-digital-euro-all-you-need-to-know-about-europes-cbdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 22 Jul 2026 13:30:00 +0000",
+      "summary": "Proponents of the digital euro say its a better alternative to cash that\u2019s fully backed by the ECB. But critics argue it could provide the EU with too much power over its citizens."
     },
     {
-      "title": "Robinhood-backed DEX Arcus expands with tokenized assets, perps",
+      "title": "Franklin Templeton calls agentic AI next \u2018killer\u2019 use case for blockchain",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/robinhood-backed-dex-arcus-debut-multi-asset-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 21 Jul 2026 13:16:22 +0000",
-      "summary": "Arcus, built by the dYdX team, adds tokenized stocks and perpetual futures on Robinhood Chain as platforms compete to bring traditional assets onchain."
+      "url": "https://cointelegraph.com/news/agentic-ai-killer-use-case-blockchain-franklin-templeton?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 22 Jul 2026 13:18:50 +0000",
+      "summary": "Franklin Templeton\u2019s digital assets lead said that the autonomous AI agent economy will increase demand for blockchain protocols hosting machine-to-machine micropayments."
     },
     {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 21 Jul 2026 13:14:31 +0000",
+      "publishedAt": "Wed, 22 Jul 2026 12:54:29 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Morpho launches fixed-rate lending protocol on Base",
+      "title": "Bitcoin analysis eyes \u2018serious volume\u2019 after Binance sees 9K BTC daily outflow",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/morpho-midnight-fixed-rate-lending-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 21 Jul 2026 13:00:00 +0000",
-      "summary": "Morpho Midnight introduces fixed rates and defined maturities alongside Morpho Blue\u2019s variable-rate lending markets."
+      "url": "https://cointelegraph.com/markets/bitcoin-analysis-eyes-serious-volume-after-binance-sees-9k-btc-daily-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 22 Jul 2026 11:55:21 +0000",
+      "summary": "Binance set multimonth records for net BTC outflows on Tuesday, adding to an emerging trend of positive inflows to the US spot Bitcoin ETFs."
     },
     {
-      "title": "Tether-backed Twenty One, Strike merger plan scrapped: Bloomberg",
+      "title": "Zilliqa Ledger app vulnerability lets attackers recover signer\u2019s private keys",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/tether-twenty-one-strike-merger-plan-scrapped-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 21 Jul 2026 12:29:25 +0000",
-      "summary": "Strike will remain a standalone company after the proposed three-way merger was scrapped, while Twenty One Capital and Elektron continue discussions, Bloomberg reported."
+      "url": "https://cointelegraph.com/news/zilliqa-ledger-vulnerability-attackers-recover-private-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 22 Jul 2026 11:49:53 +0000",
+      "summary": "A security vulnerability in the Zilliqa Ledger app is enabling attackers to reconstruct private keys using publicly available onchain data."
     }
   ],
   "aiNews": [
     {
-      "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
+      "title": "The browser wars aren\u2019t about search anymore \u2014 here are the best alternatives to Chrome and Safari",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
-      "publishedAt": "Tue, 21 Jul 2026 13:27:42 +0000",
-      "summary": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June."
+      "url": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "publishedAt": "Wed, 22 Jul 2026 13:20:35 +0000",
+      "summary": "We\u2019ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
     },
     {
-      "title": "Gritt exits stealth with $32 million for robots to build solar plants \u2014 then, everything else",
+      "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
-      "publishedAt": "Tue, 21 Jul 2026 10:00:00 +0000",
-      "summary": "Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites. "
+      "url": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
+      "publishedAt": "Wed, 22 Jul 2026 13:00:00 +0000",
+      "summary": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners."
     },
     {
-      "title": "Anthropic\u2019s landmark $1.5B copyright settlement is approved",
+      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-      "publishedAt": "Tue, 21 Jul 2026 00:12:24 +0000",
-      "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models. "
+      "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+      "publishedAt": "Wed, 22 Jul 2026 10:00:00 +0000",
+      "summary": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises."
     },
     {
-      "title": "Trump\u2019s latest AI czar has already resigned",
+      "title": "Synthesia\u2019s AI training platform is moving beyond videos into live coaching",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
-      "publishedAt": "Mon, 20 Jul 2026 22:21:04 +0000",
-      "summary": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar."
+      "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+      "publishedAt": "Wed, 22 Jul 2026 08:00:00 +0000",
+      "summary": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to h"
     },
     {
-      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-      "publishedAt": "Mon, 20 Jul 2026 21:21:15 +0000",
-      "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently. "
+      "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "publishedAt": "Wed, 22 Jul 2026 03:20:57 +0000",
+      "summary": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor."
     }
   ],
   "techMovers": [
     {
       "ticker": "COIN",
       "name": "Coinbase",
-      "price": 177.68,
-      "change": 17.26,
-      "changePercent": 10.76
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 528.0,
-      "change": 24.43,
-      "changePercent": 4.85
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla Inc",
-      "price": 382.89,
-      "change": 13.32,
-      "changePercent": 3.6
-    },
-    {
-      "ticker": "ORCL",
-      "name": "Oracle Corp",
-      "price": 124.85,
-      "change": 3.47,
-      "changePercent": 2.86
+      "price": 169.41,
+      "change": -6.44,
+      "changePercent": -3.66
     },
     {
       "ticker": "CRM",
       "name": "Salesforce Inc",
-      "price": 171.07,
-      "change": -2.72,
-      "changePercent": -1.57
+      "price": 165.23,
+      "change": -4.83,
+      "changePercent": -2.84
+    },
+    {
+      "ticker": "SNOW",
+      "name": "Snowflake Inc",
+      "price": 265.37,
+      "change": -6.36,
+      "changePercent": -2.34
+    },
+    {
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "price": 629.05,
+      "change": -14.76,
+      "changePercent": -2.29
+    },
+    {
+      "ticker": "NFLX",
+      "name": "Netflix Inc",
+      "price": 70.13,
+      "change": 1.46,
+      "changePercent": 2.13
     }
   ],
-  "fearGreedIndex": 25,
+  "fearGreedIndex": 33,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 357.78,
-    "change": -2.79,
-    "changePercent": -0.77
+    "price": 354.8,
+    "change": -1.02,
+    "changePercent": -0.29
   },
   "sectors": [
     {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": 2.27
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 0.56
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": 1.8
     },
     {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": 0.46
+      "changePercent": 1.69
     },
     {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": 0.46
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 0.3
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 0.13
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": 0.06
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": -0.03
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": -0.42
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": -0.48
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": 1.18
     },
     {
       "ticker": "XLP",
       "name": "Consumer Staples",
-      "changePercent": -0.89
+      "changePercent": 0.29
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": 0.19
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -0.11
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -0.15
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -0.17
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": -0.19
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": -0.22
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -0.57
     }
   ],
   "economicCalendar": [
