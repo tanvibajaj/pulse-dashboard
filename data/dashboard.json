@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-07-24T14:51:56.161600+00:00",
-  "marketStatus": "Open",
+  "lastUpdated": "2026-07-25T14:28:13.842270+00:00",
+  "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
+      "title": "Trump takes swipes at press during White House Correspondents' Dinner",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 11:50:17 GMT",
-      "summary": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula. "
+      "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 25 Jul 2026 13:51:07 GMT",
+      "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April."
     },
     {
-      "title": "US hits dozens of countries with new wave of tariffs",
+      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 12:40:44 GMT",
-      "summary": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February."
+      "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 25 Jul 2026 06:34:40 GMT",
+      "summary": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports."
     },
     {
-      "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
+      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 09:20:07 GMT",
-      "summary": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages."
+      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 25 Jul 2026 00:06:53 GMT",
+      "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day."
     },
     {
-      "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
+      "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 13:33:06 GMT",
-      "summary": "At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear."
+      "url": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 24 Jul 2026 23:01:06 GMT",
+      "summary": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically."
     },
     {
-      "title": "South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate'",
+      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwymj9lkx13o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 11:53:49 GMT",
-      "summary": "Ramaphosa has faced scrutiny following the theft of large sums of cash from his private farm in 2020."
+      "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 24 Jul 2026 22:49:59 GMT",
+      "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 63712,
-      "change24h": -1.7,
-      "marketCap": 1278008662748,
+      "price": 64098,
+      "change24h": -0.9,
+      "marketCap": 1285794863893,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1848.88,
-      "change24h": -2.6,
-      "marketCap": 223094261204,
+      "price": 1864.71,
+      "change24h": -0.4,
+      "marketCap": 225023093774,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Bitcoin falls under $64K as surging US bond yields boost Fed rate-hike odds",
+      "title": "North Korea arrests bank hacking ring tied to crypto laundering: Report",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-falls-under-64k-us-bond-yields-fed-rate-hike-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 24 Jul 2026 14:28:03 +0000",
-      "summary": "Bitcoin saw several dips under the $64,000 mark as a Binance \u201cplunge protection team\u201d reemerged with bid liquidity to avoid a deeper BTC price rout."
+      "url": "https://cointelegraph.com/news/north-korea-bank-hacking-ring-crypto-laundering-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 25 Jul 2026 13:14:18 +0000",
+      "summary": "Daily NK reported that North Korea arrested former state cyber operators accused of hacking two state banks and laundering funds through crypto."
     },
     {
-      "title": "A quantum roadmap would push Bitcoin much higher: Charles Edwards",
+      "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/magazine/bitcoins-biggest-bull-catalyst-may-come-from-fixing-its-biggest-risk-edwards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 24 Jul 2026 13:30:00 +0000",
-      "summary": "A Bitcoin development roadmap that addresses quantum computing risks could see the price surge by \u201cdouble digits\u201d very quickly, according to Charles Edwards."
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 25 Jul 2026 12:06:01 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Thailand SEC files complaint against Bitkub over alleged false disclosures",
+      "title": "Fidelity joins push for Senate passage of CLARITY Act",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitkub-criminal-complaint-thailand-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 24 Jul 2026 12:46:27 +0000",
-      "summary": "Thailand\u2019s SEC filed a criminal complaint against Bitkub and two former directors over alleged false disclosures linked to a 2021 cyberattack involving $50 million in assets."
+      "url": "https://cointelegraph.com/news/fidelity-push-senate-passage-of-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 25 Jul 2026 11:30:15 +0000",
+      "summary": "Fidelity called on the US Senate to pass the CLARITY Act, joining industry groups and crypto firms pushing for market structure legislation."
     },
     {
-      "title": "Odos Protocol to shut down, gives users until July 30 to withdraw assets",
+      "title": "Dango\u2019s perp DEX taps out nearly 4 months after launch",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/odos-protocol-shut-down-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 24 Jul 2026 11:59:42 +0000",
-      "summary": "Odos Protocol will shut down on July 30, giving users one week to withdraw assets. The team did not provide a reason for the decision."
+      "url": "https://cointelegraph.com/news/dangos-perp-dex-taps-nearly-months-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 25 Jul 2026 10:01:26 +0000",
+      "summary": "Dango will close its network on Aug. 13, joining BitMEX, Odos and Satori Finance in a wave of recent crypto shutdowns."
     },
     {
-      "title": "RWAs become Hyperliquid\u2019s largest trading category",
+      "title": "Ethereum ETFs close week in red, end 5-day inflow streak",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/hyperliquid-rwa-volume-crypto-trading-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 24 Jul 2026 11:42:32 +0000",
-      "summary": "Tokenized RWA trading became Hyperliquid\u2019s largest trading category for the first time, accounting for more than half of the decentralized exchange\u2019s weekly trading volume."
+      "url": "https://cointelegraph.com/markets/ethereum-etfs-week-red-end-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 25 Jul 2026 07:40:35 +0000",
+      "summary": "Ethereum ETFs snapped a five-day inflow streak and Bitcoin ETFs logged a second day of outflows, though both funds extended their weekly inflow streaks to three."
     }
   ],
   "aiNews": [
     {
-      "title": "OpenAI\u2019s new voice mode makes it to the ChatGPT desktop app",
+      "title": "One fallen power line exposed a growing AI data center problem. Here\u2019s how to fix it.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-      "publishedAt": "Fri, 24 Jul 2026 13:36:42 +0000",
-      "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents."
+      "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "publishedAt": "Sat, 25 Jul 2026 13:05:00 +0000",
+      "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem."
     },
     {
-      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+      "title": "I tried out OpenAI\u2019s new AI keypad \u2014 which will be fun for some coders and slightly mystifying to everyone else",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-      "publishedAt": "Fri, 24 Jul 2026 01:00:00 +0000",
-      "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI\u2019s and Anthropic\u2019s guardrails affect their work. "
+      "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+      "publishedAt": "Sat, 25 Jul 2026 00:23:11 +0000",
+      "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it. "
     },
     {
-      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-      "publishedAt": "Thu, 23 Jul 2026 20:33:02 +0000",
-      "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year. "
+      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+      "publishedAt": "Fri, 24 Jul 2026 22:25:58 +0000",
+      "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case. "
     },
     {
-      "title": "Anthropic updates Claude voice mode with more capable models",
+      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-      "publishedAt": "Thu, 23 Jul 2026 19:00:00 +0000",
-      "summary": "Claude's new voice model will let you reschedule your meeting or draft an email."
+      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "publishedAt": "Fri, 24 Jul 2026 18:07:32 +0000",
+      "summary": "The acquisition brings Poke\u2019s conversational style and interaction model to Cognition\u2019s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as th"
     },
     {
-      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+      "title": "Anthropic launches Opus 5",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-      "publishedAt": "Thu, 23 Jul 2026 18:38:34 +0000",
-      "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn\u2019t catch."
+      "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+      "publishedAt": "Fri, 24 Jul 2026 17:00:00 +0000",
+      "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases."
     }
   ],
   "techMovers": [
     {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "price": 155.0,
-      "change": -6.16,
-      "changePercent": -3.82
+      "ticker": "UBER",
+      "name": "Uber Technologies",
+      "price": 65.94,
+      "change": -2.97,
+      "changePercent": -4.31
     },
     {
       "ticker": "CRM",
       "name": "Salesforce Inc",
-      "price": 162.05,
-      "change": 5.12,
-      "changePercent": 3.26
+      "price": 163.66,
+      "change": 6.73,
+      "changePercent": 4.29
     },
     {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 524.25,
-      "change": -15.44,
-      "changePercent": -2.86
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc",
-      "price": 382.02,
-      "change": -10.45,
-      "changePercent": -2.66
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "price": 114.99,
+      "change": -5.05,
+      "changePercent": -4.21
     },
     {
       "ticker": "AAPL",
       "name": "Apple Inc",
-      "price": 330.05,
-      "change": 8.39,
-      "changePercent": 2.61
+      "price": 333.02,
+      "change": 11.36,
+      "changePercent": 3.53
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 521.95,
+      "change": -17.74,
+      "changePercent": -3.29
     }
   ],
-  "fearGreedIndex": 28,
+  "fearGreedIndex": 27,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 354.64,
-    "change": 3.04,
-    "changePercent": 0.86
+    "price": 355.74,
+    "change": 4.14,
+    "changePercent": 1.18
   },
   "sectors": [
     {
       "ticker": "XLRE",
       "name": "Real Estate",
-      "changePercent": 2.46
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": 1.66
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 1.12
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 0.99
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": 0.8
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": 0.71
+      "changePercent": 2.22
     },
     {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": 0.53
+      "changePercent": 1.93
     },
     {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": 0.52
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": 1.11
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": 0.87
     },
     {
       "ticker": "XLF",
       "name": "Financials",
-      "changePercent": 0.42
+      "changePercent": 0.86
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": 0.7
     },
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": 0.17
+      "changePercent": 0.6
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": 0.4
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": 0.4
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": 0.22
     },
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": -1.14
+      "changePercent": -1.44
     }
   ],
   "economicCalendar": [
