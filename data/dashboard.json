@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-07-26T14:26:40.466506+00:00",
-  "marketStatus": "Closed",
+  "lastUpdated": "2026-07-27T15:39:22.358516+00:00",
+  "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "What we know so far about the Berlin Pride ramming attack",
+      "title": "Devastating European wildfires in maps - and how they're being tackled",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 26 Jul 2026 13:40:29 GMT",
-      "summary": "A police manhunt is under way after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night. "
+      "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 14:21:32 GMT",
+      "summary": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever."
     },
     {
-      "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+      "title": "Oil price dives as US and Iran pause attacks",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 26 Jul 2026 10:26:05 GMT",
-      "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two Israelis dead."
+      "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 15:08:37 GMT",
+      "summary": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict."
     },
     {
-      "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+      "title": "Anger, shock and grief - questions remain in the wake of the Berlin Pride attack",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 26 Jul 2026 11:29:07 GMT",
-      "summary": "More than 330,000 people have now been evacuated from wildfires across France and Spain. "
+      "url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 12:33:31 GMT",
+      "summary": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison."
     },
     {
-      "title": "Trump takes swipes at press during White House Correspondents' Dinner",
+      "title": "More than 600 US military service members injured since Iran War began in February",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 25 Jul 2026 13:51:07 GMT",
-      "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April."
+      "url": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 13:31:57 GMT",
+      "summary": "The latest figure includes casualties from Operation Fury and a new category called  \"Overseas Operations\". "
     },
     {
-      "title": "India's 'cockroach' protest called off after education minister quits",
+      "title": "Bali bans Dutch expats whose run club allegedly excluded Indonesians",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 25 Jul 2026 17:44:46 GMT",
-      "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years."
+      "url": "https://www.bbc.co.uk/news/articles/c1l1m6e08e2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 10:59:13 GMT",
+      "summary": "The two men, who are accused of favouring foreigners for their events, allegedly violated immigration laws."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 64612,
-      "change24h": 0.6,
-      "marketCap": 1296281859968,
+      "price": 64467,
+      "change24h": 0.2,
+      "marketCap": 1293279569063,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1891.28,
-      "change24h": 1.3,
-      "marketCap": 228242653391,
+      "price": 1926.66,
+      "change24h": 2.3,
+      "marketCap": 232470370964,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Bitcoin OG selling eases as dormant BTC movement hits 4-year low: Galaxy",
+      "title": "Bitcoin price eyes $66K as US stocks rise on Iran-strike pause",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-og-dormant-btc-movement-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 26 Jul 2026 13:06:00 +0000",
-      "summary": "Dormant BTC activity fell to its lowest level since Q3 2022, suggesting long-term holders have slowed distribution after heavy profit-taking."
+      "url": "https://cointelegraph.com/markets/bitcoin-price-eyes-66k-as-us-stocks-rise-on-iran-strike-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 27 Jul 2026 14:51:26 +0000",
+      "summary": "Bitcoin copied US stocks as relief over end of US-Iran strikes spread to risk assets at the start of the US trading session."
     },
     {
-      "title": "Here\u2019s what happened in crypto today",
+      "title": "Hong Kong crypto giant HashKey merges regional exchange into one",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 26 Jul 2026 12:04:52 +0000",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+      "url": "https://cointelegraph.com/news/hong-kong-crypto-giant-hashkey-merges-its-exchanges-into-one?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 27 Jul 2026 13:41:44 +0000",
+      "summary": "Hong Kong\u2019s HashKey will unify its crypto exchange branches, with users from its Hong Kong, Global, Singapore and Middle East regions using the same platform."
     },
     {
-      "title": "South Korea\u2019s largest bank to launch payment service on JPMorgan\u2019s Kinexys",
+      "title": "Rate path still divides investors: Five things to know in Bitcoin this week",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/south-korea-bank-payment-jpmorgans-kinexys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 26 Jul 2026 10:23:00 +0000",
-      "summary": "KB Kookmin Bank will use JPMorgan\u2019s blockchain platform to support US dollar cross-border payments for import and export businesses across 10 countries."
+      "url": "https://cointelegraph.com/markets/rate-path-still-divides-investors-five-things-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 27 Jul 2026 13:31:07 +0000",
+      "summary": "Bitcoin traders prepared to navigate a slew of volatility catalysts as US inflation data and US-Iran war triggers keep risk-assets in an unpredictable state."
     },
     {
-      "title": "BitMart to wind down exchange, end trading by Aug. 26",
+      "title": "Binance disappears from Google Play in certain EU countries",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitmart-wind-down-exchange-end-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 26 Jul 2026 07:13:00 +0000",
-      "summary": "Crypto exchange BitMart said it will wind down operations after its BMX token plunged and users reported withdrawal delays, with platform operations set to end in January."
+      "url": "https://cointelegraph.com/news/binance-disappears-android-google-play-certain-eu-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 27 Jul 2026 13:24:17 +0000",
+      "summary": "Binance\u2019s Android app is unavailable on Google Play in some EU markets amid scrutiny over MiCA compliance."
     },
     {
-      "title": "Binance \u2018red teams\u2019 its own staff every month to keep hackers out",
+      "title": "USDC issuer Circle to acquire nearly 1,000 IBM blockchain patents",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/binance-red-teams-own-staff-every-month-to-keep-hackers-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 26 Jul 2026 02:01:00 +0000",
-      "summary": "Binance regularly tests its employees for security hygiene, as social engineering is becoming a major source of industry breaches. "
+      "url": "https://cointelegraph.com/news/circle-to-acquire-nearly-1000-ibm-blockchain-patents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 27 Jul 2026 13:08:55 +0000",
+      "summary": "IBM\u2019s blockchain portfolio includes more than 680 patent families and nearly 1,000 issued patents worldwide, with a particular focus in supply chain applications."
     }
   ],
   "aiNews": [
     {
-      "title": "Monday.com is the latest tech company to blame AI for layoffs \u2014 here are 20 others",
+      "title": "This $9 key physically locks your most addictive apps",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "publishedAt": "Sun, 26 Jul 2026 01:30:00 +0000",
-      "summary": "A running look \u2014 in reverse chronological order \u2014 at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
+      "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
+      "publishedAt": "Mon, 27 Jul 2026 15:25:37 +0000",
+      "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone. "
     },
     {
-      "title": "Librarians are hosting viral \u2018Avoiding AI\u2019 workshops for people who are fed up with Big Tech",
+      "title": "Ilya Sutskever\u2019s Safe Superintelligence partners with Nvidia to scale its AI research",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-      "publishedAt": "Sat, 25 Jul 2026 16:00:00 +0000",
-      "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand."
+      "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+      "publishedAt": "Mon, 27 Jul 2026 15:01:50 +0000",
+      "summary": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.\u00a0"
     },
     {
-      "title": "One fallen power line exposed a growing AI data center problem. Here\u2019s how to fix it.",
+      "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-      "publishedAt": "Sat, 25 Jul 2026 13:05:00 +0000",
-      "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem."
+      "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+      "publishedAt": "Mon, 27 Jul 2026 13:00:00 +0000",
+      "summary": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners."
     },
     {
-      "title": "I tried out OpenAI\u2019s new AI keypad \u2014 which will be fun for some coders and slightly mystifying to everyone else",
+      "title": "Are brain waves the next unlock for physical AI?",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-      "publishedAt": "Sat, 25 Jul 2026 00:23:11 +0000",
-      "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it. "
+      "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+      "publishedAt": "Mon, 27 Jul 2026 00:19:14 +0000",
+      "summary": "Forget YouTube videos\u2014frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings. "
     },
     {
-      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+      "title": "Making sense of the panic over Chinese AI",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-      "publishedAt": "Fri, 24 Jul 2026 22:25:58 +0000",
-      "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case. "
+      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "publishedAt": "Sun, 26 Jul 2026 19:40:57 +0000",
+      "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street."
     }
   ],
   "techMovers": [
     {
-      "ticker": "UBER",
-      "name": "Uber Technologies",
-      "price": 65.94,
-      "change": -2.97,
-      "changePercent": -4.31
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 479.71,
+      "change": -59.98,
+      "changePercent": -11.11
     },
     {
       "ticker": "CRM",
       "name": "Salesforce Inc",
-      "price": 163.66,
-      "change": 6.73,
-      "changePercent": 4.29
+      "price": 173.87,
+      "change": 16.94,
+      "changePercent": 10.79
     },
     {
-      "ticker": "ORCL",
-      "name": "Oracle Corp",
-      "price": 114.99,
-      "change": -5.05,
-      "changePercent": -4.21
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp",
+      "price": 196.46,
+      "change": -12.3,
+      "changePercent": -5.89
     },
     {
       "ticker": "AAPL",
       "name": "Apple Inc",
-      "price": 333.02,
-      "change": 11.36,
-      "changePercent": 3.53
+      "price": 337.81,
+      "change": 16.15,
+      "changePercent": 5.02
     },
     {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 521.95,
-      "change": -17.74,
-      "changePercent": -3.29
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "price": 377.74,
+      "change": -14.73,
+      "changePercent": -3.75
     }
   ],
-  "fearGreedIndex": 26,
+  "fearGreedIndex": 30,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 355.74,
-    "change": 4.14,
-    "changePercent": 1.18
+    "price": 363.17,
+    "change": 11.57,
+    "changePercent": 3.29
   },
   "sectors": [
     {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": NaN
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 0.86
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": 0.7
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 0.6
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": 0.4
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": 2.83
     },
     {
       "ticker": "XLP",
       "name": "Consumer Staples",
-      "changePercent": NaN
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": NaN
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": NaN
+      "changePercent": 2.69
     },
     {
       "ticker": "XLRE",
       "name": "Real Estate",
-      "changePercent": 2.22
+      "changePercent": 2.14
     },
     {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 0.87
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": 1.81
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 1.73
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": 1.72
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": 1.63
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": -0.49
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": 0.22
+      "changePercent": -0.56
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": -1.23
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": -3.4
     }
   ],
   "economicCalendar": [
