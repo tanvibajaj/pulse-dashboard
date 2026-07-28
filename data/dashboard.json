@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-07-27T15:39:22.358516+00:00",
+  "lastUpdated": "2026-07-28T15:16:52.015456+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Devastating European wildfires in maps - and how they're being tackled",
+      "title": "Gironde wildfires pick up as French region braces for new 40C heatwave",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 27 Jul 2026 14:21:32 GMT",
-      "summary": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever."
+      "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 28 Jul 2026 13:25:13 GMT",
+      "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires."
     },
     {
-      "title": "Oil price dives as US and Iran pause attacks",
+      "title": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 27 Jul 2026 15:08:37 GMT",
-      "summary": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict."
+      "url": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 28 Jul 2026 05:01:19 GMT",
+      "summary": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime."
     },
     {
-      "title": "Anger, shock and grief - questions remain in the wake of the Berlin Pride attack",
+      "title": "US walks out of UN Security Council meeting during France's remarks",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 27 Jul 2026 12:33:31 GMT",
-      "summary": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison."
+      "url": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 28 Jul 2026 09:32:25 GMT",
+      "summary": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights. "
     },
     {
-      "title": "More than 600 US military service members injured since Iran War began in February",
+      "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims ",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 27 Jul 2026 13:31:57 GMT",
-      "summary": "The latest figure includes casualties from Operation Fury and a new category called  \"Overseas Operations\". "
+      "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 28 Jul 2026 11:50:59 GMT",
+      "summary": "Families grieved on Monday as they remembered the three people killed in a shooting at a food festival."
     },
     {
-      "title": "Bali bans Dutch expats whose run club allegedly excluded Indonesians",
+      "title": "Mancini reappointed Italy boss after Pirlo controversy",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c1l1m6e08e2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 27 Jul 2026 10:59:13 GMT",
-      "summary": "The two men, who are accused of favouring foreigners for their events, allegedly violated immigration laws."
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0ly412r412o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 28 Jul 2026 13:54:00 GMT",
+      "summary": "Roberto Mancini is appointed Italy manager for a second time - just a day after Andrea Pirlo rules himself out of the running for the job and technical director Paolo Maldini resigns."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 64467,
-      "change24h": 0.2,
-      "marketCap": 1293279569063,
+      "price": 63413,
+      "change24h": -2.9,
+      "marketCap": 1272227470352,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1926.66,
-      "change24h": 2.3,
-      "marketCap": 232470370964,
+      "price": 1889.49,
+      "change24h": -3.8,
+      "marketCap": 228028743805,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Bitcoin price eyes $66K as US stocks rise on Iran-strike pause",
+      "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-eyes-66k-as-us-stocks-rise-on-iran-strike-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 27 Jul 2026 14:51:26 +0000",
-      "summary": "Bitcoin copied US stocks as relief over end of US-Iran strikes spread to risk assets at the start of the US trading session."
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 28 Jul 2026 13:42:17 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Hong Kong crypto giant HashKey merges regional exchange into one",
+      "title": "The real reason DeFi projects that survived 2022 crash are shutting down now",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/hong-kong-crypto-giant-hashkey-merges-its-exchanges-into-one?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 27 Jul 2026 13:41:44 +0000",
-      "summary": "Hong Kong\u2019s HashKey will unify its crypto exchange branches, with users from its Hong Kong, Global, Singapore and Middle East regions using the same platform."
+      "url": "https://cointelegraph.com/magazine/the-2022-bear-market-didnt-kill-these-defi-projects-what-changed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 28 Jul 2026 13:30:00 +0000",
+      "summary": "DeFi projects that survived the fallout from the Terra and FTX collapses in 2022 are dying out in 2026. But analysts say it\u2019s not a case of industry consolidation \u2014 but the opposite. "
     },
     {
-      "title": "Rate path still divides investors: Five things to know in Bitcoin this week",
+      "title": "Markets eye Bank of Japan meeting on Friday as yen repeats 40-year US dollar lows",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/rate-path-still-divides-investors-five-things-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 27 Jul 2026 13:31:07 +0000",
-      "summary": "Bitcoin traders prepared to navigate a slew of volatility catalysts as US inflation data and US-Iran war triggers keep risk-assets in an unpredictable state."
+      "url": "https://cointelegraph.com/markets/markets-eye-bank-of-japan-meeting-on-friday-as-yen-repeats-40-year-us-dollar-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 28 Jul 2026 13:11:28 +0000",
+      "summary": "Analysis warned of a repeat of the 2024 yen carry-trade unwind that pressured crypto markets ahead of the next Bank of Japan interest-rate meeting."
     },
     {
-      "title": "Binance disappears from Google Play in certain EU countries",
+      "title": "Ethereum, Solana led crypto hack losses in H1 2026: Blockaid",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/binance-disappears-android-google-play-certain-eu-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 27 Jul 2026 13:24:17 +0000",
-      "summary": "Binance\u2019s Android app is unavailable on Google Play in some EU markets amid scrutiny over MiCA compliance."
+      "url": "https://cointelegraph.com/news/ethereum-solana-led-crypto-hack-losses-h1-2026-blockaid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 28 Jul 2026 13:00:00 +0000",
+      "summary": "Blockaid found Ethereum remained the hardest-hit blockchain in H1 2026, while Solana replaced Arbitrum as the network with the second-highest losses, driven largely by key compromises."
     },
     {
-      "title": "USDC issuer Circle to acquire nearly 1,000 IBM blockchain patents",
+      "title": "PayPal expands stablecoin push as crypto assets factor into Q2 results",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/circle-to-acquire-nearly-1000-ibm-blockchain-patents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 27 Jul 2026 13:08:55 +0000",
-      "summary": "IBM\u2019s blockchain portfolio includes more than 680 patent families and nearly 1,000 issued patents worldwide, with a particular focus in supply chain applications."
+      "url": "https://cointelegraph.com/news/paypal-expands-stablecoin-push-crypto-assets-q2-results?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 28 Jul 2026 12:07:51 +0000",
+      "summary": "PayPal highlighted growth of stablecoins and AI-driven payment tools in Q2 while reporting $8.68 billion in revenue and an $81 million crypto-related earnings adjustment."
     }
   ],
   "aiNews": [
     {
-      "title": "This $9 key physically locks your most addictive apps",
+      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
-      "publishedAt": "Mon, 27 Jul 2026 15:25:37 +0000",
-      "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone. "
+      "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+      "publishedAt": "Tue, 28 Jul 2026 14:00:00 +0000",
+      "summary": "Since launching last year, the startup today has more than 8 million people using the open-source or hosted version of its models, and now generates annual recurring revenue of $21 million."
     },
     {
-      "title": "Ilya Sutskever\u2019s Safe Superintelligence partners with Nvidia to scale its AI research",
+      "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
-      "publishedAt": "Mon, 27 Jul 2026 15:01:50 +0000",
-      "summary": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.\u00a0"
+      "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+      "publishedAt": "Tue, 28 Jul 2026 13:19:17 +0000",
+      "summary": "Recursive\u2019s $400 million outlay represents the bulk of the company\u2019s fundraising to date."
     },
     {
-      "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+      "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
-      "publishedAt": "Mon, 27 Jul 2026 13:00:00 +0000",
-      "summary": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners."
+      "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+      "publishedAt": "Tue, 28 Jul 2026 04:30:00 +0000",
+      "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales."
     },
     {
-      "title": "Are brain waves the next unlock for physical AI?",
+      "title": "Anthropic\u2019s Dario Amodei responds: doesn\u2019t oppose open-weight models, but fears Chinese AI",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-      "publishedAt": "Mon, 27 Jul 2026 00:19:14 +0000",
-      "summary": "Forget YouTube videos\u2014frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings. "
+      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "publishedAt": "Tue, 28 Jul 2026 00:13:33 +0000",
+      "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities. "
     },
     {
-      "title": "Making sense of the panic over Chinese AI",
+      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-      "publishedAt": "Sun, 26 Jul 2026 19:40:57 +0000",
-      "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street."
+      "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "publishedAt": "Mon, 27 Jul 2026 21:17:11 +0000",
+      "summary": "Companies without their own models \u2014 or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself \u2014 will be in trouble, Nadella says."
     }
   ],
   "techMovers": [
     {
       "ticker": "AMD",
       "name": "AMD Inc",
-      "price": 479.71,
-      "change": -59.98,
-      "changePercent": -11.11
+      "price": 452.01,
+      "change": -42.94,
+      "changePercent": -8.68
     },
     {
       "ticker": "CRM",
       "name": "Salesforce Inc",
-      "price": 173.87,
-      "change": 16.94,
-      "changePercent": 10.79
+      "price": 183.2,
+      "change": 9.6,
+      "changePercent": 5.53
     },
     {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corp",
-      "price": 196.46,
-      "change": -12.3,
-      "changePercent": -5.89
+      "ticker": "NFLX",
+      "name": "Netflix Inc",
+      "price": 72.93,
+      "change": 2.53,
+      "changePercent": 3.6
     },
     {
-      "ticker": "AAPL",
-      "name": "Apple Inc",
-      "price": 337.81,
-      "change": 16.15,
-      "changePercent": 5.02
+      "ticker": "UBER",
+      "name": "Uber Technologies",
+      "price": 69.86,
+      "change": 1.68,
+      "changePercent": 2.46
     },
     {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc",
-      "price": 377.74,
-      "change": -14.73,
-      "changePercent": -3.75
+      "ticker": "MSFT",
+      "name": "Microsoft Corp",
+      "price": 398.11,
+      "change": 9.01,
+      "changePercent": 2.32
     }
   ],
-  "fearGreedIndex": 30,
+  "fearGreedIndex": 29,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 363.17,
-    "change": 11.57,
-    "changePercent": 3.29
+    "price": 366.45,
+    "change": 3.92,
+    "changePercent": 1.08
   },
   "sectors": [
     {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 2.83
-    },
-    {
       "ticker": "XLP",
       "name": "Consumer Staples",
-      "changePercent": 2.69
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 2.14
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 1.81
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 1.73
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 1.72
+      "changePercent": 3.44
     },
     {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": 1.63
+      "changePercent": 2.34
     },
     {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": -0.49
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": 2.0
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": 1.7
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": 1.3
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": 1.06
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 0.85
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": -0.56
+      "changePercent": 0.8
     },
     {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": -1.23
+      "changePercent": -0.73
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": -0.85
     },
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": -3.4
+      "changePercent": -2.4
     }
   ],
   "economicCalendar": [
