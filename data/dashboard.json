@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-07-29T15:06:35.451922+00:00",
+  "lastUpdated": "2026-07-30T15:08:12.549015+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
+      "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 29 Jul 2026 11:47:05 GMT",
-      "summary": "People are being urged to stay alert, with earthquake aftershocks potentially reaching magnitude 7, officials say"
+      "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 30 Jul 2026 10:49:14 GMT",
+      "summary": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks. "
     },
     {
-      "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
+      "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 29 Jul 2026 13:48:41 GMT",
-      "summary": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure."
+      "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 29 Jul 2026 18:41:31 GMT",
+      "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation."
     },
     {
-      "title": "Thousands in Spain return home but new heatwave raises wildfire fears",
+      "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 29 Jul 2026 14:27:13 GMT",
-      "summary": "Spain and France are both braced for the start of the fourth heatwave so far this summer and some fires have continued to burn."
+      "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 30 Jul 2026 13:38:50 GMT",
+      "summary": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine."
     },
     {
-      "title": "Anthony Fauci refuses to answer questions during US Senate hearing about Covid origins",
+      "title": "Thousands evacuated in Crete as Europe battles wildfires",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 29 Jul 2026 14:29:34 GMT",
-      "summary": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury."
+      "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 30 Jul 2026 12:46:16 GMT",
+      "summary": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island. "
     },
     {
-      "title": "Russia charges Telegram founder Durov with facilitating terrorism",
+      "title": "Three children among eight dead in Russian strikes on Ukraine, officials say",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 29 Jul 2026 10:23:29 GMT",
-      "summary": "The FSB claims the messenger app, created by Pavel Durov, has failed to remove accounts and channels used for recruitment by Ukraine's secret service."
+      "url": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 30 Jul 2026 09:21:55 GMT",
+      "summary": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 64046,
-      "change24h": 1.22793,
-      "marketCap": 1284975913716,
+      "price": 64675,
+      "change24h": 0.2,
+      "marketCap": 1297585247885,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1894.39,
-      "change24h": 0.5448,
-      "marketCap": 228641184094,
+      "price": 1916.46,
+      "change24h": 0.5,
+      "marketCap": 231283251199,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
+      "title": "South Korean crypto trading surges amid stock market plunge",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/south-korean-crypto-trading-surges-amid-stock-market-plunge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 30 Jul 2026 14:10:31 +0000",
+      "summary": "South Korean crypto exchanges saw a fresh spike in trading activity as the country\u2019s stock market had several days of significant downside.\n"
+    },
+    {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 29 Jul 2026 13:47:35 +0000",
+      "publishedAt": "Thu, 30 Jul 2026 13:50:34 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "BNY to bring transfer agency records onchain in blockchain push",
+      "title": "BitRiver founder charged in Russia over alleged $8M fraud",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bny-transfer-agency-records-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 29 Jul 2026 13:36:18 +0000",
-      "summary": "BNY is launching a blockchain-based transfer agency platform as the bank expands its digital asset infrastructure and moves core financial records onchain."
+      "url": "https://cointelegraph.com/news/bitriver-founder-russia-charges-alleged-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 30 Jul 2026 13:26:06 +0000",
+      "summary": "Russian authorities charged BitRiver founder Igor Runets with alleged fraud tied to a $8 million crypto mining equipment deal involving Russian billionaire Oleg Deripaska."
     },
     {
-      "title": "The 100x obsession: Fundamentals grow in importance as crypto matures",
+      "title": "Samsung unit explores stablecoin infrastructure with Upbit\u2019s operator",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/magazine/the-100x-obsession-why-great-crypto-projects-keep-losing-to-great-stories?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 29 Jul 2026 13:30:00 +0000",
-      "summary": "Crypto\u2019s fundamentals have never been stronger, yet degens keep chasing hot new narratives. Behavioral finance may explain why get rich quick stories continue to beat substance."
+      "url": "https://cointelegraph.com/news/samsung-sds-stablecoin-infrastructure-dunamu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 30 Jul 2026 11:49:00 +0000",
+      "summary": "Samsung SDS is discussing stablecoin infrastructure and AI-based payment models with Dunamu, the operator of South Korean crypto exchange Upbit."
     },
     {
-      "title": "Emirates enables UAE residents to pay for flights through Crypto.com",
+      "title": "Hedge fund with $1.1B in Bitcoin miner stocks seeks capital after AI sell-off: FT",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/emirates-starts-letting-uae-residents-pay-for-flights-through-cryptocom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 29 Jul 2026 12:14:31 +0000",
-      "summary": "The service is limited to eligible UAE residents and bookings are priced and settled in dirhams."
-    },
-    {
-      "title": "Telegram founder Pavel Durov internationally wanted, Russia\u2019s FSB says",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/telegram-founder-wanted-internationally-russia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 29 Jul 2026 11:18:19 +0000",
-      "summary": "Russia\u2019s FSB says Telegram founder Pavel Durov faces a terrorism-related charge and an international arrest warrant, while a separate French case remains open."
+      "url": "https://cointelegraph.com/markets/hedge-fund-with-11b-in-bitcoin-miner-stocks-seeks-capital-after-ai-sell-off-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 30 Jul 2026 11:29:03 +0000",
+      "summary": "The FT said Situational Awareness has approached investors and lenders after borrowing amplified losses during July\u2019s AI stock sell-off."
     }
   ],
   "aiNews": [
     {
-      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+      "title": "Forward-deployed engineers are the AI industry\u2019s latest talent obsession",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-      "publishedAt": "Wed, 29 Jul 2026 14:41:06 +0000",
-      "summary": "The startup analyzes calls, messages and CRM data to identify effective sales techniques and turn them into playbooks for AI agents."
+      "url": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+      "publishedAt": "Thu, 30 Jul 2026 15:00:00 +0000",
+      "summary": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale."
     },
     {
-      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+      "title": "In the Hugging Face breach, OpenAI\u2019s hacker was noisy and fast \u2014 but not unstoppable",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
-      "publishedAt": "Wed, 29 Jul 2026 11:00:00 +0000",
-      "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview. "
+      "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
+      "publishedAt": "Thu, 30 Jul 2026 14:48:32 +0000",
+      "summary": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense. "
     },
     {
-      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      "title": "TechCrunch Disrupt 2026\u2019s biggest stage features leaders from Amazon,\u00a0Replit, Tether, with much\u00a0more to come\u00a0",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-      "publishedAt": "Wed, 29 Jul 2026 00:09:05 +0000",
-      "summary": "The deal is Cyera's third acquisition this year. "
+      "url": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
+      "publishedAt": "Thu, 30 Jul 2026 14:00:00 +0000",
+      "summary": "The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade. "
     },
     {
-      "title": "Bot-detection startup Spur nabs $200M from Insight",
+      "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-      "publishedAt": "Tue, 28 Jul 2026 21:29:34 +0000",
-      "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots."
+      "url": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
+      "publishedAt": "Thu, 30 Jul 2026 13:00:00 +0000",
+      "summary": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures\u2019 Darren Bechtel, and Y Combinator\u2019s Garry Tan. "
     },
     {
-      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-      "publishedAt": "Tue, 28 Jul 2026 20:45:12 +0000",
-      "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself."
+      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "publishedAt": "Thu, 30 Jul 2026 00:21:06 +0000",
+      "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth."
     }
   ],
   "techMovers": [
     {
+      "ticker": "MSFT",
+      "name": "Microsoft Corp",
+      "price": 445.04,
+      "change": 54.5,
+      "changePercent": 13.96
+    },
+    {
       "ticker": "AMD",
       "name": "AMD Inc",
-      "price": 433.58,
-      "change": -61.37,
-      "changePercent": -12.4
+      "price": 485.7,
+      "change": 56.14,
+      "changePercent": 13.07
+    },
+    {
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "price": 537.79,
+      "change": -47.82,
+      "changePercent": -8.17
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "price": 125.9,
+      "change": 8.16,
+      "changePercent": 6.93
     },
     {
       "ticker": "CRM",
       "name": "Salesforce Inc",
-      "price": 185.98,
-      "change": 12.38,
-      "changePercent": 7.13
-    },
-    {
-      "ticker": "SNOW",
-      "name": "Snowflake Inc",
-      "price": 284.27,
-      "change": 11.35,
-      "changePercent": 4.16
-    },
-    {
-      "ticker": "UBER",
-      "name": "Uber Technologies",
-      "price": 69.91,
-      "change": 1.73,
-      "changePercent": 2.54
-    },
-    {
-      "ticker": "NFLX",
-      "name": "Netflix Inc",
-      "price": 72.14,
-      "change": 1.74,
-      "changePercent": 2.48
+      "price": 177.37,
+      "change": -11.01,
+      "changePercent": -5.85
     }
   ],
-  "fearGreedIndex": 29,
+  "fearGreedIndex": 28,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 370.06,
-    "change": 7.53,
-    "changePercent": 2.08
+    "price": 361.15,
+    "change": -7.58,
+    "changePercent": -2.06
   },
   "sectors": [
     {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": 2.39
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 2.29
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 1.57
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": 4.75
     },
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": 1.08
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": 0.8
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 0.45
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 0.06
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": -0.13
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": -1.27
+      "changePercent": 0.04
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": -2.82
+      "changePercent": -0.19
     },
     {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": -3.0
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": -0.73
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -0.75
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": -0.85
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": -1.08
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -2.16
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -2.43
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -2.58
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -3.39
     }
   ],
   "economicCalendar": [
