@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-07-31T15:15:59.082360+00:00",
-  "marketStatus": "Open",
+  "lastUpdated": "2026-08-01T14:24:19.932008+00:00",
+  "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
+      "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 14:20:18 GMT",
-      "summary": "Spain's prime minister described the situation as an \"attack\" on its North African territory and said all illegal migrants would be returned to Morocco. "
+      "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 01 Aug 2026 12:43:21 GMT",
+      "summary": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\"."
     },
     {
-      "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
+      "title": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 04:25:49 GMT",
-      "summary": "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza."
+      "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 01 Aug 2026 09:51:05 GMT",
+      "summary": "The governing body of European football says Fifa president Gianni Infantino has \"failed to deliver\" on promises he made when elected 10 years ago."
     },
     {
-      "title": "AC Milan and Italy great Baresi dies aged 66",
+      "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 09:44:48 GMT",
-      "summary": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces. "
+      "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 01 Aug 2026 05:01:56 GMT",
+      "summary": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand."
     },
     {
-      "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
+      "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 10:32:17 GMT",
-      "summary": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025."
+      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 01 Aug 2026 14:11:40 GMT",
+      "summary": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019."
     },
     {
-      "title": "Hundreds escape Greek wildfire by sea as blazes continue across Europe ",
+      "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 14:26:07 GMT",
-      "summary": "Around 500 people, mostly tourists, are evacuated by boat from Agios Vasileios after becoming trapped."
+      "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 01 Aug 2026 13:35:39 GMT",
+      "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital."
     }
   ],
   "cryptoAssets": [
@@ -43,211 +43,211 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 62517,
-      "change24h": -3.5,
-      "marketCap": 1254321335192,
+      "price": 63060,
+      "change24h": -1.1,
+      "marketCap": 1265248803346,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1855.42,
-      "change24h": -3.5,
-      "marketCap": 223915874087,
+      "price": 1870.33,
+      "change24h": -0.8,
+      "marketCap": 225715884561,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "ECB says digital euro app will exceed EU accessibility standards",
+      "title": "Russia expands crypto mining ban to Moscow through 2032",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ecb-digital-euros-accessibility-payment-providers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 31 Jul 2026 14:05:25 +0000",
-      "summary": "The European Central Bank proposed accessibility standards for its planned digital euro app, saying it would be one of several ways users could access basic digital euro services."
+      "url": "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 01 Aug 2026 10:23:41 +0000",
+      "summary": "Russia has added Moscow, the Moscow Region and parts of Kursk Region to its cryptocurrency mining ban list, citing power supply concerns behind the restrictions."
     },
     {
-      "title": "AMLBot launches AI Tracer for self-service blockchain investigations",
+      "title": "Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/crypto-forensics-firm-launches-ai-tracing-service-track-your-stolen-coins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 31 Jul 2026 13:59:56 +0000",
-      "summary": "Crypto forensics company AMLBot launched an AI-enabled tool allowing users with no specialist knowledge to trace their digital assets, even after they are stolen."
+      "url": "https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 01 Aug 2026 09:23:56 +0000",
+      "summary": "Galaxy Research identified 1,196 addresses that lost 1,082.65 Bitcoin in a 41-minute window, expanding the estimated scope of the Coldcard wallet incident."
     },
     {
-      "title": "Here\u2019s what happened in crypto today",
+      "title": "Bitcoin ETFs end July in the green despite late-month selling",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 31 Jul 2026 13:43:57 +0000",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+      "url": "https://cointelegraph.com/markets/bitcoin-etfs-july-green-despite-late-month-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 01 Aug 2026 07:23:07 +0000",
+      "summary": "Spot Bitcoin ETFs attracted $172.4 million in July inflows but remained $5.3 billion negative year to date after heavy withdrawals in May and June."
     },
     {
-      "title": "Circle receives New York trust charter for subsidiary",
+      "title": "Bank of Italy finds no consistent cost advantage for stablecoin remittances",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/circle-receives-new-york-trust-charter-for-subsidiary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 31 Jul 2026 13:27:10 +0000",
-      "summary": "The New York trust charter allows Circle\u2019s subsidiary to provide fiduciary and custody services under state banking law."
+      "url": "https://cointelegraph.com/news/bank-of-italy-study-no-stablecoin-remittance-cost-advantages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 31 Jul 2026 20:10:21 +0000",
+      "summary": "Researchers found that fiat conversion costs and payment infrastructure, rather than blockchain fees, accounted for most of the differences in stablecoin remittance costs and settlement times."
     },
     {
-      "title": "BOJ intervenes to defend yen near 160, holds rates steady",
+      "title": "Pump.fun laid off workers before they received millions in PUMP tokens: Report",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/boj-intervenes-to-defend-yen-near-160-holds-rates-steady?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 31 Jul 2026 13:13:46 +0000",
-      "summary": "The Japanese yen crosses a key psychological level after the country\u2019s central bank reportedly conducted a major currency intervention.\n"
+      "url": "https://cointelegraph.com/news/pump-fun-employees-fired-tokens-vest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 31 Jul 2026 19:16:19 +0000",
+      "summary": "Pump.fun co-founder Noah Tweedale reportedly attributed the layoffs to the company growing too quickly.\n"
     }
   ],
   "aiNews": [
     {
-      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
-      "publishedAt": "Fri, 31 Jul 2026 14:47:11 +0000",
-      "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test."
+      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "publishedAt": "Fri, 31 Jul 2026 22:47:26 +0000",
+      "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face. "
     },
     {
-      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "title": "India is starting to pay for apps, not just download them",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-      "publishedAt": "Fri, 31 Jul 2026 01:06:54 +0000",
-      "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents"
+      "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+      "publishedAt": "Fri, 31 Jul 2026 21:07:45 +0000",
+      "summary": "India's app market generated a record $345 million in Q2."
     },
     {
-      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-      "publishedAt": "Thu, 30 Jul 2026 23:25:58 +0000",
-      "summary": "The former OpenAI researcher\u2019s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play."
+      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+      "publishedAt": "Fri, 31 Jul 2026 19:47:28 +0000",
+      "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash."
     },
     {
-      "title": "Reddit reports a solid quarter but shows signs of AI\u2019s impact",
+      "title": "Sam Altman\u00a0isn\u2019t\u00a0the only one who wants to pump the brakes on AI",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-      "publishedAt": "Thu, 30 Jul 2026 23:08:58 +0000",
-      "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.  "
+      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+      "publishedAt": "Fri, 31 Jul 2026 17:26:32 +0000",
+      "summary": "After years of pushing full speed ahead on AI,\u00a0OpenAI CEO\u00a0Sam Altman says\u00a0maybe it\u2019s\u00a0time for the AI industry to \u201cpace\u201d itself. The comments came\u00a0just days after one of OpenAI\u2019s own models broke out o"
     },
     {
-      "title": "Investors love AI, as long as you\u2019re a cloud host",
+      "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
-      "publishedAt": "Thu, 30 Jul 2026 22:41:41 +0000",
-      "summary": "Amazon isn't slowing down on data center spending \u2014 but investors don't seem to mind."
+      "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+      "publishedAt": "Fri, 31 Jul 2026 16:49:08 +0000",
+      "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop."
     }
   ],
   "techMovers": [
     {
       "ticker": "AMZN",
       "name": "Amazon.com",
-      "price": 271.45,
-      "change": 35.95,
-      "changePercent": 15.26
+      "price": 271.58,
+      "change": 36.08,
+      "changePercent": 15.32
     },
     {
       "ticker": "COIN",
       "name": "Coinbase",
-      "price": 140.59,
-      "change": -22.99,
-      "changePercent": -14.06
+      "price": 146.26,
+      "change": -17.32,
+      "changePercent": -10.59
     },
     {
       "ticker": "AAPL",
       "name": "Apple Inc",
-      "price": 302.83,
-      "change": -30.6,
-      "changePercent": -9.18
+      "price": 308.91,
+      "change": -24.52,
+      "changePercent": -7.35
     },
     {
       "ticker": "GOOG",
       "name": "Alphabet Inc",
-      "price": 349.86,
-      "change": 16.18,
-      "changePercent": 4.85
+      "price": 356.65,
+      "change": 22.97,
+      "changePercent": 6.88
     },
     {
-      "ticker": "NFLX",
-      "name": "Netflix Inc",
-      "price": 71.54,
-      "change": -1.63,
-      "changePercent": -2.23
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "price": 556.71,
+      "change": 17.68,
+      "changePercent": 3.28
     }
   ],
-  "fearGreedIndex": 25,
+  "fearGreedIndex": 27,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 363.64,
-    "change": -2.63,
-    "changePercent": -0.72
+    "price": 366.13,
+    "change": -0.14,
+    "changePercent": -0.04
   },
   "sectors": [
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": 3.03
+      "changePercent": 3.29
     },
     {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": 0.53
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": 0.44
+      "changePercent": 1.56
     },
     {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": -0.1
+      "changePercent": 1.0
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": 0.81
     },
     {
       "ticker": "XLF",
       "name": "Financials",
-      "changePercent": -0.13
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": -0.44
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": -0.47
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": -0.56
+      "changePercent": -0.11
     },
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": -0.67
+      "changePercent": -0.22
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -0.49
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -0.51
     },
     {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": -0.91
+      "changePercent": -0.59
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": -0.69
     },
     {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": -2.18
+      "changePercent": -2.34
     }
   ],
   "economicCalendar": [
-    {
-      "date": "2026-08-07",
-      "time": "08:30 ET",
-      "event": "Non-Farm Payrolls",
-      "importance": "high",
-      "description": "Monthly jobs report - employment and wage data"
-    },
     {
       "date": "2026-08-12",
       "time": "08:30 ET",
       "event": "CPI Inflation Data",
       "importance": "high",
       "description": "Consumer Price Index - key inflation measure"
+    },
+    {
+      "date": "2026-08-15",
+      "time": "08:30 ET",
+      "event": "Retail Sales",
+      "importance": "medium",
+      "description": "Monthly consumer spending data"
     }
   ],
   "marketIndicators": [
