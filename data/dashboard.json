@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-08-01T14:24:19.932008+00:00",
+  "lastUpdated": "2026-08-02T14:26:21.221050+00:00",
   "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 01 Aug 2026 12:43:21 GMT",
-      "summary": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\"."
+      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 02 Aug 2026 11:12:00 GMT",
+      "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed."
     },
     {
-      "title": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
+      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 01 Aug 2026 09:51:05 GMT",
-      "summary": "The governing body of European football says Fifa president Gianni Infantino has \"failed to deliver\" on promises he made when elected 10 years ago."
+      "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 02 Aug 2026 10:32:28 GMT",
+      "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes."
     },
     {
-      "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+      "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 01 Aug 2026 05:01:56 GMT",
-      "summary": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand."
+      "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 02 Aug 2026 11:49:40 GMT",
+      "summary": "The vessel with at least 250 people on board caught fire off Madura island. "
     },
     {
-      "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+      "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 01 Aug 2026 14:11:40 GMT",
-      "summary": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019."
+      "url": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 01 Aug 2026 23:03:35 GMT",
+      "summary": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics."
     },
     {
-      "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
+      "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 01 Aug 2026 13:35:39 GMT",
-      "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital."
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 01 Aug 2026 22:23:20 GMT",
+      "summary": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?"
     }
   ],
   "cryptoAssets": [
@@ -43,93 +43,93 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 63060,
-      "change24h": -1.1,
-      "marketCap": 1265248803346,
+      "price": 63050,
+      "change24h": 0,
+      "marketCap": 1265094017881,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1870.33,
-      "change24h": -0.8,
-      "marketCap": 225715884561,
+      "price": 1854.29,
+      "change24h": -0.7,
+      "marketCap": 223777473987,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Russia expands crypto mining ban to Moscow through 2032",
+      "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 01 Aug 2026 10:23:41 +0000",
-      "summary": "Russia has added Moscow, the Moscow Region and parts of Kursk Region to its cryptocurrency mining ban list, citing power supply concerns behind the restrictions."
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 02 Aug 2026 11:56:35 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis",
+      "title": "BNB Chain pursues legal action after ex-employee\u2019s memecoin launch",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 01 Aug 2026 09:23:56 +0000",
-      "summary": "Galaxy Research identified 1,196 addresses that lost 1,082.65 Bitcoin in a 41-minute window, expanding the estimated scope of the Coldcard wallet incident."
+      "url": "https://cointelegraph.com/news/bnb-chain-legal-action-ex-employee-memecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 02 Aug 2026 11:20:06 +0000",
+      "summary": "BNB Chain said a former employee allegedly used a company tutorial wallet to create a memecoin that the company says it did not authorize or endorse."
     },
     {
-      "title": "Bitcoin ETFs end July in the green despite late-month selling",
+      "title": "Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-etfs-july-green-despite-late-month-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 01 Aug 2026 07:23:07 +0000",
-      "summary": "Spot Bitcoin ETFs attracted $172.4 million in July inflows but remained $5.3 billion negative year to date after heavy withdrawals in May and June."
+      "url": "https://cointelegraph.com/news/trump-media-2628-btc-crypto-com-4261-btc-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 02 Aug 2026 09:31:00 +0000",
+      "summary": "Trump Media transferred another 2,628 Bitcoin to Crypto.com, bringing its reported sales over seven months to 7,281 BTC and leaving the company with 4,261 BTC in holdings."
     },
     {
-      "title": "Bank of Italy finds no consistent cost advantage for stablecoin remittances",
+      "title": "Coldcard hack sparks biggest sub-1 BTC move since FTX: CryptoQuant",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bank-of-italy-study-no-stablecoin-remittance-cost-advantages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 31 Jul 2026 20:10:21 +0000",
-      "summary": "Researchers found that fiat conversion costs and payment infrastructure, rather than blockchain fees, accounted for most of the differences in stablecoin remittance costs and settlement times."
+      "url": "https://cointelegraph.com/news/coldcard-biggest-sub-1-btc-transfer-ftx-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 02 Aug 2026 08:07:00 +0000",
+      "summary": "Bitcoin users moved 39,600 BTC in small transactions as the Coldcard hack continued, with researchers warning that the attack remained active."
     },
     {
-      "title": "Pump.fun laid off workers before they received millions in PUMP tokens: Report",
+      "title": "Onchain, in court: What happened in crypto legal news this week",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/pump-fun-employees-fired-tokens-vest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 31 Jul 2026 19:16:19 +0000",
-      "summary": "Pump.fun co-founder Noah Tweedale reportedly attributed the layoffs to the company growing too quickly.\n"
+      "url": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 01 Aug 2026 21:14:39 +0000",
+      "summary": "A case tied to defunct crypto exchange FTX moves forward, a soldier seeks to dismiss over a Polymarket bet and a former congressman was ordered to pay $35,000 for manipulative trading."
     }
   ],
   "aiNews": [
+    {
+      "title": "Judge denies xAI\u2019s request to block Minnesota ban on \u2018nudify\u2019 apps",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "publishedAt": "Sat, 01 Aug 2026 20:26:04 +0000",
+      "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to \u201cnudify\u201d images can move forward."
+    },
+    {
+      "title": "YouTuber Hank Green says his AI usage is \u2018not healthy\u2019",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "publishedAt": "Sat, 01 Aug 2026 19:45:45 +0000",
+      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\""
+    },
+    {
+      "title": "Sam Altman is still making the case for parenting via ChatGPT",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "publishedAt": "Sat, 01 Aug 2026 17:07:34 +0000",
+      "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents."
+    },
+    {
+      "title": "This $9 key physically locks your most addictive apps",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+      "publishedAt": "Sat, 01 Aug 2026 15:58:17 +0000",
+      "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone. "
+    },
     {
       "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
       "publishedAt": "Fri, 31 Jul 2026 22:47:26 +0000",
       "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face. "
-    },
-    {
-      "title": "India is starting to pay for apps, not just download them",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
-      "publishedAt": "Fri, 31 Jul 2026 21:07:45 +0000",
-      "summary": "India's app market generated a record $345 million in Q2."
-    },
-    {
-      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-      "publishedAt": "Fri, 31 Jul 2026 19:47:28 +0000",
-      "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash."
-    },
-    {
-      "title": "Sam Altman\u00a0isn\u2019t\u00a0the only one who wants to pump the brakes on AI",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-      "publishedAt": "Fri, 31 Jul 2026 17:26:32 +0000",
-      "summary": "After years of pushing full speed ahead on AI,\u00a0OpenAI CEO\u00a0Sam Altman says\u00a0maybe it\u2019s\u00a0time for the AI industry to \u201cpace\u201d itself. The comments came\u00a0just days after one of OpenAI\u2019s own models broke out o"
-    },
-    {
-      "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-      "publishedAt": "Fri, 31 Jul 2026 16:49:08 +0000",
-      "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop."
     }
   ],
   "techMovers": [
