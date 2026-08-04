@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-08-03T15:41:00.026670+00:00",
+  "lastUpdated": "2026-08-04T15:21:54.146128+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+      "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 14:18:30 GMT",
-      "summary": "Tehran has repeatedly closed off the strait since the US and Israel attacked the country in February."
+      "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 14:58:16 GMT",
+      "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume."
     },
     {
-      "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+      "title": "Qatar says US-Iran mediation efforts continuing but no direct talks planned",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 14:38:48 GMT",
-      "summary": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output."
+      "url": "https://www.bbc.co.uk/news/articles/c1l1q9n3v15o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 15:11:51 GMT",
+      "summary": "There have been conflicting signals from the US and Iran, with Tehran denying President Trump's assertion that talks are under way."
     },
     {
-      "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
+      "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 03:32:21 GMT",
-      "summary": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir."
+      "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 11:19:01 GMT",
+      "summary": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver."
     },
     {
-      "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+      "title": "More than 150 migrants rescued after boat catches fire in Channel",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 14:20:56 GMT",
-      "summary": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official."
+      "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 14:37:42 GMT",
+      "summary": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities."
     },
     {
-      "title": "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
+      "title": "Analysis: Trump challenged by cold reality from top allies",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 08:40:22 GMT",
-      "summary": "The two women's employer has apologised for sending them back to Aeon Mall to secure cash."
+      "url": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 09:11:39 GMT",
+      "summary": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher. "
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 63716,
-      "change24h": 1.3,
-      "marketCap": 1278479353967,
+      "price": 63970,
+      "change24h": 1.6,
+      "marketCap": 1283767411724,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1862.03,
-      "change24h": 0.9,
-      "marketCap": 224714351892,
+      "price": 1866.96,
+      "change24h": 1.1,
+      "marketCap": 225337869956,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Hashdex to shut smallest Bitcoin ETF after more than two years",
+      "title": "At least 15 attackers exploited Coldcard vulnerability: Galaxy",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/hashdex-to-shut-smallest-bitcoin-etf-after-more-than-two-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 03 Aug 2026 15:24:43 +0000",
-      "summary": "The spot price Bitcoin exchange-traded fund, which was never able to attract more than $18 million in net assets, will pay out investors and sell its 225 BTC in the coming weeks."
-    },
-    {
-      "title": "US hints at more yen intervention: Five things to know in Bitcoin this week",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/us-hints-at-more-yen-intervention-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 03 Aug 2026 14:11:26 +0000",
-      "summary": "The US and Japan coordinate on the yen for the first time since 2011 as Bitcoin traders brace for a historically rough August."
-    },
-    {
-      "title": "How Fake World Assets and onchain gacha became crypto\u2019s latest craze",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/magazine/how-fake-world-assets-and-online-gacha-became-cryptos-latest-craze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 03 Aug 2026 13:30:00 +0000",
-      "summary": "Fake World Assets turns forgotten NFTs into an onchain lottery \u2014 but is crypto\u2019s latest obsession built to last?"
+      "url": "https://cointelegraph.com/news/15-attackers-exploited-coldcard-vulnerability-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 04 Aug 2026 14:38:49 +0000",
+      "summary": "Galaxy said that at least 15 different attackers have exploited the Coldcard vulnerability, which may have been avoided with just $2 worth of AI hardening, according to Dragonfly\u2019s managing partner."
     },
     {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 03 Aug 2026 13:17:41 +0000",
+      "publishedAt": "Tue, 04 Aug 2026 13:45:02 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Strategy sells 1,638 Bitcoin to fund dividends and STRC repurchases",
+      "title": "Sorry everyone, Bitcoin is headed down to $43,500: Michael Terpin",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/strategy-sells-bitcoin-dividend-strc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 03 Aug 2026 12:27:07 +0000",
-      "summary": "Michael Saylor\u2019s Strategy sold 1,638 Bitcoin in its second-largest sale of the year to fund dividend payments and repurchase its preferred STRC stock."
+      "url": "https://cointelegraph.com/magazine/bitcoin-to-go-down-into-the-40s-before-next-bull-run-michael-terpin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 04 Aug 2026 13:30:00 +0000",
+      "summary": "Transform Ventures founder Michael Terpin says Bitcoin could have another 30% downside from its current price before he is confident the market has reached a bottom."
+    },
+    {
+      "title": "Texas electric grid moratorium won\u2019t have big impact on BTC miners: Bernstein",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/texas-electric-grid-moratorim-btc-miners-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 04 Aug 2026 12:37:59 +0000",
+      "summary": "Monday\u2019s announcement that Texas Governor Greg Abbott set a moratorium on approval of ERCOT-linked data centers pending an audit won\u2019t impact miners\u2019 approved electricity contracts."
+    },
+    {
+      "title": "Tether Gold reserves rise 9.5% as gold posts worst quarter in 13 years",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/tether-gold-rise-q2-sharpest-quarterly-gold-correction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 04 Aug 2026 12:30:07 +0000",
+      "summary": "XAUt added to its bullion backing during gold\u2019s worst quarter since 2013, as tokenized commodity holder counts continued to rise."
     }
   ],
   "aiNews": [
     {
-      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-      "publishedAt": "Mon, 03 Aug 2026 10:00:00 +0000",
-      "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler. "
+      "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+      "publishedAt": "Tue, 04 Aug 2026 15:20:06 +0000",
+      "summary": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business."
     },
     {
-      "title": "Sam Altman and AI\u2019s decel debate",
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-      "publishedAt": "Sun, 02 Aug 2026 20:54:22 +0000",
-      "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\""
+      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "publishedAt": "Tue, 04 Aug 2026 14:03:01 +0000",
+      "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information."
     },
     {
-      "title": "Judge denies xAI\u2019s request to block Minnesota ban on \u2018nudify\u2019 apps",
+      "title": "Is the future of data centers portable? Runware builds a pod to find out",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-      "publishedAt": "Sat, 01 Aug 2026 20:26:04 +0000",
-      "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to \u201cnudify\u201d images can move forward."
+      "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+      "publishedAt": "Tue, 04 Aug 2026 13:00:00 +0000",
+      "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod."
     },
     {
-      "title": "YouTuber Hank Green says his AI usage is \u2018not healthy\u2019",
+      "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-      "publishedAt": "Sat, 01 Aug 2026 19:45:45 +0000",
-      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\""
+      "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
+      "publishedAt": "Tue, 04 Aug 2026 12:00:00 +0000",
+      "summary": "Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built. "
     },
     {
-      "title": "Sam Altman is still making the case for parenting via ChatGPT",
+      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry \u2018Marxist\u2019",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-      "publishedAt": "Sat, 01 Aug 2026 17:07:34 +0000",
-      "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents."
+      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+      "publishedAt": "Mon, 03 Aug 2026 23:19:50 +0000",
+      "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises."
     }
   ],
   "techMovers": [
     {
-      "ticker": "META",
-      "name": "Meta Platforms",
-      "price": 594.12,
-      "change": 37.41,
-      "changePercent": 6.72
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 520.39,
+      "change": 35.75,
+      "changePercent": 7.38
     },
     {
-      "ticker": "SNOW",
-      "name": "Snowflake Inc",
-      "price": 312.93,
-      "change": 19.65,
-      "changePercent": 6.7
-    },
-    {
-      "ticker": "ORCL",
-      "name": "Oracle Corp",
-      "price": 137.51,
-      "change": 7.64,
-      "changePercent": 5.88
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "price": 412.61,
+      "change": 20.38,
+      "changePercent": 5.2
     },
     {
       "ticker": "AMZN",
       "name": "Amazon.com",
-      "price": 285.73,
-      "change": 14.15,
-      "changePercent": 5.21
+      "price": 276.78,
+      "change": -7.24,
+      "changePercent": -2.55
+    },
+    {
+      "ticker": "SNOW",
+      "name": "Snowflake Inc",
+      "price": 314.86,
+      "change": 7.33,
+      "changePercent": 2.38
     },
     {
       "ticker": "MSFT",
       "name": "Microsoft Corp",
-      "price": 487.69,
-      "change": 22.97,
-      "changePercent": 4.94
+      "price": 498.44,
+      "change": 10.79,
+      "changePercent": 2.21
     }
   ],
-  "fearGreedIndex": 28,
+  "fearGreedIndex": 25,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 366.39,
-    "change": 0.26,
-    "changePercent": 0.07
+    "price": 368.08,
+    "change": 2.41,
+    "changePercent": 0.66
   },
   "sectors": [
     {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 3.17
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 1.99
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": 1.08
-    },
-    {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": 0.84
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 0.39
+      "changePercent": 4.22
     },
     {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": 0.39
+      "changePercent": 1.04
     },
     {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 0.27
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 0.9
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": 0.84
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -0.24
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -0.26
     },
     {
       "ticker": "XLP",
       "name": "Consumer Staples",
-      "changePercent": 0.04
+      "changePercent": -0.33
     },
     {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": 0.02
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -0.48
     },
     {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": -0.42
+      "changePercent": -0.51
     },
     {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": -0.68
+      "changePercent": -0.69
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": -0.81
     }
   ],
   "economicCalendar": [
