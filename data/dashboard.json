@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-08-05T15:10:47.320605+00:00",
+  "lastUpdated": "2026-08-06T15:11:39.271272+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Left-wing political outsider wins Democratic Senate primary in Michigan",
+      "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 15:05:30 GMT",
-      "summary": "Abdul El-Sayed, the son of Egyptian immigrants, would be the first Muslim US senator if elected in November. "
+      "url": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 06 Aug 2026 14:30:43 GMT",
+      "summary": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons."
     },
     {
-      "title": "Drone carrying explosives found at German airport, police say",
+      "title": "Ukraine hits two oil refineries deep in Russian territory",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 14:32:27 GMT",
-      "summary": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air."
+      "url": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 06 Aug 2026 12:18:48 GMT",
+      "summary": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war."
     },
     {
-      "title": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
+      "title": "US Senate committee votes to hold Fauci in contempt over Covid hearing",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 12:26:26 GMT",
-      "summary": "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region."
+      "url": "https://www.bbc.co.uk/news/articles/c1m18158my9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 06 Aug 2026 14:47:45 GMT",
+      "summary": "The committee will now refer him for possible prosecution for refusing to answer questions about his handling of the Covid-19 pandemic."
     },
     {
-      "title": "What can scientists learn from a stray SpaceX rocket hitting the Moon?",
+      "title": "DR Congo river boat under quarantine for Ebola after five deaths",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 11:19:24 GMT",
-      "summary": "While the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missions."
+      "url": "https://www.bbc.co.uk/news/articles/ce971plr2nvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 06 Aug 2026 14:04:27 GMT",
+      "summary": "The health minister says all the passengers are being screened as a precautionary measure."
     },
     {
-      "title": "UN rights chief alarmed by rise in Iran executions since March",
+      "title": "EasyJet agrees to \u00a35.7bn takeover by US firm ",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 14:04:09 GMT",
-      "summary": "Volker T\u00fcrk says 56 people have been executed on national security-related charges, including 27 in cases linked to January's protests."
+      "url": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 06 Aug 2026 15:01:56 GMT",
+      "summary": "The no-frills carrier agrees to be bought by US firm Apollo after a rival suitor drops out."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 64494,
-      "change24h": 1.3,
-      "marketCap": 1294061733067,
+      "price": 64839,
+      "change24h": 0.7,
+      "marketCap": 1301106108647,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1876.5,
-      "change24h": 0.8,
-      "marketCap": 226446552496,
+      "price": 1914.89,
+      "change24h": 2.1,
+      "marketCap": 231080092387,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Gold hits six-week highs on China demand as Bitcoin ignores fresh S&P 500 record",
+      "title": "Step App winds down after four years as FITFI token sinks",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/gold-hits-six-week-highs-on-china-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 05 Aug 2026 15:02:16 +0000",
-      "summary": "Gold and US stocks stole the limelight on Wednesday as Bitcoin failed to gain significantly beyond $64,000."
+      "url": "https://cointelegraph.com/news/step-app-winds-down-four-years-move-to-earn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 06 Aug 2026 13:52:36 +0000",
+      "summary": "Move-to-earn project Step App will wind down services by Aug. 21 after four years, while its FITFI token trades 99.9% below its all-time high."
     },
     {
-      "title": "Crypto whales accumulate as bear market nears late stage: CryptoQuant",
+      "title": "10 weirdest things ever tokenized... including farts ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/crypto-whales-buy-bear-market-late-stage-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 05 Aug 2026 14:08:27 +0000",
-      "summary": "Bitcoin, Ethereum and XRP whales increased balances during market weakness, as CryptoQuant said large holders are absorbing supply ahead of a possible bottom."
-    },
-    {
-      "title": "Do the Coldcard attacks mean all hardware wallets are now insecure?",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/magazine/does-the-coldcard-attack-mean-all-hardware-wallets-are-now-insecure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 05 Aug 2026 13:30:00 +0000",
-      "summary": "The Coldcard entropy flaw caused a crisis of confidence in hardware wallets. Here\u2019s the details you need to know before you entrust Ledger, Trezor or Foundation with your Bitcoin."
-    },
-    {
-      "title": "Galaxy reports $85M net loss amid Q2 crypto market slump",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/galaxy-85m-loss-q2-crypto-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 05 Aug 2026 13:20:58 +0000",
-      "summary": "Galaxy Digital reported an $85 million net loss driven by falling digital asset prices and $8.7 billion in revenue that missed Wall Street estimates."
+      "url": "https://cointelegraph.com/magazine/the-10-weirdest-things-already-finding-a-home-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 06 Aug 2026 13:30:00 +0000",
+      "summary": "Tokenized cows may have gone viral, but they\u2019re just the latest in a long line of strange things to find a home onchain, from farts, to human skin and destroyed artworks"
     },
     {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 05 Aug 2026 13:20:01 +0000",
+      "publishedAt": "Thu, 06 Aug 2026 13:02:49 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Blockchain.com wins Cayman custody license after MiCA and FCA approvals",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/blockchain-com-cayman-custody-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 06 Aug 2026 13:00:00 +0000",
+      "summary": "Blockchain.com secured a VASP custody license from the Cayman Islands Monetary Authority, expanding its regulated crypto services in the region."
+    },
+    {
+      "title": "Hyperliquid RWA contracts grow to 32% of trading activity in Q2",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/hyperliquid-rwa-contracts-rise-32-trading-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 06 Aug 2026 12:55:44 +0000",
+      "summary": "Tokenized real-world assets accounted for more than a third of Hyperliquid\u2019s quarterly trading volume, generating 6.6% of the protocol\u2019s $169 million quarterly revenue."
     }
   ],
   "aiNews": [
     {
-      "title": "TechCrunch Disrupt 2026\u2019s Real World AI Stage features robots, automated factories, and extinct animals\u00a0",
+      "title": "OpenAI says Apple\u2019s own security practices undermine its trade secrets case",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
-      "publishedAt": "Wed, 05 Aug 2026 15:05:00 +0000",
-      "summary": "On our new Real World AI stage, we\u2019ll be focusing on the intersection between the digital and physical, and all the ways we\u2019ll continue to see a blending of the two."
+      "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+      "publishedAt": "Thu, 06 Aug 2026 15:10:32 +0000",
+      "summary": "Newly filed court exhibits show OpenAI\u2019s legal strategy in Apple\u2019s trade secrets lawsuit: argue that Apple\u2019s own security and offboarding practices \u2014 including allowing an Apple manager to access a fo"
     },
     {
-      "title": "Anthropic is hiring an AI chip design team",
+      "title": "Amid legal battles, Suno says it will start watermarking songs",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
-      "publishedAt": "Wed, 05 Aug 2026 14:13:18 +0000",
-      "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude-maker said it would co-design hardware and models to help its technology run faster and more efficiently. "
+      "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
+      "publishedAt": "Thu, 06 Aug 2026 13:31:57 +0000",
+      "summary": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts."
     },
     {
-      "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
-      "publishedAt": "Wed, 05 Aug 2026 12:28:38 +0000",
-      "summary": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models."
+      "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+      "publishedAt": "Thu, 06 Aug 2026 13:00:00 +0000",
+      "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and "
     },
     {
-      "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
-      "publishedAt": "Wed, 05 Aug 2026 11:00:00 +0000",
-      "summary": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts."
+      "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+      "publishedAt": "Thu, 06 Aug 2026 13:00:00 +0000",
+      "summary": "The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time.\u00a0"
     },
     {
-      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
-      "publishedAt": "Tue, 04 Aug 2026 21:07:26 +0000",
-      "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are. "
+      "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+      "publishedAt": "Thu, 06 Aug 2026 12:30:00 +0000",
+      "summary": "The launch of these new features reflects Google\u2019s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks."
     }
   ],
   "techMovers": [
     {
+      "ticker": "CRM",
+      "name": "Salesforce Inc",
+      "price": 185.52,
+      "change": -7.46,
+      "changePercent": -3.87
+    },
+    {
       "ticker": "AMD",
       "name": "AMD Inc",
-      "price": 485.07,
-      "change": -33.51,
-      "changePercent": -6.46
+      "price": 494.38,
+      "change": 12.33,
+      "changePercent": 2.56
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft Corp",
+      "price": 497.29,
+      "change": 9.83,
+      "changePercent": 2.02
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "price": 424.96,
+      "change": 6.68,
+      "changePercent": 1.6
     },
     {
       "ticker": "UBER",
       "name": "Uber Technologies",
-      "price": 67.75,
-      "change": -4.24,
-      "changePercent": -5.89
-    },
-    {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corp",
-      "price": 219.31,
-      "change": 7.37,
-      "changePercent": 3.48
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla Inc",
-      "price": 323.82,
-      "change": -3.53,
-      "changePercent": -1.08
-    },
-    {
-      "ticker": "ORCL",
-      "name": "Oracle Corp",
-      "price": 144.48,
-      "change": -1.26,
-      "changePercent": -0.86
+      "price": 69.14,
+      "change": 0.96,
+      "changePercent": 1.4
     }
   ],
-  "fearGreedIndex": 27,
+  "fearGreedIndex": 25,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 367.76,
-    "change": -1.83,
-    "changePercent": -0.5
+    "price": 367.9,
+    "change": -0.64,
+    "changePercent": -0.17
   },
   "sectors": [
     {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 1.34
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": 0.73
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 0.66
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": 0.38
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 0.28
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": 0.86
     },
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": 0.02
+      "changePercent": 0.49
     },
     {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": -0.37
+      "changePercent": 0.44
     },
     {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": -0.46
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": -0.95
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -0.04
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": -1.53
+      "changePercent": -0.05
     },
     {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": -1.66
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -0.09
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -0.23
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": -0.38
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -0.47
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": -0.48
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -0.55
     }
   ],
   "economicCalendar": [
