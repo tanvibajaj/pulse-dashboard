@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-08-08T13:41:41.531176+00:00",
+  "lastUpdated": "2026-08-09T13:45:29.489057+00:00",
   "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "Child among three killed in Russian missile attacks near Kyiv",
+      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 08 Aug 2026 13:29:38 GMT",
-      "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors."
+      "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 09 Aug 2026 12:12:10 GMT",
+      "summary": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed."
     },
     {
-      "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+      "title": "Ancient Roman shipwreck discovered off Sicily coast",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 08 Aug 2026 13:23:16 GMT",
-      "summary": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans."
+      "url": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 09 Aug 2026 12:27:26 GMT",
+      "summary": "Italy's culture minister says it is one of the most important underwater archaeological finds in years."
     },
     {
-      "title": "The phone book that led us to Assad's spy chief in hiding",
+      "title": "Fifa criticises campaign to oust president Infantino",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 07 Aug 2026 23:23:12 GMT",
-      "summary": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.\n"
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 08 Aug 2026 22:06:44 GMT",
+      "summary": "Fifa strongly criticises what it calls a \"concerted and ongoing effort\" to \"undermine\" the organisation and its president Gianni Infantino. "
     },
     {
-      "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+      "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 07 Aug 2026 22:13:55 GMT",
-      "summary": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta."
+      "url": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 08 Aug 2026 23:43:44 GMT",
+      "summary": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank."
     },
     {
-      "title": "US pledges $1bn support to Colombia as Trump-backed president sworn in",
+      "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation ",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 08 Aug 2026 12:01:42 GMT",
-      "summary": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\"."
+      "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 09 Aug 2026 12:39:18 GMT",
+      "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai."
     }
   ],
   "cryptoAssets": [
@@ -43,59 +43,73 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 64965,
-      "change24h": -0.1,
-      "marketCap": 1303691698357,
+      "price": 65153,
+      "change24h": 0,
+      "marketCap": 1307640163334,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1917.76,
-      "change24h": 0,
-      "marketCap": 231438413259,
+      "price": 1920.97,
+      "change24h": -0.2,
+      "marketCap": 231840646315,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Bitcoin will never fall below $60K again: Nansen founder",
+      "title": "BIP-110 Bitcoin branch stalls after two blocks as gap widens",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/magazine/bitcoin-will-never-fall-below-60k-again-nansen-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 08 Aug 2026 13:30:00 +0000",
-      "summary": "Crypto is growing up thanks to trading in real world assets, and Bitcoin will never dip below $60K again, says Nansen founder founder Alex Svanevik."
+      "url": "https://cointelegraph.com/news/bitcoin-bip-110-branch-stalls-miner-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 09 Aug 2026 11:00:53 +0000",
+      "summary": "The enforcing fork remains stuck at Bitcoin\u2019s full mining difficulty as mandatory signaling proceeds with little hashpower support."
     },
     {
-      "title": "Domestic stablecoins could boost demand for dollar-backed tokens: IMF",
+      "title": "Brazil targets crypto fraud with up to 24-hour transfer hold ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/imf-domestic-stablecoins-dollar-token-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 08 Aug 2026 06:21:08 +0000",
-      "summary": "IMF first deputy managing director Dan Katz says users may favor digital dollars for their liquidity, network effects and cross-border acceptance."
+      "url": "https://cointelegraph.com/news/brazil-targets-crypto-fraud-with-up-to-24-hour-transfer-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 09 Aug 2026 09:10:39 +0000",
+      "summary": "The rules, effective Jan. 1, 2027, cover transactions above $10,000 sent to overseas providers or self-custody wallets, along with other transfers flagged for review."
     },
     {
-      "title": "US court backs Bybit\u2019s bid to trace funds from $1.5B North Korea hack ",
+      "title": "BTCPay restricts remote Lightning access after attackers steal funds",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bybit-us-court-trace-funds-north-korea-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 08 Aug 2026 04:11:53 +0000",
-      "summary": "Expedited discovery allows the exchange to seek account identities, balances and transaction histories from platforms with US operations."
+      "url": "https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 09 Aug 2026 05:46:07 +0000",
+      "summary": "Foundation and Citadel21 reported drained Lightning nodes, but the total amount stolen and number of affected operators remain unknown."
     },
     {
-      "title": "Donald Trump\u2019s media company to terminate Crypto.com deal",
+      "title": "Bitcoin\u2019s BIP-110 enters mandatory signaling with miner support below 3%",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/donald-trump-media-company-crypto-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 07 Aug 2026 21:39:36 +0000",
-      "summary": "The president\u2019s company will unwind an agreement with Crypto.com to create a multibillion-dollar CRO treasury and reportedly not integrate prediction markets onto Truth Social."
+      "url": "https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 08 Aug 2026 21:17:08 +0000",
+      "summary": "The deployment milestone tests whether enforcing nodes can sustain the change amid limited miner signaling and discussion of a hard-fork fallback."
     },
     {
-      "title": "US Treasury\u2019s OFAC sanctions 2 Iran-linked crypto exchanges",
+      "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/us-treasury-sanctions-iran-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 07 Aug 2026 20:02:20 +0000",
-      "summary": "The US government sanctioned an individual and two crypto exchanges it said facilitated money laundering for a combined $5 million in digital assets linked to Iran."
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 08 Aug 2026 17:19:56 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     }
   ],
   "aiNews": [
+    {
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "publishedAt": "Sat, 08 Aug 2026 21:24:02 +0000",
+      "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States."
+    },
+    {
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "publishedAt": "Sat, 08 Aug 2026 19:41:13 +0000",
+      "summary": "NextSlide says its team members are now working on ChatGPT."
+    },
     {
       "title": "OpenAI says it slowed Astra model development over security concerns",
       "source": "TechCrunch",
@@ -116,20 +130,6 @@
       "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
       "publishedAt": "Fri, 07 Aug 2026 16:16:09 +0000",
       "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents mo"
-    },
-    {
-      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-      "publishedAt": "Fri, 07 Aug 2026 14:22:49 +0000",
-      "summary": "Airbnb will debut a new AI-powered search experience with a toggle."
-    },
-    {
-      "title": "Jill Lepore on the \u2018Artificial State\u2019 and why Silicon Valley\u2019s leaders are bad sci-fi readers",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
-      "publishedAt": "Fri, 07 Aug 2026 14:00:00 +0000",
-      "summary": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products \u2014\u00a0almost as\u00a0if\u00a0they\u2019re\u00a0forming a new government. And whether\u00a0you\u2019re\u00a0thinking of Twitte"
     }
   ],
   "techMovers": [
@@ -169,7 +169,7 @@
       "changePercent": 2.83
     }
   ],
-  "fearGreedIndex": 30,
+  "fearGreedIndex": 31,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
