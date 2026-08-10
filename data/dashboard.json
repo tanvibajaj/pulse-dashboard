@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-08-09T13:45:29.489057+00:00",
-  "marketStatus": "Closed",
+  "lastUpdated": "2026-08-10T14:18:04.542250+00:00",
+  "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+      "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 09 Aug 2026 12:12:10 GMT",
-      "summary": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed."
+      "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 12:54:13 GMT",
+      "summary": "Russian officials say another 75 people were injured by the attack in the Tatarstan region, one of the deadliest Ukrainian drone attacks on Russia since Moscow's full-scale invasion."
     },
     {
-      "title": "Ancient Roman shipwreck discovered off Sicily coast",
+      "title": "Evidence that South African special forces murdered top detective shared with BBC",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 09 Aug 2026 12:27:26 GMT",
-      "summary": "Italy's culture minister says it is one of the most important underwater archaeological finds in years."
+      "url": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 09 Aug 2026 23:05:29 GMT",
+      "summary": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.\n"
     },
     {
-      "title": "Fifa criticises campaign to oust president Infantino",
+      "title": "China evacuates one million from homes as massive storm arrives",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 08 Aug 2026 22:06:44 GMT",
-      "summary": "Fifa strongly criticises what it calls a \"concerted and ongoing effort\" to \"undermine\" the organisation and its president Gianni Infantino. "
+      "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 07:23:54 GMT",
+      "summary": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai."
     },
     {
-      "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
+      "title": "Former Thai MP allegedly kills official and confesses on YouTube",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 08 Aug 2026 23:43:44 GMT",
-      "summary": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank."
+      "url": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 09:51:07 GMT",
+      "summary": "Chalong Riewrang called a YouTube livestream to say he had shot a government official. "
     },
     {
-      "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation ",
+      "title": "Alleged rebel leader killed in Colombia as president targets armed groups",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 09 Aug 2026 12:39:18 GMT",
-      "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai."
+      "url": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 12:23:21 GMT",
+      "summary": "The military operation against Hernando Forero Mosquera was carried out just days after Colombia's new president was sworn in."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 65153,
-      "change24h": 0,
-      "marketCap": 1307640163334,
+      "price": 64698,
+      "change24h": -0.6,
+      "marketCap": 1298092135145,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1920.97,
-      "change24h": -0.2,
-      "marketCap": 231840646315,
+      "price": 1899.8,
+      "change24h": -1.0,
+      "marketCap": 229171837195,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "BIP-110 Bitcoin branch stalls after two blocks as gap widens",
+      "title": "Bitdeer increased Bitcoin mining output by nearly fivefold in Q2",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-bip-110-branch-stalls-miner-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 09 Aug 2026 11:00:53 +0000",
-      "summary": "The enforcing fork remains stuck at Bitcoin\u2019s full mining difficulty as mandatory signaling proceeds with little hashpower support."
+      "url": "https://cointelegraph.com/news/bitdeer-bitcoin-mining-output-fivefold-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 10 Aug 2026 13:07:42 +0000",
+      "summary": "Bitdeer mined 2,694 BTC in Q2, but ended the quarter holding just 150 BTC after liquidating its treasury earlier this year."
     },
     {
-      "title": "Brazil targets crypto fraud with up to 24-hour transfer hold ",
+      "title": "Strategy turns 1,690 BTC into $108.6M STRC buyback",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/brazil-targets-crypto-fraud-with-up-to-24-hour-transfer-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 09 Aug 2026 09:10:39 +0000",
-      "summary": "The rules, effective Jan. 1, 2027, cover transactions above $10,000 sent to overseas providers or self-custody wallets, along with other transfers flagged for review."
+      "url": "https://cointelegraph.com/markets/strategy-sells-1690-btc-buy-back-108-6-million-strc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 10 Aug 2026 12:36:32 +0000",
+      "summary": "Strategy sold 1,690 Bitcoin to repurchase STRC shares as its US dollar reserve rose to $4.65 billion and its Bitcoin holdings fell to 840,447 BTC."
     },
     {
-      "title": "BTCPay restricts remote Lightning access after attackers steal funds",
+      "title": "Tokenized RWA surge to $4T may push LINK to $200 by end-2030: Standard Chartered",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 09 Aug 2026 05:46:07 +0000",
-      "summary": "Foundation and Citadel21 reported drained Lightning nodes, but the total amount stolen and number of affected operators remain unknown."
+      "url": "https://cointelegraph.com/news/tokenized-rwa-4t-push-link-200-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 10 Aug 2026 11:39:39 +0000",
+      "summary": "The LINK token may see a 25-fold increase to $200 by the end of 2030, as the growing real world asset market increases demand for the industry\u2019s largest oracle services provider, according to Standard"
     },
     {
-      "title": "Bitcoin\u2019s BIP-110 enters mandatory signaling with miner support below 3%",
+      "title": "Markets flip for Fed rate-hike pause into CPI: Five things to know in Bitcoin this week",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 08 Aug 2026 21:17:08 +0000",
-      "summary": "The deployment milestone tests whether enforcing nodes can sustain the change amid limited miner signaling and discussion of a hard-fork fallback."
+      "url": "https://cointelegraph.com/markets/markets-drop-september-rate-hike-bet-into-cpi-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 10 Aug 2026 11:13:40 +0000",
+      "summary": "Bitcoin spiked to a new August high into Sunday\u2019s weekly close as market participants turned their attention to the next US inflation reports."
     },
     {
-      "title": "Here\u2019s what happened in crypto today",
+      "title": "H100 becomes Europe\u2019s No. 2 Bitcoin treasury after 2,455 BTC deal",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 08 Aug 2026 17:19:56 +0000",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+      "url": "https://cointelegraph.com/news/sweden-h100-bitcoin-treasury-btc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 10 Aug 2026 10:14:30 +0000",
+      "summary": "Sweden\u2019s H100 more than tripled its Bitcoin holdings to 3,506 BTC after completing an acquisition involving 2,455 BTC."
     }
   ],
   "aiNews": [
     {
-      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-      "publishedAt": "Sat, 08 Aug 2026 21:24:02 +0000",
-      "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States."
+      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "publishedAt": "Mon, 10 Aug 2026 12:00:00 +0000",
+      "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips. "
     },
     {
-      "title": "OpenAI acquires presentation startup NextSlide",
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-      "publishedAt": "Sat, 08 Aug 2026 19:41:13 +0000",
-      "summary": "NextSlide says its team members are now working on ChatGPT."
+      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "publishedAt": "Sun, 09 Aug 2026 20:35:17 +0000",
+      "summary": "The AI-focused hedge fund is still making some big bets."
     },
     {
-      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "title": "Anthropic is turning Claude Code\u2019s auto mode on by default",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "publishedAt": "Fri, 07 Aug 2026 22:48:24 +0000",
-      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-pro"
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "publishedAt": "Sun, 09 Aug 2026 19:20:32 +0000",
+      "summary": "Programming with Claude Code will soon require even less human oversight."
     },
     {
-      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-      "publishedAt": "Fri, 07 Aug 2026 21:30:11 +0000",
-      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending."
+      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+      "publishedAt": "Sun, 09 Aug 2026 15:00:00 +0000",
+      "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader."
     },
     {
-      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "title": "The AI safety test is becoming a safety risk",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-      "publishedAt": "Fri, 07 Aug 2026 16:16:09 +0000",
-      "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents mo"
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "publishedAt": "Sun, 09 Aug 2026 14:30:00 +0000",
+      "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with i"
     }
   ],
   "techMovers": [
     {
       "ticker": "UBER",
       "name": "Uber Technologies",
-      "price": 75.02,
-      "change": 4.55,
-      "changePercent": 6.46
+      "price": 77.11,
+      "change": 2.09,
+      "changePercent": 2.78
     },
     {
       "ticker": "COIN",
       "name": "Coinbase",
-      "price": 153.6,
-      "change": 8.19,
-      "changePercent": 5.63
+      "price": 149.96,
+      "change": -3.65,
+      "changePercent": -2.37
     },
     {
-      "ticker": "SNOW",
-      "name": "Snowflake Inc",
-      "price": 330.49,
-      "change": 12.49,
-      "changePercent": 3.93
+      "ticker": "AAPL",
+      "name": "Apple Inc",
+      "price": 306.64,
+      "change": -6.69,
+      "changePercent": -2.14
     },
     {
-      "ticker": "CRM",
-      "name": "Salesforce Inc",
-      "price": 192.74,
-      "change": 5.97,
-      "changePercent": 3.2
+      "ticker": "MSFT",
+      "name": "Microsoft Corp",
+      "price": 508.96,
+      "change": 8.97,
+      "changePercent": 1.79
     },
     {
-      "ticker": "TSLA",
-      "name": "Tesla Inc",
-      "price": 328.58,
-      "change": 9.05,
-      "changePercent": 2.83
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "price": 148.95,
+      "change": 1.93,
+      "changePercent": 1.31
     }
   ],
-  "fearGreedIndex": 31,
+  "fearGreedIndex": 30,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 362.5,
-    "change": -7.97,
-    "changePercent": -2.15
+    "price": 359.87,
+    "change": -2.63,
+    "changePercent": -0.73
   },
   "sectors": [
     {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 1.49
-    },
-    {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": 1.42
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 1.32
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": 2.98
     },
     {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": 0.75
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": 0.53
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 0.38
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": 0.23
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 0.06
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 0.01
+      "changePercent": 0.72
     },
     {
       "ticker": "XLF",
       "name": "Financials",
-      "changePercent": -0.36
+      "changePercent": 0.29
     },
     {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": -1.13
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": 0.27
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": 0.0
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -0.23
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -0.41
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -0.58
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -0.8
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": -1.07
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -1.47
     }
   ],
   "economicCalendar": [
