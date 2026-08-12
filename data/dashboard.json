@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-08-11T14:17:37.539368+00:00",
+  "lastUpdated": "2026-08-12T14:18:35.220386+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+      "title": "Trump confirms he switched planes after Nato summit because of possible threat ",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 11 Aug 2026 09:58:45 GMT",
-      "summary": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey."
+      "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 12 Aug 2026 03:44:55 GMT",
+      "summary": "Journalists and White House staff who were on board the jet were unaware the president had left."
     },
     {
-      "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+      "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 11 Aug 2026 09:39:58 GMT",
-      "summary": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally."
+      "url": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 12 Aug 2026 00:14:42 GMT",
+      "summary": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher."
     },
     {
-      "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+      "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 11 Aug 2026 10:43:07 GMT",
-      "summary": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war."
+      "url": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 12 Aug 2026 11:28:02 GMT",
+      "summary": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete. "
     },
     {
-      "title": "At least 169 killed in Colombia's largest  earthquake in years",
+      "title": "Israeli settlers besieging Palestinian families in West Bank village",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 11 Aug 2026 13:21:32 GMT",
-      "summary": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings."
+      "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 12 Aug 2026 14:03:48 GMT",
+      "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday."
     },
     {
-      "title": "Libyan authorities battle big blaze at major oil refinery",
+      "title": "US inflation eases as food and fuel costs cool",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cp308z9pl30o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 11 Aug 2026 08:28:24 GMT",
-      "summary": "Monday's drone strike on the Zawiya refinery was the third such incident in two days."
+      "url": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 12 Aug 2026 14:09:48 GMT",
+      "summary": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 64214,
-      "change24h": -1.0,
-      "marketCap": 1288671442538,
+      "price": 63749,
+      "change24h": -0.7,
+      "marketCap": 1279334001052,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1889.15,
-      "change24h": -0.8,
-      "marketCap": 227986195396,
+      "price": 1897.67,
+      "change24h": 0.7,
+      "marketCap": 229033666204,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "ADI Chain, Shipfinex partner to tokenize $500M vessel pipeline ",
+      "title": "Kalshi launches sports and crypto perps data feed on DoubleZero",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/adi-chain-shipfinex-partner-to-tokenize-500m-vessel-pipeline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 11 Aug 2026 13:59:20 +0000",
-      "summary": "Shipfinex plans to bring 35 vessels onchain through ADI Chain as tokenization expands into the multitrillion-dollar maritime industry."
+      "url": "https://cointelegraph.com/news/kalshi-launches-sports-crypto-data-feed-doublezero?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 12 Aug 2026 13:58:41 +0000",
+      "summary": "Kalshi launched access to its sports and crypto perpetual data feed through DoubleZero\u2019s dedicated fiber network to bolster institutional data access."
     },
     {
-      "title": "SharpLink reports $394M in Q2 net loss fueled by ETH decline",
+      "title": "Slovenia joins EU\u2019s MiCA stablecoin register with first issuer",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/sharplink-reports-394m-q2-net-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 11 Aug 2026 13:17:00 +0000",
-      "summary": "SharpLink reported a net loss of $394 million in the second quarter of 2026, largely driven by Ether\u2019s 23% decline during the quarter."
+      "url": "https://cointelegraph.com/news/slovenia-eu-mica-stablecoin-register-dinaro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 12 Aug 2026 13:31:54 +0000",
+      "summary": "Slovenia entered the EU\u2019s MiCA stablecoin register through electronic money institution Dinaro, as the update also added two new CASPs."
     },
     {
-      "title": "EToro to buy TradeZero as Q2 crypto revenue falls 30%",
+      "title": "El Salvador\u2019s Bitcoin experiment turns 5: \u2018It was for us, not them\u2019",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/etoro-buy-tradezero-crypto-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 11 Aug 2026 12:35:00 +0000",
-      "summary": "Trading platform eToro will acquire TradeZero as part of its US expansion as it reported crypto-related revenue fell by about 30% compared to the second quarter of 2025."
+      "url": "https://cointelegraph.com/magazine/el-salvadors-bitcoin-experiment-turns-5-it-was-for-us-and-not-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 12 Aug 2026 13:30:00 +0000",
+      "summary": "Five years after El Salvador made Bitcoin legal tender, the experiment has fallen short of its original promises for locals, but it\u2019s been great for Bitcoin\u2019s global profile."
     },
     {
-      "title": "Russia proposes exchange trading of Bitcoin, Ether and Tether\u2019s USDT",
+      "title": "Wintermute to pour $1B into AI, high-frequency trading amid TradFi expansion: Report",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bank-of-russia-trading-bitcoin-ether-tether-usdt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 11 Aug 2026 12:09:38 +0000",
-      "summary": "Russia\u2019s central bank proposed allowing Bitcoin, Ether and USDT to trade on regulated exchanges, following a law signed by President Vladimir Putin last week."
+      "url": "https://cointelegraph.com/news/wintermute-pour-1b-ai-tradfi-expansion-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 12 Aug 2026 13:23:57 +0000",
+      "summary": "Wintermute will reportedly invest $1 billion in AI infrastructure and high-frequency trading as part of its expansion into traditional finance."
     },
     {
-      "title": "Bitcoin sell pressure \u2018closer to exhaustion\u2019 after $4B USDT market-cap drop: CryptoQuant",
+      "title": "Fidelity files with SEC to add staking to Ethereum ETF",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-sell-pressure-closer-to-exhaustion-after-4b-usdt-market-cap-drop-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 11 Aug 2026 10:55:00 +0000",
-      "summary": "Bitcoin analysis suggested that sell pressure would not increase given the historically large contraction in USDT market cap over a 60-day period."
+      "url": "https://cointelegraph.com/news/fidelity-staking-ethereum-etf-sec-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 12 Aug 2026 12:42:58 +0000",
+      "summary": "Fidelity plans to add staking to its Ether fund, with 85% of rewards retained by FETH and quarterly cash distributions planned for investors."
     }
   ],
   "aiNews": [
     {
-      "title": "Spotify will label \u2018AI Persona\u2019 profiles and exclude their music from recommendations",
+      "title": "AI code-testing startup Blacksmith\u2019s valuation jumps almost 10x in less than a year",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
-      "publishedAt": "Tue, 11 Aug 2026 13:00:00 +0000",
-      "summary": "Spotify is introducing \u201cAI Persona\u201d labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by defa"
+      "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+      "publishedAt": "Wed, 12 Aug 2026 11:00:00 +0000",
+      "summary": "Blacksmith says revenue has grown more than tenfold over the past year."
     },
     {
-      "title": "Anthropic says it will watermark text generated by its AI models",
+      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
-      "publishedAt": "Tue, 11 Aug 2026 12:13:47 +0000",
-      "summary": "Anthropic will extend support for watermarking AI generations for older models as well."
+      "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+      "publishedAt": "Tue, 11 Aug 2026 21:39:11 +0000",
+      "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment."
     },
     {
-      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-      "publishedAt": "Tue, 11 Aug 2026 00:03:18 +0000",
-      "summary": "San Francisco's housing market is in trouble again. "
+      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "publishedAt": "Tue, 11 Aug 2026 19:15:35 +0000",
+      "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems. "
     },
     {
-      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "title": "Google\u2019s Gemini app surges to 1 billion users",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-      "publishedAt": "Mon, 10 Aug 2026 23:56:15 +0000",
-      "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it."
+      "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "publishedAt": "Tue, 11 Aug 2026 18:49:12 +0000",
+      "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 mi"
     },
     {
-      "title": "Mark Zuckerberg\u2019s AI manifesto is exactly why people don\u2019t like AI",
+      "title": "Brad Lightcap, OpenAI\u2019s longtime COO, is leaving to \u2018start something new\u2019",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
-      "publishedAt": "Mon, 10 Aug 2026 20:53:02 +0000",
-      "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building. "
+      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+      "publishedAt": "Tue, 11 Aug 2026 17:41:34 +0000",
+      "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\""
     }
   ],
   "techMovers": [
     {
-      "ticker": "META",
-      "name": "Meta Platforms",
-      "price": 611.18,
-      "change": 16.27,
-      "changePercent": 2.73
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 487.39,
+      "change": 13.07,
+      "changePercent": 2.76
     },
     {
       "ticker": "ORCL",
       "name": "Oracle Corp",
-      "price": 147.39,
-      "change": -3.66,
-      "changePercent": -2.42
+      "price": 149.35,
+      "change": 3.87,
+      "changePercent": 2.66
     },
     {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "price": 152.21,
-      "change": 3.53,
-      "changePercent": 2.37
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp",
+      "price": 223.29,
+      "change": 5.79,
+      "changePercent": 2.66
     },
     {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc",
-      "price": 349.99,
-      "change": -5.85,
-      "changePercent": -1.64
+      "ticker": "CRM",
+      "name": "Salesforce Inc",
+      "price": 192.32,
+      "change": -5.15,
+      "changePercent": -2.61
     },
     {
-      "ticker": "TSLA",
-      "name": "Tesla Inc",
-      "price": 335.23,
-      "change": 4.35,
-      "changePercent": 1.31
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "price": 587.35,
+      "change": -11.77,
+      "changePercent": -1.96
     }
   ],
-  "fearGreedIndex": 29,
+  "fearGreedIndex": 27,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 363.51,
-    "change": 2.19,
-    "changePercent": 0.61
+    "price": 360.07,
+    "change": -2.75,
+    "changePercent": -0.76
   },
   "sectors": [
     {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": 1.4
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": 0.64
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 0.46
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": 1.54
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": 0.46
+      "changePercent": 0.58
     },
     {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": 0.37
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": 0.43
     },
     {
-      "ticker": "XLC",
-      "name": "Communication Services",
+      "ticker": "XLI",
+      "name": "Industrials",
       "changePercent": 0.2
     },
     {
       "ticker": "XLF",
       "name": "Financials",
-      "changePercent": 0.07
+      "changePercent": 0.06
     },
     {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 0.07
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": -0.34
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": -0.43
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": 0.02
     },
     {
       "ticker": "XLP",
       "name": "Consumer Staples",
-      "changePercent": -0.61
+      "changePercent": -0.07
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -0.36
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -0.73
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -0.83
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -0.98
     }
   ],
   "economicCalendar": [
