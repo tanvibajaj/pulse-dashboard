@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-08-13T14:20:05.082930+00:00",
+  "lastUpdated": "2026-08-14T14:13:56.826311+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+      "title": "'Unprecedented' rain in Japan kills eight people",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 13 Aug 2026 04:55:58 GMT",
-      "summary": "In an exclusive interview with the BBC\u2019s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year."
+      "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 14 Aug 2026 10:36:14 GMT",
+      "summary": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport."
     },
     {
-      "title": "UK defends seizing shadow fleet tanker after Putin threat",
+      "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 13 Aug 2026 11:05:03 GMT",
-      "summary": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law."
+      "url": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 14 Aug 2026 12:19:21 GMT",
+      "summary": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence."
     },
     {
-      "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+      "title": "US says dozens of countries helped China dodge Trump's tariffs",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 13 Aug 2026 08:12:53 GMT",
-      "summary": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday."
+      "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 14 Aug 2026 08:39:46 GMT",
+      "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies."
     },
     {
-      "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
+      "title": "Builders unearth \u20ac9m gold loot sealed in walls of Belgian property",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 13 Aug 2026 01:31:21 GMT",
-      "summary": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases."
+      "url": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 14 Aug 2026 13:18:08 GMT",
+      "summary": "Construction workers found the stash in the walls of a cellar while drilling to lay sewage pipes."
     },
     {
-      "title": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
+      "title": "Stolen Matisse artworks recovered by police in Brazil",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 13 Aug 2026 01:19:23 GMT",
-      "summary": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden."
+      "url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 14 Aug 2026 10:55:39 GMT",
+      "summary": "A man is arrested after eight works by the French artist are found at a home in greater S\u00e3o Paulo."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 63780,
-      "change24h": -0.6,
-      "marketCap": 1280049540483,
+      "price": 62561,
+      "change24h": -1.8,
+      "marketCap": 1255710672471,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1891.33,
-      "change24h": -1.1,
-      "marketCap": 228249374575,
+      "price": 1865.75,
+      "change24h": -1.2,
+      "marketCap": 225168840827,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Bitmine\u2019s $257M annualized staking income \u2018fills\u2019 operational gaps, share buybacks: analysts",
+      "title": "Binance to restrict transactions involving HTX, 10 other crypto platforms",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitmines-257m-staking-income-operational-gaps-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 13 Aug 2026 13:14:48 +0000",
-      "summary": "Bitmine\u2019s Ether staking revenue is an important financial buffer that fills financial gaps and provides recurring revenue streams beyond Ether\u2019s price appreciation, analysts told Cointelegraph."
+      "url": "https://cointelegraph.com/news/binance-restrict-htx-10-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 14 Aug 2026 13:36:34 +0000",
+      "summary": "Binance said it will stop processing transactions for involving 11 crypto platforms, including HTX, which was recently listed in the EU\u2019s sanctions package targeting Russia."
     },
     {
-      "title": "MUFG PoC to bring Japanese government bond repo transactions onchain",
+      "title": "Solana\u2019s fee overhaul increases burn and makes resource hogs pay",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/mufg-bring-japanese-government-bond-repo-transactions-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 13 Aug 2026 13:00:37 +0000",
-      "summary": "MUFG\u2019s experiment plans to bring Japanese government bond repo transactions onchain to achieve 24/7 settlement, as well as improved capital and operational efficiency."
+      "url": "https://cointelegraph.com/magazine/solana-wants-its-biggest-resource-hogs-to-pay-more?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 14 Aug 2026 13:30:00 +0000",
+      "summary": "Solana\u2019s proposed fee overhaul would make resource-heavy transactions more expensive while cutting costs for simpler activity, and it increases the amount of SOL burned."
     },
     {
-      "title": "SEC allows Franklin Templeton funds to invest in onchain money fund",
+      "title": "Gemini posts $108M Q2 net loss despite 37% revenue growth",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/sec-franklin-templeton-funds-invest-onchain-money-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 13 Aug 2026 11:48:37 +0000",
-      "summary": "The SEC said it will not pursue enforcement action if Franklin Templeton\u2019s funds start investing cash in the asset manager\u2019s own tokenized money market fund."
+      "url": "https://cointelegraph.com/news/gemini-45m-q2-revenue-financial-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 14 Aug 2026 12:02:08 +0000",
+      "summary": "Credit card and staking revenue drove Gemini\u2019s services growth in Q2 as exchange revenue fell 38% and trading volume dropped by two-thirds."
     },
     {
-      "title": "\u2018DeFi doesn\u2019t exist anymore,\u2019 just onchain finance: Andre Cronje",
+      "title": "Shinhan Asset Management partners with Plume on tokenized fund pilot",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/defi-doesnt-exist-onchain-finance-andre-cronje?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 13 Aug 2026 10:50:24 +0000",
-      "summary": "Flying Tulip founder Andre Cronje contends that DeFi protocols have evolved into a new financial paradigm of \u201conchain finance,\u201d but have sacrificed some of their inherent immutability and decentraliza"
+      "url": "https://cointelegraph.com/news/shinhan-partners-plume-tokenized-fund-experiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 14 Aug 2026 11:23:28 +0000",
+      "summary": "Shinhan Asset Management and Plume will test a tokenized fund using a Korean won-denominated ultra-short-term bond fund as its underlying asset."
     },
     {
-      "title": "Binance bStocks pass xStocks as second-largest tokenized stock issuer",
+      "title": "Bitcoin eyes new August lows as Binance longs face \u2018cleanout\u2019",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/binance-bstocks-second-largest-tokenized-stock-issuer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 13 Aug 2026 09:53:36 +0000",
-      "summary": "Binance bStocks became the second-largest tokenized stock issuer less than two months after launch, narrowly ahead of Kraken\u2019s xStocks."
+      "url": "https://cointelegraph.com/markets/bitcoin-liquidation-cleanout-open-interest-falls-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 14 Aug 2026 10:43:57 +0000",
+      "summary": "Bitcoin futures open interest on Binance fell alongside BTC price as analysis published on CryptoQuant flagged mounting pressure on leveraged longs."
     }
   ],
   "aiNews": [
     {
-      "title": "Some Claude users are mad that Anthropic\u2019s new watermarks will catch them using it at their jobs, classes",
+      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-      "publishedAt": "Wed, 12 Aug 2026 22:26:37 +0000",
-      "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is."
+      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+      "publishedAt": "Fri, 14 Aug 2026 14:05:00 +0000",
+      "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers."
     },
     {
-      "title": "Amazon will train on Twitch streamers\u2019 content by default, unless they opt out",
+      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-      "publishedAt": "Wed, 12 Aug 2026 20:10:40 +0000",
-      "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\""
+      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "publishedAt": "Thu, 13 Aug 2026 21:13:24 +0000",
+      "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price."
     },
     {
-      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-      "publishedAt": "Wed, 12 Aug 2026 18:19:12 +0000",
-      "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation. "
+      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "publishedAt": "Thu, 13 Aug 2026 20:14:39 +0000",
+      "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned."
     },
     {
-      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "title": "OpenAI introduces \u2018Ultrafast,\u2019 a new mode that makes GPT-5.6 Sol work at 14x the speed",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-      "publishedAt": "Wed, 12 Aug 2026 17:51:00 +0000",
-      "summary": "At Ai4, three of the world's most respected AI experts \u2014 Geoffrey Hinton, Fei-Fei Li, and Andrew Ng \u2014 debated regulation, open source access, and how America can compete as China advances in Asia."
+      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "publishedAt": "Thu, 13 Aug 2026 19:22:40 +0000",
+      "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users. "
     },
     {
-      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-      "publishedAt": "Wed, 12 Aug 2026 17:41:29 +0000",
-      "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.\u00a0"
+      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "publishedAt": "Thu, 13 Aug 2026 19:19:49 +0000",
+      "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal."
     }
   ],
   "techMovers": [
     {
-      "ticker": "NFLX",
-      "name": "Netflix Inc",
-      "price": 77.59,
-      "change": 3.38,
-      "changePercent": 4.55
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "price": 400.83,
+      "change": -16.99,
+      "changePercent": -4.07
     },
     {
-      "ticker": "ORCL",
-      "name": "Oracle Corp",
-      "price": 158.84,
-      "change": 5.56,
-      "changePercent": 3.63
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 502.26,
+      "change": 19.25,
+      "changePercent": 3.99
     },
     {
-      "ticker": "META",
-      "name": "Meta Platforms",
-      "price": 590.21,
-      "change": 11.36,
-      "changePercent": 1.96
-    },
-    {
-      "ticker": "MSFT",
-      "name": "Microsoft Corp",
-      "price": 501.05,
-      "change": 8.62,
-      "changePercent": 1.75
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "price": 149.01,
+      "change": -4.89,
+      "changePercent": -3.18
     },
     {
       "ticker": "CRM",
       "name": "Salesforce Inc",
-      "price": 196.41,
-      "change": 3.09,
-      "changePercent": 1.6
+      "price": 196.58,
+      "change": -4.79,
+      "changePercent": -2.38
+    },
+    {
+      "ticker": "SNOW",
+      "name": "Snowflake Inc",
+      "price": 329.33,
+      "change": -8.05,
+      "changePercent": -2.38
     }
   ],
   "fearGreedIndex": 29,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 362.43,
-    "change": 3.01,
-    "changePercent": 0.84
+    "price": 364.2,
+    "change": -1.25,
+    "changePercent": -0.34
   },
   "sectors": [
     {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": 1.49
+    },
+    {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": 1.61
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 1.29
-    },
-    {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": 1.21
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 1.15
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 0.76
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 0.53
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": 0.51
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": 0.41
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": -0.05
+      "changePercent": 0.6
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": -0.33
+      "changePercent": 0.55
     },
     {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": -0.9
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": 0.48
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": 0.36
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": 0.33
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": 0.09
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": 0.08
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -0.15
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": -0.21
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -0.75
     }
   ],
   "economicCalendar": [
