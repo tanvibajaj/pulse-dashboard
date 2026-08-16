@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-08-15T13:26:31.168923+00:00",
+  "lastUpdated": "2026-08-16T13:27:22.814068+00:00",
   "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "Powerful magnitude 7.7 earthquake kills at least 38 in Indonesia",
+      "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 15 Aug 2026 12:31:55 GMT",
-      "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia."
+      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 16 Aug 2026 10:52:08 GMT",
+      "summary": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit."
     },
     {
-      "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 15 Aug 2026 00:01:53 GMT",
-      "summary": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021."
+      "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 16 Aug 2026 12:37:21 GMT",
+      "summary": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed."
     },
     {
-      "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
+      "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 14 Aug 2026 17:36:27 GMT",
-      "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
+      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 16 Aug 2026 12:53:43 GMT",
+      "summary": "Officials say flash flooding may have swept away homes with people in them in worst-hit areas."
     },
     {
-      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "title": "Twelve killed as Polish bus veers off Hungarian motorway",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 15 Aug 2026 12:25:11 GMT",
-      "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as an earlier action against its soldiers."
+      "url": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 16 Aug 2026 10:53:50 GMT",
+      "summary": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning."
     },
     {
-      "title": "South Korea proposes talks to officially end war with North",
+      "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 15 Aug 2026 09:35:23 GMT",
-      "summary": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953."
+      "url": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 16 Aug 2026 11:35:25 GMT",
+      "summary": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Jaineiro's Christ the Redeemer."
     }
   ],
   "cryptoAssets": [
@@ -43,59 +43,80 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 62975,
-      "change24h": 0.2,
-      "marketCap": 1263943495530,
+      "price": 63013,
+      "change24h": 0,
+      "marketCap": 1264739857765,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1881.07,
-      "change24h": 0.2,
-      "marketCap": 227011043572,
+      "price": 1879.13,
+      "change24h": 0,
+      "marketCap": 226777073591,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Bitcoin could bottom in October, altcoins are \u2018basically dead,\u2019 Swan CEO says",
+      "title": "DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-bottom-october-altcoins-basically-dead-swan-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 15 Aug 2026 12:57:58 +0000",
-      "summary": "Klippsten said Bitcoin could bottom about a year after its previous peak and argued that crypto\u2019s best outcome is to become part of TradFi."
+      "url": "https://cointelegraph.com/news/defillama-delayed-app-launch-fake-phishing-apps-apple?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 16 Aug 2026 12:48:09 +0000",
+      "summary": "DefiLlama\u2019s founder said Apple removed one fake app within days after the company documented it draining funds from a small crypto wallet."
     },
     {
-      "title": "Kalshi ordered to stop broad range of prediction markets in Washington",
+      "title": "Ethereum devs to narrow 66 proposals tied to Hegot\u00e1 upgrade",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/kalshi-stop-prediction-market-contracts-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 15 Aug 2026 10:44:52 +0000",
-      "summary": "Kalshi must implement initial geofencing by Aug. 19 and a GeoComply multi-source geofencing system by Sept. 2."
+      "url": "https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 16 Aug 2026 11:12:51 +0000",
+      "summary": "The Hegot\u00e1 upgrade aims to introduce more native privacy for Ethereum applications."
     },
     {
-      "title": "Galaxy lowers CLARITY Act odds to 10%",
+      "title": "Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/galaxy-lowers-clarity-act-odds-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 15 Aug 2026 08:40:59 +0000",
-      "summary": "Galaxy cited unresolved ethics, stablecoin yield and developer protection issues, along with a narrow Senate window when lawmakers return in September."
+      "url": "https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 15 Aug 2026 19:27:29 +0000",
+      "summary": "The additions come as Bybit\u2019s TradFi perpetuals lineup grows to more than 200 products spanning equities, ETFs, commodities, indices and private companies."
     },
     {
-      "title": "Gen Z favors ETFs and trades less than older cohorts: Binance",
+      "title": "Tokenized stock holders more than double as monthly volume surges",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 14 Aug 2026 21:22:23 +0000",
-      "summary": "Binance data showed Gen Z allocating a growing share of equity activity to ETFs while trading less frequently and using less leverage than older working-age cohorts."
+      "url": "https://cointelegraph.com/news/tokenized-stock-holders-double-to-13m-as-activity-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 15 Aug 2026 17:26:43 +0000",
+      "summary": "Tokenized equities reached 1.31 million holders over the past month, as monthly transfer volume surged 179% to $23.13 billion and distributed value rose 5.9% to $2.38 billion."
     },
     {
-      "title": "Ireland plans industry standards for illicit crypto use",
+      "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ireland-industry-standards-crypto-gambling-aml?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 14 Aug 2026 21:08:52 +0000",
-      "summary": "The proposed policies under Ireland\u2019s AML framework included stricter measures on transfers from private crypto wallets and overseas digital asset companies."
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 15 Aug 2026 14:40:24 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     }
   ],
   "aiNews": [
+    {
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "publishedAt": "Sat, 15 Aug 2026 21:29:19 +0000",
+      "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\""
+    },
+    {
+      "title": "Anthropic shares more details about how Claude\u2019s new watermarks will work",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "publishedAt": "Sat, 15 Aug 2026 18:58:39 +0000",
+      "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?"
+    },
+    {
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "publishedAt": "Sat, 15 Aug 2026 16:30:00 +0000",
+      "summary": "AI coding startup Cursor is now officially a part of SpaceX."
+    },
     {
       "title": "Google will now allow users to remove visible watermark from its AI generations",
       "source": "TechCrunch",
@@ -108,27 +129,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
       "publishedAt": "Fri, 14 Aug 2026 15:43:28 +0000",
-      "summary": "Meta released Glimmer this week, an open-weight AI\u00a0model\u00a0anyone can download and run on their own hardware\u00a0\u2014 a contrast to\u00a0Muse\u00a0Spark, the company\u2019s more powerful model that stays locked behind its ow"
-    },
-    {
-      "title": "Kog is going deeper to squeeze more inference out of GPUs",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-      "publishedAt": "Fri, 14 Aug 2026 14:50:11 +0000",
-      "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog."
-    },
-    {
-      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-      "publishedAt": "Fri, 14 Aug 2026 14:05:00 +0000",
-      "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers."
-    },
-    {
-      "title": "Meta\u2019s\u00a0\u2018open\u2019\u00a0AI, and a $250M deal gone very wrong\u00a0",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-      "publishedAt": "Fri, 14 Aug 2026 14:00:00 +0000",
       "summary": "Meta released Glimmer this week, an open-weight AI\u00a0model\u00a0anyone can download and run on their own hardware\u00a0\u2014 a contrast to\u00a0Muse\u00a0Spark, the company\u2019s more powerful model that stays locked behind its ow"
     }
   ],
@@ -234,15 +234,7 @@
       "changePercent": -0.6
     }
   ],
-  "economicCalendar": [
-    {
-      "date": "2026-08-15",
-      "time": "08:30 ET",
-      "event": "Retail Sales",
-      "importance": "medium",
-      "description": "Monthly consumer spending data"
-    }
-  ],
+  "economicCalendar": [],
   "marketIndicators": [
     {
       "label": "S&P 500",
