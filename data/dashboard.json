@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-08-18T13:38:19.694765+00:00",
+  "lastUpdated": "2026-08-19T13:40:20.947235+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+      "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 18 Aug 2026 12:36:11 GMT",
-      "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\"."
+      "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 19 Aug 2026 12:41:46 GMT",
+      "summary": "The five-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024."
     },
     {
-      "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 18 Aug 2026 08:07:37 GMT",
-      "summary": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents."
+      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 19 Aug 2026 11:00:21 GMT",
+      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended."
     },
     {
-      "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
+      "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 18 Aug 2026 05:24:15 GMT",
-      "summary": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer \"we'll take care of it\", an officer testified. "
+      "url": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 19 Aug 2026 08:25:03 GMT",
+      "summary": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms."
     },
     {
-      "title": "Inside secret police warehouse as Germany targets small boats gangs",
+      "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 18 Aug 2026 05:02:58 GMT",
-      "summary": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling."
+      "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 19 Aug 2026 03:56:35 GMT",
+      "summary": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods."
     },
     {
-      "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
+      "title": "South Korea shortens war games with US, citing Washington request",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 18 Aug 2026 08:44:10 GMT",
-      "summary": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday."
+      "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 19 Aug 2026 05:53:53 GMT",
+      "summary": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 64040,
-      "change24h": 0.9,
-      "marketCap": 1285362802601,
+      "price": 64848,
+      "change24h": 0.8,
+      "marketCap": 1302170013487,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1893.48,
-      "change24h": -0.3,
-      "marketCap": 228530650577,
+      "price": 1930.77,
+      "change24h": 1.8,
+      "marketCap": 233065518181,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "MoonPay adds Cash App Pay for crypto purchases by US customers",
+      "title": "200,000 fake AI \u2018victims\u2019 deployed to scam bait online fraudsters ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/moonpay-cash-app-pay-crypto-purchases-us-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 18 Aug 2026 13:00:00 +0000",
-      "summary": "Eligible US users can fund MoonPay crypto purchases with Cash App balances as the payments firm expands beyond its core onramp business."
+      "url": "https://cointelegraph.com/magazine/fake-ai-victims-are-scam-baiting-600000-fraudsters-every-month?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 19 Aug 2026 13:30:00 +0000",
+      "summary": "Apate\u2019s 200,000 fake AI \u2018victims\u2019 are so good at scam baiting, the company has a monthly KPI for how many F-bombs scammers drop at the infuriating bots."
+    },
+    {
+      "title": "SEC regulatory proposal marks \u2018important\u2019 step forward from \u2018inapt\u2019 crypto rules: Commissioner Peirce",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/sec-proposal-forward-inapt-crypto-rules-commissioner-peirce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 19 Aug 2026 13:27:09 +0000",
+      "summary": "\u201cCrypto mom\u201d Hester Peirce praised the SEC\u2019s proposed crypto regime, published days after the Senate failed to pass the CLARITY Act, the US\u2019 first comprehensive industry framework."
     },
     {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 18 Aug 2026 12:53:39 +0000",
+      "publishedAt": "Wed, 19 Aug 2026 13:10:52 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Kraken launches US-listed stock trading for EEA customers",
+      "title": "Centrifuge adds Symbiotic liquidity network across $1.6B in Janus Henderson, NYLIM funds",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/kraken-us-stock-trading-eea-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 18 Aug 2026 10:53:21 +0000",
-      "summary": "Eligible EEA users can trade conventional US shares alongside more than 700 tokenized xStocks through Kraken\u2019s European entity."
+      "url": "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 19 Aug 2026 12:00:00 +0000",
+      "summary": "Symbiotic\u2019s Liquid Lane gives eligible holders immediate USDC liquidity across three Centrifuge funds managed by Janus Henderson and NYLIM."
     },
     {
-      "title": "Bitcoin price spike to $64.5K was \u2018low-volume liquidity trap\u2019: Analysis",
+      "title": "Sweden\u2019s H100 reports $26M H1 loss driven by falling Bitcoin value",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-spike-to-645k-was-low-volume-liquidity-trap-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 18 Aug 2026 09:31:15 +0000",
-      "summary": "Bitcoin derivatives markets created a short squeeze that took BTC price action 3% higher on Monday."
-    },
-    {
-      "title": "China adds 8 banks to digital yuan network as operator count hits 30",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/china-adds-8-banks-to-digital-yuan-network-as-operator-count-hits-30?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 18 Aug 2026 08:48:51 +0000",
-      "summary": "The newly authorized lenders will begin offering e-CNY services after completing operational and technical preparations."
+      "url": "https://cointelegraph.com/news/swedens-h100-26m-h1-loss-falling-bitcoin-value?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 19 Aug 2026 11:59:30 +0000",
+      "summary": "Sweden\u2019s H100 reported a $26 million loss for the first half of the year, as it completed its acquisitions to become Europe\u2019s second-largest Bitcoin treasury by holdings."
     }
   ],
   "aiNews": [
     {
-      "title": "Anthropic\u2019s annualized revenue surges to $65B",
+      "title": "AI isn\u2019t close to curing cancer. This startup says it knows what it will take.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-      "publishedAt": "Mon, 17 Aug 2026 23:56:26 +0000",
-      "summary": "The model maker added $18 billion in annualized revenue in two months."
+      "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+      "publishedAt": "Wed, 19 Aug 2026 12:00:00 +0000",
+      "summary": "It's the data, stupid. "
     },
     {
-      "title": "AI automation startup Relay shuts down, staff joins Google\u2019s Chrome team",
+      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-      "publishedAt": "Mon, 17 Aug 2026 21:27:05 +0000",
-      "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I\u2019ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said."
+      "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+      "publishedAt": "Wed, 19 Aug 2026 10:00:00 +0000",
+      "summary": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber."
     },
     {
-      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-      "publishedAt": "Mon, 17 Aug 2026 16:38:44 +0000",
-      "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online."
+      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "publishedAt": "Tue, 18 Aug 2026 22:14:25 +0000",
+      "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub. "
     },
     {
-      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-      "publishedAt": "Mon, 17 Aug 2026 16:15:12 +0000",
-      "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint."
+      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "publishedAt": "Tue, 18 Aug 2026 18:00:00 +0000",
+      "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process."
     },
     {
-      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "title": "Etched\u2019s valuation doubles to $21B in a month",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-      "publishedAt": "Mon, 17 Aug 2026 15:16:24 +0000",
-      "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center."
+      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+      "publishedAt": "Tue, 18 Aug 2026 17:21:58 +0000",
+      "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says."
     }
   ],
   "techMovers": [
     {
-      "ticker": "META",
-      "name": "Meta Platforms",
-      "price": 551.0,
-      "change": -38.85,
-      "changePercent": -6.59
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "price": 364.1,
+      "change": -15.9,
+      "changePercent": -4.19
+    },
+    {
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "price": 149.94,
+      "change": 3.71,
+      "changePercent": 2.54
+    },
+    {
+      "ticker": "CRM",
+      "name": "Salesforce Inc",
+      "price": 200.53,
+      "change": 4.39,
+      "changePercent": 2.24
     },
     {
       "ticker": "AMD",
       "name": "AMD Inc",
-      "price": 490.3,
-      "change": -24.09,
-      "changePercent": -4.68
+      "price": 475.94,
+      "change": -8.45,
+      "changePercent": -1.75
     },
     {
-      "ticker": "ORCL",
-      "name": "Oracle Corp",
-      "price": 144.9,
-      "change": -5.62,
-      "changePercent": -3.73
-    },
-    {
-      "ticker": "MSFT",
-      "name": "Microsoft Corp",
-      "price": 482.03,
-      "change": -13.37,
-      "changePercent": -2.7
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc",
-      "price": 383.03,
-      "change": -9.96,
-      "changePercent": -2.53
+      "ticker": "NFLX",
+      "name": "Netflix Inc",
+      "price": 79.06,
+      "change": 1.29,
+      "changePercent": 1.66
     }
   ],
-  "fearGreedIndex": 41,
+  "fearGreedIndex": 46,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 359.64,
-    "change": -4.51,
-    "changePercent": -1.24
+    "price": 364.71,
+    "change": 0.46,
+    "changePercent": 0.13
   },
   "sectors": [
     {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": 2.6
-    },
-    {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": 0.96
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": 0.18
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": -0.56
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": -0.86
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": -0.98
+      "changePercent": 2.64
     },
     {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": -1.03
+      "changePercent": 1.77
     },
     {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": -1.13
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": 1.49
     },
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": -1.58
+      "changePercent": 1.07
     },
     {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": -1.61
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": 0.85
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": 0.67
     },
     {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": -2.15
+      "changePercent": 0.46
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": 0.33
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": -0.01
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": -0.25
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": -0.49
     }
   ],
   "economicCalendar": [
