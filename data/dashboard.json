@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-08-21T13:41:28.532106+00:00",
-  "marketStatus": "Open",
+  "lastUpdated": "2026-08-22T13:27:58.291773+00:00",
+  "marketStatus": "Closed",
   "globalNews": [
+    {
+      "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 22 Aug 2026 12:20:46 GMT",
+      "summary": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks."
+    },
+    {
+      "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 21 Aug 2026 22:36:12 GMT",
+      "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13."
+    },
     {
       "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
       "source": "BBC",
@@ -10,32 +24,18 @@
       "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful."
     },
     {
-      "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 21 Aug 2026 13:07:00 GMT",
-      "summary": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day."
+      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 22 Aug 2026 13:13:16 GMT",
+      "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children."
     },
     {
-      "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+      "title": "One killed in sword attack at Swedish school",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 21 Aug 2026 05:47:32 GMT",
-      "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law. "
-    },
-    {
-      "title": "Eight killed in plane crash at remote Alaskan military site, air force says",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 21 Aug 2026 09:53:47 GMT",
-      "summary": "It is unclear why the civilian-contracted plane was at the radar site on Alaska's south-west coast."
-    },
-    {
-      "title": "Panama Canal to cut number of ships passing through due to El Ni\u00f1o",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 21 Aug 2026 06:46:08 GMT",
-      "summary": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision."
+      "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 21 Aug 2026 21:03:24 GMT",
+      "summary": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested. "
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 76671,
-      "change24h": 7.3,
-      "marketCap": 1537616541040,
+      "price": 77197,
+      "change24h": 0.9,
+      "marketCap": 1549355410228,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2381.25,
-      "change24h": 3.9,
-      "marketCap": 287125922262,
+      "price": 2427.09,
+      "change24h": 2.6,
+      "marketCap": 292910175918,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Laser Digital gets Japan\u2019s first crypto exchange approval in 4 years",
+      "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/nomuras-laser-digital-japans-first-crypto-exchange-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 21 Aug 2026 13:08:12 +0000",
-      "summary": "Nomura-backed Laser Digital Japan received registration to provide domestic liquidity before expanding into institutional crypto trading."
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 21 Aug 2026 20:48:48 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Binance says employees questioned in UAE cleared and released",
+      "title": "Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/binance-employees-questioned-uae-released?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 21 Aug 2026 12:48:04 +0000",
-      "summary": "Binance\u2019s employees were cleared and released after providing statements to UAE authorities about third-party fund flows through a company client account, a spokesperson told Cointelegraph."
+      "url": "https://cointelegraph.com/markets/bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 21 Aug 2026 20:26:16 +0000",
+      "summary": "Gracy Chen says macroeconomic uncertainty could keep Bitcoin within $10,000 to $20,000 of current levels, while US government purchases remain unlikely within the next two years."
     },
     {
-      "title": "Standard Chartered wavers on $100K Bitcoin year-end call, says it may be \u2018too low\u2019",
+      "title": "Ray Dalio says to buy \u2018a bit\u2019 of Bitcoin amid potential debt crisis",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/standard-chartered-100k-bitcoin-2026-prediction-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 21 Aug 2026 11:58:10 +0000",
-      "summary": "Standard Chartered\u2019s Geoff Kendrick said Bitcoin could move toward its $126,000 all-time high after Oct. 6 as spot Bitcoin ETF inflows recover."
+      "url": "https://cointelegraph.com/news/ray-dalio-buy-bitcoin-debt-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 21 Aug 2026 20:00:47 +0000",
+      "summary": "The hedge fund founder with an estimated net worth of $15 billion recommended that investors overweight Bitcoin and gold rather than bonds."
     },
     {
-      "title": "Coldcard strengthens seed generation with firmware update",
+      "title": "Onchain, in court: What happened in crypto legal news this week",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/coldcard-upgrade-strengthen-seed-phrase-generation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 21 Aug 2026 10:13:23 +0000",
-      "summary": "Coinkite urged Coldcard users to generate new seed phrases, warning that existing vulnerable seeds remain unsafe despite the security upgrade."
+      "url": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news5?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 21 Aug 2026 19:19:27 +0000",
+      "summary": "The CFTC ordered a trading ban for former Alameda and FTX executives, and US prosecutors opposed a motion from a US soldier accused of profiting from the removal of Nicolas Maduro."
     },
     {
-      "title": "Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K",
+      "title": "Bitcoin seeks support near $77K as BTC, gold near 100-day highs",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/strategy-bitcoin-treasury-hits-breakeven-point-as-btc-price-passes-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 21 Aug 2026 08:48:52 +0000",
-      "summary": "Bitcoin gains 20% in two days as Strategy sees its BTC treasury climb out of the red.\n"
+      "url": "https://cointelegraph.com/markets/bitcoin-seeks-support-near-77k-btc-gold-100-day-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 21 Aug 2026 19:10:47 +0000",
+      "summary": "Bitcoin volatility eased after BTC hit its highest level since mid-May, while gold joined the cryptocurrency in approaching three-month highs."
     }
   ],
   "aiNews": [
     {
-      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "title": "Anthropic\u2019s Opus 4.6 is a smut-machine",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-      "publishedAt": "Fri, 21 Aug 2026 00:13:44 +0000",
-      "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals."
+      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "publishedAt": "Fri, 21 Aug 2026 23:07:25 +0000",
+      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction. "
     },
     {
-      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "title": "Nvidia partners with data center developer Cloverleaf",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-      "publishedAt": "Thu, 20 Aug 2026 22:36:37 +0000",
-      "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is."
+      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "publishedAt": "Fri, 21 Aug 2026 22:37:38 +0000",
+      "summary": "Nvidia continues to pour money into data center development \u2014 just as AI data centers bring lots of money into Nvidia. "
     },
     {
-      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-      "publishedAt": "Thu, 20 Aug 2026 22:09:51 +0000",
-      "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration. "
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "publishedAt": "Fri, 21 Aug 2026 19:43:39 +0000",
+      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task."
     },
     {
-      "title": "OK, can we actually cool data centers with our pee?",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-      "publishedAt": "Thu, 20 Aug 2026 20:53:13 +0000",
-      "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous."
+      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "publishedAt": "Fri, 21 Aug 2026 14:00:00 +0000",
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now\u00a0compete with each other: Ben Horowitz at Databricks and Martin Casado at\u00a0Fivetran. Nothing too scandalous on the surfac"
     },
     {
-      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-      "publishedAt": "Thu, 20 Aug 2026 19:18:21 +0000",
-      "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to "
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "publishedAt": "Fri, 21 Aug 2026 14:00:00 +0000",
+      "summary": "There's about to be a big fight to secure access to space. "
     }
   ],
   "techMovers": [
     {
       "ticker": "COIN",
       "name": "Coinbase",
-      "price": 185.8,
-      "change": 13.45,
-      "changePercent": 7.8
+      "price": 186.49,
+      "change": 14.14,
+      "changePercent": 8.2
     },
     {
-      "ticker": "ORCL",
-      "name": "Oracle Corp",
-      "price": 147.31,
-      "change": 5.24,
-      "changePercent": 3.69
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc",
-      "price": 373.63,
-      "change": 9.6,
-      "changePercent": 2.64
+      "ticker": "TSLA",
+      "name": "Tesla Inc",
+      "price": 362.86,
+      "change": 17.73,
+      "changePercent": 5.14
     },
     {
       "ticker": "SNOW",
       "name": "Snowflake Inc",
-      "price": 316.65,
-      "change": -4.64,
-      "changePercent": -1.44
+      "price": 332.78,
+      "change": 11.49,
+      "changePercent": 3.58
     },
     {
-      "ticker": "AAPL",
-      "name": "Apple Inc",
-      "price": 307.55,
-      "change": -3.74,
-      "changePercent": -1.2
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "price": 146.47,
+      "change": 4.4,
+      "changePercent": 3.1
+    },
+    {
+      "ticker": "CRM",
+      "name": "Salesforce Inc",
+      "price": 209.17,
+      "change": 3.74,
+      "changePercent": 1.82
     }
   ],
-  "fearGreedIndex": 72,
+  "fearGreedIndex": 71,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 368.5,
-    "change": 2.77,
-    "changePercent": 0.76
+    "price": 371.04,
+    "change": 5.31,
+    "changePercent": 1.45
   },
   "sectors": [
     {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": 1.62
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 0.92
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": 0.47
+      "changePercent": 2.14
     },
     {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": 0.42
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 0.41
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": 0.36
-    },
-    {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": 0.24
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 0.24
+      "changePercent": 1.29
     },
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": 0.16
+      "changePercent": 1.15
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 0.93
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": 0.79
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": 0.65
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": 0.27
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": 0.11
     },
     {
       "ticker": "XLRE",
       "name": "Real Estate",
-      "changePercent": 0.13
+      "changePercent": 0.0
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": -0.17
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": -0.43
+      "changePercent": -2.28
     }
   ],
   "economicCalendar": [
