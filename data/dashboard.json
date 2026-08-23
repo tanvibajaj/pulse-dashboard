@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-08-22T13:27:58.291773+00:00",
+  "lastUpdated": "2026-08-23T13:28:23.167971+00:00",
   "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 22 Aug 2026 12:20:46 GMT",
-      "summary": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks."
+      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 23 Aug 2026 05:46:43 GMT",
+      "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war."
     },
     {
-      "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+      "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 21 Aug 2026 22:36:12 GMT",
-      "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13."
+      "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 23 Aug 2026 12:56:43 GMT",
+      "summary": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine."
     },
     {
-      "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+      "title": "DR Congo and M23 rebels agree roadmap for peace talks",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 21 Aug 2026 05:00:57 GMT",
-      "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful."
+      "url": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 23 Aug 2026 12:52:08 GMT",
+      "summary": "Representatives met in Switzerland to work out next steps to resolve the conflict."
     },
     {
-      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+      "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 22 Aug 2026 13:13:16 GMT",
-      "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children."
+      "url": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 23 Aug 2026 11:50:59 GMT",
+      "summary": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\"."
     },
     {
-      "title": "One killed in sword attack at Swedish school",
+      "title": "The hotel booking mix-up that could free mushroom murderer",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 21 Aug 2026 21:03:24 GMT",
-      "summary": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested. "
+      "url": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 22 Aug 2026 19:03:03 GMT",
+      "summary": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions."
     }
   ],
   "cryptoAssets": [
@@ -43,22 +43,29 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 77197,
-      "change24h": 0.9,
-      "marketCap": 1549355410228,
+      "price": 77532,
+      "change24h": 0.1,
+      "marketCap": 1556185414157,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2427.09,
-      "change24h": 2.6,
-      "marketCap": 292910175918,
+      "price": 2461.12,
+      "change24h": 0.1,
+      "marketCap": 297011534428,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
+    {
+      "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 22 Aug 2026 13:30:00 +0000",
+      "summary": "Brussels is reviewing whether crypto lending should fall under MiCA, but DeFi lending vaults are making it harder to determine who, exactly, should be regulated."
+    },
     {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
@@ -86,50 +93,43 @@
       "url": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news5?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "Fri, 21 Aug 2026 19:19:27 +0000",
       "summary": "The CFTC ordered a trading ban for former Alameda and FTX executives, and US prosecutors opposed a motion from a US soldier accused of profiting from the removal of Nicolas Maduro."
-    },
-    {
-      "title": "Bitcoin seeks support near $77K as BTC, gold near 100-day highs",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-seeks-support-near-77k-btc-gold-100-day-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 21 Aug 2026 19:10:47 +0000",
-      "summary": "Bitcoin volatility eased after BTC hit its highest level since mid-May, while gold joined the cryptocurrency in approaching three-month highs."
     }
   ],
   "aiNews": [
+    {
+      "title": "Harvard\u2019s $699 startup bootcamp offers AI avatars of its instructors",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "publishedAt": "Sat, 22 Aug 2026 21:46:56 +0000",
+      "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings."
+    },
+    {
+      "title": "Inherent, founded by DeepMind alumni, says its AI \u2018teammate\u2019 just outperformed Anthropic and OpenAI at replicating research",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "publishedAt": "Sat, 22 Aug 2026 19:00:00 +0000",
+      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation. "
+    },
+    {
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "publishedAt": "Sat, 22 Aug 2026 16:30:34 +0000",
+      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed."
+    },
+    {
+      "title": "Frontier AI labs still won\u2019t say how they\u2019d contain a rogue model",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "publishedAt": "Sat, 22 Aug 2026 16:00:00 +0000",
+      "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially"
+    },
     {
       "title": "Anthropic\u2019s Opus 4.6 is a smut-machine",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
       "publishedAt": "Fri, 21 Aug 2026 23:07:25 +0000",
       "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction. "
-    },
-    {
-      "title": "Nvidia partners with data center developer Cloverleaf",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-      "publishedAt": "Fri, 21 Aug 2026 22:37:38 +0000",
-      "summary": "Nvidia continues to pour money into data center development \u2014 just as AI data centers bring lots of money into Nvidia. "
-    },
-    {
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-      "publishedAt": "Fri, 21 Aug 2026 19:43:39 +0000",
-      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task."
-    },
-    {
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "publishedAt": "Fri, 21 Aug 2026 14:00:00 +0000",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now\u00a0compete with each other: Ben Horowitz at Databricks and Martin Casado at\u00a0Fivetran. Nothing too scandalous on the surfac"
-    },
-    {
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "publishedAt": "Fri, 21 Aug 2026 14:00:00 +0000",
-      "summary": "There's about to be a big fight to secure access to space. "
     }
   ],
   "techMovers": [
@@ -169,7 +169,7 @@
       "changePercent": 1.82
     }
   ],
-  "fearGreedIndex": 71,
+  "fearGreedIndex": 66,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
