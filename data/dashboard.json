@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-08-23T13:28:23.167971+00:00",
-  "marketStatus": "Closed",
+  "lastUpdated": "2026-08-24T13:47:30.562685+00:00",
+  "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 23 Aug 2026 05:46:43 GMT",
-      "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war."
+      "url": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 10:40:22 GMT",
+      "summary": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes."
     },
     {
-      "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 23 Aug 2026 12:56:43 GMT",
-      "summary": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine."
+      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 13:35:07 GMT",
+      "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated."
     },
     {
-      "title": "DR Congo and M23 rebels agree roadmap for peace talks",
+      "title": "King of Norway's health has worsened, palace says",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 23 Aug 2026 12:52:08 GMT",
-      "summary": "Representatives met in Switzerland to work out next steps to resolve the conflict."
+      "url": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 08:31:55 GMT",
+      "summary": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection."
     },
     {
-      "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
+      "title": "Nearly three million Teslas recalled in China over hidden door handles",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 23 Aug 2026 11:50:59 GMT",
-      "summary": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\"."
+      "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 05:01:17 GMT",
+      "summary": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely."
     },
     {
-      "title": "The hotel booking mix-up that could free mushroom murderer",
+      "title": "Access to Zambian courts prevented as election petition deadline looms",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 22 Aug 2026 19:03:03 GMT",
-      "summary": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions."
+      "url": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 11:17:28 GMT",
+      "summary": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing. "
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 77532,
-      "change24h": 0.1,
-      "marketCap": 1556185414157,
+      "price": 78243,
+      "change24h": 0.96713,
+      "marketCap": 1570378976559,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2461.12,
-      "change24h": 0.1,
-      "marketCap": 297011534428,
+      "price": 2485.3,
+      "change24h": 1.23736,
+      "marketCap": 299899110452,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
+      "title": "Bitget CEO isn\u2019t buying the Bitcoin rally \u2014 She\u2019s waiting for $50K ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 22 Aug 2026 13:30:00 +0000",
-      "summary": "Brussels is reviewing whether crypto lending should fall under MiCA, but DeFi lending vaults are making it harder to determine who, exactly, should be regulated."
+      "url": "https://cointelegraph.com/magazine/bitget-ceo-isnt-buying-the-bitcoin-rally-waiting-for-50k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 24 Aug 2026 13:30:00 +0000",
+      "summary": "Bitget CEO Gracy Chen doesn\u2019t believe the current Bitcoin rally is sustainable, and she aims to buy more BTC around the $50K mark later in 2026 or early next year."
     },
     {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 21 Aug 2026 20:48:48 +0000",
+      "publishedAt": "Mon, 24 Aug 2026 12:55:25 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC",
+      "title": "Strategy launches $1.6B cash pool after $2B common shares raise, maintains hold on BTC buys ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 21 Aug 2026 20:26:16 +0000",
-      "summary": "Gracy Chen says macroeconomic uncertainty could keep Bitcoin within $10,000 to $20,000 of current levels, while US government purchases remain unlikely within the next two years."
+      "url": "https://cointelegraph.com/news/strategy-2-billion-raise-strc-136-million-bitcoin-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 24 Aug 2026 12:45:00 +0000",
+      "summary": "Strategy held off on new Bitcoin buying, maintaining holdings at 840,447 BTC as it launched a $1.59 billion cash pool after raising $2 billion from MSTR stock sales."
     },
     {
-      "title": "Ray Dalio says to buy \u2018a bit\u2019 of Bitcoin amid potential debt crisis",
+      "title": "Japan\u2019s SBI leads $68M Fasset round at $1B valuation",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ray-dalio-buy-bitcoin-debt-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 21 Aug 2026 20:00:47 +0000",
-      "summary": "The hedge fund founder with an estimated net worth of $15 billion recommended that investors overweight Bitcoin and gold rather than bonds."
+      "url": "https://cointelegraph.com/news/sbi-fasset-round-1b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 24 Aug 2026 11:25:26 +0000",
+      "summary": "Fasset raised $68 million in a Series C led by SBI Group as the companies plan a digital bank in Malaysia and to expand stablecoin payments."
     },
     {
-      "title": "Onchain, in court: What happened in crypto legal news this week",
+      "title": "First bear-market trend line reclaim since 2025: Five things to know in Bitcoin this week",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news5?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 21 Aug 2026 19:19:27 +0000",
-      "summary": "The CFTC ordered a trading ban for former Alameda and FTX executives, and US prosecutors opposed a motion from a US soldier accused of profiting from the removal of Nicolas Maduro."
+      "url": "https://cointelegraph.com/markets/first-bear-market-trend-line-reclaim-since-2025-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 24 Aug 2026 11:23:58 +0000",
+      "summary": "Bitcoin closed a weekly candle above its 50-week EMA for the first time since late 2025 as markets prepared for the Jackson Hole symposium."
     }
   ],
   "aiNews": [
+    {
+      "title": "Who\u2019s behind the new \u2018stealth model\u2019 Ox Alpha?",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "publishedAt": "Sun, 23 Aug 2026 20:01:36 +0000",
+      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation."
+    },
+    {
+      "title": "Linkdaze\u2019s smart calendar is built to run a household, not just track a schedule",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "publishedAt": "Sun, 23 Aug 2026 19:14:08 +0000",
+      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool. "
+    },
+    {
+      "title": "Flock CEO calls for \u2018compromise\u2019 as surveillance company faces growing backlash",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+      "publishedAt": "Sun, 23 Aug 2026 15:30:00 +0000",
+      "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused."
+    },
+    {
+      "title": "Is it legal to train AI models on copyrighted books? It\u2019s complicated",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "publishedAt": "Sun, 23 Aug 2026 15:00:00 +0000",
+      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?"
+    },
     {
       "title": "Harvard\u2019s $699 startup bootcamp offers AI avatars of its instructors",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
       "publishedAt": "Sat, 22 Aug 2026 21:46:56 +0000",
       "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings."
-    },
-    {
-      "title": "Inherent, founded by DeepMind alumni, says its AI \u2018teammate\u2019 just outperformed Anthropic and OpenAI at replicating research",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "publishedAt": "Sat, 22 Aug 2026 19:00:00 +0000",
-      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation. "
-    },
-    {
-      "title": "OpenAI says California should strengthen its AI safety bill",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "publishedAt": "Sat, 22 Aug 2026 16:30:34 +0000",
-      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed."
-    },
-    {
-      "title": "Frontier AI labs still won\u2019t say how they\u2019d contain a rogue model",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-      "publishedAt": "Sat, 22 Aug 2026 16:00:00 +0000",
-      "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially"
-    },
-    {
-      "title": "Anthropic\u2019s Opus 4.6 is a smut-machine",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "publishedAt": "Fri, 21 Aug 2026 23:07:25 +0000",
-      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction. "
     }
   ],
   "techMovers": [
     {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "price": 186.49,
-      "change": 14.14,
-      "changePercent": 8.2
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla Inc",
-      "price": 362.86,
-      "change": 17.73,
-      "changePercent": 5.14
-    },
-    {
-      "ticker": "SNOW",
-      "name": "Snowflake Inc",
-      "price": 332.78,
-      "change": 11.49,
-      "changePercent": 3.58
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 457.4,
+      "change": -15.85,
+      "changePercent": -3.35
     },
     {
       "ticker": "ORCL",
       "name": "Oracle Corp",
-      "price": 146.47,
-      "change": 4.4,
-      "changePercent": 3.1
+      "price": 142.2,
+      "change": -4.27,
+      "changePercent": -2.92
     },
     {
-      "ticker": "CRM",
-      "name": "Salesforce Inc",
-      "price": 209.17,
-      "change": 3.74,
-      "changePercent": 1.82
+      "ticker": "TSLA",
+      "name": "Tesla Inc",
+      "price": 353.32,
+      "change": -9.54,
+      "changePercent": -2.63
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp",
+      "price": 210.14,
+      "change": -4.58,
+      "changePercent": -2.13
+    },
+    {
+      "ticker": "SNOW",
+      "name": "Snowflake Inc",
+      "price": 326.62,
+      "change": -6.16,
+      "changePercent": -1.85
     }
   ],
-  "fearGreedIndex": 66,
+  "fearGreedIndex": 73,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 371.04,
-    "change": 5.31,
-    "changePercent": 1.45
+    "price": 379.1,
+    "change": 8.06,
+    "changePercent": 2.17
   },
   "sectors": [
     {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 2.14
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": 1.29
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 1.15
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": 1.33
     },
     {
       "ticker": "XLF",
       "name": "Financials",
-      "changePercent": 0.93
+      "changePercent": 1.25
     },
     {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 0.79
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 0.65
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": 0.27
-    },
-    {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": 0.11
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": 1.2
     },
     {
       "ticker": "XLRE",
       "name": "Real Estate",
-      "changePercent": 0.0
+      "changePercent": 0.64
     },
     {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": -0.17
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": 0.29
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": 0.28
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": -2.28
+      "changePercent": 0.22
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -0.03
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": -0.15
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": -0.16
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": -2.05
     }
   ],
   "economicCalendar": [
