@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-08-25T13:45:19.111207+00:00",
+  "lastUpdated": "2026-08-26T13:51:30.421889+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+      "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 25 Aug 2026 11:53:36 GMT",
-      "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing."
+      "url": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 12:32:47 GMT",
+      "summary": "A hospital official told the BBC that the door to the ward was not locked, but manned with security guards, to protect the babies."
     },
     {
-      "title": "Lockerbie bombing trial postponed days before it was due to start",
+      "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 25 Aug 2026 11:54:03 GMT",
-      "summary": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago."
+      "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 25 Aug 2026 19:50:57 GMT",
+      "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup."
     },
     {
-      "title": "US removes Syria from list of state sponsors of terrorism",
+      "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 25 Aug 2026 00:17:25 GMT",
-      "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa. "
+      "url": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 11:02:22 GMT",
+      "summary": "Five other airport workers are also receiving treatment following the rare outbreak at German's busiest airport."
     },
     {
-      "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
+      "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 25 Aug 2026 08:52:17 GMT",
-      "summary": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital."
+      "url": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 08:17:45 GMT",
+      "summary": "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu. "
     },
     {
-      "title": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
+      "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 25 Aug 2026 07:39:25 GMT",
-      "summary": "Hoult was announced as Gilderoy Lockhart two weeks ago but has dropped out due to scheduling issues."
+      "url": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 08:01:56 GMT",
+      "summary": "A Facebook post by Libyan Airlines announced the death of Al Amin Khalifah Fhimah and expressed the company's condolences to his family."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 78939,
-      "change24h": 0.88401,
-      "marketCap": 1585014615255,
+      "price": 78388,
+      "change24h": 0.00428,
+      "marketCap": 1574257255838,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2470.1,
-      "change24h": -0.56571,
-      "marketCap": 298169745857,
+      "price": 2455.54,
+      "change24h": 0.09422,
+      "marketCap": 296482776247,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Hugging Face hack exposes the open-weight AI cybersecurity paradox",
+      "title": "SEC\u2019s proposed crypto rules probably won\u2019t spark new ICO boom",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/features/hugging-face-hack-exposes-the-open-weight-ai-cybersecurity-paradox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 25 Aug 2026 13:30:00 +0000",
-      "summary": "Hugging Face relies on open weight Chinese models to defend itself from rogue AI agents. But a lack of safety guardrails makes those models potentially dangerous too."
+      "url": "https://cointelegraph.com/magazine/the-sec-wants-to-bring-back-icos-theres-a-catch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 26 Aug 2026 13:30:00 +0000",
+      "summary": "The SEC\u2019s \u2018regulation crypto assets\u2019 proposals could create early-round FOMO. But some tokens may still fall into the no-man\u2019s land between security and non-security."
+    },
+    {
+      "title": "Students want crypto classes but learn on social media: OKX survey",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/students-crypto-classes-learn-social-media-okx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 26 Aug 2026 13:00:00 +0000",
+      "summary": "A separate review found only about 28% of accredited US business schools offered blockchain courses, despite strong demand in the OKX poll."
+    },
+    {
+      "title": "Bernstein forecasts Bitcoin to reclaim $125K by late 2026 ahead of cycle peak",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/bernstein-predicts-bitcoin-reclaim-125000-year-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 26 Aug 2026 12:32:36 +0000",
+      "summary": "Bernstein expects Bitcoin to reclaim $125,000 by late 2026, before reaching $300,000 in 2029 under its base case, with a bull case of $500,000.\n"
     },
     {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 25 Aug 2026 13:19:39 +0000",
+      "publishedAt": "Wed, 26 Aug 2026 12:30:00 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Chainalysis-led operation flags 7,700 accounts in child abuse probe ",
+      "title": "Taurus links digital asset platforms to Swift\u2019s blockchain ledger",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/chainalysis-operation-lighthouse-flags-7700-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 25 Aug 2026 13:00:00 +0000",
-      "summary": "Operation Lighthouse generated 14,300 investigative leads across 11 crypto exchanges and payment services and flagged over 7,700 suspect accounts."
-    },
-    {
-      "title": "India plans first tokenized bonds using wholesale CBDC: Report",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/india-tokenized-bonds-digital-rupee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 25 Aug 2026 12:09:15 +0000",
-      "summary": "India plans to test tokenized corporate bonds in a September pilot, with state-controlled REC issuing the debt and select investors using wholesale CBDC payments."
-    },
-    {
-      "title": "Shipyard winds down IPFS work after Protocol Labs ends funding",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/shipyard-winds-down-ipfs-protocol-labs-funding?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 25 Aug 2026 11:57:33 +0000",
-      "summary": "The funding loss leaves InterPlanetary File System software without dedicated maintainers and puts the future of key public services in Protocol Labs\u2019 hands."
+      "url": "https://cointelegraph.com/news/taurus-digital-asset-platforms-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 26 Aug 2026 12:00:00 +0000",
+      "summary": "Taurus expects first institutional clients to connect in days, with initial DLT transactions through its platforms expected within weeks."
     }
   ],
   "aiNews": [
     {
-      "title": "Accel-backed Keenable is indexing the web for AI agents",
+      "title": "QueryStory wants you to believe what AI is telling you",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
-      "publishedAt": "Tue, 25 Aug 2026 13:00:00 +0000",
-      "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents."
+      "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+      "publishedAt": "Wed, 26 Aug 2026 13:00:00 +0000",
+      "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent. "
     },
     {
-      "title": "\u2018The world seems to be ready\u2019: An interview with OpenAI head of product Thibault Sottiaux",
+      "title": "Arga Labs is building a better way to train enterprise AI agents",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
-      "publishedAt": "Tue, 25 Aug 2026 12:00:00 +0000",
-      "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product. "
+      "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+      "publishedAt": "Wed, 26 Aug 2026 12:55:28 +0000",
+      "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel."
     },
     {
-      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+      "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-      "publishedAt": "Tue, 25 Aug 2026 00:23:12 +0000",
-      "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\""
+      "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
+      "publishedAt": "Wed, 26 Aug 2026 12:00:00 +0000",
+      "summary": "The glasses, called Legato Frames, integrate the company\u2019s patented hearing-assistance technology into the arms of eyewear frames."
     },
     {
-      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+      "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-      "publishedAt": "Mon, 24 Aug 2026 21:24:17 +0000",
-      "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135."
+      "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+      "publishedAt": "Wed, 26 Aug 2026 11:00:00 +0000",
+      "summary": "Runable says 60%\u201370% of its 1 trillion-plus token usage in the last 90 days came from paying customers."
     },
     {
-      "title": "Amjad Masad,\u00a0CEO\u00a0and co-founder\u00a0of\u00a0Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026\u00a0",
+      "title": "India\u2019s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
-      "publishedAt": "Mon, 24 Aug 2026 19:54:19 +0000",
-      "summary": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it."
+      "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+      "publishedAt": "Wed, 26 Aug 2026 03:30:00 +0000",
+      "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension."
     }
   ],
   "techMovers": [
     {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 475.47,
-      "change": 18.72,
-      "changePercent": 4.1
-    },
-    {
       "ticker": "ORCL",
       "name": "Oracle Corp",
-      "price": 145.59,
-      "change": 3.14,
-      "changePercent": 2.2
+      "price": 149.88,
+      "change": 5.12,
+      "changePercent": 3.53
     },
     {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corp",
-      "price": 212.95,
-      "change": 4.47,
-      "changePercent": 2.14
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 488.68,
+      "change": 9.5,
+      "changePercent": 1.98
+    },
+    {
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "price": 183.73,
+      "change": -3.43,
+      "changePercent": -1.83
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla Inc",
+      "price": 346.89,
+      "change": -3.36,
+      "changePercent": -0.96
     },
     {
       "ticker": "NFLX",
       "name": "Netflix Inc",
-      "price": 81.35,
-      "change": 1.34,
-      "changePercent": 1.67
-    },
-    {
-      "ticker": "META",
-      "name": "Meta Platforms",
-      "price": 567.61,
-      "change": 8.59,
-      "changePercent": 1.54
+      "price": 81.53,
+      "change": -0.7,
+      "changePercent": -0.85
     }
   ],
-  "fearGreedIndex": 74,
+  "fearGreedIndex": 65,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 381.97,
-    "change": -0.44,
-    "changePercent": -0.12
+    "price": 382.77,
+    "change": -1.37,
+    "changePercent": -0.36
   },
   "sectors": [
     {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": 1.44
-    },
-    {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": 0.29
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 0.17
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": -0.03
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": -0.16
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": -0.21
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": -0.23
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": -0.36
+      "changePercent": 0.96
     },
     {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": -0.81
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": -1.19
+      "changePercent": 0.88
     },
     {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": -1.2
+      "changePercent": 0.53
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": 0.36
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": 0.3
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": 0.07
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": -0.19
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -0.2
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -0.25
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -0.49
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -0.83
     }
   ],
   "economicCalendar": [
