@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-08-26T13:51:30.421889+00:00",
-  "marketStatus": "Open",
+  "lastUpdated": "2026-08-27T22:44:52.331239+00:00",
+  "marketStatus": "After Hours",
   "globalNews": [
     {
-      "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
+      "title": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 26 Aug 2026 12:32:47 GMT",
-      "summary": "A hospital official told the BBC that the door to the ward was not locked, but manned with security guards, to protect the babies."
+      "url": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 27 Aug 2026 09:50:10 GMT",
+      "summary": "Preliminary investigations by scientists have pointed to a collapsed glacier as the cause, highlighting the issue of rapidly melting Himalayan ice."
     },
     {
-      "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+      "title": "What we know about deadly Nepal-Tibet floods",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 25 Aug 2026 19:50:57 GMT",
-      "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup."
+      "url": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 27 Aug 2026 20:38:48 GMT",
+      "summary": "Hundreds have died or are missing in Wednesday's flooding and landslides on the border of Nepal and Tibet."
     },
     {
-      "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
+      "title": "Convicted Bosnian Serb war criminal Mladi\u0107 dies aged 84",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 26 Aug 2026 11:02:22 GMT",
-      "summary": "Five other airport workers are also receiving treatment following the rare outbreak at German's busiest airport."
+      "url": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 27 Aug 2026 17:05:22 GMT",
+      "summary": "He was jailed for life in 2017 for genocide, war crimes and crimes against  humanity during the wars in the ex-Yugoslavia in 1992-95."
     },
     {
-      "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
+      "title": "Jury deliberating in trial of Lindsay Clancy, US woman accused of killing her children",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 26 Aug 2026 08:17:45 GMT",
-      "summary": "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu. "
+      "url": "https://www.bbc.co.uk/news/articles/c33keeyyv70o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 27 Aug 2026 20:39:16 GMT",
+      "summary": "Prosecutors argued Clancy made a calculated decision to murder the children, while the defence argued that she was suffering from postpartum psychosis.\n"
     },
     {
-      "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
+      "title": "Norwegians lay flowers at palace as King Harald's condition worsens",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 26 Aug 2026 08:01:56 GMT",
-      "summary": "A Facebook post by Libyan Airlines announced the death of Al Amin Khalifah Fhimah and expressed the company's condolences to his family."
+      "url": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 27 Aug 2026 17:42:04 GMT",
+      "summary": "The 89-year-old's condition is described as \"extremely serious\" and members of his family have visited him in hospital."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 78388,
-      "change24h": 0.00428,
-      "marketCap": 1574257255838,
+      "price": 80215,
+      "change24h": 2.03678,
+      "marketCap": 1610394005034,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2455.54,
-      "change24h": 0.09422,
-      "marketCap": 296482776247,
+      "price": 2512.2,
+      "change24h": 0.63222,
+      "marketCap": 303174984000,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "SEC\u2019s proposed crypto rules probably won\u2019t spark new ICO boom",
+      "title": "Virtu, Tradeweb complete onchain repo using Marshall Islands digital bond",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/magazine/the-sec-wants-to-bring-back-icos-theres-a-catch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 26 Aug 2026 13:30:00 +0000",
-      "summary": "The SEC\u2019s \u2018regulation crypto assets\u2019 proposals could create early-round FOMO. But some tokens may still fall into the no-man\u2019s land between security and non-security."
-    },
-    {
-      "title": "Students want crypto classes but learn on social media: OKX survey",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/students-crypto-classes-learn-social-media-okx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 26 Aug 2026 13:00:00 +0000",
-      "summary": "A separate review found only about 28% of accredited US business schools offered blockchain courses, despite strong demand in the OKX poll."
-    },
-    {
-      "title": "Bernstein forecasts Bitcoin to reclaim $125K by late 2026 ahead of cycle peak",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bernstein-predicts-bitcoin-reclaim-125000-year-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 26 Aug 2026 12:32:36 +0000",
-      "summary": "Bernstein expects Bitcoin to reclaim $125,000 by late 2026, before reaching $300,000 in 2029 under its base case, with a bull case of $500,000.\n"
+      "url": "https://cointelegraph.com/news/virtu-tradeweb-complete-onchain-repo-using-marshall-islands-digital-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 27 Aug 2026 20:39:40 +0000",
+      "summary": "The transaction used the Marshall Islands-issued USDM1 bond as collateral and completed the full repo cycle on the Canton Network in under 10 minutes."
     },
     {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 26 Aug 2026 12:30:00 +0000",
+      "publishedAt": "Thu, 27 Aug 2026 19:27:53 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Taurus links digital asset platforms to Swift\u2019s blockchain ledger",
+      "title": "Trump cost investors $4.7B through crypto \u2018schemes\u2019: Public Citizen",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/taurus-digital-asset-platforms-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 26 Aug 2026 12:00:00 +0000",
-      "summary": "Taurus expects first institutional clients to connect in days, with initial DLT transactions through its platforms expected within weeks."
+      "url": "https://cointelegraph.com/news/donald-trump-crypto-investors-losses-public-citizen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 27 Aug 2026 19:22:14 +0000",
+      "summary": "While investors in World Liberty Financial\u2018s USD1 stablecoin \u201chaven\u2019t suffered major losses,\u201d many lost billions of dollars in other Trump ventures, according to Public Citizen."
+    },
+    {
+      "title": "Mirae Asset lays out crypto, stablecoin, tokenization plans for Digital X ",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/mirae-asset-lays-out-crypto-stablecoin-and-tokenization-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 27 Aug 2026 19:00:00 +0000",
+      "summary": "The South Korean financial group plans to build a $109 billion digital asset business spanning crypto, stablecoins and tokenized assets, according to The Korea Times."
+    },
+    {
+      "title": "Grayscale says Zcash can challenge Bitcoin\u2019s network effects as privacy demand grows",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/zcash-bitcoin-network-effects-grayscale-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 27 Aug 2026 18:51:02 +0000",
+      "summary": "ZEC has climbed roughly 19-fold in a year, yet Grayscale says its sub-1% share of Bitcoin\u2019s market cap leaves room for further upside.\n"
     }
   ],
   "aiNews": [
     {
-      "title": "QueryStory wants you to believe what AI is telling you",
+      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
-      "publishedAt": "Wed, 26 Aug 2026 13:00:00 +0000",
-      "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent. "
+      "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+      "publishedAt": "Thu, 27 Aug 2026 19:52:52 +0000",
+      "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google. "
     },
     {
-      "title": "Arga Labs is building a better way to train enterprise AI agents",
+      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
-      "publishedAt": "Wed, 26 Aug 2026 12:55:28 +0000",
-      "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel."
+      "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+      "publishedAt": "Thu, 27 Aug 2026 17:43:24 +0000",
+      "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of"
     },
     {
-      "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+      "title": "Google\u2019s AI Mode can now track flight prices, help book hotels, and more",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
-      "publishedAt": "Wed, 26 Aug 2026 12:00:00 +0000",
-      "summary": "The glasses, called Legato Frames, integrate the company\u2019s patented hearing-assistance technology into the arms of eyewear frames."
+      "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+      "publishedAt": "Thu, 27 Aug 2026 16:00:00 +0000",
+      "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-plann"
     },
     {
-      "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
-      "publishedAt": "Wed, 26 Aug 2026 11:00:00 +0000",
-      "summary": "Runable says 60%\u201370% of its 1 trillion-plus token usage in the last 90 days came from paying customers."
+      "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+      "publishedAt": "Thu, 27 Aug 2026 14:56:52 +0000",
+      "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an \u201copen-source robot you can teach new tricks with reinforcement learning.\u201d "
     },
     {
-      "title": "India\u2019s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+      "title": "AI\u2019s memory crunch is coming for Android apps",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
-      "publishedAt": "Wed, 26 Aug 2026 03:30:00 +0000",
-      "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension."
+      "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+      "publishedAt": "Thu, 27 Aug 2026 14:27:04 +0000",
+      "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory."
     }
   ],
   "techMovers": [
     {
-      "ticker": "ORCL",
-      "name": "Oracle Corp",
-      "price": 149.88,
-      "change": 5.12,
-      "changePercent": 3.53
+      "ticker": "CRM",
+      "name": "Salesforce Inc",
+      "price": 252.05,
+      "change": 46.43,
+      "changePercent": 22.58
     },
     {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 488.68,
-      "change": 9.5,
-      "changePercent": 1.98
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp",
+      "price": 227.98,
+      "change": 18.32,
+      "changePercent": 8.74
     },
     {
       "ticker": "COIN",
       "name": "Coinbase",
-      "price": 183.73,
-      "change": -3.43,
-      "changePercent": -1.83
+      "price": 190.72,
+      "change": 8.94,
+      "changePercent": 4.92
     },
     {
-      "ticker": "TSLA",
-      "name": "Tesla Inc",
-      "price": 346.89,
-      "change": -3.36,
-      "changePercent": -0.96
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "price": 371.54,
+      "change": 15.95,
+      "changePercent": 4.49
     },
     {
-      "ticker": "NFLX",
-      "name": "Netflix Inc",
-      "price": 81.53,
-      "change": -0.7,
-      "changePercent": -0.85
+      "ticker": "SNOW",
+      "name": "Snowflake Inc",
+      "price": 329.11,
+      "change": 13.74,
+      "changePercent": 4.36
     }
   ],
-  "fearGreedIndex": 65,
+  "fearGreedIndex": 71,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 382.77,
-    "change": -1.37,
-    "changePercent": -0.36
+    "price": 379.66,
+    "change": -4.24,
+    "changePercent": -1.1
   },
   "sectors": [
     {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": 0.96
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 0.88
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": 3.16
     },
     {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": 0.53
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": 0.36
-    },
-    {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": 0.3
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 0.07
+      "changePercent": -0.22
     },
     {
       "ticker": "XLF",
       "name": "Financials",
-      "changePercent": -0.19
+      "changePercent": -0.65
     },
     {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": -0.2
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": -0.76
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -0.82
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": -0.85
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -0.95
     },
     {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": -0.25
+      "changePercent": -1.07
     },
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": -0.49
+      "changePercent": -1.09
     },
     {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": -0.83
+      "changePercent": -1.13
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -1.38
     }
   ],
   "economicCalendar": [
