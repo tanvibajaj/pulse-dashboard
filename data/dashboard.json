@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-08-27T22:44:52.331239+00:00",
+  "lastUpdated": "2026-08-28T22:52:07.034483+00:00",
   "marketStatus": "After Hours",
   "globalNews": [
     {
-      "title": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
+      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 27 Aug 2026 09:50:10 GMT",
-      "summary": "Preliminary investigations by scientists have pointed to a collapsed glacier as the cause, highlighting the issue of rapidly melting Himalayan ice."
+      "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 28 Aug 2026 22:05:41 GMT",
+      "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China."
     },
     {
-      "title": "What we know about deadly Nepal-Tibet floods",
+      "title": "Norway mourns King Harald as Haakon VIII ascends throne",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 27 Aug 2026 20:38:48 GMT",
-      "summary": "Hundreds have died or are missing in Wednesday's flooding and landslides on the border of Nepal and Tibet."
+      "url": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 28 Aug 2026 19:40:45 GMT",
+      "summary": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\"."
     },
     {
-      "title": "Convicted Bosnian Serb war criminal Mladi\u0107 dies aged 84",
+      "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 27 Aug 2026 17:05:22 GMT",
-      "summary": "He was jailed for life in 2017 for genocide, war crimes and crimes against  humanity during the wars in the ex-Yugoslavia in 1992-95."
+      "url": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 28 Aug 2026 13:50:34 GMT",
+      "summary": "Anne Lindboe, the mayor of Norway's capital, had planned to marry her fiance on Friday."
     },
     {
-      "title": "Jury deliberating in trial of Lindsay Clancy, US woman accused of killing her children",
+      "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c33keeyyv70o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 27 Aug 2026 20:39:16 GMT",
-      "summary": "Prosecutors argued Clancy made a calculated decision to murder the children, while the defence argued that she was suffering from postpartum psychosis.\n"
+      "url": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 28 Aug 2026 19:05:23 GMT",
+      "summary": "But they say Moscow will likely continue its \"hybrid activity\" against Nato members, short of direct military action."
     },
     {
-      "title": "Norwegians lay flowers at palace as King Harald's condition worsens",
+      "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 27 Aug 2026 17:42:04 GMT",
-      "summary": "The 89-year-old's condition is described as \"extremely serious\" and members of his family have visited him in hospital."
+      "url": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 28 Aug 2026 21:01:39 GMT",
+      "summary": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 80215,
-      "change24h": 2.03678,
-      "marketCap": 1610394005034,
+      "price": 77748,
+      "change24h": -3.11046,
+      "marketCap": 1560896488463,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2512.2,
-      "change24h": 0.63222,
-      "marketCap": 303174984000,
+      "price": 2441.08,
+      "change24h": -2.86007,
+      "marketCap": 294590704313,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Virtu, Tradeweb complete onchain repo using Marshall Islands digital bond",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/virtu-tradeweb-complete-onchain-repo-using-marshall-islands-digital-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 27 Aug 2026 20:39:40 +0000",
-      "summary": "The transaction used the Marshall Islands-issued USDM1 bond as collateral and completed the full repo cycle on the Canton Network in under 10 minutes."
-    },
-    {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 27 Aug 2026 19:27:53 +0000",
+      "publishedAt": "Fri, 28 Aug 2026 20:42:54 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Trump cost investors $4.7B through crypto \u2018schemes\u2019: Public Citizen",
+      "title": "Solana validators approve proposal to accelerate SOL disinflation",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/donald-trump-crypto-investors-losses-public-citizen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 27 Aug 2026 19:22:14 +0000",
-      "summary": "While investors in World Liberty Financial\u2018s USD1 stablecoin \u201chaven\u2019t suffered major losses,\u201d many lost billions of dollars in other Trump ventures, according to Public Citizen."
+      "url": "https://cointelegraph.com/news/solana-validators-approve-proposal-to-accelerate-sol-disinflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 28 Aug 2026 19:53:12 +0000",
+      "summary": "The approved proposal doubles Solana\u2019s annual disinflation rate from 15% to 30%, reducing future SOL issuance while leaving its long-term inflation target unchanged."
     },
     {
-      "title": "Mirae Asset lays out crypto, stablecoin, tokenization plans for Digital X ",
+      "title": "Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/mirae-asset-lays-out-crypto-stablecoin-and-tokenization-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 27 Aug 2026 19:00:00 +0000",
-      "summary": "The South Korean financial group plans to build a $109 billion digital asset business spanning crypto, stablecoins and tokenized assets, according to The Korea Times."
+      "url": "https://cointelegraph.com/news/chelsea-football-circle-sponsor-fca-warning-questionable-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 28 Aug 2026 17:46:12 +0000",
+      "summary": "According to Circle, the USDC stablecoin name will appear on the front of club jerseys for Chelsea\u2019s upcoming football season."
     },
     {
-      "title": "Grayscale says Zcash can challenge Bitcoin\u2019s network effects as privacy demand grows",
+      "title": "Bullish provides USD.AI $100M stablecoin facility for GPU-backed lending",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/zcash-bitcoin-network-effects-grayscale-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 27 Aug 2026 18:51:02 +0000",
-      "summary": "ZEC has climbed roughly 19-fold in a year, yet Grayscale says its sub-1% share of Bitcoin\u2019s market cap leaves room for further upside.\n"
+      "url": "https://cointelegraph.com/news/bullish-provides-usdai-100m-stablecoin-facility-gpu-backed-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 28 Aug 2026 16:17:09 +0000",
+      "summary": "The institutional crypto exchange is providing $100 million in stablecoin liquidity to support loans backed by AI computing infrastructure."
+    },
+    {
+      "title": "Bitcoin dips to $78.4K as Fed\u2019s Warsh downplays softer inflation prints",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-dips-fed-warsh-dismisses-recent-low-inflation-prints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 28 Aug 2026 15:31:25 +0000",
+      "summary": "Bitcoin failed to make a decisive break above $80,000 as traders digested Fed Chair Kevin Warsh\u2019s Jackson Hole keynote speech, which remained wary of US inflation trends."
     }
   ],
   "aiNews": [
     {
-      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-      "publishedAt": "Thu, 27 Aug 2026 19:52:52 +0000",
-      "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google. "
+      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "publishedAt": "Fri, 28 Aug 2026 20:24:11 +0000",
+      "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom. "
     },
     {
-      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-      "publishedAt": "Thu, 27 Aug 2026 17:43:24 +0000",
-      "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of"
+      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "publishedAt": "Fri, 28 Aug 2026 19:30:38 +0000",
+      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance."
     },
     {
-      "title": "Google\u2019s AI Mode can now track flight prices, help book hotels, and more",
+      "title": "Open-weight AI companies are the Valley\u2019s hottest acquisition targets",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-      "publishedAt": "Thu, 27 Aug 2026 16:00:00 +0000",
-      "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-plann"
+      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+      "publishedAt": "Fri, 28 Aug 2026 18:19:40 +0000",
+      "summary": "There's a lot of capital pouring into the business of giving models away."
     },
     {
-      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+      "title": "Anthropic gets its first court win over the Pentagon\u2019s supply-chain risk label",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
-      "publishedAt": "Thu, 27 Aug 2026 14:56:52 +0000",
-      "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an \u201copen-source robot you can teach new tricks with reinforcement learning.\u201d "
+      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+      "publishedAt": "Fri, 28 Aug 2026 12:46:12 +0000",
+      "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington."
     },
     {
-      "title": "AI\u2019s memory crunch is coming for Android apps",
+      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
-      "publishedAt": "Thu, 27 Aug 2026 14:27:04 +0000",
-      "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory."
+      "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+      "publishedAt": "Fri, 28 Aug 2026 12:21:06 +0000",
+      "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role."
     }
   ],
   "techMovers": [
     {
-      "ticker": "CRM",
-      "name": "Salesforce Inc",
-      "price": 252.05,
-      "change": 46.43,
-      "changePercent": 22.58
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "price": 178.64,
+      "change": -12.08,
+      "changePercent": -6.33
     },
     {
       "ticker": "NVDA",
       "name": "NVIDIA Corp",
-      "price": 227.98,
-      "change": 18.32,
-      "changePercent": 8.74
+      "price": 217.55,
+      "change": -10.43,
+      "changePercent": -4.57
     },
     {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "price": 190.72,
-      "change": 8.94,
-      "changePercent": 4.92
+      "ticker": "AMZN",
+      "name": "Amazon.com",
+      "price": 266.43,
+      "change": 10.17,
+      "changePercent": 3.97
     },
     {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc",
-      "price": 371.54,
-      "change": 15.95,
-      "changePercent": 4.49
+      "ticker": "UBER",
+      "name": "Uber Technologies",
+      "price": 78.82,
+      "change": 1.87,
+      "changePercent": 2.43
     },
     {
-      "ticker": "SNOW",
-      "name": "Snowflake Inc",
-      "price": 329.11,
-      "change": 13.74,
-      "changePercent": 4.36
+      "ticker": "NFLX",
+      "name": "Netflix Inc",
+      "price": 81.72,
+      "change": 1.88,
+      "changePercent": 2.35
     }
   ],
-  "fearGreedIndex": 71,
+  "fearGreedIndex": 73,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 379.66,
-    "change": -4.24,
-    "changePercent": -1.1
+    "price": 381.6,
+    "change": 1.94,
+    "changePercent": 0.51
   },
   "sectors": [
     {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": 3.16
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": -0.22
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": -0.65
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": -0.76
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": -0.82
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": -0.85
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": -0.95
-    },
-    {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": -1.07
+      "changePercent": 1.42
     },
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": -1.09
+      "changePercent": 1.15
     },
     {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": -1.13
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": 0.63
     },
     {
       "ticker": "XLP",
       "name": "Consumer Staples",
-      "changePercent": -1.38
+      "changePercent": 0.43
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 0.38
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -0.09
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -0.24
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -0.4
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": -0.93
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": -1.04
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": -1.55
     }
   ],
   "economicCalendar": [
