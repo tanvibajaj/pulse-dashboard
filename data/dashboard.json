@@ -1,13 +1,34 @@
 {
-  "lastUpdated": "2026-08-28T22:52:07.034483+00:00",
-  "marketStatus": "After Hours",
+  "lastUpdated": "2026-08-29T16:57:22.709304+00:00",
+  "marketStatus": "Closed",
   "globalNews": [
     {
       "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
       "source": "BBC",
       "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 28 Aug 2026 22:05:41 GMT",
+      "publishedAt": "Sat, 29 Aug 2026 03:54:11 GMT",
       "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China."
+    },
+    {
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 29 Aug 2026 15:27:56 GMT",
+      "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area."
+    },
+    {
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 29 Aug 2026 16:15:56 GMT",
+      "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy."
+    },
+    {
+      "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 29 Aug 2026 00:32:17 GMT",
+      "summary": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC."
     },
     {
       "title": "Norway mourns King Harald as Haakon VIII ascends throne",
@@ -15,27 +36,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 28 Aug 2026 19:40:45 GMT",
       "summary": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\"."
-    },
-    {
-      "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 28 Aug 2026 13:50:34 GMT",
-      "summary": "Anne Lindboe, the mayor of Norway's capital, had planned to marry her fiance on Friday."
-    },
-    {
-      "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 28 Aug 2026 19:05:23 GMT",
-      "summary": "But they say Moscow will likely continue its \"hybrid activity\" against Nato members, short of direct military action."
-    },
-    {
-      "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 28 Aug 2026 21:01:39 GMT",
-      "summary": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past."
     }
   ],
   "cryptoAssets": [
@@ -43,59 +43,66 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 77748,
-      "change24h": -3.11046,
-      "marketCap": 1560896488463,
+      "price": 78033,
+      "change24h": 0.25089,
+      "marketCap": 1566589743100,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2441.08,
-      "change24h": -2.86007,
-      "marketCap": 294590704313,
+      "price": 2451.67,
+      "change24h": 0.34407,
+      "marketCap": 295830760849,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
+      "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 29 Aug 2026 16:27:28 +0000",
+      "summary": "Tokenized equities saw a sharp rise in onchain activity as active addresses and holders more than doubled over the past month."
+    },
+    {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 28 Aug 2026 20:42:54 +0000",
+      "publishedAt": "Sat, 29 Aug 2026 12:39:59 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Solana validators approve proposal to accelerate SOL disinflation",
+      "title": "Trump-promoted brand touts GOLD before token collapse",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/solana-validators-approve-proposal-to-accelerate-sol-disinflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 28 Aug 2026 19:53:12 +0000",
-      "summary": "The approved proposal doubles Solana\u2019s annual disinflation rate from 15% to 30%, reducing future SOL issuance while leaving its long-term inflation target unchanged."
+      "url": "https://cointelegraph.com/news/trump-linked-account-list-gold-token-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 29 Aug 2026 10:53:41 +0000",
+      "summary": "Real Trump Coins promoted GOLD before deleting related X posts, while team-linked wallets sold 224.5 million tokens as its market value fell about 99%."
     },
     {
-      "title": "Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs",
+      "title": "Stablecoins not credible for payments at scale, BIS chief says",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/chelsea-football-circle-sponsor-fca-warning-questionable-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 28 Aug 2026 17:46:12 +0000",
-      "summary": "According to Circle, the USDC stablecoin name will appear on the front of club jerseys for Chelsea\u2019s upcoming football season."
+      "url": "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 29 Aug 2026 08:01:04 +0000",
+      "summary": "BIS chief Pablo Hern\u00e1ndez de Cos said stablecoins lack credibility for payments at scale, while a new FSI study highlights sharp differences in issuer rules."
     },
     {
-      "title": "Bullish provides USD.AI $100M stablecoin facility for GPU-backed lending",
+      "title": "Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bullish-provides-usdai-100m-stablecoin-facility-gpu-backed-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 28 Aug 2026 16:17:09 +0000",
-      "summary": "The institutional crypto exchange is providing $100 million in stablecoin liquidity to support loans backed by AI computing infrastructure."
-    },
-    {
-      "title": "Bitcoin dips to $78.4K as Fed\u2019s Warsh downplays softer inflation prints",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-dips-fed-warsh-dismisses-recent-low-inflation-prints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 28 Aug 2026 15:31:25 +0000",
-      "summary": "Bitcoin failed to make a decisive break above $80,000 as traders digested Fed Chair Kevin Warsh\u2019s Jackson Hole keynote speech, which remained wary of US inflation trends."
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 29 Aug 2026 06:47:12 +0000",
+      "summary": "US spot Bitcoin ETFs posted $201.8 million in net outflows Friday, led by ARK 21Shares, as total fund assets slipped back below $100 billion."
     }
   ],
   "aiNews": [
+    {
+      "title": "Nvidia\u2019s AI advantage is moving beyond the GPU",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "publishedAt": "Sat, 29 Aug 2026 13:00:00 +0000",
+      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles."
+    },
     {
       "title": "Neocloud Lambda secures $1B in debt to buy more chips",
       "source": "TechCrunch",
@@ -123,13 +130,6 @@
       "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
       "publishedAt": "Fri, 28 Aug 2026 12:46:12 +0000",
       "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington."
-    },
-    {
-      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-      "publishedAt": "Fri, 28 Aug 2026 12:21:06 +0000",
-      "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role."
     }
   ],
   "techMovers": [
@@ -169,7 +169,7 @@
       "changePercent": 2.35
     }
   ],
-  "fearGreedIndex": 73,
+  "fearGreedIndex": 68,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
@@ -241,6 +241,13 @@
       "event": "Non-Farm Payrolls",
       "importance": "high",
       "description": "Monthly jobs report - employment and wage data"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "08:30 ET",
+      "event": "CPI Inflation Data",
+      "importance": "high",
+      "description": "Consumer Price Index - key inflation measure"
     },
     {
       "date": "2026-09-16",
