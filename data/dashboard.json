@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-08-30T17:10:38.593164+00:00",
-  "marketStatus": "Closed",
+  "lastUpdated": "2026-08-31T19:21:49.783657+00:00",
+  "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Iceland votes against restarting EU membership talks",
+      "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 30 Aug 2026 16:11:44 GMT",
-      "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks."
+      "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 31 Aug 2026 17:30:47 GMT",
+      "summary": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939."
     },
     {
-      "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+      "title": "US and Iran trade strikes for first time in weeks",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 30 Aug 2026 12:44:08 GMT",
-      "summary": "Five others in their twenties were injured after shots were fired at a techno event near Zurich."
+      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 31 Aug 2026 13:47:30 GMT",
+      "summary": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others."
     },
     {
-      "title": "Canada installs large Lake Ontario sign in latest jab at US",
+      "title": "Man arrested after Swiss rave shooting that killed woman",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 30 Aug 2026 14:25:43 GMT",
-      "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\""
+      "url": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 31 Aug 2026 13:11:35 GMT",
+      "summary": "A 22-year-old Italian woman was killed and several injured at a techno rave in Aarau."
     },
     {
-      "title": "WhatsApp chat used to send cash for crime and extremism",
+      "title": "The jury's options in Lindsay Clancy's murder trial",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 30 Aug 2026 04:59:56 GMT",
-      "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail."
+      "url": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 31 Aug 2026 11:53:21 GMT",
+      "summary": "Jurors have five options before them as they decide the fate of the former nurse charged with killing her three children."
     },
     {
-      "title": "Russia says it helped to repel Niger attempted coup",
+      "title": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 30 Aug 2026 16:33:17 GMT",
-      "summary": "Soldiers tried to attack a key military base early on Saturday morning, authorities say, but were thwarted."
+      "url": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 31 Aug 2026 14:50:36 GMT",
+      "summary": "Ayten and Hayri Bicer's two young children are among 20 missing in an incident that killed eight people."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 79168,
-      "change24h": 1.47917,
-      "marketCap": 1589378738110,
+      "price": 79074,
+      "change24h": 0.1194,
+      "marketCap": 1587941466677,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2520.67,
-      "change24h": 2.84916,
-      "marketCap": 304211357946,
+      "price": 2483.16,
+      "change24h": -1.0029,
+      "marketCap": 299716301795,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Here\u2019s what happened in crypto today",
+      "title": "Webull expands crypto trading into Canada through Coinbase collaboration",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 30 Aug 2026 12:49:37 +0000",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+      "url": "https://cointelegraph.com/news/webull-canada-crypto-trading-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 31 Aug 2026 17:28:19 +0000",
+      "summary": "The brokerage is adding digital assets alongside stocks, ETFs and options as Canadian crypto ownership rises and regulators move toward clearer industry rules.\n"
     },
     {
-      "title": "Russia\u2019s Sber eyes USDT loans, questions digital ruble demand",
+      "title": "Bitcoin begins volatile monthly close as US bond yields eye new 20-year high",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 30 Aug 2026 09:55:00 +0000",
-      "summary": "Russia\u2019s largest bank, Sber, plans to accept USDT and Ether alongside Bitcoin as loan collateral as the country introduces regulated crypto trading under a new law."
+      "url": "https://cointelegraph.com/markets/bitcoin-begins-volatile-monthly-close-as-us-bond-yields-eye-new-20-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 31 Aug 2026 16:38:51 +0000",
+      "summary": "Bitcoin price action saw sharp moves within its local range as US Treasury Secretary Scott Bessent addressed US bond yields."
     },
     {
-      "title": "Real Trump Coins denies launching GOLD token, blames \u2018bad actors\u2019",
+      "title": "Bitmine now controls 4.9% of Ethereum supply after adding 53.5K ETH",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/real-trump-coins-denies-gold-token-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 30 Aug 2026 08:04:56 +0000",
-      "summary": "Trump-linked Real Trump Coins said it never authorized GOLD or any digital token as questions persisted over its X account, associated domains and the concentrated token supply."
+      "url": "https://cointelegraph.com/news/bitmine-ether-buying-streak-65-weeks-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 31 Aug 2026 15:39:00 +0000",
+      "summary": "Bitmine has bought Ether for 65 consecutive weeks, maintaining its accumulation strategy through a prolonged crypto downturn and $5.1 billion in paper losses.\n"
     },
     {
-      "title": "Polygon discloses security flaws fixed in recent hard forks",
+      "title": "Strive buys 1,800 Bitcoin for $143M, becomes fifth-biggest corporate holder",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 29 Aug 2026 20:28:51 +0000",
-      "summary": "The vulnerabilities posed denial-of-service and validator resource risks but were patched before Polygon publicly disclosed them."
+      "url": "https://cointelegraph.com/news/strive-buys-1800-bitcoin-143m-btc-purchase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 31 Aug 2026 15:08:12 +0000",
+      "summary": "Strive\u2019s latest Bitcoin purchase lifted its holdings to 23,156 BTC, making it the fifth-largest publicly traded corporate holder as crypto markets rebound.\n"
     },
     {
-      "title": "Stellar tokenized RWA market more than quadruples to nearly $4B",
+      "title": "Russian crypto trading to bring $46B to regulated exchanges in first year after legalization: Report",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 29 Aug 2026 19:12:42 +0000",
-      "summary": "Stellar\u2019s real-world asset market has expanded rapidly this year as institutional adoption and tokenization activity grow across the network."
+      "url": "https://cointelegraph.com/news/russian-crypto-trading-bring-46b-regulated-exchanges-legalization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 31 Aug 2026 14:50:58 +0000",
+      "summary": "Regulated cryptocurrency exchanges may see more than $46 billion in crypto trading volume during the first year after legalization, according to estimates from the country\u2019s largest bank."
     }
   ],
   "aiNews": [
     {
-      "title": "Musk\u2019s faster path to more gas turbines comes with pollution problem",
+      "title": "Instagram puts new limits on undisclosed AI profiles",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
-      "publishedAt": "Sun, 30 Aug 2026 16:54:25 +0000",
-      "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else \u2014 but it's a bet on a fuel source that's already trigg"
+      "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+      "publishedAt": "Mon, 31 Aug 2026 19:16:59 +0000",
+      "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles."
     },
     {
-      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "title": "Harvard Law dropout raises $6M for Blue Voice to build a \u2018Harvey for police officers\u2019",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-      "publishedAt": "Sun, 30 Aug 2026 15:00:00 +0000",
-      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment."
+      "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+      "publishedAt": "Mon, 31 Aug 2026 18:35:11 +0000",
+      "summary": "The seed round for the app that provides real-time legal and policy guidance to officers was led by  SignalFire and Las Olas VC. "
     },
     {
-      "title": "Sony Music, Warner sue Anthropic, alleging a \u201cbrazen campaign\u201d of intellectual property theft",
+      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-      "publishedAt": "Sat, 29 Aug 2026 18:41:59 +0000",
-      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy."
+      "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+      "publishedAt": "Mon, 31 Aug 2026 16:00:00 +0000",
+      "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round."
     },
     {
-      "title": "\u201cWe\u2019re not doing 30 bets a year\u201d: Vijay Pande on betting small after running $4 billion at a16z",
+      "title": "Nvidia\u2019s $3.5B MediaTek bet reveals its plan for tackling Big Tech\u2019s AI chip buildout",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-      "publishedAt": "Sat, 29 Aug 2026 17:36:47 +0000",
-      "summary": "Vijay Pande \u2014 who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC \u2014 talks about why biology is finally shifting from a \"discovery\" science to an \"en"
+      "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+      "publishedAt": "Mon, 31 Aug 2026 15:15:25 +0000",
+      "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips."
     },
     {
-      "title": "Nvidia\u2019s AI advantage is moving beyond the GPU",
+      "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-      "publishedAt": "Sat, 29 Aug 2026 13:00:00 +0000",
-      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles."
+      "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
+      "publishedAt": "Mon, 31 Aug 2026 12:56:46 +0000",
+      "summary": "Circleback is also introducing new pricing plans starting from $14 per month."
     }
   ],
   "techMovers": [
     {
       "ticker": "COIN",
       "name": "Coinbase",
-      "price": 178.64,
-      "change": -12.08,
-      "changePercent": -6.33
+      "price": 188.8,
+      "change": 10.16,
+      "changePercent": 5.69
     },
     {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corp",
-      "price": 217.55,
-      "change": -10.43,
-      "changePercent": -4.57
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon.com",
-      "price": 266.43,
-      "change": 10.17,
-      "changePercent": 3.97
+      "ticker": "TSLA",
+      "name": "Tesla Inc",
+      "price": 365.84,
+      "change": 17.09,
+      "changePercent": 4.9
     },
     {
       "ticker": "UBER",
       "name": "Uber Technologies",
-      "price": 78.82,
-      "change": 1.87,
-      "changePercent": 2.43
+      "price": 75.98,
+      "change": -2.84,
+      "changePercent": -3.6
     },
     {
-      "ticker": "NFLX",
-      "name": "Netflix Inc",
-      "price": 81.72,
-      "change": 1.88,
-      "changePercent": 2.35
+      "ticker": "AMZN",
+      "name": "Amazon.com",
+      "price": 259.01,
+      "change": -7.42,
+      "changePercent": -2.78
+    },
+    {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc",
+      "price": 334.9,
+      "change": -7.98,
+      "changePercent": -2.33
     }
   ],
-  "fearGreedIndex": 69,
+  "fearGreedIndex": 62,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 381.6,
-    "change": 1.94,
-    "changePercent": 0.51
+    "price": 380.36,
+    "change": -1.24,
+    "changePercent": -0.33
   },
   "sectors": [
     {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 1.42
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 1.15
-    },
-    {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": 0.63
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 0.43
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 0.38
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": -0.09
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": -0.24
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": -0.4
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": -0.93
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": -1.04
+      "changePercent": 1.76
     },
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": -1.55
+      "changePercent": 0.16
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -0.33
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -0.56
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": -0.61
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -0.61
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -0.66
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": -1.08
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": -1.09
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -1.14
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -1.22
     }
   ],
   "economicCalendar": [
