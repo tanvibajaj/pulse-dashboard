@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-08-31T19:21:49.783657+00:00",
+  "lastUpdated": "2026-09-01T17:07:44.080281+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
+      "title": "Germany says Russia behind Leipzig airport drone attack",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 31 Aug 2026 17:30:47 GMT",
-      "summary": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939."
+      "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 01 Sep 2026 16:53:40 GMT",
+      "summary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.\n\n"
     },
     {
-      "title": "US and Iran trade strikes for first time in weeks",
+      "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 31 Aug 2026 13:47:30 GMT",
-      "summary": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others."
+      "url": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 01 Sep 2026 05:00:34 GMT",
+      "summary": "As of August, the number forced to return this year from Pakistan and Iran had reached another million."
     },
     {
-      "title": "Man arrested after Swiss rave shooting that killed woman",
+      "title": "River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 31 Aug 2026 13:11:35 GMT",
-      "summary": "A 22-year-old Italian woman was killed and several injured at a techno rave in Aarau."
+      "url": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 01 Sep 2026 16:11:18 GMT",
+      "summary": "Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000."
     },
     {
-      "title": "The jury's options in Lindsay Clancy's murder trial",
+      "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 31 Aug 2026 11:53:21 GMT",
-      "summary": "Jurors have five options before them as they decide the fate of the former nurse charged with killing her three children."
+      "url": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 01 Sep 2026 15:33:14 GMT",
+      "summary": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave."
     },
     {
-      "title": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
+      "title": "Vance calls Michigan Senate candidate El-Sayed 'evil' at campaign rally",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 31 Aug 2026 14:50:36 GMT",
-      "summary": "Ayten and Hayri Bicer's two young children are among 20 missing in an incident that killed eight people."
+      "url": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 01 Sep 2026 15:51:40 GMT",
+      "summary": "El-Sayed faces Trump ally Mike Rogers in what has quickly become a senate race characterised by personal attacks and insults between the two. "
     }
   ],
   "cryptoAssets": [
@@ -43,211 +43,211 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 79074,
-      "change24h": 0.1194,
-      "marketCap": 1587941466677,
+      "price": 77555,
+      "change24h": -1.43803,
+      "marketCap": 1557283939697,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2483.16,
-      "change24h": -1.0029,
-      "marketCap": 299716301795,
+      "price": 2431.85,
+      "change24h": -1.51667,
+      "marketCap": 293496381128,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Webull expands crypto trading into Canada through Coinbase collaboration",
+      "title": "BofA, Citi, Goldman Sachs among 21 institutions planning stablecoin launch",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/webull-canada-crypto-trading-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 31 Aug 2026 17:28:19 +0000",
-      "summary": "The brokerage is adding digital assets alongside stocks, ETFs and options as Canadian crypto ownership rises and regulators move toward clearer industry rules.\n"
+      "url": "https://cointelegraph.com/news/21-financial-institutions-g7-stablecoin-venture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 01 Sep 2026 16:39:12 +0000",
+      "summary": "The planned venture will initially focus on a US dollar stablecoin before expanding to other G7 currencies, with a euro-denominated offering next."
     },
     {
-      "title": "Bitcoin begins volatile monthly close as US bond yields eye new 20-year high",
+      "title": "Ethena launches USDe payments app, offers 6% rewards",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-begins-volatile-monthly-close-as-us-bond-yields-eye-new-20-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 31 Aug 2026 16:38:51 +0000",
-      "summary": "Bitcoin price action saw sharp moves within its local range as US Treasury Secretary Scott Bessent addressed US bond yields."
+      "url": "https://cointelegraph.com/news/ethena-launches-usde-powered-money-app-across-48-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 01 Sep 2026 16:06:58 +0000",
+      "summary": "The self-custodial app brings USDe into everyday payments, savings and cross-border transfers, with annualized rewards of up to 6%."
     },
     {
-      "title": "Bitmine now controls 4.9% of Ethereum supply after adding 53.5K ETH",
+      "title": "Bitcoin stays flat as global bond bear market rages on, pushing JGB to high",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitmine-ether-buying-streak-65-weeks-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 31 Aug 2026 15:39:00 +0000",
-      "summary": "Bitmine has bought Ether for 65 consecutive weeks, maintaining its accumulation strategy through a prolonged crypto downturn and $5.1 billion in paper losses.\n"
+      "url": "https://cointelegraph.com/markets/bitcoin-remains-flat-as-global-bond-bear-market-rages-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 01 Sep 2026 15:34:00 +0000",
+      "summary": "Global bond yields hit multi-decade highs today as Japan\u2019s 10-year JGB yield reached a 30-year peak, keeping Bitcoin steady near $78,000."
     },
     {
-      "title": "Strive buys 1,800 Bitcoin for $143M, becomes fifth-biggest corporate holder",
+      "title": "Fake Claude desktop app spreads crypto-stealing malware",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/strive-buys-1800-bitcoin-143m-btc-purchase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 31 Aug 2026 15:08:12 +0000",
-      "summary": "Strive\u2019s latest Bitcoin purchase lifted its holdings to 23,156 BTC, making it the fifth-largest publicly traded corporate holder as crypto markets rebound.\n"
+      "url": "https://cointelegraph.com/news/fake-claude-desktop-app-spreads-crypto-stealing-malware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 01 Sep 2026 14:00:00 +0000",
+      "summary": "RevStealer targets more than 50 crypto wallets alongside browser passwords, cookies, messaging data and selected documents."
     },
     {
-      "title": "Russian crypto trading to bring $46B to regulated exchanges in first year after legalization: Report",
+      "title": "Does the Bitcoin rally mean we haven\u2019t wasted our lives in crypto?",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/russian-crypto-trading-bring-46b-regulated-exchanges-legalization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 31 Aug 2026 14:50:58 +0000",
-      "summary": "Regulated cryptocurrency exchanges may see more than $46 billion in crypto trading volume during the first year after legalization, according to estimates from the country\u2019s largest bank."
+      "url": "https://cointelegraph.com/magazine/does-bitcoins-rally-mean-we-havent-wasted-our-lives-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 01 Sep 2026 13:30:00 +0000",
+      "summary": "Crypto is showing signs of life again, but its biggest wins look different from what early believers imagined. After a decade of building, has it all been worth it?"
     }
   ],
   "aiNews": [
     {
-      "title": "Instagram puts new limits on undisclosed AI profiles",
+      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-      "publishedAt": "Mon, 31 Aug 2026 19:16:59 +0000",
-      "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles."
+      "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+      "publishedAt": "Tue, 01 Sep 2026 16:31:04 +0000",
+      "summary": "The startup wants to do for IT infrastructure what Cursor did for software engineering."
     },
     {
-      "title": "Harvard Law dropout raises $6M for Blue Voice to build a \u2018Harvey for police officers\u2019",
+      "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-      "publishedAt": "Mon, 31 Aug 2026 18:35:11 +0000",
-      "summary": "The seed round for the app that provides real-time legal and policy guidance to officers was led by  SignalFire and Las Olas VC. "
+      "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+      "publishedAt": "Tue, 01 Sep 2026 15:51:55 +0000",
+      "summary": "Amazon is adding a new Alexa-powered feature called \u201cUpdate Me When\u201d that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase."
     },
     {
-      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
-      "publishedAt": "Mon, 31 Aug 2026 16:00:00 +0000",
-      "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round."
+      "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+      "publishedAt": "Tue, 01 Sep 2026 15:45:51 +0000",
+      "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behaviour."
     },
     {
-      "title": "Nvidia\u2019s $3.5B MediaTek bet reveals its plan for tackling Big Tech\u2019s AI chip buildout",
+      "title": "Fambot introduces an \u2018AI chief of staff\u2019 for families",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
-      "publishedAt": "Mon, 31 Aug 2026 15:15:25 +0000",
-      "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips."
+      "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+      "publishedAt": "Tue, 01 Sep 2026 15:10:58 +0000",
+      "summary": "Fambot is building an AI \u201cchief of staff\u201d to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids."
     },
     {
-      "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
+      "title": "Apple shares \u2018shocking evidence\u2019 against former employee accused of stealing company data for OpenAI",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
-      "publishedAt": "Mon, 31 Aug 2026 12:56:46 +0000",
-      "summary": "Circleback is also introducing new pricing plans starting from $14 per month."
+      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "publishedAt": "Tue, 01 Sep 2026 00:13:00 +0000",
+      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation."
     }
   ],
   "techMovers": [
     {
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "price": 140.95,
+      "change": -8.17,
+      "changePercent": -5.48
+    },
+    {
       "ticker": "COIN",
       "name": "Coinbase",
-      "price": 188.8,
-      "change": 10.16,
-      "changePercent": 5.69
+      "price": 178.11,
+      "change": -10.01,
+      "changePercent": -5.32
+    },
+    {
+      "ticker": "SNOW",
+      "name": "Snowflake Inc",
+      "price": 320.41,
+      "change": -11.02,
+      "changePercent": -3.32
     },
     {
       "ticker": "TSLA",
       "name": "Tesla Inc",
-      "price": 365.84,
-      "change": 17.09,
-      "changePercent": 4.9
+      "price": 356.46,
+      "change": -11.49,
+      "changePercent": -3.12
     },
     {
-      "ticker": "UBER",
-      "name": "Uber Technologies",
-      "price": 75.98,
-      "change": -2.84,
-      "changePercent": -3.6
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon.com",
-      "price": 259.01,
-      "change": -7.42,
-      "changePercent": -2.78
-    },
-    {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc",
-      "price": 334.9,
-      "change": -7.98,
-      "changePercent": -2.33
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 457.85,
+      "change": -12.88,
+      "changePercent": -2.74
     }
   ],
-  "fearGreedIndex": 62,
+  "fearGreedIndex": 69,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 380.36,
-    "change": -1.24,
-    "changePercent": -0.33
+    "price": 375.6,
+    "change": -3.77,
+    "changePercent": -0.99
   },
   "sectors": [
     {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": 1.76
-    },
-    {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": 0.16
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": -0.33
+      "changePercent": 0.94
     },
     {
       "ticker": "XLP",
       "name": "Consumer Staples",
-      "changePercent": -0.56
+      "changePercent": 0.53
     },
     {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": -0.61
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": 0.34
     },
     {
       "ticker": "XLRE",
       "name": "Real Estate",
-      "changePercent": -0.61
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": -0.66
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": -1.08
+      "changePercent": -0.02
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": -1.09
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": -1.14
+      "changePercent": -0.06
     },
     {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": -1.22
+      "changePercent": -0.24
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": -0.73
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -0.97
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": -1.49
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -1.64
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": -1.64
     }
   ],
   "economicCalendar": [
-    {
-      "date": "2026-09-04",
-      "time": "08:30 ET",
-      "event": "Non-Farm Payrolls",
-      "importance": "high",
-      "description": "Monthly jobs report - employment and wage data"
-    },
     {
       "date": "2026-09-12",
       "time": "08:30 ET",
       "event": "CPI Inflation Data",
       "importance": "high",
       "description": "Consumer Price Index - key inflation measure"
+    },
+    {
+      "date": "2026-09-15",
+      "time": "08:30 ET",
+      "event": "Retail Sales",
+      "importance": "medium",
+      "description": "Monthly consumer spending data"
     },
     {
       "date": "2026-09-16",
