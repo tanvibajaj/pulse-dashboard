@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-09-01T17:07:44.080281+00:00",
+  "lastUpdated": "2026-09-02T16:57:53.490991+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Germany says Russia behind Leipzig airport drone attack",
+      "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 01 Sep 2026 16:53:40 GMT",
-      "summary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.\n\n"
+      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 02 Sep 2026 15:33:19 GMT",
+      "summary": "Iranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in the Middle East."
     },
     {
-      "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
+      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 01 Sep 2026 05:00:34 GMT",
-      "summary": "As of August, the number forced to return this year from Pakistan and Iran had reached another million."
+      "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 02 Sep 2026 16:49:00 GMT",
+      "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport."
     },
     {
-      "title": "River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC",
+      "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 01 Sep 2026 16:11:18 GMT",
-      "summary": "Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000."
+      "url": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 02 Sep 2026 11:47:11 GMT",
+      "summary": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions."
     },
     {
-      "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
+      "title": "US sailors arrive in Thailand's Pattaya after record 250 days at sea",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 01 Sep 2026 15:33:14 GMT",
-      "summary": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave."
+      "url": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 02 Sep 2026 10:04:28 GMT",
+      "summary": "The USS Abraham Lincoln is docking close to Pattaya, known for its neon-lit nightlife, and for sex tourism."
     },
     {
-      "title": "Vance calls Michigan Senate candidate El-Sayed 'evil' at campaign rally",
+      "title": "Woman charged with juror intimidation in Lindsay Clancy trial ",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 01 Sep 2026 15:51:40 GMT",
-      "summary": "El-Sayed faces Trump ally Mike Rogers in what has quickly become a senate race characterised by personal attacks and insults between the two. "
+      "url": "https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 02 Sep 2026 16:18:55 GMT",
+      "summary": "Dawn Light is accused of taking photos of jurors outside the Plymouth courthouse, a practice prohibited by the court."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 77555,
-      "change24h": -1.43803,
-      "marketCap": 1557283939697,
+      "price": 77222,
+      "change24h": -0.48982,
+      "marketCap": 1550871834628,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2431.85,
-      "change24h": -1.51667,
-      "marketCap": 293496381128,
+      "price": 2387.05,
+      "change24h": -1.89906,
+      "marketCap": 291343334156,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "BofA, Citi, Goldman Sachs among 21 institutions planning stablecoin launch",
+      "title": "Ondo urges SEC, CFTC to bring US stock perpetuals onshore",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/21-financial-institutions-g7-stablecoin-venture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 01 Sep 2026 16:39:12 +0000",
-      "summary": "The planned venture will initially focus on a US dollar stablecoin before expanding to other G7 currencies, with a euro-denominated offering next."
+      "url": "https://cointelegraph.com/news/ondo-urges-sec-cftc-bring-us-stock-perpetuals-onshore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 02 Sep 2026 16:39:22 +0000",
+      "summary": "Ondo says existing US securities laws can accommodate perpetual futures tied to individual stocks as regulators look to bring more derivatives activity onshore."
     },
     {
-      "title": "Ethena launches USDe payments app, offers 6% rewards",
+      "title": "Bitcoin\u2019s apparent demand turns negative as price struggles with $77K",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ethena-launches-usde-powered-money-app-across-48-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 01 Sep 2026 16:06:58 +0000",
-      "summary": "The self-custodial app brings USDe into everyday payments, savings and cross-border transfers, with annualized rewards of up to 6%."
+      "url": "https://cointelegraph.com/markets/bitcoins-apparent-demand-turns-negative-price-struggles-with-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 02 Sep 2026 16:35:56 +0000",
+      "summary": "One of Bitcoin\u2019s onchain demand indicators turns negative again after a brief August rebound, as BTC price slipped below $77,000 amid a broader bond and equities sell-off."
     },
     {
-      "title": "Bitcoin stays flat as global bond bear market rages on, pushing JGB to high",
+      "title": "G20 members tout \u2018clear pathways\u2019 for digital asset innovation",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-remains-flat-as-global-bond-bear-market-rages-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 01 Sep 2026 15:34:00 +0000",
-      "summary": "Global bond yields hit multi-decade highs today as Japan\u2019s 10-year JGB yield reached a 30-year peak, keeping Bitcoin steady near $78,000."
+      "url": "https://cointelegraph.com/news/g20-members-clear-pathways-digital-asset-innovation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 02 Sep 2026 15:34:06 +0000",
+      "summary": "Officials in the G20, under the US\u2019 presidency, recognized that digital assets could support \u201cbroad-based economic growth\u201d and called for improvements in cross-border transactions."
     },
     {
-      "title": "Fake Claude desktop app spreads crypto-stealing malware",
+      "title": "Sui DeFi protocol Full Sail to wind down after Switchboard incident",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/fake-claude-desktop-app-spreads-crypto-stealing-malware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 01 Sep 2026 14:00:00 +0000",
-      "summary": "RevStealer targets more than 50 crypto wallets alongside browser passwords, cookies, messaging data and selected documents."
+      "url": "https://cointelegraph.com/news/full-sail-sui-wind-down-switchboard-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 02 Sep 2026 13:40:03 +0000",
+      "summary": "Full Sail is shutting down after an attacker removed about $91,000 from three vaults during a security incident linked to oracle provider Switchboard."
     },
     {
-      "title": "Does the Bitcoin rally mean we haven\u2019t wasted our lives in crypto?",
+      "title": "BTC will hit $1M by 2030... but Arthur Hayes is buying ETH instead ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/magazine/does-bitcoins-rally-mean-we-havent-wasted-our-lives-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 01 Sep 2026 13:30:00 +0000",
-      "summary": "Crypto is showing signs of life again, but its biggest wins look different from what early believers imagined. After a decade of building, has it all been worth it?"
+      "url": "https://cointelegraph.com/magazine/btc-will-hit-1m-by-2030-but-arthur-hayes-is-buying-eth-instead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 02 Sep 2026 13:30:00 +0000",
+      "summary": "Arthur Hayes says Bitcoin is going to grind higher from here, but Ethereum is his number one pick due to its potential to increase \u201c3x to 5x pretty quickly.\u201d"
     }
   ],
   "aiNews": [
     {
-      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
-      "publishedAt": "Tue, 01 Sep 2026 16:31:04 +0000",
-      "summary": "The startup wants to do for IT infrastructure what Cursor did for software engineering."
+      "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+      "publishedAt": "Wed, 02 Sep 2026 16:04:10 +0000",
+      "summary": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products."
     },
     {
-      "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
+      "title": "India\u2019s richest man now wants to turn aging computers into AI-ready PCs",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
-      "publishedAt": "Tue, 01 Sep 2026 15:51:55 +0000",
-      "summary": "Amazon is adding a new Alexa-powered feature called \u201cUpdate Me When\u201d that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase."
+      "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+      "publishedAt": "Wed, 02 Sep 2026 16:01:48 +0000",
+      "summary": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months."
     },
     {
-      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-      "publishedAt": "Tue, 01 Sep 2026 15:45:51 +0000",
-      "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behaviour."
+      "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+      "publishedAt": "Wed, 02 Sep 2026 15:01:23 +0000",
+      "summary": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use. "
     },
     {
-      "title": "Fambot introduces an \u2018AI chief of staff\u2019 for families",
+      "title": "PSA: Amazon\u2019s shopping AI can now tell you if that message is a scam",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
-      "publishedAt": "Tue, 01 Sep 2026 15:10:58 +0000",
-      "summary": "Fambot is building an AI \u201cchief of staff\u201d to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids."
+      "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+      "publishedAt": "Wed, 02 Sep 2026 14:56:34 +0000",
+      "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer."
     },
     {
-      "title": "Apple shares \u2018shocking evidence\u2019 against former employee accused of stealing company data for OpenAI",
+      "title": "Adobe acquires Indian market intelligence startup Rilo",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-      "publishedAt": "Tue, 01 Sep 2026 00:13:00 +0000",
-      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation."
+      "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+      "publishedAt": "Wed, 02 Sep 2026 14:03:57 +0000",
+      "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023"
     }
   ],
   "techMovers": [
     {
-      "ticker": "ORCL",
-      "name": "Oracle Corp",
-      "price": 140.95,
-      "change": -8.17,
-      "changePercent": -5.48
-    },
-    {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "price": 178.11,
-      "change": -10.01,
-      "changePercent": -5.32
-    },
-    {
       "ticker": "SNOW",
       "name": "Snowflake Inc",
-      "price": 320.41,
-      "change": -11.02,
-      "changePercent": -3.32
+      "price": 305.89,
+      "change": -13.91,
+      "changePercent": -4.35
     },
     {
-      "ticker": "TSLA",
-      "name": "Tesla Inc",
-      "price": 356.46,
-      "change": -11.49,
-      "changePercent": -3.12
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp",
+      "price": 225.86,
+      "change": 8.42,
+      "changePercent": 3.87
     },
     {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 457.85,
-      "change": -12.88,
-      "changePercent": -2.74
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "price": 595.45,
+      "change": 16.91,
+      "changePercent": 2.92
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "price": 144.86,
+      "change": 3.54,
+      "changePercent": 2.5
+    },
+    {
+      "ticker": "UBER",
+      "name": "Uber Technologies",
+      "price": 76.92,
+      "change": 1.68,
+      "changePercent": 2.23
     }
   ],
-  "fearGreedIndex": 69,
+  "fearGreedIndex": 63,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 375.6,
-    "change": -3.77,
-    "changePercent": -0.99
+    "price": 378.52,
+    "change": 5.85,
+    "changePercent": 1.57
   },
   "sectors": [
     {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": 0.94
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 0.53
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": 0.34
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": -0.02
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": -0.06
-    },
-    {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": -0.24
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": -0.73
+      "changePercent": 1.93
     },
     {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": -0.97
+      "changePercent": 1.72
     },
     {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": -1.49
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": 0.78
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": 0.7
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 0.64
     },
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": -1.64
+      "changePercent": 0.31
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": 0.19
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": -1.64
+      "changePercent": -0.01
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": -0.21
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": -0.34
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -0.76
     }
   ],
   "economicCalendar": [
