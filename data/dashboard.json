@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-09-02T16:57:53.490991+00:00",
+  "lastUpdated": "2026-09-03T16:53:37.114892+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
+      "title": "UN warns of 'supersized' El Ni\u00f1o as countries prepare for impact",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 02 Sep 2026 15:33:19 GMT",
-      "summary": "Iranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in the Middle East."
+      "url": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 03 Sep 2026 06:01:54 GMT",
+      "summary": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies."
     },
     {
-      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+      "title": "Toxic wildfire haze spreads across South East Asia as 'super' El Ni\u00f1o intensifies",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 02 Sep 2026 16:49:00 GMT",
-      "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport."
+      "url": "https://www.bbc.co.uk/news/articles/clyqw44w142o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 03 Sep 2026 11:35:52 GMT",
+      "summary": "Millions of people have been exposed to the smog, with more than 12,000 children suffering respiratory issues."
     },
     {
-      "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
+      "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 02 Sep 2026 11:47:11 GMT",
-      "summary": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions."
+      "url": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 03 Sep 2026 13:52:18 GMT",
+      "summary": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\". "
     },
     {
-      "title": "US sailors arrive in Thailand's Pattaya after record 250 days at sea",
+      "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 02 Sep 2026 10:04:28 GMT",
-      "summary": "The USS Abraham Lincoln is docking close to Pattaya, known for its neon-lit nightlife, and for sex tourism."
+      "url": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 03 Sep 2026 05:00:04 GMT",
+      "summary": "Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found.\u00a0"
     },
     {
-      "title": "Woman charged with juror intimidation in Lindsay Clancy trial ",
+      "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 02 Sep 2026 16:18:55 GMT",
-      "summary": "Dawn Light is accused of taking photos of jurors outside the Plymouth courthouse, a practice prohibited by the court."
+      "url": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 03 Sep 2026 15:05:57 GMT",
+      "summary": "Al-Mughayyir's council says they were trying to stop settlers stealing sheep, but the Israeli military says they threw stones at its troops."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 77222,
-      "change24h": -0.48982,
-      "marketCap": 1550871834628,
+      "price": 80978,
+      "change24h": 4.83421,
+      "marketCap": 1625871022029,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2387.05,
-      "change24h": -1.89906,
-      "marketCap": 291343334156,
+      "price": 2493.36,
+      "change24h": 4.41349,
+      "marketCap": 304307258679,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Ondo urges SEC, CFTC to bring US stock perpetuals onshore",
+      "title": "Kraken parent Payward partners with SoFi on stablecoin, 24/7 settlement",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ondo-urges-sec-cftc-bring-us-stock-perpetuals-onshore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 02 Sep 2026 16:39:22 +0000",
-      "summary": "Ondo says existing US securities laws can accommodate perpetual futures tied to individual stocks as regulators look to bring more derivatives activity onshore."
+      "url": "https://cointelegraph.com/news/kraken-parent-payward-partners-with-sofi-stablecoin-247-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 03 Sep 2026 16:04:11 +0000",
+      "summary": "The deal will bring SoFiUSD to Kraken, connect Payward to SoFi\u2019s 24/7 dollar settlement network and give SoFi access to digital asset liquidity through Kraken Prime."
     },
     {
-      "title": "Bitcoin\u2019s apparent demand turns negative as price struggles with $77K",
+      "title": "Recovery specialists crack $1B crypto wallet... but find just $10 ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoins-apparent-demand-turns-negative-price-struggles-with-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 02 Sep 2026 16:35:56 +0000",
-      "summary": "One of Bitcoin\u2019s onchain demand indicators turns negative again after a brief August rebound, as BTC price slipped below $77,000 amid a broader bond and equities sell-off."
+      "url": "https://cointelegraph.com/magazine/recovery-specialists-crack-1b-crypto-wallet-but-find-just-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 03 Sep 2026 13:30:00 +0000",
+      "summary": "Crypto recovery specialists reveal how lost wallets, passwords and seed phrases can sometimes be recovered \u2014 but that\u2019s of no help if the money was never there in the first place."
     },
     {
-      "title": "G20 members tout \u2018clear pathways\u2019 for digital asset innovation",
+      "title": "VARA, Securitize sign MoU for tokenization innovation in Dubai",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/g20-members-clear-pathways-digital-asset-innovation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 02 Sep 2026 15:34:06 +0000",
-      "summary": "Officials in the G20, under the US\u2019 presidency, recognized that digital assets could support \u201cbroad-based economic growth\u201d and called for improvements in cross-border transactions."
+      "url": "https://cointelegraph.com/news/vara-securitize-mou-tokenization-dubai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 03 Sep 2026 13:00:00 +0000",
+      "summary": "VARA and Securitize signed an MoU to foster more tokenization innovation in Dubai and explore how tokenized financial innovation should be regulated in the region."
     },
     {
-      "title": "Sui DeFi protocol Full Sail to wind down after Switchboard incident",
+      "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/full-sail-sui-wind-down-switchboard-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 02 Sep 2026 13:40:03 +0000",
-      "summary": "Full Sail is shutting down after an attacker removed about $91,000 from three vaults during a security incident linked to oracle provider Switchboard."
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 03 Sep 2026 13:00:00 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "BTC will hit $1M by 2030... but Arthur Hayes is buying ETH instead ",
+      "title": "Nvidia buys Hugging Face for $12.9B in push into AI software",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/magazine/btc-will-hit-1m-by-2030-but-arthur-hayes-is-buying-eth-instead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 02 Sep 2026 13:30:00 +0000",
-      "summary": "Arthur Hayes says Bitcoin is going to grind higher from here, but Ethereum is his number one pick due to its potential to increase \u201c3x to 5x pretty quickly.\u201d"
+      "url": "https://cointelegraph.com/news/nvidia-buys-hugging-face-12-9-billion-ai-software?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 03 Sep 2026 12:41:11 +0000",
+      "summary": "Nvidia agreed to buy Hugging Face for $12.93 billion, gaining a platform used by more than 18 million developers to share and deploy AI models."
     }
   ],
   "aiNews": [
     {
-      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
-      "publishedAt": "Wed, 02 Sep 2026 16:04:10 +0000",
-      "summary": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products."
+      "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+      "publishedAt": "Thu, 03 Sep 2026 16:09:01 +0000",
+      "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won\u2019t use that data to train AI models or share it with others."
     },
     {
-      "title": "India\u2019s richest man now wants to turn aging computers into AI-ready PCs",
+      "title": "Google\u2019s latest AI weather model gives you no excuse to forget your umbrella",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
-      "publishedAt": "Wed, 02 Sep 2026 16:01:48 +0000",
-      "summary": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months."
+      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "publishedAt": "Thu, 03 Sep 2026 15:00:00 +0000",
+      "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, an"
     },
     {
-      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-      "publishedAt": "Wed, 02 Sep 2026 15:01:23 +0000",
-      "summary": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use. "
+      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "publishedAt": "Thu, 03 Sep 2026 12:42:45 +0000",
+      "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers."
     },
     {
-      "title": "PSA: Amazon\u2019s shopping AI can now tell you if that message is a scam",
+      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-      "publishedAt": "Wed, 02 Sep 2026 14:56:34 +0000",
-      "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer."
+      "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+      "publishedAt": "Wed, 02 Sep 2026 23:01:00 +0000",
+      "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and\u00a0investors for practical conversations on what it takes to build and scale."
     },
     {
-      "title": "Adobe acquires Indian market intelligence startup Rilo",
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
-      "publishedAt": "Wed, 02 Sep 2026 14:03:57 +0000",
-      "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023"
+      "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+      "publishedAt": "Wed, 02 Sep 2026 22:44:56 +0000",
+      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe."
     }
   ],
   "techMovers": [
     {
       "ticker": "SNOW",
       "name": "Snowflake Inc",
-      "price": 305.89,
-      "change": -13.91,
-      "changePercent": -4.35
+      "price": 373.49,
+      "change": 67.65,
+      "changePercent": 22.12
     },
     {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corp",
-      "price": 225.86,
-      "change": 8.42,
-      "changePercent": 3.87
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "price": 192.73,
+      "change": 17.77,
+      "changePercent": 10.16
     },
     {
-      "ticker": "META",
-      "name": "Meta Platforms",
-      "price": 595.45,
-      "change": 16.91,
-      "changePercent": 2.92
+      "ticker": "TSLA",
+      "name": "Tesla Inc",
+      "price": 381.65,
+      "change": 24.64,
+      "changePercent": 6.9
     },
     {
       "ticker": "ORCL",
       "name": "Oracle Corp",
-      "price": 144.86,
-      "change": 3.54,
-      "changePercent": 2.5
+      "price": 153.91,
+      "change": 8.16,
+      "changePercent": 5.6
     },
     {
-      "ticker": "UBER",
-      "name": "Uber Technologies",
-      "price": 76.92,
-      "change": 1.68,
-      "changePercent": 2.23
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "price": 613.66,
+      "change": 20.81,
+      "changePercent": 3.51
     }
   ],
-  "fearGreedIndex": 63,
+  "fearGreedIndex": 65,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 378.52,
-    "change": 5.85,
-    "changePercent": 1.57
+    "price": 378.17,
+    "change": -0.23,
+    "changePercent": -0.06
   },
   "sectors": [
     {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": 1.59
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 1.33
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": 1.19
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": 1.03
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": 1.02
+    },
+    {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": 1.93
+      "changePercent": 0.82
     },
     {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 1.72
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
+      "ticker": "XLI",
+      "name": "Industrials",
       "changePercent": 0.78
     },
     {
       "ticker": "XLP",
       "name": "Consumer Staples",
-      "changePercent": 0.7
+      "changePercent": 0.12
     },
     {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 0.64
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 0.31
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": 0.07
     },
     {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": 0.19
+      "changePercent": 0.0
     },
     {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": -0.01
-    },
-    {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": -0.21
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": -0.34
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": -0.76
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -0.32
     }
   ],
   "economicCalendar": [
