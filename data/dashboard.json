@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-09-03T16:53:37.114892+00:00",
+  "lastUpdated": "2026-09-04T16:42:28.511635+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "UN warns of 'supersized' El Ni\u00f1o as countries prepare for impact",
+      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 03 Sep 2026 06:01:54 GMT",
-      "summary": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies."
+      "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 04 Sep 2026 14:17:35 GMT",
+      "summary": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere."
     },
     {
-      "title": "Toxic wildfire haze spreads across South East Asia as 'super' El Ni\u00f1o intensifies",
+      "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/clyqw44w142o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 03 Sep 2026 11:35:52 GMT",
-      "summary": "Millions of people have been exposed to the smog, with more than 12,000 children suffering respiratory issues."
+      "url": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 04 Sep 2026 14:40:00 GMT",
+      "summary": "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river."
     },
     {
-      "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
+      "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 03 Sep 2026 13:52:18 GMT",
-      "summary": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\". "
+      "url": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 04 Sep 2026 11:54:51 GMT",
+      "summary": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory."
     },
     {
-      "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
+      "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 03 Sep 2026 05:00:04 GMT",
-      "summary": "Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found.\u00a0"
+      "url": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 04 Sep 2026 16:02:32 GMT",
+      "summary": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital."
     },
     {
-      "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
+      "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 03 Sep 2026 15:05:57 GMT",
-      "summary": "Al-Mughayyir's council says they were trying to stop settlers stealing sheep, but the Israeli military says they threw stones at its troops."
+      "url": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 04 Sep 2026 04:06:41 GMT",
+      "summary": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 80978,
-      "change24h": 4.83421,
-      "marketCap": 1625871022029,
+      "price": 79726,
+      "change24h": -1.3567,
+      "marketCap": 1600783229982,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2493.36,
-      "change24h": 4.41349,
-      "marketCap": 304307258679,
+      "price": 2457.64,
+      "change24h": -1.35207,
+      "marketCap": 299848697765,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Kraken parent Payward partners with SoFi on stablecoin, 24/7 settlement",
+      "title": "Revolut, OpenReserve get preliminary US bank approval with crypto plans",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/kraken-parent-payward-partners-with-sofi-stablecoin-247-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 03 Sep 2026 16:04:11 +0000",
-      "summary": "The deal will bring SoFiUSD to Kraken, connect Payward to SoFi\u2019s 24/7 dollar settlement network and give SoFi access to digital asset liquidity through Kraken Prime."
+      "url": "https://cointelegraph.com/news/revolut-openreserve-occ-approval-national-bank-crypto-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 04 Sep 2026 13:34:30 +0000",
+      "summary": "Revolut and OpenReserve received preliminary OCC approval to form US national banks, with both planning cryptocurrency and stablecoin-related services."
     },
     {
-      "title": "Recovery specialists crack $1B crypto wallet... but find just $10 ",
+      "title": "Token buybacks are booming. But are they good for crypto projects?",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/magazine/recovery-specialists-crack-1b-crypto-wallet-but-find-just-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 03 Sep 2026 13:30:00 +0000",
-      "summary": "Crypto recovery specialists reveal how lost wallets, passwords and seed phrases can sometimes be recovered \u2014 but that\u2019s of no help if the money was never there in the first place."
-    },
-    {
-      "title": "VARA, Securitize sign MoU for tokenization innovation in Dubai",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/vara-securitize-mou-tokenization-dubai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 03 Sep 2026 13:00:00 +0000",
-      "summary": "VARA and Securitize signed an MoU to foster more tokenization innovation in Dubai and explore how tokenized financial innovation should be regulated in the region."
+      "url": "https://cointelegraph.com/magazine/token-buybacks-are-booming-but-are-they-good-for-crypto-projects?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 04 Sep 2026 13:30:00 +0000",
+      "summary": "Crypto projects are spending hundreds of millions buying their own tokens. But are buybacks creating lasting value \u2014 or just making tokens look more valuable than they really are?"
     },
     {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 03 Sep 2026 13:00:00 +0000",
+      "publishedAt": "Fri, 04 Sep 2026 13:30:00 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Nvidia buys Hugging Face for $12.9B in push into AI software",
+      "title": "Kalshi US visits soar 1,500% as regulatory pressure mounts",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/nvidia-buys-hugging-face-12-9-billion-ai-software?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 03 Sep 2026 12:41:11 +0000",
-      "summary": "Nvidia agreed to buy Hugging Face for $12.93 billion, gaining a platform used by more than 18 million developers to share and deploy AI models."
+      "url": "https://cointelegraph.com/news/kalshi-traffic-soars-regulatory-pressure-mounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 04 Sep 2026 11:32:28 +0000",
+      "summary": "Kalshi\u2019s US web traffic climbed more than 1,500% in less than a year, while trading volume grew even faster and legal scrutiny of its sports contracts intensified."
+    },
+    {
+      "title": "Trezor says data breach affects another 67K US customers",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/trezor-data-breach-affects-67k-us-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 04 Sep 2026 11:19:19 +0000",
+      "summary": "Trezor said an additional 67,000 US users were affected by its shipping provider\u2019s data breach, opening the path to potential phishing attacks and social engineering scams."
     }
   ],
   "aiNews": [
     {
-      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab\u2019s knowledge",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-      "publishedAt": "Thu, 03 Sep 2026 16:09:01 +0000",
-      "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won\u2019t use that data to train AI models or share it with others."
+      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "publishedAt": "Fri, 04 Sep 2026 16:21:11 +0000",
+      "summary": "It's the latest failure of OpenAI's internal monitoring and security systems."
     },
     {
-      "title": "Google\u2019s latest AI weather model gives you no excuse to forget your umbrella",
+      "title": "Apple\u2019s Ternus era begins as Nvidia bets on the whole AI stack",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-      "publishedAt": "Thu, 03 Sep 2026 15:00:00 +0000",
-      "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, an"
+      "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+      "publishedAt": "Fri, 04 Sep 2026 16:04:08 +0000",
+      "summary": "It\u2019s\u00a0officially the Ternus era at Apple.\u00a0\u00a0 Tim Cook stepped down\u00a0as CEO this week, handing the company to former hardware chief John Ternus, whose first memo\u00a0promised a \u201chuge launch next week\u201d\u00a0\u2014 timin"
     },
     {
-      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "title": "Google\u2019s Gemini Spark can now manage your Google Photos library",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-      "publishedAt": "Thu, 03 Sep 2026 12:42:45 +0000",
-      "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers."
+      "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+      "publishedAt": "Fri, 04 Sep 2026 14:47:11 +0000",
+      "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers."
     },
     {
-      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+      "title": "Less than 24 hours to apply\u00a0for your TechCrunch Disrupt\u00a02026 Side Event",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-      "publishedAt": "Wed, 02 Sep 2026 23:01:00 +0000",
-      "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and\u00a0investors for practical conversations on what it takes to build and scale."
+      "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
+      "publishedAt": "Fri, 04 Sep 2026 14:00:00 +0000",
+      "summary": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT."
     },
     {
-      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "title": "The sameness problem behind those unappetizing AI-generated menus",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-      "publishedAt": "Wed, 02 Sep 2026 22:44:56 +0000",
-      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe."
+      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "publishedAt": "Fri, 04 Sep 2026 04:21:03 +0000",
+      "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food."
     }
   ],
   "techMovers": [
     {
+      "ticker": "TSLA",
+      "name": "Tesla Inc",
+      "price": 351.99,
+      "change": -24.38,
+      "changePercent": -6.48
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 474.87,
+      "change": 18.71,
+      "changePercent": 4.1
+    },
+    {
+      "ticker": "NFLX",
+      "name": "Netflix Inc",
+      "price": 79.32,
+      "change": -3.35,
+      "changePercent": -4.06
+    },
+    {
       "ticker": "SNOW",
       "name": "Snowflake Inc",
-      "price": 373.49,
-      "change": 67.65,
-      "changePercent": 22.12
+      "price": 342.83,
+      "change": -13.64,
+      "changePercent": -3.83
     },
     {
       "ticker": "COIN",
       "name": "Coinbase",
-      "price": 192.73,
-      "change": 17.77,
-      "changePercent": 10.16
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla Inc",
-      "price": 381.65,
-      "change": 24.64,
-      "changePercent": 6.9
-    },
-    {
-      "ticker": "ORCL",
-      "name": "Oracle Corp",
-      "price": 153.91,
-      "change": 8.16,
-      "changePercent": 5.6
-    },
-    {
-      "ticker": "META",
-      "name": "Meta Platforms",
-      "price": 613.66,
-      "change": 20.81,
-      "changePercent": 3.51
+      "price": 186.12,
+      "change": -6.58,
+      "changePercent": -3.41
     }
   ],
-  "fearGreedIndex": 65,
+  "fearGreedIndex": 74,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 378.17,
-    "change": -0.23,
-    "changePercent": -0.06
+    "price": 376.51,
+    "change": -2.24,
+    "changePercent": -0.59
   },
   "sectors": [
     {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 1.59
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 1.33
-    },
-    {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": 1.19
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 1.03
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": 1.02
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 0.82
+      "changePercent": 0.7
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": 0.78
+      "changePercent": 0.38
     },
     {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 0.12
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": 0.07
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": 0.0
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": 0.01
     },
     {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": -0.32
+      "changePercent": -0.09
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -0.2
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -0.4
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": -0.61
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": -0.68
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -0.83
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -1.06
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -1.47
     }
   ],
   "economicCalendar": [
