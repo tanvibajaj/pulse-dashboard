@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-09-04T16:42:28.511635+00:00",
-  "marketStatus": "Open",
+  "lastUpdated": "2026-09-05T15:45:20.390716+00:00",
+  "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
+      "title": "US hits three Iranian oil tankers after saying its warships were targeted",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 04 Sep 2026 14:17:35 GMT",
-      "summary": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere."
+      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 05 Sep 2026 15:14:21 GMT",
+      "summary": "US Central Command says the attacks came after Iran launched ballistic missiles at two of its Navy warships."
     },
     {
-      "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
+      "title": "US envoys arrive in Moscow ahead of Ukraine talks",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 04 Sep 2026 14:40:00 GMT",
-      "summary": "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river."
+      "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 05 Sep 2026 15:05:14 GMT",
+      "summary": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday."
     },
     {
-      "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
+      "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks ",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 04 Sep 2026 11:54:51 GMT",
-      "summary": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory."
+      "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 04 Sep 2026 22:48:38 GMT",
+      "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids."
     },
     {
-      "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+      "title": "At least two dead in blast at Bolivia military barracks",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 04 Sep 2026 16:02:32 GMT",
-      "summary": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital."
+      "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 05 Sep 2026 15:22:41 GMT",
+      "summary": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions."
     },
     {
-      "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
+      "title": "What different world maps get right - and what they get wrong",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 04 Sep 2026 04:06:41 GMT",
-      "summary": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming."
+      "url": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 05 Sep 2026 13:46:02 GMT",
+      "summary": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong."
     }
   ],
   "cryptoAssets": [
@@ -43,139 +43,139 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 79726,
-      "change24h": -1.3567,
-      "marketCap": 1600783229982,
+      "price": 79732,
+      "change24h": 0.26991,
+      "marketCap": 1601003314276,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2457.64,
-      "change24h": -1.35207,
-      "marketCap": 299848697765,
+      "price": 2458.93,
+      "change24h": 0.11553,
+      "marketCap": 300043932626,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Revolut, OpenReserve get preliminary US bank approval with crypto plans",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/revolut-openreserve-occ-approval-national-bank-crypto-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 04 Sep 2026 13:34:30 +0000",
-      "summary": "Revolut and OpenReserve received preliminary OCC approval to form US national banks, with both planning cryptocurrency and stablecoin-related services."
-    },
-    {
-      "title": "Token buybacks are booming. But are they good for crypto projects?",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/magazine/token-buybacks-are-booming-but-are-they-good-for-crypto-projects?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 04 Sep 2026 13:30:00 +0000",
-      "summary": "Crypto projects are spending hundreds of millions buying their own tokens. But are buybacks creating lasting value \u2014 or just making tokens look more valuable than they really are?"
-    },
-    {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 04 Sep 2026 13:30:00 +0000",
+      "publishedAt": "Sat, 05 Sep 2026 11:16:19 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Kalshi US visits soar 1,500% as regulatory pressure mounts",
+      "title": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/kalshi-traffic-soars-regulatory-pressure-mounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 04 Sep 2026 11:32:28 +0000",
-      "summary": "Kalshi\u2019s US web traffic climbed more than 1,500% in less than a year, while trading volume grew even faster and legal scrutiny of its sports contracts intensified."
+      "url": "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 05 Sep 2026 10:44:29 +0000",
+      "summary": "Polish lawmakers failed to overturn a presidential veto of crypto legislation as the Zondacrypto investigation expands and its Estonian operator enters bankruptcy."
     },
     {
-      "title": "Trezor says data breach affects another 67K US customers",
+      "title": "Bitcoin ETF inflows hit $3.8B in strongest three-week stretch of 2026",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/trezor-data-breach-affects-67k-us-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 04 Sep 2026 11:19:19 +0000",
-      "summary": "Trezor said an additional 67,000 US users were affected by its shipping provider\u2019s data breach, opening the path to potential phishing attacks and social engineering scams."
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-inflows-3-8-billion-strongest-three-week-run-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 05 Sep 2026 08:03:06 +0000",
+      "summary": "US spot Bitcoin ETFs drew nearly $1 billion in the latest week as Friday inflows stayed positive despite Bitcoin briefly falling below $79,000."
+    },
+    {
+      "title": "Surprise nonfarm payrolls print sends Bitcoin back below 80K",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/surprise-labor-market-print-sends-bitcoin-back-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 04 Sep 2026 20:30:47 +0000",
+      "summary": "The US economy added far more jobs than expected in August, pressuring Bitcoin lower as traders repriced the odds of a Federal Reserve rate cut this month."
+    },
+    {
+      "title": "Pineapple Financial puts $1B in mortgage records on Injective",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/pineapple-financial-puts-1b-in-mortgage-records-on-injective?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 04 Sep 2026 19:31:38 +0000",
+      "summary": "The mortgage lender plans to bring more than $10 billion in historical loans onchain, turning thousands of mortgage files into blockchain-based records."
     }
   ],
   "aiNews": [
+    {
+      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "publishedAt": "Fri, 04 Sep 2026 23:36:14 +0000",
+      "summary": "The round is being raised just months after the robot data startup exited from stealth. "
+    },
+    {
+      "title": "OpenAI\u2019s rogue agents keep escaping, with no formal process to investigate them",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "publishedAt": "Fri, 04 Sep 2026 23:15:11 +0000",
+      "summary": "OpenAI\u2019s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews."
+    },
+    {
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "publishedAt": "Fri, 04 Sep 2026 21:12:11 +0000",
+      "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO. "
+    },
+    {
+      "title": "What will Apple\u2019s John Ternus era look like?",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+      "publishedAt": "Fri, 04 Sep 2026 17:18:00 +0000",
+      "summary": "It\u2019s\u00a0officially the Ternus era at Apple.\u00a0\u00a0 Tim Cook stepped down\u00a0as CEO this week, handing the company to former hardware chief John Ternus, whose first memo\u00a0promised a \u201chuge launch next week\u201d\u00a0\u2014 timin"
+    },
     {
       "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab\u2019s knowledge",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
       "publishedAt": "Fri, 04 Sep 2026 16:21:11 +0000",
       "summary": "It's the latest failure of OpenAI's internal monitoring and security systems."
-    },
-    {
-      "title": "Apple\u2019s Ternus era begins as Nvidia bets on the whole AI stack",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
-      "publishedAt": "Fri, 04 Sep 2026 16:04:08 +0000",
-      "summary": "It\u2019s\u00a0officially the Ternus era at Apple.\u00a0\u00a0 Tim Cook stepped down\u00a0as CEO this week, handing the company to former hardware chief John Ternus, whose first memo\u00a0promised a \u201chuge launch next week\u201d\u00a0\u2014 timin"
-    },
-    {
-      "title": "Google\u2019s Gemini Spark can now manage your Google Photos library",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
-      "publishedAt": "Fri, 04 Sep 2026 14:47:11 +0000",
-      "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers."
-    },
-    {
-      "title": "Less than 24 hours to apply\u00a0for your TechCrunch Disrupt\u00a02026 Side Event",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
-      "publishedAt": "Fri, 04 Sep 2026 14:00:00 +0000",
-      "summary": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT."
-    },
-    {
-      "title": "The sameness problem behind those unappetizing AI-generated menus",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-      "publishedAt": "Fri, 04 Sep 2026 04:21:03 +0000",
-      "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food."
     }
   ],
   "techMovers": [
     {
       "ticker": "TSLA",
       "name": "Tesla Inc",
-      "price": 351.99,
-      "change": -24.38,
-      "changePercent": -6.48
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 474.87,
-      "change": 18.71,
-      "changePercent": 4.1
-    },
-    {
-      "ticker": "NFLX",
-      "name": "Netflix Inc",
-      "price": 79.32,
-      "change": -3.35,
-      "changePercent": -4.06
+      "price": 354.08,
+      "change": -22.29,
+      "changePercent": -5.92
     },
     {
       "ticker": "SNOW",
       "name": "Snowflake Inc",
-      "price": 342.83,
-      "change": -13.64,
-      "changePercent": -3.83
+      "price": 337.18,
+      "change": -19.29,
+      "changePercent": -5.41
+    },
+    {
+      "ticker": "NFLX",
+      "name": "Netflix Inc",
+      "price": 78.25,
+      "change": -4.42,
+      "changePercent": -5.35
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 477.57,
+      "change": 21.41,
+      "changePercent": 4.69
     },
     {
       "ticker": "COIN",
       "name": "Coinbase",
-      "price": 186.12,
-      "change": -6.58,
-      "changePercent": -3.41
+      "price": 184.64,
+      "change": -8.06,
+      "changePercent": -4.18
     }
   ],
-  "fearGreedIndex": 74,
+  "fearGreedIndex": 73,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 376.51,
-    "change": -2.24,
-    "changePercent": -0.59
+    "price": 375.07,
+    "change": -3.68,
+    "changePercent": -0.97
   },
   "sectors": [
     {
@@ -186,52 +186,52 @@
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": 0.38
+      "changePercent": 0.41
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": 0.01
+      "changePercent": 0.12
     },
     {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": -0.09
+      "changePercent": -0.34
     },
     {
       "ticker": "XLRE",
       "name": "Real Estate",
-      "changePercent": -0.2
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": -0.4
+      "changePercent": -0.72
     },
     {
       "ticker": "XLF",
       "name": "Financials",
-      "changePercent": -0.61
+      "changePercent": -0.79
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -0.8
     },
     {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": -0.68
+      "changePercent": -0.87
     },
     {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": -0.83
+      "changePercent": -1.04
     },
     {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": -1.06
+      "changePercent": -1.19
     },
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": -1.47
+      "changePercent": -1.33
     }
   ],
   "economicCalendar": [
