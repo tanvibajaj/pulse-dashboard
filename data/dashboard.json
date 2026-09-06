@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-09-05T15:45:20.390716+00:00",
+  "lastUpdated": "2026-09-06T15:57:46.331647+00:00",
   "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "US hits three Iranian oil tankers after saying its warships were targeted",
+      "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 06 Sep 2026 15:32:27 GMT",
+      "summary": "Steve Witkoff tells reporters the US team feels \"encouraged\" by a \"substantive\" and important discussion."
+    },
+    {
+      "title": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 06 Sep 2026 09:56:39 GMT",
+      "summary": "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions."
+    },
+    {
+      "title": "Dozens feared trapped in collapsed building in Delhi",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 06 Sep 2026 14:07:35 GMT",
+      "summary": "As many as 50 people are thought to have been inside the five-storey hostel when it came down."
+    },
+    {
+      "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 06 Sep 2026 08:05:22 GMT",
+      "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues."
+    },
+    {
+      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
       "source": "BBC",
       "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 05 Sep 2026 15:14:21 GMT",
-      "summary": "US Central Command says the attacks came after Iran launched ballistic missiles at two of its Navy warships."
-    },
-    {
-      "title": "US envoys arrive in Moscow ahead of Ukraine talks",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 05 Sep 2026 15:05:14 GMT",
-      "summary": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday."
-    },
-    {
-      "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks ",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 04 Sep 2026 22:48:38 GMT",
-      "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids."
-    },
-    {
-      "title": "At least two dead in blast at Bolivia military barracks",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 05 Sep 2026 15:22:41 GMT",
-      "summary": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions."
-    },
-    {
-      "title": "What different world maps get right - and what they get wrong",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 05 Sep 2026 13:46:02 GMT",
-      "summary": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong."
+      "publishedAt": "Sat, 05 Sep 2026 22:44:07 GMT",
+      "summary": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships."
     }
   ],
   "cryptoAssets": [
@@ -43,18 +43,18 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 79732,
-      "change24h": 0.26991,
-      "marketCap": 1601003314276,
+      "price": 79672,
+      "change24h": -0.15087,
+      "marketCap": 1600007099494,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2458.93,
-      "change24h": 0.11553,
-      "marketCap": 300043932626,
+      "price": 2479.89,
+      "change24h": 0.83664,
+      "marketCap": 302618204080,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
@@ -63,14 +63,28 @@
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 05 Sep 2026 11:16:19 +0000",
+      "publishedAt": "Sun, 06 Sep 2026 13:24:43 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Satoshi-era Bitcoin wakes after 16 years of dormancy as 600 BTC moves",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 06 Sep 2026 13:03:00 +0000",
+      "summary": "Whale Alert identified 12 mining rewards totaling 600 BTC that moved after 16 years of dormancy, with the onchain tracking platform finding no connection to Satoshi Nakamoto."
+    },
+    {
+      "title": "Tether-backed Orionx to shut down after audit flags $7M custody gap",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/orionx-shut-down-7-million-move-outside-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 06 Sep 2026 09:07:08 +0000",
+      "summary": "Tether-backed Orionx is permanently closing after an audit found more than $7 million in customer assets had moved to wallets outside its custody."
     },
     {
       "title": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 05 Sep 2026 10:44:29 +0000",
+      "publishedAt": "Sat, 05 Sep 2026 10:46:00 +0000",
       "summary": "Polish lawmakers failed to overturn a presidential veto of crypto legislation as the Zondacrypto investigation expands and its Estonian operator enters bankruptcy."
     },
     {
@@ -79,23 +93,30 @@
       "url": "https://cointelegraph.com/markets/bitcoin-etf-inflows-3-8-billion-strongest-three-week-run-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "Sat, 05 Sep 2026 08:03:06 +0000",
       "summary": "US spot Bitcoin ETFs drew nearly $1 billion in the latest week as Friday inflows stayed positive despite Bitcoin briefly falling below $79,000."
-    },
-    {
-      "title": "Surprise nonfarm payrolls print sends Bitcoin back below 80K",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/surprise-labor-market-print-sends-bitcoin-back-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 04 Sep 2026 20:30:47 +0000",
-      "summary": "The US economy added far more jobs than expected in August, pressuring Bitcoin lower as traders repriced the odds of a Federal Reserve rate cut this month."
-    },
-    {
-      "title": "Pineapple Financial puts $1B in mortgage records on Injective",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/pineapple-financial-puts-1b-in-mortgage-records-on-injective?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 04 Sep 2026 19:31:38 +0000",
-      "summary": "The mortgage lender plans to bring more than $10 billion in historical loans onchain, turning thousands of mortgage files into blockchain-based records."
     }
   ],
   "aiNews": [
+    {
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "publishedAt": "Sat, 05 Sep 2026 22:49:55 +0000",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
+    },
+    {
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "publishedAt": "Sat, 05 Sep 2026 19:35:24 +0000",
+      "summary": "The sheriff\u2019s office said the hikers \u201cwere advised by Gemini to bring far less food and water than their group required.\""
+    },
+    {
+      "title": "OpenAI confirms \u2018wiki incident,\u2019 says it\u2019s \u2018working on a framework\u2019 for more disclosure",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "publishedAt": "Sat, 05 Sep 2026 18:05:27 +0000",
+      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum."
+    },
     {
       "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
       "source": "TechCrunch",
@@ -109,27 +130,6 @@
       "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
       "publishedAt": "Fri, 04 Sep 2026 23:15:11 +0000",
       "summary": "OpenAI\u2019s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews."
-    },
-    {
-      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-      "publishedAt": "Fri, 04 Sep 2026 21:12:11 +0000",
-      "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO. "
-    },
-    {
-      "title": "What will Apple\u2019s John Ternus era look like?",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-      "publishedAt": "Fri, 04 Sep 2026 17:18:00 +0000",
-      "summary": "It\u2019s\u00a0officially the Ternus era at Apple.\u00a0\u00a0 Tim Cook stepped down\u00a0as CEO this week, handing the company to former hardware chief John Ternus, whose first memo\u00a0promised a \u201chuge launch next week\u201d\u00a0\u2014 timin"
-    },
-    {
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab\u2019s knowledge",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-      "publishedAt": "Fri, 04 Sep 2026 16:21:11 +0000",
-      "summary": "It's the latest failure of OpenAI's internal monitoring and security systems."
     }
   ],
   "techMovers": [
