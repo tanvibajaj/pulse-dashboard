@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-09-08T17:03:04.820232+00:00",
+  "lastUpdated": "2026-09-09T17:00:06.924217+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
+      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 08 Sep 2026 14:46:16 GMT",
-      "summary": "Canada's levies - as high as 50% - will apply to nearly $20bn of US products, from steel to T-shirts."
+      "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 09 Sep 2026 13:29:33 GMT",
+      "summary": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers."
     },
     {
-      "title": "Renoir paintings worth millions stolen in French museum heist",
+      "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 08 Sep 2026 13:35:28 GMT",
-      "summary": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight."
+      "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 09 Sep 2026 16:46:53 GMT",
+      "summary": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday"
     },
     {
-      "title": "Argentina to file criminal case against oil company operating in Falklands",
+      "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 08 Sep 2026 11:09:54 GMT",
-      "summary": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.\n"
+      "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 09 Sep 2026 10:20:40 GMT",
+      "summary": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force."
     },
     {
-      "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
+      "title": "Europe's royalty pay respects to King Harald V in Norway",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 08 Sep 2026 16:36:47 GMT",
-      "summary": "President Zelensky describes the daytime drone attack in Ukraine's capital as a \"new page in Russian degradation\""
+      "url": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 09 Sep 2026 16:30:28 GMT",
+      "summary": "The Prince of Wales and three Nordic kings were among those who attended proceedings on Wednesday."
     },
     {
-      "title": "British widow faces deportation from Sweden after 22 years",
+      "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 08 Sep 2026 16:23:01 GMT",
-      "summary": "A 78-year-old British woman is facing deportation for failing to fill out a Brexit residence application on time."
+      "url": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 09 Sep 2026 16:01:54 GMT",
+      "summary": "Three deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.  "
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 78739,
-      "change24h": -0.34318,
-      "marketCap": 1581122279874,
+      "price": 78760,
+      "change24h": 0.04629,
+      "marketCap": 1581618841613,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2497.2,
-      "change24h": 0.57926,
-      "marketCap": 304697569910,
+      "price": 2494.68,
+      "change24h": -0.06286,
+      "marketCap": 304442634986,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Visa brings onchain credit to its growing stablecoin card business",
+      "title": "U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/visa-stablecoin-blockchain-lending-payment-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 08 Sep 2026 16:11:53 +0000",
-      "summary": "Visa is combining VisaNet settlement data with blockchain lending as stablecoin payment volume on its network jumps nearly 200% year over year.\n"
+      "url": "https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 09 Sep 2026 16:37:08 +0000",
+      "summary": "The pilot moved USBDC between the bank\u2019s North American and European entities on the public Stellar blockchain."
     },
     {
-      "title": "Bitcoin faces key support test at $78.3K as US crude oil hits three-month high",
+      "title": "Bitcoin fails to reclaim $80K as Bessent fuels yen strength around 153 per dollar",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-faces-key-support-test-at-783k-as-us-crude-oil-hits-three-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 08 Sep 2026 15:41:11 +0000",
-      "summary": "Bitcoin fell with US stocks on the opening of Tuesday\u2019s Wall Street trading session as analysis warns that BTC price support at $78,300 must hold."
+      "url": "https://cointelegraph.com/markets/bitcoin-fails-to-reclaim-80k-as-bessent-fuels-yen-strength-around-153-per-dollar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 09 Sep 2026 16:28:19 +0000",
+      "summary": "Bitcoin trended lower with US stocks on Iran escalation while US Treasury Secretary Scott Bessent contributed to fears of a yen carry-trade unwind."
     },
     {
-      "title": "Bitmine buys 28k ETH, completes 97% of treasury accumulation goal",
+      "title": "Hunter Biden\u2019s laptop controversy gets a memecoin afterlife",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitmine-buys-28k-eth-completes-97-treasury-goal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 08 Sep 2026 13:51:04 +0000",
-      "summary": "While Bitmine\u2019s completed 97% of its goal to acquire 5% of Ether\u2019s supply, Tom Lee\u2019s team faces a $5.1 billion unrealized loss on its main treasury asset."
+      "url": "https://cointelegraph.com/news/hunter-bidens-laptop-memecoin-afterlife?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 09 Sep 2026 15:58:39 +0000",
+      "summary": "The project\u2019s disclosures say LAPTOP has no utility, lock founder tokens for six months and reserve 2% for wallets that lost money on TRUMP."
     },
     {
-      "title": "Is Bitcoin too volatile to risk your retirement on?",
+      "title": "Trade groups seek to block Illinois crypto tax before January effective date",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/magazine/is-bitcoin-too-volatile-to-risk-your-retirement-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 08 Sep 2026 13:30:00 +0000",
-      "summary": "Bitcoin believers see it as an almost certain long-term investment, but retirement demands a different approach. How much crypto exposure is too much for your retirement account?"
+      "url": "https://cointelegraph.com/news/trade-groups-seek-block-illinois-crypto-tax-before-january-effective-date?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 09 Sep 2026 15:57:07 +0000",
+      "summary": "Following on their earlier lawsuit, CCI and the Blockchain Association seek to block Illinois\u2019 0.2% crypto tax, arguing it is unconstitutional and would impose costly compliance burdens."
     },
     {
-      "title": "Here\u2019s what happened in crypto today",
+      "title": "Tether, Fasanara launch $400M private credit fund targeting $3B  ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 08 Sep 2026 13:24:08 +0000",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+      "url": "https://cointelegraph.com/news/tether-fasanara-launch-400m-private-credit-fund-targeting-3b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 09 Sep 2026 15:21:44 +0000",
+      "summary": "The evergreen fund will use USDT infrastructure to support asset-backed lending through fintech platforms in more than 60 countries."
     }
   ],
   "aiNews": [
     {
-      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "title": "Superintelligence is coming. Should we let it?",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-      "publishedAt": "Tue, 08 Sep 2026 16:20:31 +0000",
-      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks."
+      "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+      "publishedAt": "Wed, 09 Sep 2026 16:05:35 +0000",
+      "summary": "AI companies have been talking about superintelligent AI like\u00a0it\u2019s\u00a0inevitable, but recent\u00a0safety incidents\u00a0like\u00a0OpenAI\u2019s\u00a0Hugging Face breach\u00a0are\u00a0demonstrating\u00a0the potential dangers of deploying AI sys"
     },
     {
-      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "title": "ControlAI\u2019s\u00a0Connor Leahy on why superintelligence is \u2018not a weapon, it\u2019s an adversary\u2019\u00a0",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
-      "publishedAt": "Tue, 08 Sep 2026 15:04:09 +0000",
-      "summary": "Google is speeding up Chrome\u2019s release schedule to ship security patches and new features faster."
+      "url": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
+      "publishedAt": "Wed, 09 Sep 2026 15:50:13 +0000",
+      "summary": "AI companies have been talking about superintelligent AI like\u00a0it\u2019s\u00a0inevitable, but recent\u00a0safety incidents\u00a0like\u00a0OpenAI\u2019s\u00a0Hugging Face breach\u00a0are\u00a0demonstrating\u00a0the potential dangers of deploying AI sys"
     },
     {
-      "title": "Mistral raises \u20ac3B as sovereign AI becomes big business",
+      "title": "Viral AI assistant Instinct now has its own email address",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-      "publishedAt": "Tue, 08 Sep 2026 14:17:48 +0000",
-      "summary": "The French AI lab has raised \u20ac3 billion at a \u20ac21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity."
+      "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+      "publishedAt": "Wed, 09 Sep 2026 15:13:12 +0000",
+      "summary": "Instinct\u2019s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf."
     },
     {
-      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "title": "\u2018Gambling with our lives\u2019: Anthropic researcher quits, warns against self-improving AI\u00a0",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "publishedAt": "Mon, 07 Sep 2026 19:24:00 +0000",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
+      "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+      "publishedAt": "Wed, 09 Sep 2026 15:02:47 +0000",
+      "summary": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs."
     },
     {
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "publishedAt": "Sun, 06 Sep 2026 20:47:37 +0000",
-      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments."
+      "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
+      "publishedAt": "Wed, 09 Sep 2026 14:51:45 +0000",
+      "summary": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\"\u00a0or\u00a0\"Build a cart for easy school lunches and after-school snacks,\" S"
     }
   ],
   "techMovers": [
     {
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "price": 650.68,
+      "change": 37.2,
+      "changePercent": 6.06
+    },
+    {
       "ticker": "AMD",
       "name": "AMD Inc",
-      "price": 510.55,
-      "change": 32.98,
-      "changePercent": 6.91
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla Inc",
-      "price": 369.31,
-      "change": 15.23,
-      "changePercent": 4.3
-    },
-    {
-      "ticker": "CRM",
-      "name": "Salesforce Inc",
-      "price": 248.42,
-      "change": -10.81,
-      "changePercent": -4.17
+      "price": 523.77,
+      "change": 18.03,
+      "changePercent": 3.57
     },
     {
       "ticker": "UBER",
       "name": "Uber Technologies",
-      "price": 73.33,
-      "change": -2.43,
-      "changePercent": -3.2
+      "price": 71.49,
+      "change": -1.64,
+      "changePercent": -2.24
     },
     {
-      "ticker": "ORCL",
-      "name": "Oracle Corp",
-      "price": 162.94,
-      "change": 4.16,
-      "changePercent": 2.62
+      "ticker": "GOOG",
+      "name": "Alphabet Inc",
+      "price": 327.92,
+      "change": -7.46,
+      "changePercent": -2.22
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon.com",
+      "price": 251.83,
+      "change": -5.14,
+      "changePercent": -2.0
     }
   ],
-  "fearGreedIndex": 69,
+  "fearGreedIndex": 66,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 368.52,
-    "change": -6.55,
-    "changePercent": -1.75
+    "price": 368.39,
+    "change": -0.25,
+    "changePercent": -0.07
   },
   "sectors": [
     {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": 1.1
-    },
-    {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": 0.65
+      "changePercent": 0.59
     },
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": 0.58
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 0.41
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": -0.02
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": -0.42
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": -0.47
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": -0.53
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": -0.74
+      "changePercent": 0.18
     },
     {
       "ticker": "XLF",
       "name": "Financials",
-      "changePercent": -0.96
+      "changePercent": -0.24
     },
     {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": -2.24
+      "changePercent": -0.31
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -0.51
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -0.88
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -1.15
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": -1.2
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -1.29
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -1.32
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": -1.43
     }
   ],
   "economicCalendar": [
