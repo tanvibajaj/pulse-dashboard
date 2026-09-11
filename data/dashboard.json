@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-09-10T16:52:27.019967+00:00",
+  "lastUpdated": "2026-09-11T16:52:41.874094+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
+      "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 10 Sep 2026 13:23:37 GMT",
-      "summary": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from."
+      "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 11 Sep 2026 08:15:25 GMT",
+      "summary": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity."
     },
     {
-      "title": "Watch: Is Trump's $5,000 election pledge legal?",
+      "title": "Israel says it has destroyed major underground Hezbollah base",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 10 Sep 2026 07:12:32 GMT",
-      "summary": "The US president has said every American will get $5,000 (\u00a33,700) if the Republican Party wins November's midterms."
+      "url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 11 Sep 2026 15:50:23 GMT",
+      "summary": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey."
     },
     {
-      "title": "Iran war won't end until after crucial November elections, says Trump ",
+      "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 10 Sep 2026 10:43:53 GMT",
-      "summary": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election."
+      "url": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 11 Sep 2026 10:50:04 GMT",
+      "summary": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex."
     },
     {
-      "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
+      "title": "Princess Diana's 'revenge dress' goes up for auction",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 10 Sep 2026 06:30:19 GMT",
-      "summary": "The fire broke out as the vessel nearing its destination at the tourist hotspot of Coron in Palawan."
+      "url": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 11 Sep 2026 12:04:46 GMT",
+      "summary": "Auction house Sotheby's expects the dress to sell for up to $300,000 (\u00a3220,000) when it goes under the hammer on 9 December."
     },
     {
-      "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
+      "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 10 Sep 2026 13:12:40 GMT",
-      "summary": "King Oyo's family say he left a will naming his young son as heir to the Tooro kingdom."
+      "url": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 11 Sep 2026 16:00:59 GMT",
+      "summary": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 77101,
-      "change24h": -2.08265,
-      "marketCap": 1548539075129,
+      "price": 77907,
+      "change24h": 1.02545,
+      "marketCap": 1565330901483,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2445.64,
-      "change24h": -2.01687,
-      "marketCap": 298425577095,
+      "price": 2578.54,
+      "change24h": 5.43916,
+      "marketCap": 314818992313,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Liquid Network resumes block production after $320M exploit",
+      "title": "Anchorage Digital adds institutional access to Frgmnt\u2019s fUSD stablecoin",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/liquid-network-resumes-block-production-after-320m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 10 Sep 2026 16:38:16 +0000",
-      "summary": "Liquid restarted block production after deploying emergency software updates, though transactions and peg operations remain suspended as recovery efforts continue."
+      "url": "https://cointelegraph.com/news/anchorage-digital-adds-institutional-access-to-frgmnts-fusd-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 11 Sep 2026 16:05:15 +0000",
+      "summary": "The US federally chartered crypto bank will allow institutional clients to hold, mint, redeem and stake Frgmnt\u2019s fUSD stablecoin through its custody platform."
     },
     {
-      "title": "MoneyGram launches Visa stablecoin card as remittance rivals expand",
+      "title": "Bitcoin spikes toward $80K as US CPI data delivers new 22-year high in bond yields",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/moneygram-launches-visa-stablecoin-card-as-remittance-rivals-expand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 10 Sep 2026 15:59:37 +0000",
-      "summary": "MoneyGram is following rival Western Union\u2019s lead, rolling out a Visa stablecoin debit card as it expands blockchain-based payments."
+      "url": "https://cointelegraph.com/markets/bitcoin-spikes-toward-80k-as-us-cpi-data-delivers-new-22-year-high-in-bond-yields?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 11 Sep 2026 16:03:37 +0000",
+      "summary": "Bitcoin briefly rebounded past $79,000 and US stocks turned green as US CPI inflation data met expectations."
     },
     {
-      "title": "EU finance groups push to remove tokenized securities cap",
+      "title": "Metaplanet cuts Series 10 stock pool by 41%, plans Hong Kong subsidiary",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/european-finance-groups-urge-eu-to-scrap-tokenized-securities-cap-propose-15t-fallback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 10 Sep 2026 15:49:22 +0000",
-      "summary": "European finance and tokenization groups say Brussels should remove limits on assets admitted to DLT infrastructure or set a 1.5 trillion euro baseline if a cap remains.\n"
+      "url": "https://cointelegraph.com/news/metaplanet-executive-stock-pool-hong-kong-subsidiary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 11 Sep 2026 13:44:27 +0000",
+      "summary": "Metaplanet will cut 131.3 million potential shares and form a $1 million Hong Kong subsidiary for trading in Bitcoin, equities and credit products."
     },
     {
-      "title": "Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high",
+      "title": "Trading stocks against BONER is the latest trend for DeFi degens",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-falls-on-us-ppi-overshoot-as-30-year-bond-yield-hits-new-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 10 Sep 2026 14:52:15 +0000",
-      "summary": "Bitcoin fell with US stocks as high inflation and a further surge in oil prices coincided with another multidecade high for US bond yields."
+      "url": "https://cointelegraph.com/magazine/trading-stocks-against-boner-is-the-latest-trend-for-defi-degens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 11 Sep 2026 13:30:00 +0000",
+      "summary": "Why would anyone want to trade a healthcare stock for a memecoin like BONER? Why wouldn\u2019t they, ask the degens on Robinhood Chain who are building a strange new corner of DeFi."
     },
     {
-      "title": "Coinbase, Moov to provide stablecoin infrastructure for US community banks",
+      "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/coinbase-moov-stablecoin-infrastructure-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 10 Sep 2026 13:35:23 +0000",
-      "summary": "The partnership will provide stablecoin acceptance, settlement and real-time funding capabilities to over 1,000 community banks and credit unions."
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 11 Sep 2026 12:57:24 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     }
   ],
   "aiNews": [
     {
-      "title": "AI agents are flooding public services with new requests",
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-      "publishedAt": "Thu, 10 Sep 2026 14:53:50 +0000",
-      "summary": "\u201cThe vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,\u201d the researcher told TechCrunch.\u00a0"
+      "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "publishedAt": "Fri, 11 Sep 2026 16:46:25 +0000",
+      "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023. "
     },
     {
-      "title": "Maven Robotics wants to steal your robot deployment deal",
+      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-      "publishedAt": "Thu, 10 Sep 2026 14:17:37 +0000",
-      "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments. "
+      "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+      "publishedAt": "Thu, 10 Sep 2026 21:51:59 +0000",
+      "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular."
     },
     {
-      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-      "publishedAt": "Thu, 10 Sep 2026 00:00:37 +0000",
-      "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say. "
+      "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "publishedAt": "Thu, 10 Sep 2026 21:35:00 +0000",
+      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses."
     },
     {
-      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-      "publishedAt": "Wed, 09 Sep 2026 22:25:22 +0000",
-      "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board."
+      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+      "publishedAt": "Thu, 10 Sep 2026 20:59:51 +0000",
+      "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity. "
     },
     {
-      "title": "Massachusetts hits data centers with new clean power rules",
+      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
-      "publishedAt": "Wed, 09 Sep 2026 21:43:34 +0000",
-      "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development."
+      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "publishedAt": "Thu, 10 Sep 2026 20:57:30 +0000",
+      "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified."
     }
   ],
   "techMovers": [
     {
-      "ticker": "ORCL",
-      "name": "Oracle Corp",
-      "price": 156.52,
-      "change": -5.11,
-      "changePercent": -3.16
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "price": 177.69,
+      "change": 5.41,
+      "changePercent": 3.14
     },
     {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 505.39,
-      "change": -15.71,
-      "changePercent": -3.01
+      "ticker": "CRM",
+      "name": "Salesforce Inc",
+      "price": 249.01,
+      "change": 6.01,
+      "changePercent": 2.47
     },
     {
       "ticker": "AAPL",
       "name": "Apple Inc",
-      "price": 323.79,
-      "change": 8.45,
-      "changePercent": 2.68
+      "price": 334.46,
+      "change": 7.89,
+      "changePercent": 2.42
     },
     {
-      "ticker": "UBER",
-      "name": "Uber Technologies",
-      "price": 72.91,
-      "change": 1.83,
-      "changePercent": 2.57
+      "ticker": "GOOG",
+      "name": "Alphabet Inc",
+      "price": 337.4,
+      "change": 7.01,
+      "changePercent": 2.12
     },
     {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corp",
-      "price": 218.5,
-      "change": -5.17,
-      "changePercent": -2.31
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 512.78,
+      "change": 9.18,
+      "changePercent": 1.82
     }
   ],
-  "fearGreedIndex": 69,
+  "fearGreedIndex": 56,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 367.39,
-    "change": 0.0,
-    "changePercent": 0.0
+    "price": 370.61,
+    "change": 3.4,
+    "changePercent": 0.93
   },
   "sectors": [
     {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 0.6
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 0.34
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": -0.09
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": -0.24
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": -0.39
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": -0.45
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": -0.63
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": -0.66
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": 1.45
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": -0.7
+      "changePercent": 1.18
     },
     {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": -1.1
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": 1.13
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": 1.03
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": 0.88
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 0.66
     },
     {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": -1.27
+      "changePercent": 0.53
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": 0.52
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": 0.26
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": 0.08
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -0.04
     }
   ],
   "economicCalendar": [
