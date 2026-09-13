@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-09-12T15:58:36.729218+00:00",
+  "lastUpdated": "2026-09-13T16:48:15.089881+00:00",
   "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "title": "Russia struck train near Poland border shortly after Boris Johnson and top European officials passed through",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 12 Sep 2026 15:53:43 GMT",
-      "summary": "Amodei's call comes amid growing concerns that AI models may become able to inflict serious damage worldwide."
+      "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 13 Sep 2026 16:33:57 GMT",
+      "summary": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\"."
     },
     {
-      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+      "title": "Trump downplays AI risks after dire expert warnings and calls to slow development down",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 12 Sep 2026 12:15:50 GMT",
-      "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran."
+      "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 13 Sep 2026 16:29:27 GMT",
+      "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\"."
     },
     {
-      "title": "A united Ireland would be 'fantastic' says Trump during Irish visit ",
+      "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 12 Sep 2026 13:56:20 GMT",
-      "summary": "Trump made the comments during a meeting with Irish leader Miche\u00e1l Martin, but Downing Street says it will \"stick to the Good Friday Agreement\"."
+      "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 13 Sep 2026 13:30:38 GMT",
+      "summary": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather."
     },
     {
-      "title": "French officials investigate if malicious act caused train derailment",
+      "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 12 Sep 2026 15:05:53 GMT",
-      "summary": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured."
+      "url": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 13 Sep 2026 14:25:56 GMT",
+      "summary": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community. "
     },
     {
-      "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
+      "title": "Iran war reshapes Brics ties but also exposes divisions",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 12 Sep 2026 05:55:15 GMT",
-      "summary": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter."
+      "url": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 13 Sep 2026 11:23:42 GMT",
+      "summary": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there."
     }
   ],
   "cryptoAssets": [
@@ -43,65 +43,72 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 77379,
-      "change24h": -0.40526,
-      "marketCap": 1553999809524,
+      "price": 77269,
+      "change24h": -0.09536,
+      "marketCap": 1552134244952,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2533.05,
-      "change24h": -1.23059,
-      "marketCap": 309110894967,
+      "price": 2502.28,
+      "change24h": -1.12327,
+      "marketCap": 305514074595,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Nvidia considers $10B investment in potential record Anthropic IPO: Reuters \u00a0",
+      "title": "Anthropic chief urges slowdown in AI development to safer pace",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/nvidia-considers-10b-investment-in-anthropic-record-ipo-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 12 Sep 2026 15:12:40 +0000",
-      "summary": "Anthropic is said to be seeking to raise as much as $100 billion in the offering, which could value the AI company at about $2 trillion."
+      "url": "https://cointelegraph.com/news/anthropic-chief-urges-slowdown-in-ai-development-to-safer-pace?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 13 Sep 2026 11:09:54 +0000",
+      "summary": "OpenAI CEO Sam Altman agrees with safety concerns regarding AI development, says no initial share sale this year."
+    },
+    {
+      "title": "Revolut says customer data exposed through fake government email",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/revolut-says-customer-data-exposed-through-fake-government-email?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 13 Sep 2026 09:27:21 +0000",
+      "summary": "Passports, selfies and financial transaction histories of some customers were revealed to a fraudster using a government agency domain."
     },
     {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 11 Sep 2026 21:30:00 +0000",
+      "publishedAt": "Sat, 12 Sep 2026 16:09:41 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Bitcoin Suisse to shift up to half of Swiss jobs abroad",
+      "title": "North Korea using foreign talent to help infiltrate US companies: Report",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 11 Sep 2026 19:46:24 +0000",
-      "summary": "The Swiss crypto financial services firm plans to move back-office functions to lower-cost international hubs as it expands its global wealth and asset management business, according to Finews.\n"
+      "url": "https://cointelegraph.com/news/north-korea-using-foreign-talent-to-help-infiltrate-us-companies-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 12 Sep 2026 16:08:29 +0000",
+      "summary": "The DPRK has turned to third-country IT workers to pass job interviews, after which, the positions are usually taken over by North Korean operatives."
     },
     {
-      "title": "Hyperliquid\u2019s biggest risk is regulation, says Ran Neuner",
+      "title": "Farage\u2019s Reform UK gets $97M from two crypto billionaires",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/hyperliquids-biggest-risk-is-regulation-says-ran-neuner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 11 Sep 2026 18:45:15 +0000",
-      "summary": "The Crypto Banter founder said Hyperliquid\u2019s network effects give it a strong competitive moat, but regulatory uncertainty remains its biggest threat."
-    },
-    {
-      "title": "Anchorage Digital adds institutional access to Frgmnt\u2019s fUSD stablecoin",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/anchorage-digital-adds-institutional-access-to-frgmnts-fusd-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 11 Sep 2026 16:05:15 +0000",
-      "summary": "The US federally chartered crypto bank will allow institutional clients to hold, mint, redeem and stake Frgmnt\u2019s fUSD stablecoin through its custody platform."
+      "url": "https://cointelegraph.com/news/farages-reform-uk-gets-biggest-donation-ever-from-crypto-billionaire-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 12 Sep 2026 15:50:14 +0000",
+      "summary": "Ben Delo, co-founder of BitMEX, donated almost $50 million to Nigel Farage\u2019s Reform UK party, matched a day later by Christopher Harborne."
     }
   ],
   "aiNews": [
     {
-      "title": "Anthropic CEO outlines plan to \u2018pace the frontier\u2019",
+      "title": "OpenAI\u2019s Sam Altman says it would be \u2018ill-advised\u2019 to go public in 2026",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "publishedAt": "Sat, 12 Sep 2026 20:19:16 +0000",
+      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman."
+    },
+    {
+      "title": "Anthropic CEO outlines plan to slow AI development",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "publishedAt": "Sat, 12 Sep 2026 15:52:11 +0000",
-      "summary": "What would it actually look like to \"pace the frontier\"?"
+      "publishedAt": "Sat, 12 Sep 2026 19:34:44 +0000",
+      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?"
     },
     {
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
@@ -123,13 +130,6 @@
       "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
       "publishedAt": "Fri, 11 Sep 2026 20:57:36 +0000",
       "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work."
-    },
-    {
-      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-      "publishedAt": "Fri, 11 Sep 2026 20:33:18 +0000",
-      "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline."
     }
   ],
   "techMovers": [
@@ -169,7 +169,7 @@
       "changePercent": 1.75
     }
   ],
-  "fearGreedIndex": 63,
+  "fearGreedIndex": 61,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
@@ -235,13 +235,6 @@
     }
   ],
   "economicCalendar": [
-    {
-      "date": "2026-09-12",
-      "time": "08:30 ET",
-      "event": "CPI Inflation Data",
-      "importance": "high",
-      "description": "Consumer Price Index - key inflation measure"
-    },
     {
       "date": "2026-09-15",
       "time": "08:30 ET",
