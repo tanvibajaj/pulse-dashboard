@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-09-13T16:48:15.089881+00:00",
-  "marketStatus": "Closed",
+  "lastUpdated": "2026-09-14T18:19:23.020249+00:00",
+  "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Russia struck train near Poland border shortly after Boris Johnson and top European officials passed through",
+      "title": "China criticises idea it is in 'malicious competition' over AI",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 14 Sep 2026 11:31:39 GMT",
+      "summary": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race. "
+    },
+    {
+      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
       "source": "BBC",
       "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 13 Sep 2026 16:33:57 GMT",
-      "summary": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\"."
+      "publishedAt": "Mon, 14 Sep 2026 12:18:13 GMT",
+      "summary": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\"."
     },
     {
-      "title": "Trump downplays AI risks after dire expert warnings and calls to slow development down",
+      "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 13 Sep 2026 16:29:27 GMT",
-      "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\"."
+      "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 14 Sep 2026 08:36:09 GMT",
+      "summary": "With more than 90% of ballots processed early on Monday, the left-wing bloc was in front by approximately 20,000 votes."
     },
     {
-      "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+      "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 13 Sep 2026 13:30:38 GMT",
-      "summary": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather."
+      "url": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 14 Sep 2026 14:08:12 GMT",
+      "summary": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures."
     },
     {
-      "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
+      "title": "Thousands demand end to violence in Mexican cartel hotspot ",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 13 Sep 2026 14:25:56 GMT",
-      "summary": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community. "
-    },
-    {
-      "title": "Iran war reshapes Brics ties but also exposes divisions",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 13 Sep 2026 11:23:42 GMT",
-      "summary": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there."
+      "url": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 14 Sep 2026 11:28:36 GMT",
+      "summary": "Culiac\u00e1n has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 77269,
-      "change24h": -0.09536,
-      "marketCap": 1552134244952,
+      "price": 78874,
+      "change24h": 1.98279,
+      "marketCap": 1583582134400,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2502.28,
-      "change24h": -1.12327,
-      "marketCap": 305514074595,
+      "price": 2532.67,
+      "change24h": 1.01683,
+      "marketCap": 308948900574,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Anthropic chief urges slowdown in AI development to safer pace",
+      "title": "Strive adds 469 Bitcoin to reach 25,000 BTC treasury",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/anthropic-chief-urges-slowdown-in-ai-development-to-safer-pace?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 13 Sep 2026 11:09:54 +0000",
-      "summary": "OpenAI CEO Sam Altman agrees with safety concerns regarding AI development, says no initial share sale this year."
+      "url": "https://cointelegraph.com/news/strive-adds-469-bitcoin-to-reach-25000-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 14 Sep 2026 17:50:12 +0000",
+      "summary": "Strive\u2019s latest Bitcoin purchase was funded entirely through its SATA preferred stock as the company continues its rapid climb among corporate BTC holders."
     },
     {
-      "title": "Revolut says customer data exposed through fake government email",
+      "title": "CLARITY Act faces state AGs opposition ahead of key Senate vote",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/revolut-says-customer-data-exposed-through-fake-government-email?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 13 Sep 2026 09:27:21 +0000",
-      "summary": "Passports, selfies and financial transaction histories of some customers were revealed to a fraudster using a government agency domain."
+      "url": "https://cointelegraph.com/news/clarity-act-faces-new-opposition-ahead-of-key-senate-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 14 Sep 2026 17:42:04 +0000",
+      "summary": "Trump\u2019s ethics concession addresses one hurdle for the crypto bill, but 18 state attorneys general say the revised legislation would weaken state oversight."
     },
     {
-      "title": "Here\u2019s what happened in crypto today",
+      "title": "S&P Global backs Kaiko as Series B reaches $110M",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 12 Sep 2026 16:09:41 +0000",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+      "url": "https://cointelegraph.com/news/sp-global-leads-110m-kaiko-funding-round-as-wall-street-eyes-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 14 Sep 2026 16:17:52 +0000",
+      "summary": "The investment brings together major financial institutions as Kaiko expands its data infrastructure for tokenized securities and onchain financial markets."
     },
     {
-      "title": "North Korea using foreign talent to help infiltrate US companies: Report",
+      "title": "Bitmine projects $334M in annual staking revenue from $15.8B crypto treasury",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/north-korea-using-foreign-talent-to-help-infiltrate-us-companies-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 12 Sep 2026 16:08:29 +0000",
-      "summary": "The DPRK has turned to third-country IT workers to pass job interviews, after which, the positions are usually taken over by North Korean operatives."
+      "url": "https://cointelegraph.com/news/bitmine-5-million-eth-staked-334-million-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 14 Sep 2026 15:55:59 +0000",
+      "summary": "Bitmine now has more than 5 million ETH staked, turning most of its Ether holdings into a recurring income stream as it continues to accumulate.\n"
     },
     {
-      "title": "Farage\u2019s Reform UK gets $97M from two crypto billionaires",
+      "title": "Why are AI\u2019s biggest companies suddenly asking to slow down?",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/farages-reform-uk-gets-biggest-donation-ever-from-crypto-billionaire-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 12 Sep 2026 15:50:14 +0000",
-      "summary": "Ben Delo, co-founder of BitMEX, donated almost $50 million to Nigel Farage\u2019s Reform UK party, matched a day later by Christopher Harborne."
+      "url": "https://cointelegraph.com/magazine/why-are-biggest-ai-companies-suddenly-asking-to-slow-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 14 Sep 2026 15:18:46 +0000",
+      "summary": "AI\u2019s biggest labs are suddenly calling for a slower pace of development. Is it because AI risks are catching up with the technology, or because the economics of the race are getting harder to justify?"
     }
   ],
   "aiNews": [
     {
-      "title": "OpenAI\u2019s Sam Altman says it would be \u2018ill-advised\u2019 to go public in 2026",
+      "title": "With iOS 27, I\u2019m actually using Siri again",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "publishedAt": "Sat, 12 Sep 2026 20:19:16 +0000",
-      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman."
+      "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+      "publishedAt": "Mon, 14 Sep 2026 17:10:30 +0000",
+      "summary": "Apple\u2019s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day."
     },
     {
-      "title": "Anthropic CEO outlines plan to slow AI development",
+      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "publishedAt": "Sat, 12 Sep 2026 19:34:44 +0000",
-      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?"
+      "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+      "publishedAt": "Mon, 14 Sep 2026 17:00:00 +0000",
+      "summary": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app."
     },
     {
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "title": "Microsoft\u2019s new AI \u2018code of conduct\u2019 tells models not to hack systems or trick humans",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "publishedAt": "Fri, 11 Sep 2026 22:58:17 +0000",
-      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A."
+      "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+      "publishedAt": "Mon, 14 Sep 2026 16:27:53 +0000",
+      "summary": "The code of conduct lays out general principles that Microsoft AI models should uphold \u2014 supporting humans rather than replacing them, for instance, and accelerating human flourishing \u2014 as well as spe"
     },
     {
-      "title": "Y Combinator\u2019s Garry Tan wants US open-weight AI labs to \u2018distill\u2019 frontier models, too",
+      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "publishedAt": "Fri, 11 Sep 2026 20:59:47 +0000",
-      "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren\u2019t Chinese."
+      "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+      "publishedAt": "Mon, 14 Sep 2026 15:00:00 +0000",
+      "summary": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive s"
     },
     {
-      "title": "OpenAI\u2019s feud with mathematicians is only escalating",
+      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-      "publishedAt": "Fri, 11 Sep 2026 20:57:36 +0000",
-      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work."
+      "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+      "publishedAt": "Mon, 14 Sep 2026 14:45:44 +0000",
+      "summary": "Fathom said that it has over 400,000 monthly active users."
     }
   ],
   "techMovers": [
     {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 516.13,
-      "change": 12.53,
-      "changePercent": 2.49
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon.com",
-      "price": 256.78,
-      "change": 4.89,
-      "changePercent": 1.94
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "price": 190.41,
+      "change": 15.15,
+      "changePercent": 8.64
     },
     {
       "ticker": "CRM",
       "name": "Salesforce Inc",
-      "price": 247.72,
-      "change": 4.72,
-      "changePercent": 1.94
+      "price": 258.85,
+      "change": 11.13,
+      "changePercent": 4.49
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "price": 143.79,
+      "change": -6.49,
+      "changePercent": -4.32
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "price": 346.56,
+      "change": -15.43,
+      "changePercent": -4.26
     },
     {
       "ticker": "NFLX",
       "name": "Netflix Inc",
-      "price": 77.4,
-      "change": 1.39,
-      "changePercent": 1.83
-    },
-    {
-      "ticker": "AAPL",
-      "name": "Apple Inc",
-      "price": 332.27,
-      "change": 5.7,
-      "changePercent": 1.75
+      "price": 80.61,
+      "change": 3.21,
+      "changePercent": 4.15
     }
   ],
-  "fearGreedIndex": 61,
+  "fearGreedIndex": 57,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 370.45,
-    "change": 3.24,
-    "changePercent": 0.88
+    "price": 375.61,
+    "change": 5.16,
+    "changePercent": 1.39
   },
   "sectors": [
     {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": 1.32
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": 1.07
-    },
-    {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": 0.99
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 0.89
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 0.86
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 0.67
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 0.37
+      "changePercent": 2.18
     },
     {
       "ticker": "XLP",
       "name": "Consumer Staples",
-      "changePercent": 0.35
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": 0.32
+      "changePercent": 1.33
     },
     {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": -0.18
+      "changePercent": 1.31
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": 0.07
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -0.54
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": -0.62
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": -0.69
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -0.84
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": -1.19
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": -0.31
+      "changePercent": -1.32
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": -1.57
     }
   ],
   "economicCalendar": [
