@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-09-14T18:19:23.020249+00:00",
+  "lastUpdated": "2026-09-15T17:27:08.576327+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "China criticises idea it is in 'malicious competition' over AI",
+      "title": "Denmark says Russian warship fired flares at military helicopter",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 14 Sep 2026 11:31:39 GMT",
-      "summary": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race. "
+      "url": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 15 Sep 2026 11:40:00 GMT",
+      "summary": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment."
     },
     {
-      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+      "title": "What weapon could the US have put into space?",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 14 Sep 2026 12:18:13 GMT",
-      "summary": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\"."
+      "url": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 15 Sep 2026 14:23:14 GMT",
+      "summary": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit."
     },
     {
-      "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 14 Sep 2026 08:36:09 GMT",
-      "summary": "With more than 90% of ballots processed early on Monday, the left-wing bloc was in front by approximately 20,000 votes."
+      "url": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 15 Sep 2026 16:55:04 GMT",
+      "summary": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations."
     },
     {
-      "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
+      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 14 Sep 2026 14:08:12 GMT",
-      "summary": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures."
+      "url": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 15 Sep 2026 16:13:41 GMT",
+      "summary": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone."
     },
     {
-      "title": "Thousands demand end to violence in Mexican cartel hotspot ",
+      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 14 Sep 2026 11:28:36 GMT",
-      "summary": "Culiac\u00e1n has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel."
+      "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 15 Sep 2026 15:31:34 GMT",
+      "summary": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".  "
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 78874,
-      "change24h": 1.98279,
-      "marketCap": 1583582134400,
+      "price": 76304,
+      "change24h": -3.29345,
+      "marketCap": 1532376394548,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2532.67,
-      "change24h": 1.01683,
-      "marketCap": 308948900574,
+      "price": 2417.48,
+      "change24h": -4.53493,
+      "marketCap": 295059027938,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Strive adds 469 Bitcoin to reach 25,000 BTC treasury",
+      "title": "Bitcoin price falls to $75.6K September low as global bonds hit multidecade highs",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/strive-adds-469-bitcoin-to-reach-25000-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 14 Sep 2026 17:50:12 +0000",
-      "summary": "Strive\u2019s latest Bitcoin purchase was funded entirely through its SATA preferred stock as the company continues its rapid climb among corporate BTC holders."
+      "url": "https://cointelegraph.com/markets/bitcoin-price-falls-to-756k-september-low-as-global-bonds-hit-multidecade-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 15 Sep 2026 16:02:01 +0000",
+      "summary": "Bitcoin price action weakened over market nerves prior to the Senate CLARITY Act vote, while surging bond yields pressured risk assets across the board."
     },
     {
-      "title": "CLARITY Act faces state AGs opposition ahead of key Senate vote",
+      "title": "Standard Chartered says Arbitrum could outperform Bitcoin, Ether through 2030",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/clarity-act-faces-new-opposition-ahead-of-key-senate-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 14 Sep 2026 17:42:04 +0000",
-      "summary": "Trump\u2019s ethics concession addresses one hurdle for the crypto bill, but 18 state attorneys general say the revised legislation would weaken state oversight."
+      "url": "https://cointelegraph.com/news/standard-chartered-arbitrum-arb-price-10-2030?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 15 Sep 2026 15:50:49 +0000",
+      "summary": "Standard Chartered sees Robinhood Chain as an early sign that tokenization could transform Arbitrum\u2019s economics and drive ARB sharply higher by 2030.\n"
     },
     {
-      "title": "S&P Global backs Kaiko as Series B reaches $110M",
+      "title": "ETH wallet exploit backfires as MEV bot captures $7.7M, Kelp freezes address",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/sp-global-leads-110m-kaiko-funding-round-as-wall-street-eyes-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 14 Sep 2026 16:17:52 +0000",
-      "summary": "The investment brings together major financial institutions as Kaiko expands its data infrastructure for tokenized securities and onchain financial markets."
+      "url": "https://cointelegraph.com/news/mev-bot-intercepts-77m-in-rseth-from-ethereum-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 15 Sep 2026 15:21:26 +0000",
+      "summary": "An MEV bot known as \u201cYoink\u201d front-ran an attacker attempting to exploit a custom Safe module, capturing the stolen rsETH before Kelp temporarily froze the receiving address."
     },
     {
-      "title": "Bitmine projects $334M in annual staking revenue from $15.8B crypto treasury",
+      "title": "USDT payments feature in Polish energy giant\u2019s failed $230M oil deal: FT",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitmine-5-million-eth-staked-334-million-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 14 Sep 2026 15:55:59 +0000",
-      "summary": "Bitmine now has more than 5 million ETH staked, turning most of its Ether holdings into a recurring income stream as it continues to accumulate.\n"
+      "url": "https://cointelegraph.com/news/usdt-payments-polish-energy-giants-failed-230m-oil-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 15 Sep 2026 13:37:31 +0000",
+      "summary": "Tether\u2019s USDT stablecoin was part of a failed oil trade that reportedly cost a Polish energy giant $230 million in late 2023."
     },
     {
-      "title": "Why are AI\u2019s biggest companies suddenly asking to slow down?",
+      "title": "US House crypto tax package omits mining, staking reward deferral",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/magazine/why-are-biggest-ai-companies-suddenly-asking-to-slow-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 14 Sep 2026 15:18:46 +0000",
-      "summary": "AI\u2019s biggest labs are suddenly calling for a slower pace of development. Is it because AI risks are catching up with the technology, or because the economics of the race are getting harder to justify?"
+      "url": "https://cointelegraph.com/news/us-house-crypto-tax-bill-mining-staking-reward-deferral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 15 Sep 2026 10:04:21 +0000",
+      "summary": "The 114-page bill would change the tax treatment of crypto fees, stablecoins and lending while leaving existing reward-tax timing unchanged."
     }
   ],
   "aiNews": [
     {
-      "title": "With iOS 27, I\u2019m actually using Siri again",
+      "title": "Meta expands subscription push with new AI-focused plans",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-      "publishedAt": "Mon, 14 Sep 2026 17:10:30 +0000",
-      "summary": "Apple\u2019s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day."
+      "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+      "publishedAt": "Tue, 15 Sep 2026 17:05:24 +0000",
+      "summary": "Meta One bundles expanded access to the company\u2019s AI tools with premium features across Facebook, Instagram and WhatsApp."
     },
     {
-      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-      "publishedAt": "Mon, 14 Sep 2026 17:00:00 +0000",
-      "summary": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app."
+      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "publishedAt": "Tue, 15 Sep 2026 15:47:03 +0000",
+      "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China."
     },
     {
-      "title": "Microsoft\u2019s new AI \u2018code of conduct\u2019 tells models not to hack systems or trick humans",
+      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-      "publishedAt": "Mon, 14 Sep 2026 16:27:53 +0000",
-      "summary": "The code of conduct lays out general principles that Microsoft AI models should uphold \u2014 supporting humans rather than replacing them, for instance, and accelerating human flourishing \u2014 as well as spe"
+      "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+      "publishedAt": "Tue, 15 Sep 2026 15:22:48 +0000",
+      "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C. "
     },
     {
-      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-      "publishedAt": "Mon, 14 Sep 2026 15:00:00 +0000",
-      "summary": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive s"
+      "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+      "publishedAt": "Tue, 15 Sep 2026 14:42:37 +0000",
+      "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI."
     },
     {
-      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+      "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-      "publishedAt": "Mon, 14 Sep 2026 14:45:44 +0000",
-      "summary": "Fathom said that it has over 400,000 monthly active users."
+      "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
+      "publishedAt": "Tue, 15 Sep 2026 14:30:00 +0000",
+      "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock"
     }
   ],
   "techMovers": [
     {
       "ticker": "COIN",
       "name": "Coinbase",
-      "price": 190.41,
-      "change": 15.15,
-      "changePercent": 8.64
+      "price": 179.28,
+      "change": -12.17,
+      "changePercent": -6.36
     },
     {
-      "ticker": "CRM",
-      "name": "Salesforce Inc",
-      "price": 258.85,
-      "change": 11.13,
-      "changePercent": 4.49
-    },
-    {
-      "ticker": "ORCL",
-      "name": "Oracle Corp",
-      "price": 143.79,
-      "change": -6.49,
-      "changePercent": -4.32
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc",
-      "price": 346.56,
-      "change": -15.43,
-      "changePercent": -4.26
+      "ticker": "SNOW",
+      "name": "Snowflake Inc",
+      "price": 323.58,
+      "change": -8.77,
+      "changePercent": -2.64
     },
     {
       "ticker": "NFLX",
       "name": "Netflix Inc",
-      "price": 80.61,
-      "change": 3.21,
-      "changePercent": 4.15
+      "price": 78.27,
+      "change": -2.05,
+      "changePercent": -2.55
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 504.14,
+      "change": 10.73,
+      "changePercent": 2.17
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon.com",
+      "price": 248.57,
+      "change": -4.97,
+      "changePercent": -1.96
     }
   ],
-  "fearGreedIndex": 57,
+  "fearGreedIndex": 69,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 375.61,
-    "change": 5.16,
-    "changePercent": 1.39
+    "price": 375.01,
+    "change": -0.27,
+    "changePercent": -0.07
   },
   "sectors": [
     {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 2.18
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 1.33
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": 1.31
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 0.07
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": -0.54
-    },
-    {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": -0.62
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": -0.69
+      "changePercent": 2.25
     },
     {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": -0.84
+      "changePercent": 0.19
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -0.12
     },
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": -1.19
+      "changePercent": -0.21
     },
     {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": -1.32
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -0.48
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": -1.57
+      "changePercent": -0.51
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -0.66
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -0.79
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": -0.82
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": -1.04
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -1.46
     }
   ],
   "economicCalendar": [
