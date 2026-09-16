@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-09-15T17:27:08.576327+00:00",
+  "lastUpdated": "2026-09-16T17:26:33.994656+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Denmark says Russian warship fired flares at military helicopter",
+      "title": "EU chief backs plan for Canada to become 'associate member'",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 15 Sep 2026 11:40:00 GMT",
-      "summary": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment."
+      "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 16 Sep 2026 12:36:51 GMT",
+      "summary": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump."
     },
     {
-      "title": "What weapon could the US have put into space?",
+      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 15 Sep 2026 14:23:14 GMT",
-      "summary": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit."
+      "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 16 Sep 2026 17:16:47 GMT",
+      "summary": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year."
     },
     {
-      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "title": "US accuses Russia of trying to kill Ukrainian allies overseas",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 15 Sep 2026 16:55:04 GMT",
-      "summary": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations."
+      "url": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 16 Sep 2026 12:26:00 GMT",
+      "summary": "The FBI says five men \"conspired to intimidate, threaten, or murder people on US soil and around the world\"."
     },
     {
-      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
+      "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 15 Sep 2026 16:13:41 GMT",
-      "summary": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone."
+      "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 16 Sep 2026 10:02:05 GMT",
+      "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity."
     },
     {
-      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+      "title": "Eight German state premiers back Merz amid speculation over future",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 15 Sep 2026 15:31:34 GMT",
-      "summary": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".  "
+      "url": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 16 Sep 2026 14:50:26 GMT",
+      "summary": "Christian Democratic Union leadership throws its weight behind the chancellor ahead of two state elections this weekend."
     }
   ],
   "cryptoAssets": [
@@ -43,213 +43,198 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 76304,
-      "change24h": -3.29345,
-      "marketCap": 1532376394548,
+      "price": 75648,
+      "change24h": -0.87713,
+      "marketCap": 1519226312401,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2417.48,
-      "change24h": -4.53493,
-      "marketCap": 295059027938,
+      "price": 2387.56,
+      "change24h": -1.26881,
+      "marketCap": 291386996661,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Bitcoin price falls to $75.6K September low as global bonds hit multidecade highs",
+      "title": "Anchorage expands institutional custody to Etherlink, tokenized uranium",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-falls-to-756k-september-low-as-global-bonds-hit-multidecade-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 15 Sep 2026 16:02:01 +0000",
-      "summary": "Bitcoin price action weakened over market nerves prior to the Senate CLARITY Act vote, while surging bond yields pressured risk assets across the board."
+      "url": "https://cointelegraph.com/news/anchorage-digital-brings-tokenized-uranium-custody-to-federally-chartered-crypto-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 16 Sep 2026 16:03:35 +0000",
+      "summary": "Anchorage Digital Bank added custody support for Etherlink and several Etherlink-based assets, including xU3O8, a token representing physical uranium."
     },
     {
-      "title": "Standard Chartered says Arbitrum could outperform Bitcoin, Ether through 2030",
+      "title": "Coinbase faces greater fallout from CLARITY Act setback: Saxo",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/standard-chartered-arbitrum-arb-price-10-2030?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 15 Sep 2026 15:50:49 +0000",
-      "summary": "Standard Chartered sees Robinhood Chain as an early sign that tokenization could transform Arbitrum\u2019s economics and drive ARB sharply higher by 2030.\n"
+      "url": "https://cointelegraph.com/news/coinbase-clarity-act-exposure-saxo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 16 Sep 2026 15:52:17 +0000",
+      "summary": "A strategist at the Danish bank said Coinbase has more at stake in the CLARITY setback because its trading business is directly exposed to US market-structure rules.\n"
     },
     {
-      "title": "ETH wallet exploit backfires as MEV bot captures $7.7M, Kelp freezes address",
+      "title": "Bitcoin awaits Fed rate decision below $76K as analysis discounts \u2018dovish surprise\u2019 odds",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/mev-bot-intercepts-77m-in-rseth-from-ethereum-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 15 Sep 2026 15:21:26 +0000",
-      "summary": "An MEV bot known as \u201cYoink\u201d front-ran an attacker attempting to exploit a custom Safe module, capturing the stolen rsETH before Kelp temporarily froze the receiving address."
+      "url": "https://cointelegraph.com/markets/bitcoin-awaits-fed-rate-decision-below-76k-as-analysis-discounts-dovish-surprise-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 16 Sep 2026 15:30:49 +0000",
+      "summary": "Bitcoin price support materialized around $68,000 as markets saw a 93% chance of the Fed hiking rates by 0.25% on Wednesday."
     },
     {
-      "title": "USDT payments feature in Polish energy giant\u2019s failed $230M oil deal: FT",
+      "title": "Revolut ID thefts highlight KYC\u2019s dangers: Here\u2019s how to fix it",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/usdt-payments-polish-energy-giants-failed-230m-oil-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 15 Sep 2026 13:37:31 +0000",
-      "summary": "Tether\u2019s USDT stablecoin was part of a failed oil trade that reportedly cost a Polish energy giant $230 million in late 2023."
+      "url": "https://cointelegraph.com/magazine/revolut-id-thefts-highlight-kycs-dangers-heres-how-to-fix-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 16 Sep 2026 13:30:00 +0000",
+      "summary": "Zero-knowledge technology could let companies verify who you are without storing your identity documents. So why isn\u2019t it already standard practice?"
     },
     {
-      "title": "US House crypto tax package omits mining, staking reward deferral",
+      "title": "Bernstein expects \u2018aggressive\u2019 rulemaking from SEC, CFTC, following CLARITY Act failure",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/us-house-crypto-tax-bill-mining-staking-reward-deferral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 15 Sep 2026 10:04:21 +0000",
-      "summary": "The 114-page bill would change the tax treatment of crypto fees, stablecoins and lending while leaving existing reward-tax timing unchanged."
+      "url": "https://cointelegraph.com/news/bernstein-aggressive-rulemaking-sec-cftc-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 16 Sep 2026 12:36:20 +0000",
+      "summary": "Bernstein said the federal agencies will publish new regulations to compensate for the time lost negotiating the CLARITY Act, after its cloture vote failed on Tuesday."
     }
   ],
   "aiNews": [
     {
-      "title": "Meta expands subscription push with new AI-focused plans",
+      "title": "Your AI agents can now control your Google Home devices",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
-      "publishedAt": "Tue, 15 Sep 2026 17:05:24 +0000",
-      "summary": "Meta One bundles expanded access to the company\u2019s AI tools with premium features across Facebook, Instagram and WhatsApp."
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "publishedAt": "Wed, 16 Sep 2026 17:00:00 +0000",
+      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home a"
     },
     {
-      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "title": "Anthropic merges Claude chat and Cowork in one interface",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-      "publishedAt": "Tue, 15 Sep 2026 15:47:03 +0000",
-      "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China."
+      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+      "publishedAt": "Wed, 16 Sep 2026 16:30:00 +0000",
+      "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers."
     },
     {
-      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+      "title": "Robots are waiting for a ChatGPT moment: Nvidia\u2019s Les Karpas explains why at TechCrunch\u00a0Disrupt 2026",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
-      "publishedAt": "Tue, 15 Sep 2026 15:22:48 +0000",
-      "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C. "
+      "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+      "publishedAt": "Wed, 16 Sep 2026 15:00:00 +0000",
+      "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $"
     },
     {
-      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+      "title": "Threads\u2019 new features let podcasters promote shows and reach listeners",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
-      "publishedAt": "Tue, 15 Sep 2026 14:42:37 +0000",
-      "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI."
+      "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
+      "publishedAt": "Wed, 16 Sep 2026 14:24:58 +0000",
+      "summary": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger h"
     },
     {
-      "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+      "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
-      "publishedAt": "Tue, 15 Sep 2026 14:30:00 +0000",
-      "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock"
+      "url": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
+      "publishedAt": "Wed, 16 Sep 2026 14:15:00 +0000",
+      "summary": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ult"
     }
   ],
   "techMovers": [
     {
       "ticker": "COIN",
       "name": "Coinbase",
-      "price": 179.28,
-      "change": -12.17,
-      "changePercent": -6.36
-    },
-    {
-      "ticker": "SNOW",
-      "name": "Snowflake Inc",
-      "price": 323.58,
-      "change": -8.77,
-      "changePercent": -2.64
-    },
-    {
-      "ticker": "NFLX",
-      "name": "Netflix Inc",
-      "price": 78.27,
-      "change": -2.05,
-      "changePercent": -2.55
+      "price": 165.59,
+      "change": -6.52,
+      "changePercent": -3.79
     },
     {
       "ticker": "AMD",
       "name": "AMD Inc",
-      "price": 504.14,
-      "change": 10.73,
-      "changePercent": 2.17
+      "price": 522.13,
+      "change": 17.93,
+      "changePercent": 3.56
     },
     {
-      "ticker": "AMZN",
-      "name": "Amazon.com",
-      "price": 248.57,
-      "change": -4.97,
-      "changePercent": -1.96
+      "ticker": "SNOW",
+      "name": "Snowflake Inc",
+      "price": 332.7,
+      "change": 9.72,
+      "changePercent": 3.01
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "price": 143.62,
+      "change": 3.27,
+      "changePercent": 2.33
+    },
+    {
+      "ticker": "CRM",
+      "name": "Salesforce Inc",
+      "price": 251.18,
+      "change": -4.47,
+      "changePercent": -1.75
     }
   ],
-  "fearGreedIndex": 69,
+  "fearGreedIndex": 51,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 375.01,
-    "change": -0.27,
-    "changePercent": -0.07
+    "price": 371.48,
+    "change": -4.14,
+    "changePercent": -1.1
   },
   "sectors": [
     {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": 2.25
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 0.19
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": -0.12
-    },
-    {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": -0.21
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": -0.48
+      "changePercent": 0.85
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": -0.51
+      "changePercent": 0.76
     },
     {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": -0.66
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": 0.47
     },
     {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": -0.79
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": 0.44
     },
     {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": -0.82
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": -1.04
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": 0.43
     },
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": -1.46
-    }
-  ],
-  "economicCalendar": [
-    {
-      "date": "2026-09-15",
-      "time": "08:30 ET",
-      "event": "Retail Sales",
-      "importance": "medium",
-      "description": "Monthly consumer spending data"
+      "changePercent": 0.39
     },
     {
-      "date": "2026-09-16",
-      "time": "14:00 ET",
-      "event": "FOMC Interest Rate Decision",
-      "importance": "high",
-      "description": "Federal Reserve interest rate announcement and policy statement"
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": 0.35
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": 0.27
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -0.01
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": -0.59
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": -1.84
     }
   ],
+  "economicCalendar": [],
   "marketIndicators": [
     {
       "label": "S&P 500",
