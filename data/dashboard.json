@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-09-16T17:26:33.994656+00:00",
+  "lastUpdated": "2026-09-17T17:26:25.950188+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "EU chief backs plan for Canada to become 'associate member'",
+      "title": "Canada welcomes EU proposal to become 'associate member'",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 12:36:51 GMT",
-      "summary": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump."
+      "url": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 17 Sep 2026 12:27:18 GMT",
+      "summary": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\"."
     },
     {
-      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+      "title": "Ninth woman's body found as South African police investigate string of deaths",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 17:16:47 GMT",
-      "summary": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year."
+      "url": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 17 Sep 2026 13:44:07 GMT",
+      "summary": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid."
     },
     {
-      "title": "US accuses Russia of trying to kill Ukrainian allies overseas",
+      "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 12:26:00 GMT",
-      "summary": "The FBI says five men \"conspired to intimidate, threaten, or murder people on US soil and around the world\"."
+      "url": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 17 Sep 2026 05:00:18 GMT",
+      "summary": "Austin Tice\u2019s abduction was approved by Syria\u2019s former leader Bashar al-Assad, a source claims."
     },
     {
-      "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+      "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 10:02:05 GMT",
-      "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity."
+      "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 17 Sep 2026 08:22:12 GMT",
+      "summary": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".\n"
     },
     {
-      "title": "Eight German state premiers back Merz amid speculation over future",
+      "title": "Swedish PM Kristersson resigns after election loss",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 14:50:26 GMT",
-      "summary": "Christian Democratic Union leadership throws its weight behind the chancellor ahead of two state elections this weekend."
+      "url": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 17 Sep 2026 12:41:05 GMT",
+      "summary": "Left-wing opposition parties led by Magdalena Andersson look set to form the next government."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 75648,
-      "change24h": -0.87713,
-      "marketCap": 1519226312401,
+      "price": 76839,
+      "change24h": 1.57332,
+      "marketCap": 1543633345922,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2387.56,
-      "change24h": -1.26881,
-      "marketCap": 291386996661,
+      "price": 2471.91,
+      "change24h": 3.53207,
+      "marketCap": 301742969625,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Anchorage expands institutional custody to Etherlink, tokenized uranium",
+      "title": "Is there any chance left to save the CLARITY Act?",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/anchorage-digital-brings-tokenized-uranium-custody-to-federally-chartered-crypto-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 16 Sep 2026 16:03:35 +0000",
-      "summary": "Anchorage Digital Bank added custody support for Etherlink and several Etherlink-based assets, including xU3O8, a token representing physical uranium."
+      "url": "https://cointelegraph.com/magazine/is-there-any-chance-left-to-save-the-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 17 Sep 2026 17:00:00 +0000",
+      "summary": "CLARITY isn\u2019t dead after failing a key Senate vote, but with time running short and Democrats still demanding changes, its path forward is narrowing."
     },
     {
-      "title": "Coinbase faces greater fallout from CLARITY Act setback: Saxo",
+      "title": "Bitcoin coils near $76.5K as US stocks rebound from Fed rate hike",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/coinbase-clarity-act-exposure-saxo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 16 Sep 2026 15:52:17 +0000",
-      "summary": "A strategist at the Danish bank said Coinbase has more at stake in the CLARITY setback because its trading business is directly exposed to US market-structure rules.\n"
+      "url": "https://cointelegraph.com/markets/bitcoin-coils-near-765k-as-us-stocks-rebound-from-fed-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 17 Sep 2026 16:22:23 +0000",
+      "summary": "Bitcoin made modest daily gains as US stocks saw upside in the aftermath of the US Federal Reserve\u2019s first interest-rate hike since July 2023.\n"
     },
     {
-      "title": "Bitcoin awaits Fed rate decision below $76K as analysis discounts \u2018dovish surprise\u2019 odds",
+      "title": "Zcash miner Fortitude taps former Hut 8 CEO to lead ahead of public listing",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-awaits-fed-rate-decision-below-76k-as-analysis-discounts-dovish-surprise-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 16 Sep 2026 15:30:49 +0000",
-      "summary": "Bitcoin price support materialized around $68,000 as markets saw a 93% chance of the Fed hiking rates by 0.25% on Wednesday."
+      "url": "https://cointelegraph.com/news/former-hut-8-ceo-jaime-leverton-to-lead-zcash-miner-fortitude-ahead-of-nasdaq-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 17 Sep 2026 15:58:33 +0000",
+      "summary": "Former Hut 8 CEO Jaime Leverton will take the helm at Fortitude as the Zcash-focused miner expands its operations and moves toward a planned public listing."
     },
     {
-      "title": "Revolut ID thefts highlight KYC\u2019s dangers: Here\u2019s how to fix it",
+      "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/magazine/revolut-id-thefts-highlight-kycs-dangers-heres-how-to-fix-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 16 Sep 2026 13:30:00 +0000",
-      "summary": "Zero-knowledge technology could let companies verify who you are without storing your identity documents. So why isn\u2019t it already standard practice?"
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 17 Sep 2026 13:53:14 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Bernstein expects \u2018aggressive\u2019 rulemaking from SEC, CFTC, following CLARITY Act failure",
+      "title": "OG.com cleared by SEC to offer single-stock futures, says Crypto.com CEO",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bernstein-aggressive-rulemaking-sec-cftc-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 16 Sep 2026 12:36:20 +0000",
-      "summary": "Bernstein said the federal agencies will publish new regulations to compensate for the time lost negotiating the CLARITY Act, after its cloture vote failed on Tuesday."
+      "url": "https://cointelegraph.com/news/ogcom-cleared-sec-stock-futures-cryptocom-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 17 Sep 2026 13:35:57 +0000",
+      "summary": "Crypto.com\u2019s CEO said its sister exchange was cleared to offer US access to single-stock perpetual futures, as the latest platform to bridge TradFi and digital assets."
     }
   ],
   "aiNews": [
     {
-      "title": "Your AI agents can now control your Google Home devices",
+      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-      "publishedAt": "Wed, 16 Sep 2026 17:00:00 +0000",
-      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home a"
+      "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+      "publishedAt": "Thu, 17 Sep 2026 17:15:59 +0000",
+      "summary": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models."
     },
     {
-      "title": "Anthropic merges Claude chat and Cowork in one interface",
+      "title": "Pinterest teases a new \u2018Restyle\u2019 feature that lets you redesign your room with AI",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-      "publishedAt": "Wed, 16 Sep 2026 16:30:00 +0000",
-      "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers."
+      "url": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
+      "publishedAt": "Thu, 17 Sep 2026 17:15:00 +0000",
+      "summary": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting and other changes in photos of their own rooms \u2014 potentially helping turn saved inspiration "
     },
     {
-      "title": "Robots are waiting for a ChatGPT moment: Nvidia\u2019s Les Karpas explains why at TechCrunch\u00a0Disrupt 2026",
+      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
-      "publishedAt": "Wed, 16 Sep 2026 15:00:00 +0000",
-      "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $"
+      "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+      "publishedAt": "Thu, 17 Sep 2026 14:06:14 +0000",
+      "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China\u2019s AI computing gap with the U.S."
     },
     {
-      "title": "Threads\u2019 new features let podcasters promote shows and reach listeners",
+      "title": "2 days left to exhibit at TechCrunch Disrupt 2026\u00a0",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
-      "publishedAt": "Wed, 16 Sep 2026 14:24:58 +0000",
-      "summary": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger h"
+      "url": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "publishedAt": "Thu, 17 Sep 2026 14:00:00 +0000",
+      "summary": "Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13\u201315."
     },
     {
-      "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+      "title": "Rival AI agents, Instinct and Meta\u2019s Muse, both add the ability to make calls",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
-      "publishedAt": "Wed, 16 Sep 2026 14:15:00 +0000",
-      "summary": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ult"
+      "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+      "publishedAt": "Thu, 17 Sep 2026 13:46:16 +0000",
+      "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions. "
     }
   ],
   "techMovers": [
     {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "price": 165.59,
-      "change": -6.52,
-      "changePercent": -3.79
-    },
-    {
       "ticker": "AMD",
       "name": "AMD Inc",
-      "price": 522.13,
-      "change": 17.93,
-      "changePercent": 3.56
+      "price": 547.94,
+      "change": 35.44,
+      "changePercent": 6.92
     },
     {
-      "ticker": "SNOW",
-      "name": "Snowflake Inc",
-      "price": 332.7,
-      "change": 9.72,
-      "changePercent": 3.01
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "price": 172.12,
+      "change": 7.61,
+      "changePercent": 4.62
     },
     {
       "ticker": "ORCL",
       "name": "Oracle Corp",
-      "price": 143.62,
-      "change": 3.27,
-      "changePercent": 2.33
+      "price": 149.64,
+      "change": 6.48,
+      "changePercent": 4.53
     },
     {
       "ticker": "CRM",
       "name": "Salesforce Inc",
-      "price": 251.18,
-      "change": -4.47,
-      "changePercent": -1.75
+      "price": 243.11,
+      "change": -7.43,
+      "changePercent": -2.97
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "price": 348.73,
+      "change": 9.22,
+      "changePercent": 2.72
     }
   ],
-  "fearGreedIndex": 51,
+  "fearGreedIndex": 50,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 371.48,
-    "change": -4.14,
-    "changePercent": -1.1
+    "price": 371.35,
+    "change": 0.42,
+    "changePercent": 0.11
   },
   "sectors": [
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": 0.85
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": 0.76
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": 0.47
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 0.44
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 0.43
+      "changePercent": 2.19
     },
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": 0.39
+      "changePercent": 1.34
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": 0.91
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": 0.35
+      "changePercent": 0.74
     },
     {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 0.27
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": -0.01
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": -0.59
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": 0.55
     },
     {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": -1.84
+      "changePercent": 0.48
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": 0.41
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": 0.21
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": 0.09
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 0.04
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -0.58
     }
   ],
   "economicCalendar": [],
