@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-09-17T17:26:25.950188+00:00",
+  "lastUpdated": "2026-09-18T16:55:11.706881+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Canada welcomes EU proposal to become 'associate member'",
+      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 17 Sep 2026 12:27:18 GMT",
-      "summary": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\"."
+      "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 18 Sep 2026 15:14:35 GMT",
+      "summary": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites."
     },
     {
-      "title": "Ninth woman's body found as South African police investigate string of deaths",
+      "title": "Three dead and eight injured in Philippines school shooting",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 17 Sep 2026 13:44:07 GMT",
-      "summary": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid."
+      "url": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 18 Sep 2026 11:01:46 GMT",
+      "summary": "The gunman is among the dead in what is the third school shooting in the country since June."
     },
     {
-      "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
+      "title": "Police begin operation to move migrants from Ceuta beaches",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 17 Sep 2026 05:00:18 GMT",
-      "summary": "Austin Tice\u2019s abduction was approved by Syria\u2019s former leader Bashar al-Assad, a source claims."
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 18 Sep 2026 11:59:42 GMT",
+      "summary": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site."
     },
     {
-      "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+      "title": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 17 Sep 2026 08:22:12 GMT",
-      "summary": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".\n"
+      "url": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 18 Sep 2026 11:49:46 GMT",
+      "summary": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision."
     },
     {
-      "title": "Swedish PM Kristersson resigns after election loss",
+      "title": "At least 17 killed after vehicle loaded with explosives rams Pakistan mosque",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 17 Sep 2026 12:41:05 GMT",
-      "summary": "Left-wing opposition parties led by Magdalena Andersson look set to form the next government."
+      "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 18 Sep 2026 15:08:12 GMT",
+      "summary": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility."
     }
   ],
   "cryptoAssets": [
@@ -43,198 +43,206 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 76839,
-      "change24h": 1.57332,
-      "marketCap": 1543633345922,
+      "price": 80837,
+      "change24h": 5.50328,
+      "marketCap": 1623832767824,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2471.91,
-      "change24h": 3.53207,
-      "marketCap": 301742969625,
+      "price": 2592.84,
+      "change24h": 5.30553,
+      "marketCap": 316600248826,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Is there any chance left to save the CLARITY Act?",
+      "title": "CFTC submits crypto market regulation plan for White House review  ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/magazine/is-there-any-chance-left-to-save-the-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 17 Sep 2026 17:00:00 +0000",
-      "summary": "CLARITY isn\u2019t dead after failing a key Senate vote, but with time running short and Democrats still demanding changes, its path forward is narrowing."
+      "url": "https://cointelegraph.com/news/cftc-submits-crypto-market-regulation-plan-for-white-house-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 18 Sep 2026 16:04:22 +0000",
+      "summary": "The US commodities regulator submitted a new crypto market regulatory action for White House review days after the Senate failed to advance the CLARITY Act.\n"
     },
     {
-      "title": "Bitcoin coils near $76.5K as US stocks rebound from Fed rate hike",
+      "title": "Bitcoin hits $81K as US bond yields rebound on global oil woes",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-coils-near-765k-as-us-stocks-rebound-from-fed-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 17 Sep 2026 16:22:23 +0000",
-      "summary": "Bitcoin made modest daily gains as US stocks saw upside in the aftermath of the US Federal Reserve\u2019s first interest-rate hike since July 2023.\n"
+      "url": "https://cointelegraph.com/markets/bitcoin-hits-81k-as-us-bond-yields-rebound-on-global-oil-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 18 Sep 2026 15:35:59 +0000",
+      "summary": "Bitcoin price action made swift gains at the start of Friday\u2019s Wall Street trading session as US 30-year bond yields began rising again."
     },
     {
-      "title": "Zcash miner Fortitude taps former Hut 8 CEO to lead ahead of public listing",
+      "title": "Banks double on EU MiCA crypto provider list as share hits 23%",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/former-hut-8-ceo-jaime-leverton-to-lead-zcash-miner-fortitude-ahead-of-nasdaq-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 17 Sep 2026 15:58:33 +0000",
-      "summary": "Former Hut 8 CEO Jaime Leverton will take the helm at Fortitude as the Zcash-focused miner expands its operations and moves toward a planned public listing."
+      "url": "https://cointelegraph.com/news/banks-double-eu-mica-crypto-register-esma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 18 Sep 2026 14:04:43 +0000",
+      "summary": "Banks now represent nearly one in four providers on ESMA\u2019s MiCA register after roughly doubling their presence since late June."
     },
     {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 17 Sep 2026 13:53:14 +0000",
+      "publishedAt": "Fri, 18 Sep 2026 13:34:11 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "OG.com cleared by SEC to offer single-stock futures, says Crypto.com CEO",
+      "title": "Ethereum Institutional signals support for Ethlabs\u2019 motion to reduce Ethereum block times",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ogcom-cleared-sec-stock-futures-cryptocom-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 17 Sep 2026 13:35:57 +0000",
-      "summary": "Crypto.com\u2019s CEO said its sister exchange was cleared to offer US access to single-stock perpetual futures, as the latest platform to bridge TradFi and digital assets."
+      "url": "https://cointelegraph.com/news/ethereum-institutional-support-ethlabs-reduce-ethereum-block-times?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 18 Sep 2026 12:40:04 +0000",
+      "summary": "The non-profit signaled support for reducing Ethereum block times, citing increasing institutional activity moving onto the smart-contract network."
     }
   ],
   "aiNews": [
     {
-      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
-      "publishedAt": "Thu, 17 Sep 2026 17:15:59 +0000",
-      "summary": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models."
+      "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+      "publishedAt": "Fri, 18 Sep 2026 16:35:49 +0000",
+      "summary": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation."
     },
     {
-      "title": "Pinterest teases a new \u2018Restyle\u2019 feature that lets you redesign your room with AI",
+      "title": "Open or closed AI? Nvidia\u2019s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
-      "publishedAt": "Thu, 17 Sep 2026 17:15:00 +0000",
-      "summary": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting and other changes in photos of their own rooms \u2014 potentially helping turn saved inspiration "
+      "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+      "publishedAt": "Fri, 18 Sep 2026 15:30:00 +0000",
+      "summary": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026. "
     },
     {
-      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+      "title": "Meta\u2019s Muse hits Mac, letting the AI take actions on your computer",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
-      "publishedAt": "Thu, 17 Sep 2026 14:06:14 +0000",
-      "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China\u2019s AI computing gap with the U.S."
+      "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+      "publishedAt": "Fri, 18 Sep 2026 15:22:48 +0000",
+      "summary": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf. "
     },
     {
-      "title": "2 days left to exhibit at TechCrunch Disrupt 2026\u00a0",
+      "title": "Robinhood\u2019s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-      "publishedAt": "Thu, 17 Sep 2026 14:00:00 +0000",
-      "summary": "Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13\u201315."
+      "url": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
+      "publishedAt": "Fri, 18 Sep 2026 15:00:00 +0000",
+      "summary": "Robinhood\u2019s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT."
     },
     {
-      "title": "Rival AI agents, Instinct and Meta\u2019s Muse, both add the ability to make calls",
+      "title": "Researchers used Anthropic\u2019s Claude to hack into OpenAI",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
-      "publishedAt": "Thu, 17 Sep 2026 13:46:16 +0000",
-      "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions. "
+      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "publishedAt": "Fri, 18 Sep 2026 14:00:14 +0000",
+      "summary": "Security researchers used Anthropic\u2019s Claude to exploit vulnerabilities in OpenAI\u2019s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws."
     }
   ],
   "techMovers": [
     {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 547.94,
-      "change": 35.44,
-      "changePercent": 6.92
-    },
-    {
       "ticker": "COIN",
       "name": "Coinbase",
-      "price": 172.12,
-      "change": 7.61,
-      "changePercent": 4.62
+      "price": 194.28,
+      "change": 20.31,
+      "changePercent": 11.67
+    },
+    {
+      "ticker": "NFLX",
+      "name": "Netflix Inc",
+      "price": 71.95,
+      "change": -3.36,
+      "changePercent": -4.46
     },
     {
       "ticker": "ORCL",
       "name": "Oracle Corp",
-      "price": 149.64,
-      "change": 6.48,
-      "changePercent": 4.53
-    },
-    {
-      "ticker": "CRM",
-      "name": "Salesforce Inc",
-      "price": 243.11,
-      "change": -7.43,
-      "changePercent": -2.97
+      "price": 145.57,
+      "change": -5.01,
+      "changePercent": -3.33
     },
     {
       "ticker": "AVGO",
       "name": "Broadcom Inc",
-      "price": 348.73,
-      "change": 9.22,
-      "changePercent": 2.72
+      "price": 354.42,
+      "change": 7.12,
+      "changePercent": 2.05
+    },
+    {
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "price": 670.33,
+      "change": -11.98,
+      "changePercent": -1.76
     }
   ],
-  "fearGreedIndex": 50,
+  "fearGreedIndex": 56,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 371.35,
-    "change": 0.42,
-    "changePercent": 0.11
+    "price": 369.99,
+    "change": 0.06,
+    "changePercent": 0.02
   },
   "sectors": [
     {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": 2.19
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 1.34
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 0.91
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": 0.74
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 0.55
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": 0.48
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": 0.41
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": -0.0
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": 0.21
+      "changePercent": -0.04
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": -0.08
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": -0.18
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -0.24
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -0.36
     },
     {
       "ticker": "XLP",
       "name": "Consumer Staples",
-      "changePercent": 0.09
+      "changePercent": -0.38
     },
     {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 0.04
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -0.45
     },
     {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": -0.58
+      "changePercent": -0.94
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -1.16
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": -1.3
     }
   ],
-  "economicCalendar": [],
+  "economicCalendar": [
+    {
+      "date": "2026-10-02",
+      "time": "08:30 ET",
+      "event": "Non-Farm Payrolls",
+      "importance": "high",
+      "description": "Monthly jobs report - employment and wage data"
+    }
+  ],
   "marketIndicators": [
     {
       "label": "S&P 500",
