@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-09-18T16:55:11.706881+00:00",
-  "marketStatus": "Open",
+  "lastUpdated": "2026-09-19T16:12:19.971640+00:00",
+  "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 18 Sep 2026 15:14:35 GMT",
-      "summary": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites."
+      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 19 Sep 2026 11:36:55 GMT",
+      "summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory. "
     },
     {
-      "title": "Three dead and eight injured in Philippines school shooting",
+      "title": "Trump says he is banning CNN and Politico from White House",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 18 Sep 2026 11:01:46 GMT",
-      "summary": "The gunman is among the dead in what is the third school shooting in the country since June."
+      "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 19 Sep 2026 05:36:36 GMT",
+      "summary": "The US president has had a tense and fiery relationship with the US media throughout his political career."
     },
     {
-      "title": "Police begin operation to move migrants from Ceuta beaches",
+      "title": "Google's Gemini AI hacked three companies in security test",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 18 Sep 2026 11:59:42 GMT",
-      "summary": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site."
+      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 19 Sep 2026 13:39:32 GMT",
+      "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC."
     },
     {
-      "title": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
+      "title": "Trump signs sweeping Russia sanctions bill ",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 18 Sep 2026 11:49:46 GMT",
-      "summary": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision."
+      "url": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 18 Sep 2026 22:05:47 GMT",
+      "summary": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine. "
     },
     {
-      "title": "At least 17 killed after vehicle loaded with explosives rams Pakistan mosque",
+      "title": "Grim discoveries of murdered women spark fear in South Africa",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 18 Sep 2026 15:08:12 GMT",
-      "summary": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility."
+      "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 18 Sep 2026 23:04:41 GMT",
+      "summary": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 80837,
-      "change24h": 5.50328,
-      "marketCap": 1623832767824,
+      "price": 81593,
+      "change24h": 1.06812,
+      "marketCap": 1638799008538,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2592.84,
-      "change24h": 5.30553,
-      "marketCap": 316600248826,
+      "price": 2641.65,
+      "change24h": 2.00956,
+      "marketCap": 322388576282,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "CFTC submits crypto market regulation plan for White House review  ",
+      "title": "Bastion wins conditional OCC approval for national trust bank charter",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/cftc-submits-crypto-market-regulation-plan-for-white-house-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 18 Sep 2026 16:04:22 +0000",
-      "summary": "The US commodities regulator submitted a new crypto market regulatory action for White House review days after the Senate failed to advance the CLARITY Act.\n"
+      "url": "https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 19 Sep 2026 11:47:29 +0000",
+      "summary": "Bastion Platforms National Trust Company will offer stablecoin custody and wallets, payment infrastructure and white-label issuance from a single federally regulated entity."
     },
     {
-      "title": "Bitcoin hits $81K as US bond yields rebound on global oil woes",
+      "title": "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-hits-81k-as-us-bond-yields-rebound-on-global-oil-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 18 Sep 2026 15:35:59 +0000",
-      "summary": "Bitcoin price action made swift gains at the start of Friday\u2019s Wall Street trading session as US 30-year bond yields began rising again."
-    },
-    {
-      "title": "Banks double on EU MiCA crypto provider list as share hits 23%",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/banks-double-eu-mica-crypto-register-esma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 18 Sep 2026 14:04:43 +0000",
-      "summary": "Banks now represent nearly one in four providers on ESMA\u2019s MiCA register after roughly doubling their presence since late June."
+      "url": "https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 19 Sep 2026 07:50:58 +0000",
+      "summary": "Former banking official gets four years in prison over false letters of credit and accepting $470,000 in cryptocurrency bribes."
     },
     {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 18 Sep 2026 13:34:11 +0000",
+      "publishedAt": "Fri, 18 Sep 2026 21:00:00 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Ethereum Institutional signals support for Ethlabs\u2019 motion to reduce Ethereum block times",
+      "title": "Coinbase files to bring single-stock perpetual futures to US market",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ethereum-institutional-support-ethlabs-reduce-ethereum-block-times?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 18 Sep 2026 12:40:04 +0000",
-      "summary": "The non-profit signaled support for reducing Ethereum block times, citing increasing institutional activity moving onto the smart-contract network."
+      "url": "https://cointelegraph.com/news/coinbase-files-to-bring-single-stock-perpetual-futures-to-us-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 18 Sep 2026 19:53:54 +0000",
+      "summary": "Coinbase wants to bring 24/5 perpetual futures trading to individual US stocks, with its proposed contracts now awaiting regulatory approval."
+    },
+    {
+      "title": "Binance launches 24/7 FX perps with weekend pricing system",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/binance-expands-tradfi-push-with-247-foreign-exchange-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 18 Sep 2026 19:06:30 +0000",
+      "summary": "Binance is joining a growing number of crypto exchanges offering around-the-clock exposure to foreign exchange markets through perpetual futures.\n"
     }
   ],
   "aiNews": [
     {
-      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+      "title": "AI safety conversations have gotten unbelievable",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
-      "publishedAt": "Fri, 18 Sep 2026 16:35:49 +0000",
-      "summary": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation."
+      "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+      "publishedAt": "Sat, 19 Sep 2026 15:00:00 +0000",
+      "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction."
     },
     {
-      "title": "Open or closed AI? Nvidia\u2019s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+      "title": "Petlibro\u2019s new AI-powered feeder is a game changer for multi-cat homes",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
-      "publishedAt": "Fri, 18 Sep 2026 15:30:00 +0000",
-      "summary": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026. "
+      "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+      "publishedAt": "Sat, 19 Sep 2026 15:00:00 +0000",
+      "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when \u2014 though the fanciest health-monitoring features "
     },
     {
-      "title": "Meta\u2019s Muse hits Mac, letting the AI take actions on your computer",
+      "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
-      "publishedAt": "Fri, 18 Sep 2026 15:22:48 +0000",
-      "summary": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf. "
+      "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
+      "publishedAt": "Sat, 19 Sep 2026 14:00:00 +0000",
+      "summary": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.."
     },
     {
-      "title": "Robinhood\u2019s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
-      "publishedAt": "Fri, 18 Sep 2026 15:00:00 +0000",
-      "summary": "Robinhood\u2019s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT."
+      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "publishedAt": "Sat, 19 Sep 2026 13:00:00 +0000",
+      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.  "
     },
     {
-      "title": "Researchers used Anthropic\u2019s Claude to hack into OpenAI",
+      "title": "India forces caller-ID apps to feed spam reports to telcos",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-      "publishedAt": "Fri, 18 Sep 2026 14:00:14 +0000",
-      "summary": "Security researchers used Anthropic\u2019s Claude to exploit vulnerabilities in OpenAI\u2019s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws."
+      "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+      "publishedAt": "Sat, 19 Sep 2026 01:00:00 +0000",
+      "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators."
     }
   ],
   "techMovers": [
     {
       "ticker": "COIN",
       "name": "Coinbase",
-      "price": 194.28,
-      "change": 20.31,
-      "changePercent": 11.67
+      "price": 194.25,
+      "change": 20.28,
+      "changePercent": 11.66
     },
     {
       "ticker": "NFLX",
       "name": "Netflix Inc",
-      "price": 71.95,
-      "change": -3.36,
-      "changePercent": -4.46
-    },
-    {
-      "ticker": "ORCL",
-      "name": "Oracle Corp",
-      "price": 145.57,
-      "change": -5.01,
-      "changePercent": -3.33
+      "price": 71.79,
+      "change": -3.52,
+      "changePercent": -4.67
     },
     {
       "ticker": "AVGO",
       "name": "Broadcom Inc",
-      "price": 354.42,
-      "change": 7.12,
-      "changePercent": 2.05
+      "price": 357.61,
+      "change": 10.31,
+      "changePercent": 2.97
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 559.82,
+      "change": 14.73,
+      "changePercent": 2.7
     },
     {
       "ticker": "META",
       "name": "Meta Platforms",
-      "price": 670.33,
-      "change": -11.98,
-      "changePercent": -1.76
+      "price": 665.75,
+      "change": -16.56,
+      "changePercent": -2.43
     }
   ],
-  "fearGreedIndex": 56,
+  "fearGreedIndex": 71,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 369.99,
-    "change": 0.06,
-    "changePercent": 0.02
+    "price": 368.29,
+    "change": -1.64,
+    "changePercent": -0.44
   },
   "sectors": [
     {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": -0.0
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": 0.82
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
+      "changePercent": 0.44
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
       "changePercent": -0.04
-    },
-    {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": -0.08
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": -0.18
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": -0.24
     },
     {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": -0.36
+      "changePercent": -0.25
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": -0.26
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -0.32
     },
     {
       "ticker": "XLP",
       "name": "Consumer Staples",
-      "changePercent": -0.38
+      "changePercent": -0.83
     },
     {
       "ticker": "XLRE",
       "name": "Real Estate",
-      "changePercent": -0.45
+      "changePercent": -0.95
     },
     {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": -0.94
+      "changePercent": -1.37
     },
     {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": -1.16
+      "changePercent": -1.42
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": -1.3
+      "changePercent": -1.42
     }
   ],
   "economicCalendar": [
