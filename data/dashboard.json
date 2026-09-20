@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-09-19T16:12:19.971640+00:00",
+  "lastUpdated": "2026-09-20T16:40:14.162378+00:00",
   "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 19 Sep 2026 11:36:55 GMT",
-      "summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory. "
+      "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 20 Sep 2026 10:45:39 GMT",
+      "summary": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died."
     },
     {
-      "title": "Trump says he is banning CNN and Politico from White House",
+      "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 19 Sep 2026 05:36:36 GMT",
-      "summary": "The US president has had a tense and fiery relationship with the US media throughout his political career."
+      "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 20 Sep 2026 04:49:11 GMT",
+      "summary": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage."
     },
     {
-      "title": "Google's Gemini AI hacked three companies in security test",
+      "title": "German elections under way which could decide fate of Chancellor Merz",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 19 Sep 2026 13:39:32 GMT",
-      "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC."
+      "url": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 20 Sep 2026 07:57:32 GMT",
+      "summary": "The chancellor is facing intense political pressure which will increase if his party struggles in Sunday's polls."
     },
     {
-      "title": "Trump signs sweeping Russia sanctions bill ",
+      "title": "Trump says his planned triumphal arch will double as a military complex to store ammunition",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 18 Sep 2026 22:05:47 GMT",
-      "summary": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine. "
+      "url": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 20 Sep 2026 16:36:43 GMT",
+      "summary": "Trump said the updated plans were at the request of the US military and for national security purposes. "
     },
     {
-      "title": "Grim discoveries of murdered women spark fear in South Africa",
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 18 Sep 2026 23:04:41 GMT",
-      "summary": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women."
+      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 19 Sep 2026 23:49:26 GMT",
+      "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital."
     }
   ],
   "cryptoAssets": [
@@ -43,65 +43,86 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 81593,
-      "change24h": 1.06812,
-      "marketCap": 1638799008538,
+      "price": 81320,
+      "change24h": -0.598,
+      "marketCap": 1633248502137,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2641.65,
-      "change24h": 2.00956,
-      "marketCap": 322388576282,
+      "price": 2632.29,
+      "change24h": -0.59489,
+      "marketCap": 321201186264,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Bastion wins conditional OCC approval for national trust bank charter",
+      "title": "Trump says US will form \u2018AI Force\u2019 and appoint AI czar: Reports",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 19 Sep 2026 11:47:29 +0000",
-      "summary": "Bastion Platforms National Trust Company will offer stablecoin custody and wallets, payment infrastructure and white-label issuance from a single federally regulated entity."
+      "url": "https://cointelegraph.com/news/trump-says-us-will-form-ai-force-and-appoint-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 20 Sep 2026 12:00:52 +0000",
+      "summary": "Trump posted on Truth Social that his new project would manage the fast-growing sector without adding regulations that could slow innovation."
     },
     {
-      "title": "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
+      "title": "Grayscale\u2019s Zcash ETF files for 3-for-1 forward share split",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 19 Sep 2026 07:50:58 +0000",
-      "summary": "Former banking official gets four years in prison over false letters of credit and accepting $470,000 in cryptocurrency bribes."
+      "url": "https://cointelegraph.com/news/grayscales-zcash-etf-files-for-3-for-1-forward-share-split?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 20 Sep 2026 09:14:27 +0000",
+      "summary": "At the close of trading on Sept. 28, shareholders will receive two extra shares for each one they hold."
     },
     {
-      "title": "Here\u2019s what happened in crypto today",
+      "title": "Anthropic tabs Accenture\u00a0as embedded evaluator to help with AI slowdown proposal \u00a0",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 18 Sep 2026 21:00:00 +0000",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+      "url": "https://cointelegraph.com/news/anthropic-tabs-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 20 Sep 2026 07:51:24 +0000",
+      "summary": "The partnership is non-exclusive, and Anthropic expects to announce other evaluators in forthcoming weeks with which it will also work."
     },
     {
-      "title": "Coinbase files to bring single-stock perpetual futures to US market",
+      "title": "REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/coinbase-files-to-bring-single-stock-perpetual-futures-to-us-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 18 Sep 2026 19:53:54 +0000",
-      "summary": "Coinbase wants to bring 24/5 perpetual futures trading to individual US stocks, with its proposed contracts now awaiting regulatory approval."
+      "url": "https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 19 Sep 2026 19:18:00 +0000",
+      "summary": "The new ASSX fund offers 2x daily exposure to Strive shares, giving traders a leveraged way to bet on the Bitcoin treasury company.\n"
     },
     {
-      "title": "Binance launches 24/7 FX perps with weekend pricing system",
+      "title": "Kalshi joins Coinbase with own filing for US stock perpetual futures",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/binance-expands-tradfi-push-with-247-foreign-exchange-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 18 Sep 2026 19:06:30 +0000",
-      "summary": "Binance is joining a growing number of crypto exchanges offering around-the-clock exposure to foreign exchange markets through perpetual futures.\n"
+      "url": "https://cointelegraph.com/news/kalshi-joins-coinbase-with-filing-for-us-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 19 Sep 2026 18:40:00 +0000",
+      "summary": "Kalshi\u2019s proposal would bring perpetual futures tied to individual stocks to US traders, as Coinbase and Bitnomial pursue similar products.\n"
     }
   ],
   "aiNews": [
     {
-      "title": "AI safety conversations have gotten unbelievable",
+      "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-      "publishedAt": "Sat, 19 Sep 2026 15:00:00 +0000",
-      "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction."
+      "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "publishedAt": "Sun, 20 Sep 2026 14:00:00 +0000",
+      "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then."
+    },
+    {
+      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "publishedAt": "Sat, 19 Sep 2026 20:39:13 +0000",
+      "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff."
+    },
+    {
+      "title": "Trump says it\u2019s time to rebrand AI with a new name \u2014 and he\u2019s also creating an AI Force",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "publishedAt": "Sat, 19 Sep 2026 19:57:47 +0000",
+      "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax."
+    },
+    {
+      "title": "Google\u2019s Gemini is the latest AI model to hack other companies",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "publishedAt": "Sat, 19 Sep 2026 17:30:00 +0000",
+      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately."
     },
     {
       "title": "Petlibro\u2019s new AI-powered feeder is a game changer for multi-cat homes",
@@ -109,27 +130,6 @@
       "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
       "publishedAt": "Sat, 19 Sep 2026 15:00:00 +0000",
       "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when \u2014 though the fanciest health-monitoring features "
-    },
-    {
-      "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
-      "publishedAt": "Sat, 19 Sep 2026 14:00:00 +0000",
-      "summary": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.."
-    },
-    {
-      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-      "publishedAt": "Sat, 19 Sep 2026 13:00:00 +0000",
-      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.  "
-    },
-    {
-      "title": "India forces caller-ID apps to feed spam reports to telcos",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-      "publishedAt": "Sat, 19 Sep 2026 01:00:00 +0000",
-      "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators."
     }
   ],
   "techMovers": [
