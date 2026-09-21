@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-09-20T16:40:14.162378+00:00",
-  "marketStatus": "Closed",
+  "lastUpdated": "2026-09-21T18:26:40.389500+00:00",
+  "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+      "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 20 Sep 2026 10:45:39 GMT",
-      "summary": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died."
+      "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 14:14:16 GMT",
+      "summary": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti."
     },
     {
-      "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
+      "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 20 Sep 2026 04:49:11 GMT",
-      "summary": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage."
+      "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 15:58:53 GMT",
+      "summary": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit."
     },
     {
-      "title": "German elections under way which could decide fate of Chancellor Merz",
+      "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 20 Sep 2026 07:57:32 GMT",
-      "summary": "The chancellor is facing intense political pressure which will increase if his party struggles in Sunday's polls."
+      "url": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 16:54:56 GMT",
+      "summary": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\""
     },
     {
-      "title": "Trump says his planned triumphal arch will double as a military complex to store ammunition",
+      "title": "First UK charges brought over 1994 Rwanda genocide",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 20 Sep 2026 16:36:43 GMT",
-      "summary": "Trump said the updated plans were at the request of the US military and for national security purposes. "
+      "url": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 17:48:23 GMT",
+      "summary": "Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates\u2019 Court on Tuesday charged with seven offences."
     },
     {
-      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan ",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 19 Sep 2026 23:49:26 GMT",
-      "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital."
+      "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 14:06:12 GMT",
+      "summary": "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded in most areas. "
     }
   ],
   "cryptoAssets": [
@@ -43,170 +43,180 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 81320,
-      "change24h": -0.598,
-      "marketCap": 1633248502137,
+      "price": 86012,
+      "change24h": 5.97083,
+      "marketCap": 1728045636181,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2632.29,
-      "change24h": -0.59489,
-      "marketCap": 321201186264,
+      "price": 2748.9,
+      "change24h": 4.46119,
+      "marketCap": 335617230597,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Trump says US will form \u2018AI Force\u2019 and appoint AI czar: Reports",
+      "title": "Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again: NYT",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/trump-says-us-will-form-ai-force-and-appoint-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 20 Sep 2026 12:00:52 +0000",
-      "summary": "Trump posted on Truth Social that his new project would manage the fast-growing sector without adding regulations that could slow innovation."
+      "url": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-sherrod-brown-ohio-senate-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 21 Sep 2026 18:15:22 +0000",
+      "summary": "The digital asset-aligned PAC joined other groups to spend more than a combined $300 million in the 2024 Ohio Senate race, resulting in Sherrod Brown\u2019s loss to Bernie Moreno."
     },
     {
-      "title": "Grayscale\u2019s Zcash ETF files for 3-for-1 forward share split",
+      "title": "Circle launches Bitcoin-backed USDC borrowing for institutional clients",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/grayscales-zcash-etf-files-for-3-for-1-forward-share-split?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 20 Sep 2026 09:14:27 +0000",
-      "summary": "At the close of trading on Sept. 28, shareholders will receive two extra shares for each one they hold."
+      "url": "https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 21 Sep 2026 16:56:53 +0000",
+      "summary": "Circle is bringing Bitcoin-backed borrowing to institutional clients, allowing them to tap BTC holdings for USDC liquidity without selling their Bitcoin."
     },
     {
-      "title": "Anthropic tabs Accenture\u00a0as embedded evaluator to help with AI slowdown proposal \u00a0",
+      "title": "Bitcoin price tags $86K as analysis sees crypto in \u2018new bull market\u2019",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/anthropic-tabs-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 20 Sep 2026 07:51:24 +0000",
-      "summary": "The partnership is non-exclusive, and Anthropic expects to announce other evaluators in forthcoming weeks with which it will also work."
+      "url": "https://cointelegraph.com/markets/bitcoin-price-86k-analysis-sees-crypto-new-bull-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 21 Sep 2026 16:39:40 +0000",
+      "summary": "Bitcoin crossed the $86,000 mark for the first time since late January as falling oil prices and concerns over supply lifted US stocks."
     },
     {
-      "title": "REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive",
+      "title": "Crypto Biz: CLARITY Act setback puts Coinbase in the spotlight",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 19 Sep 2026 19:18:00 +0000",
-      "summary": "The new ASSX fund offers 2x daily exposure to Strive shares, giving traders a leveraged way to bet on the Bitcoin treasury company.\n"
+      "url": "https://cointelegraph.com/news/crypto-biz-clarity-act-coinbase-sec-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 21 Sep 2026 15:08:17 +0000",
+      "summary": "Coinbase draws scrutiny after the CLARITY Act stalls, while the SEC moves ahead with tokenized stocks and crypto firms push deeper into payments."
     },
     {
-      "title": "Kalshi joins Coinbase with own filing for US stock perpetual futures",
+      "title": "Kyle Samani predicts SOL flippening, claims \u2018no one\u2019 uses ETH",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/kalshi-joins-coinbase-with-filing-for-us-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 19 Sep 2026 18:40:00 +0000",
-      "summary": "Kalshi\u2019s proposal would bring perpetual futures tied to individual stocks to US traders, as Coinbase and Bitnomial pursue similar products.\n"
+      "url": "https://cointelegraph.com/magazine/kyle-samani-predicts-sol-flippening-claims-no-one-uses-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 21 Sep 2026 13:30:00 +0000",
+      "summary": "Multicoin Capital co-founder Samani expects SOL to surpass Ether\u2019s market capitalization \u201cthis market cycle\u201d and argues that \u201ctoday, no one really uses Ethereum.\u201d"
     }
   ],
   "aiNews": [
     {
-      "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
+      "title": "Meta\u2019s AI agent has been blocked from using Amazon.com",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-      "publishedAt": "Sun, 20 Sep 2026 14:00:00 +0000",
-      "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then."
+      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "publishedAt": "Mon, 21 Sep 2026 17:55:18 +0000",
+      "summary": "Muse isn't welcome as a shopper anymore."
     },
     {
-      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-      "publishedAt": "Sat, 19 Sep 2026 20:39:13 +0000",
-      "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff."
+      "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+      "publishedAt": "Mon, 21 Sep 2026 16:38:51 +0000",
+      "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients\u2019 paperwork as it gives them up-to-the-minute data on their business\u2019s profit and loss."
     },
     {
-      "title": "Trump says it\u2019s time to rebrand AI with a new name \u2014 and he\u2019s also creating an AI Force",
+      "title": "Where will the next breakout startup come from? Benchmark\u2019s full partnership weighs in at TechCrunch Disrupt 2026",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-      "publishedAt": "Sat, 19 Sep 2026 19:57:47 +0000",
-      "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax."
+      "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+      "publishedAt": "Mon, 21 Sep 2026 15:00:00 +0000",
+      "summary": "Where will the next breakout startup come from? Benchmark\u2019s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now."
     },
     {
-      "title": "Google\u2019s Gemini is the latest AI model to hack other companies",
+      "title": "Google\u2019s $899 Googlebook is a bet that you\u2019ll buy a new laptop for Gemini",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "publishedAt": "Sat, 19 Sep 2026 17:30:00 +0000",
-      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately."
+      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "publishedAt": "Mon, 21 Sep 2026 14:39:22 +0000",
+      "summary": "Google\u2019s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience."
     },
     {
-      "title": "Petlibro\u2019s new AI-powered feeder is a game changer for multi-cat homes",
+      "title": "From first users to billions: Google\u2019s Robby Stein joins TechCrunch Disrupt 2026",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-      "publishedAt": "Sat, 19 Sep 2026 15:00:00 +0000",
-      "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when \u2014 though the fanciest health-monitoring features "
+      "url": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
+      "publishedAt": "Mon, 21 Sep 2026 14:30:00 +0000",
+      "summary": "From first users to billions: Google\u2019s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25."
     }
   ],
   "techMovers": [
     {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "price": 194.25,
-      "change": 20.28,
-      "changePercent": 11.66
-    },
-    {
-      "ticker": "NFLX",
-      "name": "Netflix Inc",
-      "price": 71.79,
-      "change": -3.52,
-      "changePercent": -4.67
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc",
-      "price": 357.61,
-      "change": 10.31,
-      "changePercent": 2.97
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "price": 746.82,
+      "change": 81.07,
+      "changePercent": 12.18
     },
     {
       "ticker": "AMD",
       "name": "AMD Inc",
-      "price": 559.82,
-      "change": 14.73,
-      "changePercent": 2.7
+      "price": 608.97,
+      "change": 49.15,
+      "changePercent": 8.78
     },
     {
-      "ticker": "META",
-      "name": "Meta Platforms",
-      "price": 665.75,
-      "change": -16.56,
-      "changePercent": -2.43
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "price": 203.04,
+      "change": 8.79,
+      "changePercent": 4.53
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla Inc",
+      "price": 374.48,
+      "change": 10.21,
+      "changePercent": 2.8
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp",
+      "price": 227.36,
+      "change": 5.09,
+      "changePercent": 2.29
     }
   ],
-  "fearGreedIndex": 71,
+  "fearGreedIndex": 70,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 368.29,
-    "change": -1.64,
-    "changePercent": -0.44
+    "price": 367.99,
+    "change": -0.3,
+    "changePercent": -0.08
   },
   "sectors": [
     {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": 3.91
+    },
+    {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": 0.82
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": 0.44
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": -0.04
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": -0.25
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": -0.26
+      "changePercent": 2.46
     },
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": -0.32
+      "changePercent": 1.18
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": 0.64
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": 0.3
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 0.11
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": 0.08
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -0.25
     },
     {
       "ticker": "XLP",
@@ -214,24 +224,14 @@
       "changePercent": -0.83
     },
     {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": -0.95
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": -1.37
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": -1.42
-    },
-    {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": -1.42
+      "changePercent": -0.84
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": -2.14
     }
   ],
   "economicCalendar": [
