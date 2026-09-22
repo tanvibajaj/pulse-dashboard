@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-09-21T18:26:40.389500+00:00",
+  "lastUpdated": "2026-09-22T17:30:11.445966+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+      "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 14:14:16 GMT",
-      "summary": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti."
+      "url": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 22 Sep 2026 14:03:20 GMT",
+      "summary": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270."
     },
     {
-      "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+      "title": "Developing El Ni\u00f1o becomes strongest on record weeks before expected peak",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 15:58:53 GMT",
-      "summary": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit."
+      "url": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 22 Sep 2026 12:54:14 GMT",
+      "summary": "Scientists say the developing El Ni\u00f1o is now the strongest on record with weather impacts already being felt around the world."
     },
     {
-      "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
+      "title": "Eleven injured in shooting outside Turkish school",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 16:54:56 GMT",
-      "summary": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\""
+      "url": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 22 Sep 2026 10:42:47 GMT",
+      "summary": "Footage appears to show a male in the area carrying a firearm, while officials say the attacker has been captured."
     },
     {
-      "title": "First UK charges brought over 1994 Rwanda genocide",
+      "title": "Lindsay Clancy's lawyer asks judge to investigate juror and check his phone",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 17:48:23 GMT",
-      "summary": "Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates\u2019 Court on Tuesday charged with seven offences."
+      "url": "https://www.bbc.co.uk/news/articles/cm4gvyw80dp2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 22 Sep 2026 13:58:42 GMT",
+      "summary": "The attorney wants the court to look at the juror's mobile phone use and answers on questionnaires."
     },
     {
-      "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan ",
+      "title": "Top South African policeman charged with sexual offences",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 14:06:12 GMT",
-      "summary": "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded in most areas. "
+      "url": "https://www.bbc.co.uk/news/articles/cwjdvgx77n0zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 22 Sep 2026 16:54:41 GMT",
+      "summary": "Shadrack Sibiya, who has made no comment, is alleged to have groomed a 16-year-old and raped an 18-year-old."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 86012,
-      "change24h": 5.97083,
-      "marketCap": 1728045636181,
+      "price": 86512,
+      "change24h": 0.69469,
+      "marketCap": 1737861232694,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2748.9,
-      "change24h": 4.46119,
-      "marketCap": 335617230597,
+      "price": 2750.42,
+      "change24h": 0.00204,
+      "marketCap": 335825882594,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again: NYT",
+      "title": "Zcash gets first European ETP following US ETF launch",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-sherrod-brown-ohio-senate-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 21 Sep 2026 18:15:22 +0000",
-      "summary": "The digital asset-aligned PAC joined other groups to spend more than a combined $300 million in the 2024 Ohio Senate race, resulting in Sherrod Brown\u2019s loss to Bernie Moreno."
+      "url": "https://cointelegraph.com/news/21shares-zcash-etp-europe-etherfi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 22 Sep 2026 16:21:44 +0000",
+      "summary": "21shares listed physically backed ZEC and ETHFI products on Euronext Paris and Amsterdam, as issuers broaden their offerings beyond major cryptocurrencies.\n"
     },
     {
-      "title": "Circle launches Bitcoin-backed USDC borrowing for institutional clients",
+      "title": "Bitcoin price seeks $86K as new support after oil dips below $90",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 21 Sep 2026 16:56:53 +0000",
-      "summary": "Circle is bringing Bitcoin-backed borrowing to institutional clients, allowing them to tap BTC holdings for USDC liquidity without selling their Bitcoin."
+      "url": "https://cointelegraph.com/markets/bitcoin-price-seeks-86k-as-new-support-after-oil-dips-below-90?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 22 Sep 2026 16:01:55 +0000",
+      "summary": "Bitcoin price action avoided a significant drop below $86,000 as US president Donald Trump pledged a deal with Iran after November\u2019s midterm election."
     },
     {
-      "title": "Bitcoin price tags $86K as analysis sees crypto in \u2018new bull market\u2019",
+      "title": "CLARITY vote failure could stoke more crypto PAC spending in key races",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-86k-analysis-sees-crypto-new-bull-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 21 Sep 2026 16:39:40 +0000",
-      "summary": "Bitcoin crossed the $86,000 mark for the first time since late January as falling oil prices and concerns over supply lifted US stocks."
+      "url": "https://cointelegraph.com/news/failure-clarity-act-vote-us-lawmakers-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 22 Sep 2026 15:55:37 +0000",
+      "summary": "Control of the US House and Senate is up for grabs in 2026, and some advocates speculate that the crypto industry could ratchet up attempts to sway elections after the CLARITY vote."
     },
     {
-      "title": "Crypto Biz: CLARITY Act setback puts Coinbase in the spotlight",
+      "title": "ECB, EU cenbanks seek changes in MiCA\u2019s minimum bank deposit for stablecoins",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/crypto-biz-clarity-act-coinbase-sec-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 21 Sep 2026 15:08:17 +0000",
-      "summary": "Coinbase draws scrutiny after the CLARITY Act stalls, while the SEC moves ahead with tokenized stocks and crypto firms push deeper into payments."
+      "url": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 22 Sep 2026 15:37:17 +0000",
+      "summary": "The ECB and EU central banks want to replace MiCA\u2019s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders."
     },
     {
-      "title": "Kyle Samani predicts SOL flippening, claims \u2018no one\u2019 uses ETH",
+      "title": "Big Questions: Does Satoshi actually own 1.1 million Bitcoin? ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/magazine/kyle-samani-predicts-sol-flippening-claims-no-one-uses-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 21 Sep 2026 13:30:00 +0000",
-      "summary": "Multicoin Capital co-founder Samani expects SOL to surpass Ether\u2019s market capitalization \u201cthis market cycle\u201d and argues that \u201ctoday, no one really uses Ethereum.\u201d"
+      "url": "https://cointelegraph.com/magazine/big-questions-does-satoshi-actually-own-1-million-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 22 Sep 2026 13:30:00 +0000",
+      "summary": "Researchers can trace an estimated 1.1 million BTC to a distinctive early mining operation. The harder question is whether that miner was actually Satoshi."
     }
   ],
   "aiNews": [
     {
-      "title": "Meta\u2019s AI agent has been blocked from using Amazon.com",
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-      "publishedAt": "Mon, 21 Sep 2026 17:55:18 +0000",
-      "summary": "Muse isn't welcome as a shopper anymore."
+      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "publishedAt": "Tue, 22 Sep 2026 16:30:07 +0000",
+      "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\""
     },
     {
-      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "title": "AstroForge is putting AI in command of its next spacecraft",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-      "publishedAt": "Mon, 21 Sep 2026 16:38:51 +0000",
-      "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients\u2019 paperwork as it gives them up-to-the-minute data on their business\u2019s profit and loss."
+      "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+      "publishedAt": "Tue, 22 Sep 2026 15:00:00 +0000",
+      "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe. "
     },
     {
-      "title": "Where will the next breakout startup come from? Benchmark\u2019s full partnership weighs in at TechCrunch Disrupt 2026",
+      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
-      "publishedAt": "Mon, 21 Sep 2026 15:00:00 +0000",
-      "summary": "Where will the next breakout startup come from? Benchmark\u2019s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now."
+      "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+      "publishedAt": "Tue, 22 Sep 2026 15:00:00 +0000",
+      "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to s"
     },
     {
-      "title": "Google\u2019s $899 Googlebook is a bet that you\u2019ll buy a new laptop for Gemini",
+      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot\u2019s Stretch 4 to life onstage",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-      "publishedAt": "Mon, 21 Sep 2026 14:39:22 +0000",
-      "summary": "Google\u2019s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience."
+      "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+      "publishedAt": "Tue, 22 Sep 2026 14:30:00 +0000",
+      "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a se"
     },
     {
-      "title": "From first users to billions: Google\u2019s Robby Stein joins TechCrunch Disrupt 2026",
+      "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
-      "publishedAt": "Mon, 21 Sep 2026 14:30:00 +0000",
-      "summary": "From first users to billions: Google\u2019s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25."
+      "url": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
+      "publishedAt": "Tue, 22 Sep 2026 14:15:00 +0000",
+      "summary": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at "
     }
   ],
   "techMovers": [
     {
-      "ticker": "META",
-      "name": "Meta Platforms",
-      "price": 746.82,
-      "change": 81.07,
-      "changePercent": 12.18
+      "ticker": "CRM",
+      "name": "Salesforce Inc",
+      "price": 231.51,
+      "change": -4.91,
+      "changePercent": -2.08
     },
     {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 608.97,
-      "change": 49.15,
-      "changePercent": 8.78
+      "ticker": "NFLX",
+      "name": "Netflix Inc",
+      "price": 71.86,
+      "change": -1.5,
+      "changePercent": -2.04
     },
     {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "price": 203.04,
-      "change": 8.79,
-      "changePercent": 4.53
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla Inc",
-      "price": 374.48,
-      "change": 10.21,
-      "changePercent": 2.8
+      "ticker": "AMZN",
+      "name": "Amazon.com",
+      "price": 254.18,
+      "change": -4.27,
+      "changePercent": -1.65
     },
     {
       "ticker": "NVDA",
       "name": "NVIDIA Corp",
-      "price": 227.36,
-      "change": 5.09,
-      "changePercent": 2.29
+      "price": 229.49,
+      "change": 2.11,
+      "changePercent": 0.93
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft Corp",
+      "price": 496.97,
+      "change": -4.64,
+      "changePercent": -0.93
     }
   ],
-  "fearGreedIndex": 70,
+  "fearGreedIndex": 78,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 367.99,
-    "change": -0.3,
-    "changePercent": -0.08
+    "price": 363.51,
+    "change": -6.44,
+    "changePercent": -1.74
   },
   "sectors": [
     {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 3.91
-    },
-    {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": 2.46
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 1.18
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": 0.64
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": 0.3
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 0.11
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 0.08
-    },
-    {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": -0.25
+      "changePercent": 1.19
     },
     {
       "ticker": "XLP",
       "name": "Consumer Staples",
-      "changePercent": -0.83
+      "changePercent": 1.06
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": 0.6
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": 0.41
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": 0.13
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": -0.84
+      "changePercent": 0.04
     },
     {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": -2.14
+      "changePercent": -0.01
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -0.12
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": -0.14
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -0.75
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": -1.78
     }
   ],
   "economicCalendar": [
