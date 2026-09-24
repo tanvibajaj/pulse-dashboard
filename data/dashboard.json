@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-09-23T17:40:40.754385+00:00",
+  "lastUpdated": "2026-09-24T17:43:22.482629+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Iran's president tells Trump it will never 'bend the knee'",
+      "title": "White House restores access to media outlets banned by Trump after judge's order",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 23 Sep 2026 17:34:44 GMT",
-      "summary": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon."
+      "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 24 Sep 2026 17:25:20 GMT",
+      "summary": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away."
     },
     {
-      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 23 Sep 2026 16:53:37 GMT",
-      "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes."
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 24 Sep 2026 15:42:07 GMT",
+      "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June."
     },
     {
-      "title": "White House rolling out red carpet for historic Xi Jinping visit",
+      "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6n9w410v3vzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 23 Sep 2026 14:32:37 GMT",
-      "summary": "Trump and Xi are expected to discuss a range of issues from trade to AI during the latter's multi-day visit to Washington. "
+      "url": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 24 Sep 2026 14:08:38 GMT",
+      "summary": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech."
     },
     {
-      "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
+      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 23 Sep 2026 12:31:31 GMT",
-      "summary": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it."
+      "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 24 Sep 2026 16:00:29 GMT",
+      "summary": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says."
     },
     {
-      "title": "Dolly Parton's manager accuses her nephew of 'threats and intimidation'",
+      "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 23 Sep 2026 12:22:53 GMT",
-      "summary": "Bryan Seaver, who announced Parton's death to the world, is accused of trying to extort her estate."
+      "url": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 24 Sep 2026 15:37:45 GMT",
+      "summary": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 84001,
-      "change24h": -2.82866,
-      "marketCap": 1687214395639,
+      "price": 84186,
+      "change24h": 0.13031,
+      "marketCap": 1691731195352,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2659.36,
-      "change24h": -3.32941,
-      "marketCap": 324516089669,
+      "price": 2674.44,
+      "change24h": 0.45211,
+      "marketCap": 326639383101,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Bitwise launches first Lighter ETP amid Hyperliquid rivalry",
+      "title": "Crypto treasury model loses its edge as stock premiums fade: DWF",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitwise-lighter-lit-etp-europe-xetra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 23 Sep 2026 16:34:27 +0000",
-      "summary": "The product gives European investors brokerage access to the LIT token as Bitwise expands its lineup of products tied to decentralized derivatives platforms.\n"
+      "url": "https://cointelegraph.com/news/crypto-treasury-firms-below-nav-sequans-bitcoin-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 24 Sep 2026 17:14:35 +0000",
+      "summary": "Most DATs now trade below the value of their crypto holdings, weakening a financing model that once helped companies expand their balance sheets.\n"
     },
     {
-      "title": "NYSE, Blockchain.com in tie-up to bring tokenized US stocks to crypto users",
+      "title": "Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/nyse-blockchaincom-team-up-to-bring-tokenized-us-stocks-to-crypto-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 23 Sep 2026 15:56:20 +0000",
-      "summary": "Blockchain.com users could gain access to tokenized US stocks and ETFs through NYSE\u2019s planned digital trading platform under a new partnership, as bourses rush to deliver new trading."
+      "url": "https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 24 Sep 2026 17:13:38 +0000",
+      "summary": "The France-based semiconductor company has fully unwound a Bitcoin treasury that once held more than 3,200 BTC as more firms scale back crypto holdings. "
     },
     {
-      "title": "Bitcoin long liquidations hit $280M as BTC price dips under $84K",
+      "title": "SoFi tie-up shows stablecoins can provide alternative blockchain settlement rail",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-long-liquidations-hit-280m-as-btc-price-dips-under-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 23 Sep 2026 14:52:11 +0000",
-      "summary": "Bitcoin long liquidations mounted as BTC/USD briefly traded below $84,000, while analysis flagged key support to hold."
+      "url": "https://cointelegraph.com/news/sofi-moves-25b-card-program-to-stablecoin-settlement-with-mastercard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 24 Sep 2026 15:57:00 +0000",
+      "summary": "SoFi dives deeper into payments as it moves its entire card program to blockchain-based settlement using its SoFiUSD stablecoin, with more than $25 billion in expected annualized volume."
     },
     {
-      "title": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
+      "title": "New York sues Polymarket over alleged illegal gambling business",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 23 Sep 2026 14:28:50 +0000",
-      "summary": "Bitpanda will provide crypto infrastructure to Raiffeisen network banks, potentially extending digital asset access to about 18 million customers."
+      "url": "https://cointelegraph.com/news/new-york-polymarket-illegal-gambling-operation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 24 Sep 2026 15:27:29 +0000",
+      "summary": "The action filed by state lawmakers followed a similar lawsuit against prediction markets company Kalshi in July that alleged the platform was running an illegal gambling operation."
     },
     {
-      "title": "ESMA to prioritize EU-wide AI and tokenization supervision in 2027",
+      "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/esma-to-focus-eu-wide-supervision-on-ai-and-tokenization-from-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 23 Sep 2026 13:40:00 +0000",
-      "summary": "National regulators will map client-facing uses of the technologies, check a subset of firms and develop common approaches to oversight."
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 24 Sep 2026 13:29:50 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     }
   ],
   "aiNews": [
     {
-      "title": "Even Americans who use AI every day are worried about it",
+      "title": "Meta\u2019s Muse Charm looks like a Tamagotchi, but it\u2019s tapping into a much newer trend",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
-      "publishedAt": "Wed, 23 Sep 2026 16:49:58 +0000",
-      "summary": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation."
+      "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+      "publishedAt": "Thu, 24 Sep 2026 17:39:24 +0000",
+      "summary": "Meta\u2019s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories."
     },
     {
-      "title": "YouTube Music gets more conversational with new AI features",
+      "title": "Google Photos \u2018Clueless\u2019-inspired virtual closet is now available on Android and iOS",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
-      "publishedAt": "Wed, 23 Sep 2026 15:19:30 +0000",
-      "summary": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists."
+      "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+      "publishedAt": "Thu, 24 Sep 2026 17:00:00 +0000",
+      "summary": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June."
     },
     {
-      "title": "YouTube will let you build your own algorithm with AI",
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know\u00a0",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
-      "publishedAt": "Wed, 23 Sep 2026 14:30:00 +0000",
-      "summary": "YouTube\u2019s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request."
+      "url": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "publishedAt": "Thu, 24 Sep 2026 16:46:47 +0000",
+      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and "
     },
     {
-      "title": "YouTube releases new AI features for creators within its Studio app",
+      "title": "20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
-      "publishedAt": "Wed, 23 Sep 2026 14:30:00 +0000",
-      "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails."
+      "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+      "publishedAt": "Thu, 24 Sep 2026 16:35:13 +0000",
+      "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that \u2014 at least until getting a machine is wh"
     },
     {
-      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
-      "publishedAt": "Wed, 23 Sep 2026 14:30:00 +0000",
-      "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT."
+      "url": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+      "publishedAt": "Thu, 24 Sep 2026 16:03:36 +0000",
+      "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-"
     }
   ],
   "techMovers": [
     {
-      "ticker": "GOOG",
-      "name": "Alphabet Inc",
-      "price": 334.55,
-      "change": -16.32,
-      "changePercent": -4.65
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "price": 138.51,
+      "change": -6.04,
+      "changePercent": -4.18
     },
     {
-      "ticker": "AMZN",
-      "name": "Amazon.com",
-      "price": 248.25,
-      "change": -10.2,
-      "changePercent": -3.95
-    },
-    {
-      "ticker": "NFLX",
-      "name": "Netflix Inc",
-      "price": 71.66,
-      "change": -1.7,
-      "changePercent": -2.32
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "price": 769.34,
+      "change": 25.24,
+      "changePercent": 3.39
     },
     {
       "ticker": "AVGO",
       "name": "Broadcom Inc",
-      "price": 354.64,
-      "change": -8.02,
-      "changePercent": -2.21
+      "price": 350.02,
+      "change": -4.97,
+      "changePercent": -1.4
     },
     {
-      "ticker": "UBER",
-      "name": "Uber Technologies",
-      "price": 69.37,
-      "change": -1.47,
-      "changePercent": -2.08
+      "ticker": "MSFT",
+      "name": "Microsoft Corp",
+      "price": 495.06,
+      "change": -5.53,
+      "changePercent": -1.1
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 620.94,
+      "change": 6.33,
+      "changePercent": 1.03
     }
   ],
   "fearGreedIndex": 71,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 361.65,
-    "change": -8.3,
-    "changePercent": -2.24
+    "price": 366.02,
+    "change": 4.51,
+    "changePercent": 1.25
   },
   "sectors": [
     {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 1.32
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 0.57
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": 0.16
-    },
-    {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": -0.02
-    },
-    {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": -0.09
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": -0.34
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": -1.34
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": -1.48
+      "changePercent": 1.01
     },
     {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": -1.54
+      "changePercent": 0.95
     },
     {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": -1.8
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": 0.55
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": 0.06
     },
     {
       "ticker": "XLF",
       "name": "Financials",
-      "changePercent": -2.08
+      "changePercent": -0.25
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -0.25
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -0.33
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": -0.39
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": -0.61
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": -0.65
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -1.19
     }
   ],
   "economicCalendar": [
