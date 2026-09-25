@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-09-24T17:43:22.482629+00:00",
+  "lastUpdated": "2026-09-25T17:44:38.345832+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "White House restores access to media outlets banned by Trump after judge's order",
+      "title": "Special agents' blood and urine test results stolen in FBI hack",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 24 Sep 2026 17:25:20 GMT",
-      "summary": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away."
+      "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 25 Sep 2026 13:56:16 GMT",
+      "summary": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks."
     },
     {
-      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+      "title": "Pope warns against 'losing humanity' to AI machines",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 24 Sep 2026 15:42:07 GMT",
-      "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June."
+      "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 25 Sep 2026 15:06:41 GMT",
+      "summary": "The pontiff delivered the warning on the first day of his trip to France on Friday."
     },
     {
-      "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 24 Sep 2026 14:08:38 GMT",
-      "summary": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech."
+      "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 25 Sep 2026 03:57:09 GMT",
+      "summary": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for."
     },
     {
-      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+      "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 24 Sep 2026 16:00:29 GMT",
-      "summary": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says."
+      "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 25 Sep 2026 17:32:15 GMT",
+      "summary": "Critics have questioned the reliability of the data, warning it could  result in US citizens being wrongly removed from electoral rolls. "
     },
     {
-      "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
+      "title": "Students strike across Germany in protest against military service",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 24 Sep 2026 15:37:45 GMT",
-      "summary": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war."
+      "url": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 25 Sep 2026 15:36:22 GMT",
+      "summary": "A law establishing voluntary military service came into effect in January, but protest organisers fear compulsory service could follow."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 84186,
-      "change24h": 0.13031,
-      "marketCap": 1691731195352,
+      "price": 83805,
+      "change24h": -0.40436,
+      "marketCap": 1683554223648,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2674.44,
-      "change24h": 0.45211,
-      "marketCap": 326639383101,
+      "price": 2686.69,
+      "change24h": 0.57863,
+      "marketCap": 328014057640,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Crypto treasury model loses its edge as stock premiums fade: DWF",
+      "title": "Bitget clarifies $388M in assets affected by security breach",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/crypto-treasury-firms-below-nav-sequans-bitcoin-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 24 Sep 2026 17:14:35 +0000",
-      "summary": "Most DATs now trade below the value of their crypto holdings, weakening a financing model that once helped companies expand their balance sheets.\n"
+      "url": "https://cointelegraph.com/news/bitget-clarifies-assets-affected-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 25 Sep 2026 17:17:45 +0000",
+      "summary": "The Bitget breach announced on Thursday affected about $35 million more than previously reported, based on an analysis of assets on Zcash and TRON."
     },
     {
-      "title": "Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC",
+      "title": "Strategy seeks shareholder approval for daily preferred stock dividends",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 24 Sep 2026 17:13:38 +0000",
-      "summary": "The France-based semiconductor company has fully unwound a Bitcoin treasury that once held more than 3,200 BTC as more firms scale back crypto holdings. "
+      "url": "https://cointelegraph.com/news/strategy-seeks-shareholder-approval-daily-preferred-stock-dividends?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 25 Sep 2026 16:34:16 +0000",
+      "summary": "Strategy\u2019s proposal would move STRC and its three other preferred stocks to daily dividend payments, following a similar move by Bitcoin treasury firm Strive."
     },
     {
-      "title": "SoFi tie-up shows stablecoins can provide alternative blockchain settlement rail",
+      "title": "Crypto Biz: Wall Street and crypto fight for the same turf",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/sofi-moves-25b-card-program-to-stablecoin-settlement-with-mastercard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 24 Sep 2026 15:57:00 +0000",
-      "summary": "SoFi dives deeper into payments as it moves its entire card program to blockchain-based settlement using its SoFiUSD stablecoin, with more than $25 billion in expected annualized volume."
-    },
-    {
-      "title": "New York sues Polymarket over alleged illegal gambling business",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/new-york-polymarket-illegal-gambling-operation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 24 Sep 2026 15:27:29 +0000",
-      "summary": "The action filed by state lawmakers followed a similar lawsuit against prediction markets company Kalshi in July that alleged the platform was running an illegal gambling operation."
+      "url": "https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 25 Sep 2026 15:49:34 +0000",
+      "summary": "Stablecoins and tokenized assets are pushing banks, exchanges and crypto companies into the same markets, from payments to stocks and ETFs."
     },
     {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 24 Sep 2026 13:29:50 +0000",
+      "publishedAt": "Fri, 25 Sep 2026 13:32:49 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Exchanges reporting crypto gains to IRS becomes tax nightmare",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/magazine/exchanges-reporting-crypto-gains-to-irs-becomes-tax-nightmare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 25 Sep 2026 13:30:00 +0000",
+      "summary": "The IRS can now see your crypto gains, but has no idea about the cost-basis. That\u2019s proving to be a big headache for some cryptocurrency investors."
     }
   ],
   "aiNews": [
     {
-      "title": "Meta\u2019s Muse Charm looks like a Tamagotchi, but it\u2019s tapping into a much newer trend",
+      "title": "Some Supabase customers are publicly exposing reams of people\u2019s data to the web",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
-      "publishedAt": "Thu, 24 Sep 2026 17:39:24 +0000",
-      "summary": "Meta\u2019s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories."
+      "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+      "publishedAt": "Fri, 25 Sep 2026 17:29:46 +0000",
+      "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly."
     },
     {
-      "title": "Google Photos \u2018Clueless\u2019-inspired virtual closet is now available on Android and iOS",
+      "title": "Astra and Opus just passed Turing\u2019s other test",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
-      "publishedAt": "Thu, 24 Sep 2026 17:00:00 +0000",
-      "summary": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June."
+      "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+      "publishedAt": "Fri, 25 Sep 2026 17:24:36 +0000",
+      "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work. "
     },
     {
-      "title": "TechCrunch Founder Summit 2026: Everything you need to know\u00a0",
+      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-      "publishedAt": "Thu, 24 Sep 2026 16:46:47 +0000",
-      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and "
+      "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+      "publishedAt": "Fri, 25 Sep 2026 16:16:52 +0000",
+      "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agents's promotion across its own apps and beyond."
     },
     {
-      "title": "20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
+      "title": "For months, OpenAI\u2019s agent swarms have been attacking online databases to find obscure facts",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
-      "publishedAt": "Thu, 24 Sep 2026 16:35:13 +0000",
-      "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that \u2014 at least until getting a machine is wh"
+      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+      "publishedAt": "Fri, 25 Sep 2026 15:48:14 +0000",
+      "summary": "The latest unauthorized agent swarms were discovered by researchers."
     },
     {
-      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+      "title": "Anthropic\u2019s founders seek voting control ahead of IPO",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-      "publishedAt": "Thu, 24 Sep 2026 16:03:36 +0000",
-      "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-"
+      "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+      "publishedAt": "Fri, 25 Sep 2026 15:40:03 +0000",
+      "summary": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters."
     }
   ],
   "techMovers": [
     {
-      "ticker": "ORCL",
-      "name": "Oracle Corp",
-      "price": 138.51,
-      "change": -6.04,
-      "changePercent": -4.18
-    },
-    {
       "ticker": "META",
       "name": "Meta Platforms",
-      "price": 769.34,
-      "change": 25.24,
-      "changePercent": 3.39
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc",
-      "price": 350.02,
-      "change": -4.97,
-      "changePercent": -1.4
+      "price": 748.78,
+      "change": -28.81,
+      "changePercent": -3.71
     },
     {
       "ticker": "MSFT",
       "name": "Microsoft Corp",
-      "price": 495.06,
-      "change": -5.53,
-      "changePercent": -1.1
+      "price": 516.04,
+      "change": 18.11,
+      "changePercent": 3.64
     },
     {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 620.94,
-      "change": 6.33,
-      "changePercent": 1.03
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "price": 195.69,
+      "change": -3.52,
+      "changePercent": -1.77
+    },
+    {
+      "ticker": "SNOW",
+      "name": "Snowflake Inc",
+      "price": 339.37,
+      "change": 5.37,
+      "changePercent": 1.61
+    },
+    {
+      "ticker": "CRM",
+      "name": "Salesforce Inc",
+      "price": 234.76,
+      "change": -3.46,
+      "changePercent": -1.45
     }
   ],
   "fearGreedIndex": 71,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 366.02,
-    "change": 4.51,
-    "changePercent": 1.25
+    "price": 367.59,
+    "change": -0.39,
+    "changePercent": -0.11
   },
   "sectors": [
     {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": 1.01
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 0.95
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": 0.55
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 0.06
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": -0.25
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": -0.25
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": -0.33
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": -0.39
-    },
-    {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": -0.61
+      "changePercent": 1.03
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": -0.65
+      "changePercent": 0.9
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 0.51
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": 0.35
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": 0.27
     },
     {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": -1.19
+      "changePercent": 0.22
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": 0.08
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": -0.09
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -0.25
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -0.96
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": -1.43
     }
   ],
   "economicCalendar": [
