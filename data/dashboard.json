@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-09-25T17:44:38.345832+00:00",
-  "marketStatus": "Open",
+  "lastUpdated": "2026-09-26T16:51:27.577089+00:00",
+  "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "Special agents' blood and urine test results stolen in FBI hack",
+      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 25 Sep 2026 13:56:16 GMT",
-      "summary": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks."
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 26 Sep 2026 16:16:29 GMT",
+      "summary": "The US president says Tehran had only put forward the proposal because it is losing the war."
     },
     {
-      "title": "Pope warns against 'losing humanity' to AI machines",
+      "title": "Huge crowds greet Pope in Paris for open-air Mass",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 25 Sep 2026 15:06:41 GMT",
-      "summary": "The pontiff delivered the warning on the first day of his trip to France on Friday."
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 26 Sep 2026 13:23:59 GMT",
+      "summary": "More than half a million people are expected to attend the event in the heart of the French capital."
     },
     {
-      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+      "title": "British national among six dead in building explosion close to Acropolis in Athens",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 25 Sep 2026 03:57:09 GMT",
-      "summary": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for."
+      "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 26 Sep 2026 12:47:25 GMT",
+      "summary": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said."
     },
     {
-      "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
+      "title": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 25 Sep 2026 17:32:15 GMT",
-      "summary": "Critics have questioned the reliability of the data, warning it could  result in US citizens being wrongly removed from electoral rolls. "
+      "url": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 26 Sep 2026 15:12:25 GMT",
+      "summary": "The indpendent report also says Kirk's aides insisted he speak outdoors, overriding concerns from campus officials."
     },
     {
-      "title": "Students strike across Germany in protest against military service",
+      "title": "Bangkok roads submerged as flood disaster declared",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 25 Sep 2026 15:36:22 GMT",
-      "summary": "A law establishing voluntary military service came into effect in January, but protest organisers fear compulsory service could follow."
+      "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 26 Sep 2026 07:21:30 GMT",
+      "summary": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 83805,
-      "change24h": -0.40436,
-      "marketCap": 1683554223648,
+      "price": 84128,
+      "change24h": 0.38336,
+      "marketCap": 1690142969905,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2686.69,
-      "change24h": 0.57863,
-      "marketCap": 328014057640,
+      "price": 2691.18,
+      "change24h": 0.21006,
+      "marketCap": 328545893376,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Bitget clarifies $388M in assets affected by security breach",
+      "title": "Kalshi loses appeal, setting up potential Supreme Court case",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitget-clarifies-assets-affected-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 25 Sep 2026 17:17:45 +0000",
-      "summary": "The Bitget breach announced on Thursday affected about $35 million more than previously reported, based on an analysis of assets on Zcash and TRON."
-    },
-    {
-      "title": "Strategy seeks shareholder approval for daily preferred stock dividends",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/strategy-seeks-shareholder-approval-daily-preferred-stock-dividends?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 25 Sep 2026 16:34:16 +0000",
-      "summary": "Strategy\u2019s proposal would move STRC and its three other preferred stocks to daily dividend payments, following a similar move by Bitcoin treasury firm Strive."
-    },
-    {
-      "title": "Crypto Biz: Wall Street and crypto fight for the same turf",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 25 Sep 2026 15:49:34 +0000",
-      "summary": "Stablecoins and tokenized assets are pushing banks, exchanges and crypto companies into the same markets, from payments to stocks and ETFs."
+      "url": "https://cointelegraph.com/news/kalshi-loses-appeal-setting-up-potential-supreme-court-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 26 Sep 2026 13:21:12 +0000",
+      "summary": "The 6th US Circuit Court of Appeals ruled against prediction market Kalshi, siding with Ohio and Tennessee on regulating sports-event contracts under state laws."
     },
     {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 25 Sep 2026 13:32:49 +0000",
+      "publishedAt": "Sat, 26 Sep 2026 12:17:00 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Exchanges reporting crypto gains to IRS becomes tax nightmare",
+      "title": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/magazine/exchanges-reporting-crypto-gains-to-irs-becomes-tax-nightmare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 25 Sep 2026 13:30:00 +0000",
-      "summary": "The IRS can now see your crypto gains, but has no idea about the cost-basis. That\u2019s proving to be a big headache for some cryptocurrency investors."
+      "url": "https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 26 Sep 2026 09:02:22 +0000",
+      "summary": "Peirce, known as \u201cCrypto Mom,\u201d served on the SEC for about eight years, including as director of the Crypto Task Force."
+    },
+    {
+      "title": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 26 Sep 2026 06:59:29 +0000",
+      "summary": "The CFTC claimed that Cash FX engaged in minimal forex trading and misappropriated most of the participant funds."
+    },
+    {
+      "title": "OG.com seeks CFTC approval for single-stock perpetual futures",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/og-com-seeks-cftc-approval-single-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 25 Sep 2026 20:37:21 +0000",
+      "summary": "OG.com, recently spun out of Crypto.com, joins Coinbase, Kalshi and Kraken parent Payward in seeking approval to bring perpetual futures to individual US stocks."
     }
   ],
   "aiNews": [
     {
-      "title": "Some Supabase customers are publicly exposing reams of people\u2019s data to the web",
+      "title": "I created an interactive digital avatar of myself \u2014 and you can talk to it",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
-      "publishedAt": "Fri, 25 Sep 2026 17:29:46 +0000",
-      "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly."
+      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "publishedAt": "Sat, 26 Sep 2026 14:00:00 +0000",
+      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves. "
     },
     {
-      "title": "Astra and Opus just passed Turing\u2019s other test",
+      "title": "At Meta Connect, the company\u2019s smart glasses were everywhere",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
-      "publishedAt": "Fri, 25 Sep 2026 17:24:36 +0000",
-      "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work. "
+      "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "publishedAt": "Sat, 26 Sep 2026 01:08:57 +0000",
+      "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.  "
     },
     {
-      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-      "publishedAt": "Fri, 25 Sep 2026 16:16:52 +0000",
-      "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agents's promotion across its own apps and beyond."
+      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "publishedAt": "Fri, 25 Sep 2026 23:11:10 +0000",
+      "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans."
     },
     {
-      "title": "For months, OpenAI\u2019s agent swarms have been attacking online databases to find obscure facts",
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab\u2019s knowledge",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
-      "publishedAt": "Fri, 25 Sep 2026 15:48:14 +0000",
-      "summary": "The latest unauthorized agent swarms were discovered by researchers."
+      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "publishedAt": "Fri, 25 Sep 2026 22:20:47 +0000",
+      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge. "
     },
     {
-      "title": "Anthropic\u2019s founders seek voting control ahead of IPO",
+      "title": "Meta opens early access program for new Muse features",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
-      "publishedAt": "Fri, 25 Sep 2026 15:40:03 +0000",
-      "summary": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters."
+      "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+      "publishedAt": "Fri, 25 Sep 2026 20:34:53 +0000",
+      "summary": "Anyone interested in joining has to ask Muse to put them on the list. "
     }
   ],
   "techMovers": [
     {
-      "ticker": "META",
-      "name": "Meta Platforms",
-      "price": 748.78,
-      "change": -28.81,
-      "changePercent": -3.71
-    },
-    {
       "ticker": "MSFT",
       "name": "Microsoft Corp",
-      "price": 516.04,
-      "change": 18.11,
-      "changePercent": 3.64
+      "price": 516.17,
+      "change": 18.24,
+      "changePercent": 3.66
+    },
+    {
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "price": 751.66,
+      "change": -25.93,
+      "changePercent": -3.33
     },
     {
       "ticker": "COIN",
       "name": "Coinbase",
-      "price": 195.69,
-      "change": -3.52,
-      "changePercent": -1.77
-    },
-    {
-      "ticker": "SNOW",
-      "name": "Snowflake Inc",
-      "price": 339.37,
-      "change": 5.37,
-      "changePercent": 1.61
+      "price": 195.11,
+      "change": -4.1,
+      "changePercent": -2.06
     },
     {
       "ticker": "CRM",
       "name": "Salesforce Inc",
-      "price": 234.76,
-      "change": -3.46,
-      "changePercent": -1.45
+      "price": 234.02,
+      "change": -4.2,
+      "changePercent": -1.76
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "price": 137.1,
+      "change": -2.44,
+      "changePercent": -1.75
     }
   ],
-  "fearGreedIndex": 71,
+  "fearGreedIndex": 74,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 367.59,
-    "change": -0.39,
-    "changePercent": -0.11
+    "price": 367.38,
+    "change": -0.6,
+    "changePercent": -0.16
   },
   "sectors": [
     {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": 1.03
-    },
-    {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": 0.9
+      "changePercent": 0.95
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": 0.8
     },
     {
       "ticker": "XLF",
       "name": "Financials",
-      "changePercent": 0.51
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 0.35
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 0.27
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 0.22
+      "changePercent": 0.57
     },
     {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": 0.08
+      "changePercent": 0.49
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": 0.44
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": -0.09
+      "changePercent": 0.38
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": 0.24
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": 0.22
     },
     {
       "ticker": "XLRE",
       "name": "Real Estate",
-      "changePercent": -0.25
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": -0.96
+      "changePercent": -0.22
     },
     {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": -1.43
+      "changePercent": -0.89
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -0.9
     }
   ],
   "economicCalendar": [
