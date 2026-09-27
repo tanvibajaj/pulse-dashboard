@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-09-26T16:51:27.577089+00:00",
+  "lastUpdated": "2026-09-27T17:26:26.126332+00:00",
   "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 26 Sep 2026 16:16:29 GMT",
-      "summary": "The US president says Tehran had only put forward the proposal because it is losing the war."
+      "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 27 Sep 2026 07:44:11 GMT",
+      "summary": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments."
     },
     {
-      "title": "Huge crowds greet Pope in Paris for open-air Mass",
+      "title": "Two mass shootings in South Africa leave 27 dead",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 26 Sep 2026 13:23:59 GMT",
-      "summary": "More than half a million people are expected to attend the event in the heart of the French capital."
+      "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 27 Sep 2026 14:09:22 GMT",
+      "summary": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence."
     },
     {
-      "title": "British national among six dead in building explosion close to Acropolis in Athens",
+      "title": "Killer Christa Pike to be executed within days - but her defence say she's a victim too",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 26 Sep 2026 12:47:25 GMT",
-      "summary": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said."
+      "url": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 26 Sep 2026 23:04:08 GMT",
+      "summary": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today."
     },
     {
-      "title": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
+      "title": "Two bodies found after avalanche hits Himalayan climbing group",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 26 Sep 2026 15:12:25 GMT",
-      "summary": "The indpendent report also says Kirk's aides insisted he speak outdoors, overriding concerns from campus officials."
+      "url": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 27 Sep 2026 17:05:26 GMT",
+      "summary": "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak."
     },
     {
-      "title": "Bangkok roads submerged as flood disaster declared",
+      "title": "Four killed in helicopter crash near Montreal",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 26 Sep 2026 07:21:30 GMT",
-      "summary": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated."
+      "url": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 27 Sep 2026 02:43:10 GMT",
+      "summary": "The victims of the crash have not yet been identified, Quebec provincial police told the BBC."
     }
   ],
   "cryptoAssets": [
@@ -43,22 +43,43 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 84128,
-      "change24h": 0.38336,
-      "marketCap": 1690142969905,
+      "price": 84421,
+      "change24h": 0.43603,
+      "marketCap": 1695897810221,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2691.18,
-      "change24h": 0.21006,
-      "marketCap": 328545893376,
+      "price": 2687.25,
+      "change24h": -0.01248,
+      "marketCap": 328059285539,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
+    {
+      "title": "Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report \u00a0",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/australia-summons-openai-anthropic-chiefs-to-senate-inquiry-on-health-data-hack-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 27 Sep 2026 12:46:28 +0000",
+      "summary": "A rogue OpenAI research agent bypassed blocks on the Australian government health-data portal, accessing non-public files in June."
+    },
+    {
+      "title": "Riot Platforms repays $200M credit facility, releases collateral",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/riot-platforms-repays-200m-credit-facility-releases-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 27 Sep 2026 09:57:19 +0000",
+      "summary": "The Bitcoin miner has continued to expand its data-center business as well."
+    },
+    {
+      "title": "Saylor outlines \u2018bill of digital rights\u2019 to help build prosperity in future economy",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/saylor-outlines-bill-of-digital-rights-to-help-build-prosperity-in-future-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 27 Sep 2026 07:18:42 +0000",
+      "summary": "Our ambition should be to \u201cenable 10 million new companies to raise capital,\u201d Strategy\u2019s executive chairman Michael Saylor wrote in an essay."
+    },
     {
       "title": "Kalshi loses appeal, setting up potential Supreme Court case",
       "source": "CoinTelegraph",
@@ -72,30 +93,23 @@
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "Sat, 26 Sep 2026 12:17:00 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-    },
-    {
-      "title": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 26 Sep 2026 09:02:22 +0000",
-      "summary": "Peirce, known as \u201cCrypto Mom,\u201d served on the SEC for about eight years, including as director of the Crypto Task Force."
-    },
-    {
-      "title": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 26 Sep 2026 06:59:29 +0000",
-      "summary": "The CFTC claimed that Cash FX engaged in minimal forex trading and misappropriated most of the participant funds."
-    },
-    {
-      "title": "OG.com seeks CFTC approval for single-stock perpetual futures",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/og-com-seeks-cftc-approval-single-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 25 Sep 2026 20:37:21 +0000",
-      "summary": "OG.com, recently spun out of Crypto.com, joins Coinbase, Kalshi and Kraken parent Payward in seeking approval to bring perpetual futures to individual US stocks."
     }
   ],
   "aiNews": [
+    {
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "publishedAt": "Sun, 27 Sep 2026 01:30:00 +0000",
+      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October."
+    },
+    {
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "publishedAt": "Sat, 26 Sep 2026 21:02:06 +0000",
+      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period."
+    },
     {
       "title": "I created an interactive digital avatar of myself \u2014 and you can talk to it",
       "source": "TechCrunch",
@@ -116,20 +130,6 @@
       "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
       "publishedAt": "Fri, 25 Sep 2026 23:11:10 +0000",
       "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans."
-    },
-    {
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab\u2019s knowledge",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "publishedAt": "Fri, 25 Sep 2026 22:20:47 +0000",
-      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge. "
-    },
-    {
-      "title": "Meta opens early access program for new Muse features",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-      "publishedAt": "Fri, 25 Sep 2026 20:34:53 +0000",
-      "summary": "Anyone interested in joining has to ask Muse to put them on the list. "
     }
   ],
   "techMovers": [
@@ -169,7 +169,7 @@
       "changePercent": -1.75
     }
   ],
-  "fearGreedIndex": 74,
+  "fearGreedIndex": 70,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
