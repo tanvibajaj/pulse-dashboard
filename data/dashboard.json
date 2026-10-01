@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-09-30T18:15:14.130618+00:00",
+  "lastUpdated": "2026-10-01T18:40:42.828377+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "What we know about stabbing on Flydubai flight to Israel",
+      "title": "Tennessee halts executions after Christa Pike survives two lethal injection attempts",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 30 Sep 2026 17:51:49 GMT",
-      "summary": "The captain and first officer were injured, and one pilot has been arrested, officials say."
+      "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 01 Oct 2026 16:45:35 GMT",
+      "summary": "Pike had been on death row since she was convicted in 1996 for the murder of Colleen Slemmer."
     },
     {
-      "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
+      "title": "What happened in the failed execution of Christa Pike - and what next?",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 30 Sep 2026 17:14:03 GMT",
-      "summary": "Thirty-one migrants died when their boat went down in November 2021. The trial found that the guilty men were part of two smuggling networks."
+      "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 01 Oct 2026 17:31:06 GMT",
+      "summary": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions."
     },
     {
-      "title": "UK-France 'one in, one out' migrant scheme scrapped",
+      "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 30 Sep 2026 17:11:08 GMT",
-      "summary": "Some 1,500 people have been removed to France since the scheme began just over a year ago. "
+      "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 01 Oct 2026 18:19:14 GMT",
+      "summary": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\"."
     },
     {
-      "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
+      "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 30 Sep 2026 15:29:11 GMT",
-      "summary": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer. "
+      "url": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 01 Oct 2026 18:09:03 GMT",
+      "summary": "Vladimir Putin insists Moscow is \"not threatening anyone\" and merely responding to statements by Western leaders."
     },
     {
-      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 30 Sep 2026 14:53:02 GMT",
-      "summary": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says."
+      "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 01 Oct 2026 11:37:46 GMT",
+      "summary": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains."
     }
   ],
   "cryptoAssets": [
@@ -43,211 +43,211 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 84017,
-      "change24h": 0.77804,
-      "marketCap": 1688078201002,
+      "price": 85151,
+      "change24h": 1.61417,
+      "marketCap": 1708909884798,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2681.54,
-      "change24h": -0.03139,
-      "marketCap": 327428875569,
+      "price": 2710.14,
+      "change24h": 1.36711,
+      "marketCap": 330530993718,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Brazil\u2019s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel",
+      "title": "Illinois will postpone implementation of crypto tax following lawsuit",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/brazils-petrobras-uses-cardano-to-track-sustainable-aviation-fuel-renewable-diesel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 30 Sep 2026 17:17:54 +0000",
-      "summary": "Petrobras developed two Cardano-based applications to track sustainability claims tied to aviation fuel and renewable diesel as part of an ongoing research collaboration."
+      "url": "https://cointelegraph.com/news/illinois-postpones-crypto-tax-industry-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 01 Oct 2026 18:01:49 +0000",
+      "summary": "State officials agreed to delay the 0.2% crypto tax for six months after lawsuits and industry pushback claimed the bill was rushed through the legislature."
     },
     {
-      "title": "Bitget \u2018gradually back to usual\u2019 as protection fund reaches $309M",
+      "title": "New York, Wyoming regulators sign pact to coordinate crypto oversight\u00a0",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitget-operations-protection-fund-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 30 Sep 2026 16:28:30 +0000",
-      "summary": "Bitget CEO Gracy Chen said that a protection fund created by the company in 2022 \u201cabsorbed the financial impact of the incident\u201c that resulted in $388 million in user losses."
+      "url": "https://cointelegraph.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 01 Oct 2026 16:12:23 +0000",
+      "summary": "The agreement will allow the two state regulators to share supervisory information, streamline licensing reviews and coordinate examinations and enforcement actions involving digital asset firms."
     },
     {
-      "title": "Could THORChain face prosecution over stolen Bitget funds? ",
+      "title": "Bitcoin fights for local uptrend as US bond yields drop from new 24-year highs",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/magazine/does-thorchain-face-a-criminal-reckoning-near-intents-bitget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 30 Sep 2026 13:30:00 +0000",
-      "summary": "THORChain will not \u2014 or can not \u2014 block addresses linked to the $387.5 million Bitget hack. Can the devs be prosecuted for money laundering? It\u2019s complicated, says crypto lawyer Yuriy Brisov."
+      "url": "https://cointelegraph.com/markets/bitcoin-fights-local-uptrend-us-bond-yields-drop-from-new-24-year-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 01 Oct 2026 15:55:19 +0000",
+      "summary": "US bond yields fell sharply around Thursday\u2019s Wall Street open as Bitcoin price action sought to preserve a local trend of higher lows."
     },
     {
-      "title": "Here\u2019s what happened in crypto today",
+      "title": "NEAR Intents suffers $3.8M exploit after assistance with Bitget breach",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 30 Sep 2026 13:18:35 +0000",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+      "url": "https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 01 Oct 2026 15:43:34 +0000",
+      "summary": "The platform said it will compensate users affected by the hack, which stemmed from a bug that affected deposits and withdrawals."
     },
     {
-      "title": "Singapore crypto activity grows 55% as broader region contracts",
+      "title": "Bitget\u2019s $388M hack pushes Q3 crypto security losses past $1B",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/singapore-crypto-economy-284b-institutional-activity-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 30 Sep 2026 13:00:00 +0000",
-      "summary": "Singapore\u2019s crypto economy grew 55.4% to $284 billion as institutional-platform activity surged 94%, while the Philippines, Thailand and Vietnam stood out for small-value P2P transfers."
+      "url": "https://cointelegraph.com/news/bitget-hack-q3-industry-losses-1-26-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 01 Oct 2026 13:35:47 +0000",
+      "summary": "Crypto security losses reached $1.26 billion in Q3 across 247 incidents, with September alone accounting for roughly $769 million."
     }
   ],
   "aiNews": [
     {
-      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-      "publishedAt": "Wed, 30 Sep 2026 17:45:00 +0000",
-      "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content."
+      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "publishedAt": "Thu, 01 Oct 2026 18:14:42 +0000",
+      "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says."
     },
     {
-      "title": "The ugly economics of consumer AI",
+      "title": "Opus 5.5 loves to tell you \u2018this matters\u2019 (and other AI writing tells)",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
-      "publishedAt": "Wed, 30 Sep 2026 17:24:45 +0000",
-      "summary": "There\u2019s a reason frontier labs have gotten gunshy about consumer AI \u2014 and it\u2019s not because the tech isn\u2019t good enough."
+      "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+      "publishedAt": "Thu, 01 Oct 2026 17:50:19 +0000",
+      "summary": "Opus 5.5\u2019s biggest tell is the word \u201cdependable,\u201d which pops up 23 times more often than in human samples."
     },
     {
-      "title": "Meta disputes claim that Muse read a user\u2019s private messages without permission",
+      "title": "Amazon releases its own Jev clone as decision models flood the web",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
-      "publishedAt": "Wed, 30 Sep 2026 16:24:23 +0000",
-      "summary": "Meta says its Muse AI agent cannot access a user\u2019s Messages without explicit permission, disputing a journalist\u2019s account that the agent read his private messages while the required Mac setting was tu"
+      "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+      "publishedAt": "Thu, 01 Oct 2026 16:49:22 +0000",
+      "summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B."
     },
     {
-      "title": "DoorDash launches an AI agent you can text to order food",
+      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
-      "publishedAt": "Wed, 30 Sep 2026 16:00:24 +0000",
-      "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub. "
+      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+      "publishedAt": "Thu, 01 Oct 2026 16:44:35 +0000",
+      "summary": "Shopify\u2019s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time."
     },
     {
-      "title": "Destro AI\u2019s secret sauce is getting robots and humans on the same page",
+      "title": "Brian Chesky interview: AI agents need their own operating system",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
-      "publishedAt": "Wed, 30 Sep 2026 16:00:00 +0000",
-      "summary": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\""
+      "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+      "publishedAt": "Thu, 01 Oct 2026 15:12:00 +0000",
+      "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system."
     }
   ],
   "techMovers": [
     {
-      "ticker": "SNOW",
-      "name": "Snowflake Inc",
-      "price": 342.11,
-      "change": 11.8,
-      "changePercent": 3.57
+      "ticker": "CRM",
+      "name": "Salesforce Inc",
+      "price": 235.12,
+      "change": 5.55,
+      "changePercent": 2.42
+    },
+    {
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "price": 190.19,
+      "change": 3.78,
+      "changePercent": 2.03
+    },
+    {
+      "ticker": "NFLX",
+      "name": "Netflix Inc",
+      "price": 68.22,
+      "change": -1.36,
+      "changePercent": -1.95
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp",
+      "price": 232.01,
+      "change": 3.63,
+      "changePercent": 1.59
     },
     {
       "ticker": "GOOG",
       "name": "Alphabet Inc",
-      "price": 345.98,
-      "change": 8.66,
-      "changePercent": 2.57
-    },
-    {
-      "ticker": "AAPL",
-      "name": "Apple Inc",
-      "price": 336.62,
-      "change": 7.23,
-      "changePercent": 2.19
-    },
-    {
-      "ticker": "MSFT",
-      "name": "Microsoft Corp",
-      "price": 518.43,
-      "change": 9.47,
-      "changePercent": 1.86
-    },
-    {
-      "ticker": "CRM",
-      "name": "Salesforce Inc",
-      "price": 229.3,
-      "change": 3.99,
-      "changePercent": 1.77
+      "price": 335.6,
+      "change": -5.14,
+      "changePercent": -1.51
     }
   ],
-  "fearGreedIndex": 71,
+  "fearGreedIndex": 74,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 361.43,
-    "change": -4.45,
-    "changePercent": -1.22
+    "price": 359.79,
+    "change": 0.46,
+    "changePercent": 0.13
   },
   "sectors": [
     {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": 1.15
-    },
-    {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": 0.7
+      "changePercent": 1.62
     },
     {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 0.32
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 0.0
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": -0.05
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": -0.3
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": -0.6
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": -0.69
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": 1.2
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": -0.75
+      "changePercent": 0.69
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": 0.27
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": 0.15
     },
     {
       "ticker": "XLF",
       "name": "Financials",
-      "changePercent": -0.82
+      "changePercent": -0.2
     },
     {
       "ticker": "XLP",
       "name": "Consumer Staples",
-      "changePercent": -0.9
+      "changePercent": -0.29
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -0.45
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -0.7
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -0.85
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -1.11
     }
   ],
   "economicCalendar": [
-    {
-      "date": "2026-10-02",
-      "time": "08:30 ET",
-      "event": "Non-Farm Payrolls",
-      "importance": "high",
-      "description": "Monthly jobs report - employment and wage data"
-    },
     {
       "date": "2026-10-12",
       "time": "08:30 ET",
       "event": "CPI Inflation Data",
       "importance": "high",
       "description": "Consumer Price Index - key inflation measure"
+    },
+    {
+      "date": "2026-10-15",
+      "time": "08:30 ET",
+      "event": "Retail Sales",
+      "importance": "medium",
+      "description": "Monthly consumer spending data"
     }
   ],
   "marketIndicators": [
