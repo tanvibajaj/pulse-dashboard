@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-10-02T18:11:13.467204+00:00",
-  "marketStatus": "Open",
+  "lastUpdated": "2026-10-03T16:57:17.460755+00:00",
+  "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "Riot police clash with students as education protests rage in France",
+      "title": "Tennessee prison chief to resign after Christa Pike's failed execution, governor says",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 02 Oct 2026 17:43:10 GMT",
-      "summary": "More than 600 schools have faced disruption as protests over standards and lack of teachers continue."
+      "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 03 Oct 2026 16:50:34 GMT",
+      "summary": "Pike survived two lethal injections on Wednesday and is currently in critical condition in hospital."
     },
     {
-      "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 02 Oct 2026 17:44:08 GMT",
-      "summary": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024."
+      "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 03 Oct 2026 14:27:33 GMT",
+      "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets."
     },
     {
-      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 02 Oct 2026 09:08:06 GMT",
-      "summary": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack."
+      "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 03 Oct 2026 16:16:49 GMT",
+      "summary": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital."
     },
     {
-      "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 02 Oct 2026 15:26:37 GMT",
-      "summary": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure."
+      "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 03 Oct 2026 13:34:11 GMT",
+      "summary": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament."
     },
     {
-      "title": "Spanish PM S\u00e1nchez loses key housing crisis vote after eviction of woman, 87",
+      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 02 Oct 2026 15:30:12 GMT",
-      "summary": "The defeat raises pressure on S\u00e1nchez to call a snap election, after a series of scandals affecting his party and allies."
+      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 03 Oct 2026 04:38:31 GMT",
+      "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports."
     }
   ],
   "cryptoAssets": [
@@ -43,165 +43,165 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 84826,
-      "change24h": 0.02606,
-      "marketCap": 1704355237050,
+      "price": 84844,
+      "change24h": -0.30878,
+      "marketCap": 1704755072185,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2685.01,
-      "change24h": -0.44004,
-      "marketCap": 327839363037,
+      "price": 2681.25,
+      "change24h": -0.28124,
+      "marketCap": 327357736317,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "71% of UK finance leaders expect tokenization to reshape financial services: Lloyds",
+      "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/71-percent-uk-finance-leaders-expect-tokenization-reshape-financial-services-lloyds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 02 Oct 2026 16:20:24 +0000",
-      "summary": "A Lloyds survey found that faster payments and settlement are the most significant perceived benefits of tokenization, as the UK builds infrastructure for tokenized finance."
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 03 Oct 2026 12:20:00 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Crypto\u2019s billions are back, but the premiums aren\u2019t",
+      "title": "NEAR Intents recovers entire stolen $3.8M after ultimatum to exploiter",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/crypto-biz-kalshi-blockchain-com-crypto-treasury-valuations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 02 Oct 2026 15:32:53 +0000",
-      "summary": "Kalshi seeks a $40 billion valuation, while Blockchain.com targets an IPO and crypto treasury companies struggle to maintain their once-high valuations."
+      "url": "https://cointelegraph.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 03 Oct 2026 11:59:10 +0000",
+      "summary": "The exploiter returned the entire sum to NEAR Intents after being identified and given 48 hours to respond."
     },
     {
-      "title": "Bitcoin briefly hits $87K as weak US jobs data sends bond yields lower",
+      "title": "Community banks sue OCC over trust bank charters of crypto firms",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-briefly-taps-87k-as-bond-yields-drop-on-low-us-nonfarm-payrolls-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 02 Oct 2026 15:27:31 +0000",
-      "summary": "Bitcoin climbed after weaker-than-expected payrolls pushed Treasury yields lower, but order-book resistance kept BTC from reaching new macro highs."
+      "url": "https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 03 Oct 2026 09:25:01 +0000",
+      "summary": "Community banking group\u2019s lawsuit claims OCC has overstepped its mandate from Congress."
     },
     {
-      "title": "\u2018Euro stablecoin isn\u2019t enough\u2019: EU issuers make case for USD tokens",
+      "title": "Trump is expected to appoint Jay Clayton as new AI czar: Reports",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/euro-stablecoin-not-enough-eu-case-usd-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 02 Oct 2026 14:12:48 +0000",
-      "summary": "European issuers say Europe cannot ignore demand for dollar stablecoins as businesses seek USD liquidity for global payments and settlement."
+      "url": "https://cointelegraph.com/news/trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 03 Oct 2026 07:06:08 +0000",
+      "summary": "US intel chief Clayton may be asked to also oversee AI innovation and development along with \u201cself policing\u201d tech CEOs."
     },
     {
-      "title": "Furious debate about THORChain vs NEAR shows idealism has limits",
+      "title": "European crypto users have \u2018more faith\u2019 in regulated firms under MiCA: Bitpanda co-CEO",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/magazine/furious-debate-about-thorchain-vs-near-shows-idealism-has-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 02 Oct 2026 13:30:00 +0000",
-      "summary": "The furious debate over Bitget\u2019s $387.7M of hacked funds comes down to whether ideals around \u201cpermissionless and decentralized\u201d tech means never intervening \u2014 even if you could."
+      "url": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 02 Oct 2026 20:40:47 +0000",
+      "summary": "Speaking on Cointelegraph\u2019s Chain Reaction, Christian Trummer said MiCA has increased trust in regulated platforms and called for stricter enforcement against noncompliant firms."
     }
   ],
   "aiNews": [
     {
-      "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+      "title": "OpenAI safety employee resigns, claiming the company\u2019s \u2018culture is broken\u2019",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
-      "publishedAt": "Fri, 02 Oct 2026 17:56:00 +0000",
-      "summary": "This week, the White House got\u00a0nearly every\u00a0major tech CEO in one room \u2014 Zuckerberg, Bezos, Musk, and Anthropic\u2019s Dario Amodei among them \u2014\u00a0to sign an AI safety pledge\u00a0that President\u00a0Donald\u00a0Trump call"
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "publishedAt": "Sat, 03 Oct 2026 16:30:01 +0000",
+      "summary": "By his own admission, David Robinson is \u201csomething of a clich\u00e9\u201d: an employee at a leading AI company who issues a dire warning while resigning from their job."
     },
     {
-      "title": "It\u2019s\u00a0not AI anymore,\u00a0it\u2019s\u00a0\u2018super intelligence\u2019 (according to the White House)",
+      "title": "All the AI agents that can live in your text messages\u00a0",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-      "publishedAt": "Fri, 02 Oct 2026 17:48:16 +0000",
-      "summary": "This week, the White House got\u00a0nearly every\u00a0major tech CEO in one room \u2014 Zuckerberg, Bezos, Musk, and Anthropic\u2019s Dario Amodei among them \u2014\u00a0to sign an AI safety pledge\u00a0that President\u00a0Donald\u00a0Trump call"
+      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "publishedAt": "Sat, 03 Oct 2026 14:00:00 +0000",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
     },
     {
-      "title": "TechCrunch Disrupt 2026: Blackstone\u2019s Jas Khaira on building the next generation of AI giants",
+      "title": "Meta wants your next gadget to be Muse-infused",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-      "publishedAt": "Fri, 02 Oct 2026 17:32:05 +0000",
-      "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second."
+      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "publishedAt": "Sat, 03 Oct 2026 00:45:39 +0000",
+      "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free."
     },
     {
-      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+      "title": "Sean Parker is rebuilding Stability AI around music",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
-      "publishedAt": "Fri, 02 Oct 2026 17:00:00 +0000",
-      "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test  dummies\" to solve th"
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "publishedAt": "Fri, 02 Oct 2026 21:09:14 +0000",
+      "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money."
     },
     {
-      "title": "Pope Leo XIV is not a fan of AI-generated art",
+      "title": "Affected by layoffs? Don\u2019t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-      "publishedAt": "Fri, 02 Oct 2026 15:39:41 +0000",
-      "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope "
+      "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "publishedAt": "Fri, 02 Oct 2026 19:15:51 +0000",
+      "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people."
     }
   ],
   "techMovers": [
     {
       "ticker": "TSLA",
       "name": "Tesla Inc",
-      "price": 371.73,
-      "change": 17.62,
-      "changePercent": 4.98
-    },
-    {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "price": 182.44,
-      "change": -6.85,
-      "changePercent": -3.62
+      "price": 370.59,
+      "change": 16.48,
+      "changePercent": 4.65
     },
     {
       "ticker": "AVGO",
       "name": "Broadcom Inc",
-      "price": 354.06,
-      "change": 10.42,
-      "changePercent": 3.03
+      "price": 355.14,
+      "change": 11.5,
+      "changePercent": 3.35
+    },
+    {
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "price": 183.0,
+      "change": -6.29,
+      "changePercent": -3.32
     },
     {
       "ticker": "ORCL",
       "name": "Oracle Corp",
-      "price": 141.74,
-      "change": 3.66,
-      "changePercent": 2.65
+      "price": 142.3,
+      "change": 4.23,
+      "changePercent": 3.06
     },
     {
       "ticker": "AMD",
       "name": "AMD Inc",
-      "price": 631.09,
-      "change": 15.36,
-      "changePercent": 2.49
+      "price": 633.91,
+      "change": 18.18,
+      "changePercent": 2.95
     }
   ],
-  "fearGreedIndex": 72,
+  "fearGreedIndex": 67,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 360.84,
-    "change": 0.99,
-    "changePercent": 0.28
+    "price": 360.66,
+    "change": 0.81,
+    "changePercent": 0.23
   },
   "sectors": [
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": 1.08
+      "changePercent": 1.13
     },
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": 0.95
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 0.88
+      "changePercent": 1.01
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": 0.82
+      "changePercent": 0.78
     },
     {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 0.53
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": 0.66
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": 0.38
     },
     {
       "ticker": "XLC",
@@ -209,29 +209,29 @@
       "changePercent": 0.35
     },
     {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": 0.31
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": 0.28
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": 0.32
     },
     {
       "ticker": "XLP",
       "name": "Consumer Staples",
-      "changePercent": 0.11
+      "changePercent": 0.25
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": 0.19
     },
     {
       "ticker": "XLF",
       "name": "Financials",
-      "changePercent": 0.07
+      "changePercent": 0.06
     },
     {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": -0.35
+      "changePercent": -0.01
     }
   ],
   "economicCalendar": [
