@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-10-07T19:11:07.186899+00:00",
+  "lastUpdated": "2026-10-08T19:07:31.579386+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 07 Oct 2026 17:47:31 GMT",
-      "summary": "The step comes after several groups complained of police using disproportionate force towards teenagers."
+      "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 08 Oct 2026 16:31:29 GMT",
+      "summary": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible."
     },
     {
-      "title": "Israelis demand accountability over 7 October failures three years after attacks",
+      "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 07 Oct 2026 16:00:18 GMT",
-      "summary": "Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry."
+      "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 08 Oct 2026 15:02:32 GMT",
+      "summary": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections."
     },
     {
-      "title": "Canada suspends plans to expand assisted dying to people with mental illness ",
+      "title": "Venezuela's ex-leader Nicol\u00e1s Maduro charged with conspiracy to commit torture",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 07 Oct 2026 17:29:46 GMT",
-      "summary": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely. "
+      "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 08 Oct 2026 17:38:59 GMT",
+      "summary": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power. "
     },
     {
-      "title": "Trump to speak to Putin about plague lab worker's death in Russia",
+      "title": "Residents airlifted to safety after flooding in central Chile",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 07 Oct 2026 18:27:40 GMT",
-      "summary": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia."
+      "url": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 08 Oct 2026 11:31:22 GMT",
+      "summary": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days."
     },
     {
-      "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
+      "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 07 Oct 2026 18:12:58 GMT",
-      "summary": "Five children are among the victims of a strike that destroyed 30 flats in northern Ukraine as families slept."
+      "url": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 08 Oct 2026 12:32:12 GMT",
+      "summary": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power."
     }
   ],
   "cryptoAssets": [
@@ -43,18 +43,18 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 83352,
-      "change24h": -2.52224,
-      "marketCap": 1674829531396,
+      "price": 81532,
+      "change24h": -2.19963,
+      "marketCap": 1638409831279,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2560.89,
-      "change24h": -4.77768,
-      "marketCap": 312690198249,
+      "price": 2450.66,
+      "change24h": -4.30376,
+      "marketCap": 299265689408,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
@@ -63,175 +63,175 @@
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 07 Oct 2026 18:55:36 +0000",
+      "publishedAt": "Thu, 08 Oct 2026 18:29:33 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Hunter Biden confirms LAPTOP token \u2018not a rug pull,\u2019 just trolling Trumps",
+      "title": "Netflix drops trailer for series based on FTX\u2019s SBF and Caroline Ellison",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/hunter-biden-laptop-memecoin-troll-no-rug-pull?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 07 Oct 2026 18:00:10 +0000",
-      "summary": "\u201cTrump\u2019s coin was max extraction, and I wanted to troll every grift like it,\u201c said Hunter Biden in a breakdown of the memecoin launch and fallout."
+      "url": "https://cointelegraph.com/news/netflix-series-ftx-sam-bankman-fried-caroline-ellison?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 08 Oct 2026 18:17:35 +0000",
+      "summary": "Sam Bankman-Fried remains in federal prison following his 2023 conviction, while Caroline Ellison was released in January."
     },
     {
-      "title": "Sui tunnels hit 40.6M TPS in live AI agent test",
+      "title": "IMF warns tokenized markets could amplify financial risks",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 07 Oct 2026 17:46:59 +0000",
-      "summary": "The layer-1 blockchain said its programmable offchain tunnels reached the milestone during a live stress test designed to simulate high-frequency activity between AI agents."
+      "url": "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 08 Oct 2026 16:25:06 +0000",
+      "summary": "The global financial institution found tokenized equity markets less liquid and more volatile than traditional markets, despite growing demand for 24/7 trading."
     },
     {
-      "title": "Tether, Kazakhstan cenbank mull tenge stablecoin and asset tokenization",
+      "title": "Bitcoin nears 3-week low as oil heads higher on Iran strike woes ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 07 Oct 2026 16:25:38 +0000",
-      "summary": "The agreement will explore a tenge-backed stablecoin pilot and a framework for tokenizing real-world assets as Kazakhstan expands its digital asset industry."
+      "url": "https://cointelegraph.com/markets/bitcoin-nears-3-week-low-as-oil-heads-higher-on-iran-strike-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 08 Oct 2026 15:55:55 +0000",
+      "summary": "Bitcoin dipped below $81,000 and oil prices gained after reports that military confrontation between the US and Iran could return."
     },
     {
-      "title": "House Finance panel chair says regulator actions on crypto \u2018fall short\u2019 of CLARITY bill",
+      "title": "US government moves $1B in seized Bitcoin after $770M transfers",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 07 Oct 2026 16:06:03 +0000",
-      "summary": "Representative French Hill hopes lawmakers could pass a cryptocurrency market structure bill before the next session of Congress in 2027 as SEC and CFTC actions weren\u2019t sufficient"
+      "url": "https://cointelegraph.com/news/us-government-seized-bitcoin-moved-one-transaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 08 Oct 2026 15:24:16 +0000",
+      "summary": "Blockchain analysts identified the US government wallet tied to the recovery of funds from the Bitfinex hack."
     }
   ],
   "aiNews": [
     {
-      "title": "Meta\u2019s Muse launches on iPad just a month after its mobile debut",
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-      "publishedAt": "Wed, 07 Oct 2026 18:30:57 +0000",
-      "summary": "Meta\u2019s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant\u2019s reach and integrations."
+      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "publishedAt": "Thu, 08 Oct 2026 18:20:32 +0000",
+      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving h"
     },
     {
-      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-      "publishedAt": "Wed, 07 Oct 2026 18:15:28 +0000",
-      "summary": "ChatGPT\u2019s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships wit"
+      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "publishedAt": "Thu, 08 Oct 2026 18:19:45 +0000",
+      "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying."
     },
     {
-      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+      "title": "OpenAI\u2019s revenue is reportedly $20 billion less than previously projected",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-      "publishedAt": "Wed, 07 Oct 2026 18:00:19 +0000",
-      "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT. "
+      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "publishedAt": "Thu, 08 Oct 2026 18:19:42 +0000",
+      "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that. "
     },
     {
-      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-      "publishedAt": "Wed, 07 Oct 2026 16:53:46 +0000",
-      "summary": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online."
+      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "publishedAt": "Thu, 08 Oct 2026 18:18:00 +0000",
+      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its o"
     },
     {
-      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+      "title": "Anthropic changes usage policy to ban model abuse and election interference",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
-      "publishedAt": "Wed, 07 Oct 2026 15:07:08 +0000",
-      "summary": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures. "
+      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+      "publishedAt": "Thu, 08 Oct 2026 18:16:24 +0000",
+      "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address ele"
     }
   ],
   "techMovers": [
     {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "price": 178.36,
-      "change": -7.38,
-      "changePercent": -3.97
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "price": 134.93,
+      "change": -8.63,
+      "changePercent": -6.01
     },
     {
-      "ticker": "META",
-      "name": "Meta Platforms",
-      "price": 722.86,
-      "change": -16.02,
-      "changePercent": -2.17
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "price": 357.77,
+      "change": -18.74,
+      "changePercent": -4.98
     },
     {
       "ticker": "AMD",
       "name": "AMD Inc",
-      "price": 640.05,
-      "change": -9.37,
-      "changePercent": -1.44
+      "price": 614.45,
+      "change": -31.41,
+      "changePercent": -4.86
     },
     {
-      "ticker": "NFLX",
-      "name": "Netflix Inc",
-      "price": 69.61,
-      "change": 0.92,
-      "changePercent": 1.35
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp",
+      "price": 230.39,
+      "change": -7.08,
+      "changePercent": -2.98
     },
     {
-      "ticker": "AMZN",
-      "name": "Amazon.com",
-      "price": 259.59,
-      "change": 3.3,
-      "changePercent": 1.29
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "price": 174.13,
+      "change": -4.32,
+      "changePercent": -2.42
     }
   ],
-  "fearGreedIndex": 71,
+  "fearGreedIndex": 64,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 374.03,
-    "change": 3.39,
-    "changePercent": 0.91
+    "price": 373.58,
+    "change": 1.48,
+    "changePercent": 0.4
   },
   "sectors": [
     {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": 1.3
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": 3.11
     },
     {
       "ticker": "XLP",
       "name": "Consumer Staples",
-      "changePercent": 0.31
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": 0.22
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": -0.14
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": -0.23
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": -0.38
+      "changePercent": 2.25
     },
     {
       "ticker": "XLF",
       "name": "Financials",
-      "changePercent": -0.45
+      "changePercent": 0.73
     },
     {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": -0.47
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": 0.65
     },
     {
       "ticker": "XLRE",
       "name": "Real Estate",
-      "changePercent": -0.77
+      "changePercent": 0.57
     },
     {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": -1.34
+      "changePercent": 0.46
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": 0.09
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": -2.0
+      "changePercent": 0.09
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": -0.43
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -0.59
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": -2.16
     }
   ],
   "economicCalendar": [
