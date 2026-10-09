@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-10-08T19:07:31.579386+00:00",
+  "lastUpdated": "2026-10-09T18:38:05.948586+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+      "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 08 Oct 2026 16:31:29 GMT",
-      "summary": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible."
+      "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 09 Oct 2026 17:43:03 GMT",
+      "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions."
     },
     {
-      "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
+      "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 08 Oct 2026 15:02:32 GMT",
-      "summary": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections."
+      "url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 09 Oct 2026 17:37:10 GMT",
+      "summary": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says."
     },
     {
-      "title": "Venezuela's ex-leader Nicol\u00e1s Maduro charged with conspiracy to commit torture",
+      "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 08 Oct 2026 17:38:59 GMT",
-      "summary": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power. "
+      "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 09 Oct 2026 18:36:18 GMT",
+      "summary": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years."
     },
     {
-      "title": "Residents airlifted to safety after flooding in central Chile",
+      "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 08 Oct 2026 11:31:22 GMT",
-      "summary": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days."
+      "url": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 09 Oct 2026 17:14:44 GMT",
+      "summary": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks."
     },
     {
-      "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
+      "title": "Thieves steal 30,000 bottles of wine worth \u20ac5m in Italy, reports say",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 08 Oct 2026 12:32:12 GMT",
-      "summary": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power."
+      "url": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 09 Oct 2026 09:09:03 GMT",
+      "summary": "The heist at the Florence-based winery is believed to be one of the largest thefts of its kind in Italy."
     }
   ],
   "cryptoAssets": [
@@ -43,18 +43,18 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 81532,
-      "change24h": -2.19963,
-      "marketCap": 1638409831279,
+      "price": 82366,
+      "change24h": 1.24864,
+      "marketCap": 1655873532886,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2450.66,
-      "change24h": -4.30376,
-      "marketCap": 299265689408,
+      "price": 2479.36,
+      "change24h": 1.57638,
+      "marketCap": 302862829313,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
@@ -63,175 +63,175 @@
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 08 Oct 2026 18:29:33 +0000",
+      "publishedAt": "Fri, 09 Oct 2026 18:30:11 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Netflix drops trailer for series based on FTX\u2019s SBF and Caroline Ellison",
+      "title": "HSBC, Ant Digital test AI-agent payments using tokenized deposits",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/netflix-series-ftx-sam-bankman-fried-caroline-ellison?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 08 Oct 2026 18:17:35 +0000",
-      "summary": "Sam Bankman-Fried remains in federal prison following his 2023 conviction, while Caroline Ellison was released in January."
+      "url": "https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 09 Oct 2026 17:21:07 +0000",
+      "summary": "The technical trial showed how AI agents could discover services and make micropayments using HSBC\u2019s tokenized deposits, with real-time settlement and risk checks."
     },
     {
-      "title": "IMF warns tokenized markets could amplify financial risks",
+      "title": "Ledger investigates fund losses linked to Southeast Asian reseller, warns users",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 08 Oct 2026 16:25:06 +0000",
-      "summary": "The global financial institution found tokenized equity markets less liquid and more volatile than traditional markets, despite growing demand for 24/7 trading."
+      "url": "https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 09 Oct 2026 17:02:47 +0000",
+      "summary": "Hardware wallet maker Ledger probes losses tied to reseller CryptoBilis, as researchers separately estimate more than $72 million to $86 million in suspected crypto thefts."
     },
     {
-      "title": "Bitcoin nears 3-week low as oil heads higher on Iran strike woes ",
+      "title": "Blockchain.com pursues CFTC approval for prediction markets: CNBC",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-nears-3-week-low-as-oil-heads-higher-on-iran-strike-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 08 Oct 2026 15:55:55 +0000",
-      "summary": "Bitcoin dipped below $81,000 and oil prices gained after reports that military confrontation between the US and Iran could return."
+      "url": "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 09 Oct 2026 16:22:45 +0000",
+      "summary": "The crypto company has reportedly applied for two licenses with the US commodities regulatory as the courts weigh prediction markets cases."
     },
     {
-      "title": "US government moves $1B in seized Bitcoin after $770M transfers",
+      "title": "Crypto Biz: Wealthy investors are buying crypto, but their advisers aren\u2019t sold",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/us-government-seized-bitcoin-moved-one-transaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 08 Oct 2026 15:24:16 +0000",
-      "summary": "Blockchain analysts identified the US government wallet tied to the recovery of funds from the Bitfinex hack."
+      "url": "https://cointelegraph.com/news/wealthy-investors-crypto-advisers-okx-strategy-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 09 Oct 2026 15:51:53 +0000",
+      "summary": "Wealthy investors are embracing crypto faster than their advisers, while OKX attracts new funding and Strategy shifts more capital toward preferred stock buybacks."
     }
   ],
   "aiNews": [
     {
-      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-      "publishedAt": "Thu, 08 Oct 2026 18:20:32 +0000",
-      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving h"
+      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "publishedAt": "Fri, 09 Oct 2026 16:56:42 +0000",
+      "summary": "Amazon says it will\u00a0stop using NDAs\u00a0when negotiating data center deals with local governments, following\u00a0a\u00a0similar move from Microsoft\u00a0earlier this year. Secrecy has fueled community backlash against "
     },
     {
-      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-      "publishedAt": "Thu, 08 Oct 2026 18:19:45 +0000",
-      "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying."
+      "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+      "publishedAt": "Fri, 09 Oct 2026 16:53:02 +0000",
+      "summary": "Amazon says it will\u00a0stop using NDAs\u00a0when negotiating data center deals with local governments, following\u00a0a\u00a0similar move from Microsoft\u00a0earlier this year. Secrecy has fueled community backlash against "
     },
     {
-      "title": "OpenAI\u2019s revenue is reportedly $20 billion less than previously projected",
+      "title": "Danu Robotics\u2019 fight to build a better recycling robot",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-      "publishedAt": "Thu, 08 Oct 2026 18:19:42 +0000",
-      "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that. "
+      "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+      "publishedAt": "Fri, 09 Oct 2026 16:45:00 +0000",
+      "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste."
     },
     {
-      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "title": "We can\u2019t help treating AI like it\u2019s human. But should we?",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-      "publishedAt": "Thu, 08 Oct 2026 18:18:00 +0000",
-      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its o"
+      "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+      "publishedAt": "Fri, 09 Oct 2026 16:40:14 +0000",
+      "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\""
     },
     {
-      "title": "Anthropic changes usage policy to ban model abuse and election interference",
+      "title": "a16z\u2019s Olivia Moore on the state of consumer AI",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-      "publishedAt": "Thu, 08 Oct 2026 18:16:24 +0000",
-      "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address ele"
+      "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+      "publishedAt": "Fri, 09 Oct 2026 15:43:33 +0000",
+      "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges."
     }
   ],
   "techMovers": [
     {
+      "ticker": "SNOW",
+      "name": "Snowflake Inc",
+      "price": 366.22,
+      "change": 22.82,
+      "changePercent": 6.65
+    },
+    {
       "ticker": "ORCL",
       "name": "Oracle Corp",
-      "price": 134.93,
-      "change": -8.63,
-      "changePercent": -6.01
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc",
-      "price": 357.77,
-      "change": -18.74,
-      "changePercent": -4.98
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 614.45,
-      "change": -31.41,
-      "changePercent": -4.86
-    },
-    {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corp",
-      "price": 230.39,
-      "change": -7.08,
-      "changePercent": -2.98
+      "price": 142.01,
+      "change": 6.32,
+      "changePercent": 4.66
     },
     {
       "ticker": "COIN",
       "name": "Coinbase",
-      "price": 174.13,
-      "change": -4.32,
-      "changePercent": -2.42
+      "price": 179.96,
+      "change": 7.96,
+      "changePercent": 4.63
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon.com",
+      "price": 261.02,
+      "change": 6.96,
+      "changePercent": 2.74
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla Inc",
+      "price": 384.14,
+      "change": 9.14,
+      "changePercent": 2.44
     }
   ],
-  "fearGreedIndex": 64,
+  "fearGreedIndex": 59,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 373.58,
-    "change": 1.48,
-    "changePercent": 0.4
+    "price": 385.26,
+    "change": 10.16,
+    "changePercent": 2.71
   },
   "sectors": [
     {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": 3.11
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 2.25
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 0.73
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 0.65
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": 1.62
     },
     {
       "ticker": "XLRE",
       "name": "Real Estate",
-      "changePercent": 0.57
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 0.46
+      "changePercent": 1.6
     },
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": 0.09
+      "changePercent": 0.99
     },
     {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": 0.09
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 0.94
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": -0.43
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": -0.59
+      "changePercent": 0.77
     },
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": -2.16
+      "changePercent": 0.54
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": 0.52
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": 0.5
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": 0.07
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": -0.04
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -1.43
     }
   ],
   "economicCalendar": [
