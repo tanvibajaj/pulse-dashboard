@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-10-09T18:38:05.948586+00:00",
-  "marketStatus": "Open",
+  "lastUpdated": "2026-10-10T17:37:15.581218+00:00",
+  "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 17:43:03 GMT",
-      "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions."
+      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 10 Oct 2026 17:31:24 GMT",
+      "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war."
     },
     {
-      "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 17:37:10 GMT",
-      "summary": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says."
+      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 10 Oct 2026 14:16:50 GMT",
+      "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal."
     },
     {
-      "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+      "title": "Several injured in attack on airport in Saudi capital Riyadh",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 18:36:18 GMT",
-      "summary": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years."
+      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 10 Oct 2026 16:56:32 GMT",
+      "summary": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it."
     },
     {
-      "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
+      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 17:14:44 GMT",
-      "summary": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks."
+      "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 10 Oct 2026 16:30:21 GMT",
+      "summary": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month."
     },
     {
-      "title": "Thieves steal 30,000 bottles of wine worth \u20ac5m in Italy, reports say",
+      "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 09:09:03 GMT",
-      "summary": "The heist at the Florence-based winery is believed to be one of the largest thefts of its kind in Italy."
+      "url": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 10 Oct 2026 12:29:31 GMT",
+      "summary": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections."
     }
   ],
   "cryptoAssets": [
@@ -43,18 +43,18 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 82366,
-      "change24h": 1.24864,
-      "marketCap": 1655873532886,
+      "price": 82990,
+      "change24h": 0.4324,
+      "marketCap": 1667774425944,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2479.36,
-      "change24h": 1.57638,
-      "marketCap": 302862829313,
+      "price": 2505.07,
+      "change24h": 0.80505,
+      "marketCap": 305924102226,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
@@ -63,175 +63,175 @@
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 09 Oct 2026 18:30:11 +0000",
+      "publishedAt": "Sat, 10 Oct 2026 12:30:00 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "HSBC, Ant Digital test AI-agent payments using tokenized deposits",
+      "title": "Justin Sun says Tron\u2019s post-quantum cryptography has gone live on testnet",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 09 Oct 2026 17:21:07 +0000",
-      "summary": "The technical trial showed how AI agents could discover services and make micropayments using HSBC\u2019s tokenized deposits, with real-time settlement and risk checks."
+      "url": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 10 Oct 2026 11:52:14 +0000",
+      "summary": "\u201cWe\u2019re ready to bring quantum resistance to mainnet at any time,\u201d Sun said in a post on X."
     },
     {
-      "title": "Ledger investigates fund losses linked to Southeast Asian reseller, warns users",
+      "title": "Tech chief says EU can fend off rogue AI risk: Report",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 09 Oct 2026 17:02:47 +0000",
-      "summary": "Hardware wallet maker Ledger probes losses tied to reseller CryptoBilis, as researchers separately estimate more than $72 million to $86 million in suspected crypto thefts."
+      "url": "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 10 Oct 2026 08:41:06 +0000",
+      "summary": "There are global concerns following incidents at OpenAI \u200cand Anthropic, and fears have arisen that rogue AI agents may venture beyond human control."
     },
     {
-      "title": "Blockchain.com pursues CFTC approval for prediction markets: CNBC",
+      "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 09 Oct 2026 16:22:45 +0000",
-      "summary": "The crypto company has reportedly applied for two licenses with the US commodities regulatory as the courts weigh prediction markets cases."
+      "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 10 Oct 2026 07:10:43 +0000",
+      "summary": "The round follows increased international demand for Meanwhile\u2019s Bitcoin life insurance policies amid broader macro instability."
     },
     {
-      "title": "Crypto Biz: Wealthy investors are buying crypto, but their advisers aren\u2019t sold",
+      "title": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/wealthy-investors-crypto-advisers-okx-strategy-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 09 Oct 2026 15:51:53 +0000",
-      "summary": "Wealthy investors are embracing crypto faster than their advisers, while OKX attracts new funding and Strategy shifts more capital toward preferred stock buybacks."
+      "url": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 09 Oct 2026 20:39:17 +0000",
+      "summary": "The Treasury Department has announced several digital asset seizures related to sanctions on Iran as part of US sanctions."
     }
   ],
   "aiNews": [
     {
-      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-      "publishedAt": "Fri, 09 Oct 2026 16:56:42 +0000",
-      "summary": "Amazon says it will\u00a0stop using NDAs\u00a0when negotiating data center deals with local governments, following\u00a0a\u00a0similar move from Microsoft\u00a0earlier this year. Secrecy has fueled community backlash against "
+      "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+      "publishedAt": "Sat, 10 Oct 2026 15:00:00 +0000",
+      "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they\u2019ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ s"
     },
     {
-      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+      "title": "Here are the top AI agents that can live in your text messages\u00a0",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
-      "publishedAt": "Fri, 09 Oct 2026 16:53:02 +0000",
-      "summary": "Amazon says it will\u00a0stop using NDAs\u00a0when negotiating data center deals with local governments, following\u00a0a\u00a0similar move from Microsoft\u00a0earlier this year. Secrecy has fueled community backlash against "
+      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "publishedAt": "Sat, 10 Oct 2026 14:00:00 +0000",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
     },
     {
-      "title": "Danu Robotics\u2019 fight to build a better recycling robot",
+      "title": "Anthropic can\u2019t reliably control its AI agents. It\u2019s cutting off its internal evals from the live internet instead",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
-      "publishedAt": "Fri, 09 Oct 2026 16:45:00 +0000",
-      "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste."
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "publishedAt": "Sat, 10 Oct 2026 00:18:32 +0000",
+      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice. "
     },
     {
-      "title": "We can\u2019t help treating AI like it\u2019s human. But should we?",
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-      "publishedAt": "Fri, 09 Oct 2026 16:40:14 +0000",
-      "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\""
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "publishedAt": "Fri, 09 Oct 2026 21:41:29 +0000",
+      "summary": "What has users and large corporations so excited about Jev is TypeSafe\u2019s claim that it works significantly faster and uses far fewer tokens than LLMs. "
     },
     {
-      "title": "a16z\u2019s Olivia Moore on the state of consumer AI",
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-      "publishedAt": "Fri, 09 Oct 2026 15:43:33 +0000",
-      "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges."
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "publishedAt": "Fri, 09 Oct 2026 19:36:56 +0000",
+      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip."
     }
   ],
   "techMovers": [
     {
       "ticker": "SNOW",
       "name": "Snowflake Inc",
-      "price": 366.22,
-      "change": 22.82,
-      "changePercent": 6.65
+      "price": 368.89,
+      "change": 25.49,
+      "changePercent": 7.42
     },
     {
       "ticker": "ORCL",
       "name": "Oracle Corp",
-      "price": 142.01,
-      "change": 6.32,
-      "changePercent": 4.66
+      "price": 141.4,
+      "change": 6.21,
+      "changePercent": 4.59
     },
     {
       "ticker": "COIN",
       "name": "Coinbase",
-      "price": 179.96,
-      "change": 7.96,
-      "changePercent": 4.63
+      "price": 179.39,
+      "change": 7.39,
+      "changePercent": 4.3
     },
     {
       "ticker": "AMZN",
       "name": "Amazon.com",
-      "price": 261.02,
-      "change": 6.96,
-      "changePercent": 2.74
+      "price": 262.43,
+      "change": 8.37,
+      "changePercent": 3.29
     },
     {
-      "ticker": "TSLA",
-      "name": "Tesla Inc",
-      "price": 384.14,
-      "change": 9.14,
-      "changePercent": 2.44
+      "ticker": "MSFT",
+      "name": "Microsoft Corp",
+      "price": 535.07,
+      "change": 12.46,
+      "changePercent": 2.38
     }
   ],
-  "fearGreedIndex": 59,
+  "fearGreedIndex": 64,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 385.26,
-    "change": 10.16,
-    "changePercent": 2.71
+    "price": 385.45,
+    "change": 10.35,
+    "changePercent": 2.76
   },
   "sectors": [
     {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": 1.62
-    },
-    {
       "ticker": "XLRE",
       "name": "Real Estate",
-      "changePercent": 1.6
+      "changePercent": 1.86
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": 1.58
     },
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": 0.99
+      "changePercent": 1.02
     },
     {
       "ticker": "XLF",
       "name": "Financials",
-      "changePercent": 0.94
+      "changePercent": 0.92
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": 0.77
+      "changePercent": 0.83
     },
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": 0.54
+      "changePercent": 0.51
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": 0.52
+      "changePercent": 0.5
     },
     {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": 0.5
+      "changePercent": 0.32
     },
     {
       "ticker": "XLP",
       "name": "Consumer Staples",
-      "changePercent": 0.07
+      "changePercent": 0.01
     },
     {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": -0.04
+      "changePercent": -0.25
     },
     {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": -1.43
+      "changePercent": -1.51
     }
   ],
   "economicCalendar": [
