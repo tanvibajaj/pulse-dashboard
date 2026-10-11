@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-10-10T17:37:15.581218+00:00",
+  "lastUpdated": "2026-10-11T17:53:15.202752+00:00",
   "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "title": "Saudi capital airport hit by second Houthi strike in two days",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 10 Oct 2026 17:31:24 GMT",
-      "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war."
+      "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 11 Oct 2026 16:41:37 GMT",
+      "summary": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities."
     },
     {
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 10 Oct 2026 14:16:50 GMT",
-      "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal."
+      "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 11 Oct 2026 14:38:10 GMT",
+      "summary": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations."
     },
     {
-      "title": "Several injured in attack on airport in Saudi capital Riyadh",
+      "title": "Poland detains man suspected of planning assassination of PM Tusk",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 10 Oct 2026 16:56:32 GMT",
-      "summary": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it."
+      "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 11 Oct 2026 17:27:24 GMT",
+      "summary": "Police received credible information about possible attacks against Donald Tusk and his defence minister."
     },
     {
-      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+      "title": "Homes and bridges swept away as fresh floods hit Nepal",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 10 Oct 2026 16:30:21 GMT",
-      "summary": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month."
+      "url": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 11 Oct 2026 12:03:52 GMT",
+      "summary": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing."
     },
     {
-      "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
+      "title": "Poland stabbings driven by online glorification of violence, Tusk says",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 10 Oct 2026 12:29:31 GMT",
-      "summary": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections."
+      "url": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 11 Oct 2026 15:18:52 GMT",
+      "summary": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured."
     }
   ],
   "cryptoAssets": [
@@ -43,93 +43,93 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 82990,
-      "change24h": 0.4324,
-      "marketCap": 1667774425944,
+      "price": 83870,
+      "change24h": 0.98547,
+      "marketCap": 1685504234774,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2505.07,
-      "change24h": 0.80505,
-      "marketCap": 305924102226,
+      "price": 2542.0,
+      "change24h": 1.44047,
+      "marketCap": 310459005661,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
+      "title": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 11 Oct 2026 17:03:00 +0000",
+      "summary": "Investors will have to wait an extra day to find out if and how much Strategy added to its Bitcoin treasury in the first week of October.\n"
+    },
+    {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 10 Oct 2026 12:30:00 +0000",
+      "publishedAt": "Sun, 11 Oct 2026 12:45:00 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Justin Sun says Tron\u2019s post-quantum cryptography has gone live on testnet",
+      "title": "Coldcard says it\u2019s investigating how phishing link appeared on its X account \u00a0",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 10 Oct 2026 11:52:14 +0000",
-      "summary": "\u201cWe\u2019re ready to bring quantum resistance to mainnet at any time,\u201d Sun said in a post on X."
+      "url": "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 11 Oct 2026 10:32:00 +0000",
+      "summary": "Company advised users not to visit or interact with the link in question and said it will share any further verified updates."
     },
     {
-      "title": "Tech chief says EU can fend off rogue AI risk: Report",
+      "title": "Ledger confirms unauthorized hardware implant, says losses may exceed $86M",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 10 Oct 2026 08:41:06 +0000",
-      "summary": "There are global concerns following incidents at OpenAI \u200cand Anthropic, and fears have arisen that rogue AI agents may venture beyond human control."
+      "url": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 11 Oct 2026 09:05:00 +0000",
+      "summary": "Ledger said the incident appeared to be isolated to a single reseller and its Southeast Asian market. "
     },
     {
-      "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
+      "title": "CFTC proposals aimed at separating prediction markets from casino gambling \u00a0",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 10 Oct 2026 07:10:43 +0000",
-      "summary": "The round follows increased international demand for Meanwhile\u2019s Bitcoin life insurance policies amid broader macro instability."
-    },
-    {
-      "title": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 09 Oct 2026 20:39:17 +0000",
-      "summary": "The Treasury Department has announced several digital asset seizures related to sanctions on Iran as part of US sanctions."
+      "url": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 11 Oct 2026 07:50:00 +0000",
+      "summary": "The two measures attempt to set the stage for a potential US Supreme Court battle over federal and state jurisdiction."
     }
   ],
   "aiNews": [
+    {
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "publishedAt": "Sun, 11 Oct 2026 16:52:33 +0000",
+      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem."
+    },
+    {
+      "title": "These execs think voice AI hasn\u2019t reached its ChatGPT moment yet",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "publishedAt": "Sun, 11 Oct 2026 14:00:00 +0000",
+      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break"
+    },
+    {
+      "title": "Microsoft\u2019s Satya Nadella says AI models need an \u2018emergency brake\u2019",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "publishedAt": "Sat, 10 Oct 2026 21:47:51 +0000",
+      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it\u2019s time \u201cto step back and assess the trust architecture\u201d of AI."
+    },
+    {
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "publishedAt": "Sat, 10 Oct 2026 19:50:00 +0000",
+      "summary": "Is Apple hoping to get into the AI-generated podcast business?"
+    },
     {
       "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
       "publishedAt": "Sat, 10 Oct 2026 15:00:00 +0000",
       "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they\u2019ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ s"
-    },
-    {
-      "title": "Here are the top AI agents that can live in your text messages\u00a0",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "publishedAt": "Sat, 10 Oct 2026 14:00:00 +0000",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
-    },
-    {
-      "title": "Anthropic can\u2019t reliably control its AI agents. It\u2019s cutting off its internal evals from the live internet instead",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "publishedAt": "Sat, 10 Oct 2026 00:18:32 +0000",
-      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice. "
-    },
-    {
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "publishedAt": "Fri, 09 Oct 2026 21:41:29 +0000",
-      "summary": "What has users and large corporations so excited about Jev is TypeSafe\u2019s claim that it works significantly faster and uses far fewer tokens than LLMs. "
-    },
-    {
-      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-      "publishedAt": "Fri, 09 Oct 2026 19:36:56 +0000",
-      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip."
     }
   ],
   "techMovers": [
@@ -169,7 +169,7 @@
       "changePercent": 2.38
     }
   ],
-  "fearGreedIndex": 64,
+  "fearGreedIndex": 61,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
@@ -248,6 +248,13 @@
       "event": "Retail Sales",
       "importance": "medium",
       "description": "Monthly consumer spending data"
+    },
+    {
+      "date": "2026-10-25",
+      "time": "08:30 ET",
+      "event": "GDP Growth Rate",
+      "importance": "high",
+      "description": "Quarterly economic growth data"
     },
     {
       "date": "2026-11-04",
