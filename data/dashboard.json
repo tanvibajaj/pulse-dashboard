@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-10-12T21:31:57.810077+00:00",
-  "marketStatus": "After Hours",
+  "lastUpdated": "2026-10-13T19:43:29.419223+00:00",
+  "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+      "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 12 Oct 2026 21:20:51 GMT",
-      "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says."
+      "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 13 Oct 2026 15:52:15 GMT",
+      "summary": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\"."
     },
     {
-      "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 12 Oct 2026 20:17:37 GMT",
-      "summary": "While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little."
+      "url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 13 Oct 2026 18:54:17 GMT",
+      "summary": "The sentence marks an end to the mystery around Tupac's cold case, which has intrigued hip-hop fans for nearly 30 years."
     },
     {
-      "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
+      "title": "Saudi coalition strikes fuel depot near Yemen's capital",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 12 Oct 2026 05:00:52 GMT",
-      "summary": "Backdated paperwork also made the Russian oligarch\u2019s yachts and mansions disappear from accounts, investigation finds."
+      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 13 Oct 2026 18:55:50 GMT",
+      "summary": "The Houthis have warned Saudi Arabia that they will retaliate by targeting the Saudi cities of Riyadh and Dammam."
     },
     {
-      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 12 Oct 2026 20:54:09 GMT",
-      "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation."
+      "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 13 Oct 2026 17:10:50 GMT",
+      "summary": "Police say preliminary information suggests the man who died at the Georgia amusement park fell from a ride."
     },
     {
-      "title": "South Africa's deputy police chief resigns after being charged with sexual offences",
+      "title": "Cornell bans all fraternity parties over gang sex assault allegations",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 12 Oct 2026 16:46:49 GMT",
-      "summary": "Shadrack Sibiya had denied grooming a 16-year-old and raping an 18-year-old."
+      "url": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 13 Oct 2026 18:25:28 GMT",
+      "summary": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe. "
     }
   ],
   "cryptoAssets": [
@@ -43,205 +43,198 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 82853,
-      "change24h": -0.59493,
-      "marketCap": 1665111795584,
+      "price": 83165,
+      "change24h": 0.59875,
+      "marketCap": 1671383948682,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2511.83,
-      "change24h": -0.38434,
-      "marketCap": 306764495733,
+      "price": 2505.59,
+      "change24h": -0.40142,
+      "marketCap": 306005750626,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "FTX\u2019s crypto mining venture is now used to advance AI ",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ftx-crypto-mining-ai-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 12 Oct 2026 21:11:26 +0000",
-      "summary": "The defunct exchange acquired a 20% stake in Genesis Digital Assets before FTX declared bankruptcy in November 2022."
-    },
-    {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 12 Oct 2026 19:26:13 +0000",
+      "publishedAt": "Tue, 13 Oct 2026 19:33:57 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Crypto PACs report $2.7M spending blitz on House races as midterms loom",
+      "title": "Trezor reduces resellers as a \u2018preventative step\u2019 amid Ledger tampering reports",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/crypto-pac-spending-house-races-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 12 Oct 2026 18:55:49 +0000",
-      "summary": "With just 22 days until the US midterm elections, a crypto-aligned committee has announced another major ad expenditure to support \u201cpro-crypto\u201d candidates in 2026."
+      "url": "https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 13 Oct 2026 19:07:04 +0000",
+      "summary": "CCO Danny Sanders said he had notified certain hardware wallet resellers that they would be removed from Trezor\u2019s list of authorized entities starting Jan. 1."
     },
     {
-      "title": "US accounting overhaul could make stablecoins more attractive to corporations: Tempo ",
+      "title": "How the SEC\u2019s lack of leadership could facilitate crypto rulemaking ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/fasb-stablecoin-accounting-rules-corporate-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 12 Oct 2026 18:38:14 +0000",
-      "summary": "A Tempo report examines how proposed US accounting rules could change corporate stablecoin holdings, with direct redemption rights determining which tokens qualify as cash."
+      "url": "https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 13 Oct 2026 16:51:25 +0000",
+      "summary": "A recent change in the SEC\u2019s rules on quorum could make it easier for the agency to amend its approach to crypto regulation in the absence of a market structure bill."
     },
     {
-      "title": "Bitcoin miners face widening AI financing costs as lenders scrutinize deals ",
+      "title": "Strive reports $208M in warrant exercises as Bitcoin holdings jump 11% ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-miners-ai-financing-costs-debt-funding-gap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 12 Oct 2026 16:51:05 +0000",
-      "summary": "The Bitcoin mining industry needs roughly $50 billion to complete planned AI infrastructure projects, with IREN, Riot Platforms and HIVE Digital facing major funding gaps.\n"
+      "url": "https://cointelegraph.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 13 Oct 2026 15:57:55 +0000",
+      "summary": "Strive is now the fifth-largest publicly traded corporate Bitcoin holder, with 32,773 BTC, as it continues to expand its treasury through equity financing.\n"
+    },
+    {
+      "title": "Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-keeps-up-pressure-on-84k-as-us-stocks-sidestep-korea-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 13 Oct 2026 15:27:32 +0000",
+      "summary": "Bitcoin price action preserved overnight gains as US stocks quickly rebounded after opening lower on the back of Korea\u2019s tech-stock rout."
     }
   ],
   "aiNews": [
     {
-      "title": "Meta releases its first frontier model, Muse Wonder",
+      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-      "publishedAt": "Mon, 12 Oct 2026 17:56:56 +0000",
-      "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex"
+      "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+      "publishedAt": "Tue, 13 Oct 2026 18:30:00 +0000",
+      "summary": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure."
     },
     {
-      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "title": "Facebook is giving users more control over their algorithm",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-      "publishedAt": "Mon, 12 Oct 2026 17:19:14 +0000",
-      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million."
+      "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+      "publishedAt": "Tue, 13 Oct 2026 18:05:24 +0000",
+      "summary": "Meta announced the launch of its new AI-powered feature, \u201cYour Algorithm,\u201d a feature it first launched on Instagram."
     },
     {
-      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-      "publishedAt": "Mon, 12 Oct 2026 15:45:00 +0000",
-      "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?"
+      "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "publishedAt": "Tue, 13 Oct 2026 17:30:00 +0000",
+      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in "
     },
     {
-      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-      "publishedAt": "Mon, 12 Oct 2026 15:31:19 +0000",
-      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies. "
+      "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+      "publishedAt": "Tue, 13 Oct 2026 17:18:25 +0000",
+      "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security h"
     },
     {
-      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-      "publishedAt": "Mon, 12 Oct 2026 15:27:59 +0000",
-      "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch. "
+      "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+      "publishedAt": "Tue, 13 Oct 2026 17:00:00 +0000",
+      "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store."
     }
   ],
   "techMovers": [
     {
-      "ticker": "META",
-      "name": "Meta Platforms",
-      "price": 742.96,
-      "change": 24.29,
-      "changePercent": 3.38
-    },
-    {
       "ticker": "ORCL",
       "name": "Oracle Corp",
-      "price": 137.39,
-      "change": -4.01,
-      "changePercent": -2.84
+      "price": 143.25,
+      "change": 5.86,
+      "changePercent": 4.27
     },
     {
-      "ticker": "SNOW",
-      "name": "Snowflake Inc",
-      "price": 360.37,
-      "change": -8.52,
-      "changePercent": -2.31
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 594.24,
-      "change": -13.86,
-      "changePercent": -2.28
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "price": 765.35,
+      "change": 22.39,
+      "changePercent": 3.01
     },
     {
       "ticker": "CRM",
       "name": "Salesforce Inc",
-      "price": 233.92,
-      "change": 4.79,
-      "changePercent": 2.09
+      "price": 239.37,
+      "change": 5.45,
+      "changePercent": 2.33
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 601.56,
+      "change": 7.32,
+      "changePercent": 1.23
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "price": 358.46,
+      "change": 3.73,
+      "changePercent": 1.05
     }
   ],
-  "fearGreedIndex": 69,
+  "fearGreedIndex": 57,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 389.27,
-    "change": 3.82,
-    "changePercent": 0.99
+    "price": 393.33,
+    "change": 4.07,
+    "changePercent": 1.04
   },
   "sectors": [
     {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": 1.43
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 1.17
+      "changePercent": 1.65
     },
     {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": 0.97
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 0.75
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": 0.69
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 0.58
+      "changePercent": 0.98
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": 0.53
+      "changePercent": 0.61
     },
     {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": 0.02
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": -0.06
+      "changePercent": 0.6
     },
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": -0.51
+      "changePercent": 0.27
     },
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": -1.22
+      "changePercent": -0.18
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": -0.19
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -0.21
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -0.21
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": -0.24
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -1.24
     }
   ],
   "economicCalendar": [
-    {
-      "date": "2026-10-12",
-      "time": "08:30 ET",
-      "event": "CPI Inflation Data",
-      "importance": "high",
-      "description": "Consumer Price Index - key inflation measure"
-    },
     {
       "date": "2026-10-15",
       "time": "08:30 ET",
