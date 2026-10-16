@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-10-15T17:34:13.744464+00:00",
+  "lastUpdated": "2026-10-16T17:08:59.760190+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 15 Oct 2026 16:28:10 GMT",
-      "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years."
+      "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 16 Oct 2026 16:00:30 GMT",
+      "summary": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump."
     },
     {
-      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+      "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 15 Oct 2026 16:50:18 GMT",
-      "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks."
+      "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 16 Oct 2026 14:31:04 GMT",
+      "summary": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents."
     },
     {
-      "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan ",
+      "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 15 Oct 2026 15:26:16 GMT",
-      "summary": "Children were buried under the debris after the roof crashed through three classrooms, police say."
+      "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 16 Oct 2026 15:59:30 GMT",
+      "summary": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\"."
     },
     {
-      "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+      "title": "Pope pictured for first time since surgery and cancer diagnosis",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 15 Oct 2026 10:05:29 GMT",
-      "summary": "Residents have been told to avoid leaving their homes unless absolutely necessary. "
+      "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 16 Oct 2026 14:36:39 GMT",
+      "summary": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday."
     },
     {
-      "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
+      "title": "India's 'cockroach' party founder detained ahead of protest",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 15 Oct 2026 14:51:30 GMT",
-      "summary": "A search and rescue operation is under way in the Black Sea after the latest attack in the area."
+      "url": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 16 Oct 2026 11:44:31 GMT",
+      "summary": "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders."
     }
   ],
   "cryptoAssets": [
@@ -43,205 +43,198 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 82286,
-      "change24h": 0.62591,
-      "marketCap": 1654207675240,
+      "price": 81204,
+      "change24h": -1.02277,
+      "marketCap": 1631962583261,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2441.95,
-      "change24h": 0.24108,
-      "marketCap": 298282655883,
+      "price": 2421.21,
+      "change24h": -0.48635,
+      "marketCap": 295661002212,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ",
+      "title": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 15 Oct 2026 17:14:45 +0000",
-      "summary": "The Wall Street Journal reported that a company co-founded by Bo Hines benefited from the passage of the GENIUS stablecoin bill. "
+      "url": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 16 Oct 2026 15:52:28 +0000",
+      "summary": "Tokenized stocks are drawing trading activity beyond Wall Street hours, while Bitcoin miners confront costly AI expansion and new accounting rules could benefit stablecoins."
     },
     {
-      "title": "Sweden revisits digital krona as ECB advances digital euro plans ",
+      "title": "Bitcoin price steadies around $82K after Fed\u2019s Warsh avoids rate-hike hints",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 15 Oct 2026 16:49:59 +0000",
-      "summary": "Sweden\u2019s Riksbank has recommended that lawmakers prepare for a possible digital krona, citing concerns over foreign-currency stablecoins and the future of domestic payments.\n"
+      "url": "https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 16 Oct 2026 15:45:43 +0000",
+      "summary": "Bitcoin held above $80,000 as South Korean tech stocks recovered from a sell-off and traders lowered their expectations for a Federal Reserve interest-rate hike."
     },
     {
-      "title": "Mastercard brings stablecoin balances into traditional banking and card payments ",
+      "title": "Strategy conditionally declares daily dividends as STRC hovers below $100",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/mastercard-bvnk-global-money-platform-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 15 Oct 2026 15:46:05 +0000",
-      "summary": "The launch of Global Money Platform marks Mastercard\u2019s first major integration with BVNK since its August acquisition, with Nuvei and Marqeta among the first companies to adopt the platform."
+      "url": "https://cointelegraph.com/news/strategy-daily-dividends-strc-hovers-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 16 Oct 2026 14:11:03 +0000",
+      "summary": "Strategy conditionally declared daily dividends on STRC, which continued to hover below its $100 par value."
     },
     {
-      "title": "Bitcoin slips under $80K after US PPI gains most in four years",
+      "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-breaks-under-80k-after-us-ppi-gains-most-in-over-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 15 Oct 2026 15:10:44 +0000",
-      "summary": "BTC buyers attempted to defend $80,000 support after September US producer inflation overshot expectations by 100 basis points for the largest monthly gain since March 2022"
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 16 Oct 2026 13:56:15 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Russia to ban direct peer-to-peer crypto trades starting July 2027",
+      "title": "Ledger\u2019s early implant warnings deserved more action, Karpel\u00e8s says",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/russia-ban-p2p-crypto-trades-july-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 15 Oct 2026 14:22:43 +0000",
-      "summary": "Russia plans to ban direct P2P crypto trades from July 1, 2027, while separate rules already prohibit transfers from digital accounts to self-custody wallets."
+      "url": "https://cointelegraph.com/news/ledger-early-implant-warnings-mark-karpeles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 16 Oct 2026 13:51:35 +0000",
+      "summary": "Ledger was contacted about tampered hardware wallets risks months before its latest security crisis, with former Mt. Gox CEO Mark Karpel\u00e8s questioning its response."
     }
   ],
   "aiNews": [
     {
-      "title": "AI agents are coming to Rivian\u2019s cars",
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
-      "publishedAt": "Thu, 15 Oct 2026 15:02:36 +0000",
-      "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December."
+      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "publishedAt": "Fri, 16 Oct 2026 16:30:00 +0000",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic"
     },
     {
-      "title": "Google\u2019s Universal Cart shopping tool launches in the US",
+      "title": "An Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-      "publishedAt": "Thu, 15 Oct 2026 14:29:33 +0000",
-      "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app."
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "publishedAt": "Fri, 16 Oct 2026 16:30:00 +0000",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic"
     },
     {
-      "title": "TechCrunch Disrupt 2026: Last day",
+      "title": "Elorian\u2019s first AI model wants to reason with images, not just about them",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
-      "publishedAt": "Thu, 15 Oct 2026 14:00:00 +0000",
-      "summary": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now."
+      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "publishedAt": "Fri, 16 Oct 2026 16:01:37 +0000",
+      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.\u00a0"
     },
     {
-      "title": "Amazon\u2019s Bee launches two new personal AI devices, starting at $75",
+      "title": "Jev is Vercel\u2019s fastest-adopted AI model ever",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-      "publishedAt": "Thu, 15 Oct 2026 12:00:00 +0000",
-      "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize con"
+      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "publishedAt": "Fri, 16 Oct 2026 15:33:49 +0000",
+      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter."
     },
     {
-      "title": "Figma announces new features to define how agents work on its platform",
+      "title": "Mark Wahlberg on using AI in film \u2018the right way\u2019 and being open to an AI clone carrying on his legacy",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-      "publishedAt": "Thu, 15 Oct 2026 04:30:00 +0000",
-      "summary": "Figma is also releasing its code layers feature in open beta."
+      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "publishedAt": "Fri, 16 Oct 2026 14:26:51 +0000",
+      "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\" "
     }
   ],
   "techMovers": [
     {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "price": 179.99,
-      "change": 7.1,
-      "changePercent": 4.11
-    },
-    {
-      "ticker": "CRM",
-      "name": "Salesforce Inc",
-      "price": 244.79,
-      "change": 8.84,
-      "changePercent": 3.75
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 549.76,
-      "change": -21.06,
-      "changePercent": -3.69
-    },
-    {
-      "ticker": "NFLX",
-      "name": "Netflix Inc",
-      "price": 72.76,
-      "change": 2.19,
-      "changePercent": 3.11
+      "ticker": "SNOW",
+      "name": "Snowflake Inc",
+      "price": 307.72,
+      "change": -27.35,
+      "changePercent": -8.16
     },
     {
       "ticker": "ORCL",
       "name": "Oracle Corp",
-      "price": 134.05,
-      "change": 3.5,
-      "changePercent": 2.68
+      "price": 128.91,
+      "change": -5.56,
+      "changePercent": -4.13
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 539.12,
+      "change": -23.1,
+      "changePercent": -4.11
+    },
+    {
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "price": 176.34,
+      "change": -7.47,
+      "changePercent": -4.07
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "price": 332.96,
+      "change": -11.37,
+      "changePercent": -3.3
     }
   ],
-  "fearGreedIndex": 53,
+  "fearGreedIndex": 63,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 400.34,
-    "change": 8.91,
-    "changePercent": 2.28
+    "price": 401.33,
+    "change": 1.58,
+    "changePercent": 0.4
   },
   "sectors": [
     {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": 2.29
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 1.61
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 1.58
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 1.44
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 1.23
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 1.2
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 1.02
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": 1.85
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": -0.08
+      "changePercent": 1.0
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": 0.81
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": 0.4
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": 0.1
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": -0.05
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": -0.17
+      "changePercent": -0.16
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -0.28
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -0.89
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -1.75
     },
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": -1.22
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": -1.53
+      "changePercent": -2.49
     }
   ],
   "economicCalendar": [
-    {
-      "date": "2026-10-15",
-      "time": "08:30 ET",
-      "event": "Retail Sales",
-      "importance": "medium",
-      "description": "Monthly consumer spending data"
-    },
     {
       "date": "2026-10-25",
       "time": "08:30 ET",
