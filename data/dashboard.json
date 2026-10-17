@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-10-16T17:08:59.760190+00:00",
-  "marketStatus": "Open",
+  "lastUpdated": "2026-10-17T16:06:57.793267+00:00",
+  "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 16 Oct 2026 16:00:30 GMT",
-      "summary": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump."
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 17 Oct 2026 11:56:06 GMT",
+      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns."
     },
     {
-      "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+      "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 16 Oct 2026 14:31:04 GMT",
-      "summary": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents."
+      "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 17 Oct 2026 09:58:17 GMT",
+      "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say."
     },
     {
-      "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
+      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 16 Oct 2026 15:59:30 GMT",
-      "summary": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\"."
+      "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 17 Oct 2026 03:11:10 GMT",
+      "summary": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery."
     },
     {
-      "title": "Pope pictured for first time since surgery and cancer diagnosis",
+      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 16 Oct 2026 14:36:39 GMT",
-      "summary": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday."
+      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 17 Oct 2026 02:33:09 GMT",
+      "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro."
     },
     {
-      "title": "India's 'cockroach' party founder detained ahead of protest",
+      "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 16 Oct 2026 11:44:31 GMT",
-      "summary": "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders."
+      "url": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 17 Oct 2026 12:11:58 GMT",
+      "summary": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing."
     }
   ],
   "cryptoAssets": [
@@ -43,65 +43,72 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 81204,
-      "change24h": -1.02277,
-      "marketCap": 1631962583261,
+      "price": 81334,
+      "change24h": 0.05483,
+      "marketCap": 1634706984585,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2421.21,
-      "change24h": -0.48635,
-      "marketCap": 295661002212,
+      "price": 2410.2,
+      "change24h": -0.75774,
+      "marketCap": 294415382539,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading ",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 16 Oct 2026 15:52:28 +0000",
-      "summary": "Tokenized stocks are drawing trading activity beyond Wall Street hours, while Bitcoin miners confront costly AI expansion and new accounting rules could benefit stablecoins."
-    },
-    {
-      "title": "Bitcoin price steadies around $82K after Fed\u2019s Warsh avoids rate-hike hints",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 16 Oct 2026 15:45:43 +0000",
-      "summary": "Bitcoin held above $80,000 as South Korean tech stocks recovered from a sell-off and traders lowered their expectations for a Federal Reserve interest-rate hike."
-    },
-    {
-      "title": "Strategy conditionally declares daily dividends as STRC hovers below $100",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/strategy-daily-dividends-strc-hovers-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 16 Oct 2026 14:11:03 +0000",
-      "summary": "Strategy conditionally declared daily dividends on STRC, which continued to hover below its $100 par value."
-    },
-    {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 16 Oct 2026 13:56:15 +0000",
+      "publishedAt": "Sat, 17 Oct 2026 13:29:00 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Ledger\u2019s early implant warnings deserved more action, Karpel\u00e8s says",
+      "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ledger-early-implant-warnings-mark-karpeles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 16 Oct 2026 13:51:35 +0000",
-      "summary": "Ledger was contacted about tampered hardware wallets risks months before its latest security crisis, with former Mt. Gox CEO Mark Karpel\u00e8s questioning its response."
+      "url": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 17 Oct 2026 12:58:03 +0000",
+      "summary": "Solana has had no reported mainnet outages in two years, but concentrations in stake, hosting and client software should be monitored, according to a report."
+    },
+    {
+      "title": "Circle\u2019s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 17 Oct 2026 10:00:07 +0000",
+      "summary": "Markets in Southeast Asia, Latin America, Africa and the Middle East see increasing demand for stablecoins. "
+    },
+    {
+      "title": "Lagarde says euro-area economy is resilient, digital euro imminent",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 17 Oct 2026 08:32:11 +0000",
+      "summary": "\u201cThe digital euro will further stimulate innovation and competition in retail payments,\u201d according to the ECB president. "
+    },
+    {
+      "title": "Bitget to discontinue services for some users in one-off exercise \u00a0 ",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 17 Oct 2026 07:26:57 +0000",
+      "summary": "Bitget says user funds are safe and exchange will continue to operate during the change."
     }
   ],
   "aiNews": [
     {
-      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "title": "Replit is no longer working with Anthropic, CEO says",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-      "publishedAt": "Fri, 16 Oct 2026 16:30:00 +0000",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic"
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "publishedAt": "Fri, 16 Oct 2026 21:22:28 +0000",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with "
+    },
+    {
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "publishedAt": "Fri, 16 Oct 2026 17:52:24 +0000",
+      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles."
     },
     {
       "title": "An Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
@@ -111,127 +118,120 @@
       "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic"
     },
     {
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "publishedAt": "Fri, 16 Oct 2026 16:30:00 +0000",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic"
+    },
+    {
       "title": "Elorian\u2019s first AI model wants to reason with images, not just about them",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
       "publishedAt": "Fri, 16 Oct 2026 16:01:37 +0000",
       "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.\u00a0"
-    },
-    {
-      "title": "Jev is Vercel\u2019s fastest-adopted AI model ever",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-      "publishedAt": "Fri, 16 Oct 2026 15:33:49 +0000",
-      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter."
-    },
-    {
-      "title": "Mark Wahlberg on using AI in film \u2018the right way\u2019 and being open to an AI clone carrying on his legacy",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-      "publishedAt": "Fri, 16 Oct 2026 14:26:51 +0000",
-      "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\" "
     }
   ],
   "techMovers": [
     {
       "ticker": "SNOW",
       "name": "Snowflake Inc",
-      "price": 307.72,
-      "change": -27.35,
-      "changePercent": -8.16
-    },
-    {
-      "ticker": "ORCL",
-      "name": "Oracle Corp",
-      "price": 128.91,
-      "change": -5.56,
-      "changePercent": -4.13
+      "price": 306.84,
+      "change": -28.23,
+      "changePercent": -8.43
     },
     {
       "ticker": "AMD",
       "name": "AMD Inc",
-      "price": 539.12,
-      "change": -23.1,
-      "changePercent": -4.11
+      "price": 528.75,
+      "change": -33.48,
+      "changePercent": -5.95
     },
     {
       "ticker": "COIN",
       "name": "Coinbase",
-      "price": 176.34,
-      "change": -7.47,
-      "changePercent": -4.07
+      "price": 173.16,
+      "change": -10.65,
+      "changePercent": -5.79
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "price": 128.23,
+      "change": -6.24,
+      "changePercent": -4.64
     },
     {
       "ticker": "AVGO",
       "name": "Broadcom Inc",
-      "price": 332.96,
-      "change": -11.37,
-      "changePercent": -3.3
+      "price": 328.75,
+      "change": -15.58,
+      "changePercent": -4.52
     }
   ],
-  "fearGreedIndex": 63,
+  "fearGreedIndex": 55,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 401.33,
-    "change": 1.58,
-    "changePercent": 0.4
+    "price": 402.61,
+    "change": 2.86,
+    "changePercent": 0.72
   },
   "sectors": [
     {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": 1.85
+      "changePercent": 2.52
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": 1.0
+      "changePercent": 1.34
     },
     {
       "ticker": "XLP",
       "name": "Consumer Staples",
-      "changePercent": 0.81
+      "changePercent": 1.08
     },
     {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": 0.4
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 0.1
+      "changePercent": 0.71
     },
     {
       "ticker": "XLF",
       "name": "Financials",
-      "changePercent": -0.05
+      "changePercent": 0.45
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": 0.4
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": -0.16
+      "changePercent": -0.08
     },
     {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": -0.28
+      "changePercent": -0.27
     },
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": -0.89
+      "changePercent": -0.84
     },
     {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": -1.75
+      "changePercent": -1.89
     },
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": -2.49
+      "changePercent": -3.02
     }
   ],
   "economicCalendar": [
