@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-10-18T16:20:09.265897+00:00",
-  "marketStatus": "Closed",
+  "lastUpdated": "2026-10-19T18:57:42.188669+00:00",
+  "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+      "title": "Australian MP critically injured after being hit by car in apparent attack",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 18 Oct 2026 12:07:31 GMT",
-      "summary": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism."
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 14:09:54 GMT",
+      "summary": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack."
     },
     {
-      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 18 Oct 2026 15:46:10 GMT",
-      "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook."
+      "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 18:23:50 GMT",
+      "summary": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing."
     },
     {
-      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 18 Oct 2026 05:04:31 GMT",
-      "summary": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic. "
+      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 17:18:04 GMT",
+      "summary": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children."
     },
     {
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 18 Oct 2026 12:16:14 GMT",
-      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign."
+      "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 16:22:12 GMT",
+      "summary": "The Saudi government did not immediately respond to BBC requests for comment."
     },
     {
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 18 Oct 2026 01:10:25 GMT",
-      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns."
+      "url": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 13:44:57 GMT",
+      "summary": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 81003,
-      "change24h": -0.27069,
-      "marketCap": 1627989411305,
+      "price": 81933,
+      "change24h": 0.9819,
+      "marketCap": 1646621069790,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2365.7,
-      "change24h": -1.72846,
-      "marketCap": 289078743908,
+      "price": 2400.69,
+      "change24h": 1.45699,
+      "marketCap": 293194282161,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Here\u2019s what happened in crypto today",
+      "title": "Revolut secures Gibraltar crypto license to support global expansion",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 18 Oct 2026 13:54:00 +0000",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+      "url": "https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 19 Oct 2026 17:24:49 +0000",
+      "summary": "The UK-based fintech will use the authorization to offer crypto services in additional international markets, though it has not disclosed specific countries or launch dates."
     },
     {
-      "title": "Most Americans polled oppose betting on elections: Reuters",
+      "title": "Metaplanet to take 93.7% stake in Super League through 2,100 BTC deal ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/most-americans-polled-oppose-betting-on-elections-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 18 Oct 2026 13:48:00 +0000",
-      "summary": "The prediction market industry enables people to bet on US \u200celections and sporting events."
+      "url": "https://cointelegraph.com/news/metaplanet-super-league-2100-btc-us-bitcoin-treasury-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 19 Oct 2026 16:41:55 +0000",
+      "summary": "The transaction would give Metaplanet access to US capital markets, where it plans to use preferred stock offerings to finance additional Bitcoin purchases."
     },
     {
-      "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
+      "title": "Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC  ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 18 Oct 2026 10:46:00 +0000",
-      "summary": "Cysic said the incident was limited to bridge message processing and minting and did not affect the mainnet or other operational systems."
+      "url": "https://cointelegraph.com/news/strive-buys-335m-in-bitcoin-boosting-holdings-to-36818-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 19 Oct 2026 16:30:18 +0000",
+      "summary": "The Bitcoin treasury company added another 1,223 BTC after an earlier purchase pushed it past MARA Holdings, while continuing to expand its reserves through equity financing."
     },
     {
-      "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
+      "title": "Bitcoin is rejected at $83K as US bond yields reverse higher with equities ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 18 Oct 2026 09:14:26 +0000",
-      "summary": "Police alleged the suspect was involved in cryptocurrency and foreign-currency exchanges for criminal groups across more than 133 accounts."
+      "url": "https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 19 Oct 2026 16:05:57 +0000",
+      "summary": "Bitcoin price action failed to improve with equities as a sell wall at $83,000 kept BTC in a tight range."
     },
     {
-      "title": "Tether backs AIsa as strategic investor, completing seed extension round",
+      "title": "Made an \u2018honest\u2019 mistake with crypto taxes? New bill offers way out",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 18 Oct 2026 06:29:00 +0000",
-      "summary": "The round brings AIsa\u2019s total funding to more than $9 million."
+      "url": "https://cointelegraph.com/magazine/made-an-honest-mistake-with-crypto-taxes-new-bill-offers-way-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 19 Oct 2026 13:30:00 +0000",
+      "summary": "A proposed US bill would let crypto investors correct past tax reporting mistakes through a dedicated disclosure program, with reduced penalties for eligible taxpayers."
     }
   ],
   "aiNews": [
     {
-      "title": "Meta removes language that raised scraping and AI training concerns",
+      "title": "Replika\u2019s founder built the AI assistant she pitched at Disrupt 12 years ago",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "publishedAt": "Sat, 17 Oct 2026 21:31:32 +0000",
-      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
+      "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+      "publishedAt": "Mon, 19 Oct 2026 18:49:04 +0000",
+      "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today."
     },
     {
-      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-      "publishedAt": "Sat, 17 Oct 2026 20:21:19 +0000",
-      "summary": "The composition of Anthropic\u2019s workforce and the type of work getting done have changed significantly in the past year."
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "publishedAt": "Mon, 19 Oct 2026 18:37:27 +0000",
+      "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent."
     },
     {
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "title": "People are using AI to make their smart TVs dumb again",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "publishedAt": "Sat, 17 Oct 2026 18:48:08 +0000",
-      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform. "
+      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "publishedAt": "Mon, 19 Oct 2026 16:13:22 +0000",
+      "summary": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs."
     },
     {
-      "title": "India becomes the latest country to report rogue AI agent activity",
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs\u00a0",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "publishedAt": "Fri, 16 Oct 2026 17:52:24 +0000",
-      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles."
+      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "publishedAt": "Mon, 19 Oct 2026 15:37:09 +0000",
+      "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing."
     },
     {
-      "title": "An Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "publishedAt": "Fri, 16 Oct 2026 16:30:00 +0000",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic"
+      "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "publishedAt": "Mon, 19 Oct 2026 12:30:00 +0000",
+      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in "
     }
   ],
   "techMovers": [
     {
-      "ticker": "SNOW",
-      "name": "Snowflake Inc",
-      "price": 306.84,
-      "change": -28.23,
-      "changePercent": -8.43
+      "ticker": "AMZN",
+      "name": "Amazon.com",
+      "price": 262.3,
+      "change": 12.3,
+      "changePercent": 4.92
     },
     {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 528.75,
-      "change": -33.48,
-      "changePercent": -5.95
+      "ticker": "TSLA",
+      "name": "Tesla Inc",
+      "price": 368.97,
+      "change": 14.25,
+      "changePercent": 4.02
+    },
+    {
+      "ticker": "SNOW",
+      "name": "Snowflake Inc",
+      "price": 317.82,
+      "change": 10.98,
+      "changePercent": 3.58
     },
     {
       "ticker": "COIN",
       "name": "Coinbase",
-      "price": 173.16,
-      "change": -10.65,
-      "changePercent": -5.79
+      "price": 169.19,
+      "change": -3.97,
+      "changePercent": -2.29
     },
     {
-      "ticker": "ORCL",
-      "name": "Oracle Corp",
-      "price": 128.23,
-      "change": -6.24,
-      "changePercent": -4.64
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc",
-      "price": 328.75,
-      "change": -15.58,
-      "changePercent": -4.52
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 540.36,
+      "change": 11.61,
+      "changePercent": 2.2
     }
   ],
-  "fearGreedIndex": 53,
+  "fearGreedIndex": 59,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 402.61,
-    "change": 2.86,
-    "changePercent": 0.72
+    "price": 403.64,
+    "change": 1.04,
+    "changePercent": 0.26
   },
   "sectors": [
     {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": 2.52
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": 1.34
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 1.08
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 0.71
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 0.45
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 0.4
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": -0.08
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": -0.27
-    },
-    {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": -0.84
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": -1.89
+      "changePercent": 1.78
     },
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": -3.02
+      "changePercent": 1.48
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": 0.19
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -0.05
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -0.19
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -0.37
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": -0.44
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": -0.55
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": -0.66
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -1.2
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": -1.92
     }
   ],
   "economicCalendar": [
