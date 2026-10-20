@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-10-19T18:57:42.188669+00:00",
+  "lastUpdated": "2026-10-20T17:44:54.690697+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Australian MP critically injured after being hit by car in apparent attack",
+      "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 19 Oct 2026 14:09:54 GMT",
-      "summary": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack."
+      "url": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 20 Oct 2026 12:08:06 GMT",
+      "summary": "France's second city saw some of the worst violence as chaos gripped the country on Saturday."
     },
     {
-      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+      "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 19 Oct 2026 18:23:50 GMT",
-      "summary": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing."
+      "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 20 Oct 2026 11:25:35 GMT",
+      "summary": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years."
     },
     {
-      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 19 Oct 2026 17:18:04 GMT",
-      "summary": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children."
+      "url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 20 Oct 2026 17:30:15 GMT",
+      "summary": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted."
     },
     {
-      "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+      "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism ",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 19 Oct 2026 16:22:12 GMT",
-      "summary": "The Saudi government did not immediately respond to BBC requests for comment."
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 20 Oct 2026 16:59:06 GMT",
+      "summary": "The Canadian province has voted overwhelmingly to remain part of Canada, though deep political divisions endure. "
     },
     {
-      "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
+      "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 19 Oct 2026 13:44:57 GMT",
-      "summary": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive."
+      "url": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 20 Oct 2026 11:45:49 GMT",
+      "summary": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 81933,
-      "change24h": 0.9819,
-      "marketCap": 1646621069790,
+      "price": 82764,
+      "change24h": 1.02409,
+      "marketCap": 1663470099112,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2400.69,
-      "change24h": 1.45699,
-      "marketCap": 293194282161,
+      "price": 2448.65,
+      "change24h": 2.10135,
+      "marketCap": 299106196032,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Revolut secures Gibraltar crypto license to support global expansion",
+      "title": "Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 19 Oct 2026 17:24:49 +0000",
-      "summary": "The UK-based fintech will use the authorization to offer crypto services in additional international markets, though it has not disclosed specific countries or launch dates."
+      "url": "https://cointelegraph.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 20 Oct 2026 17:38:03 +0000",
+      "summary": "The Bitcoin treasury company could acquire an estimated 7,372 BTC with its net proceeds, potentially surpassing Metaplanet\u2019s holdings if it allocates the full amount."
     },
     {
-      "title": "Metaplanet to take 93.7% stake in Super League through 2,100 BTC deal ",
+      "title": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/metaplanet-super-league-2100-btc-us-bitcoin-treasury-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 19 Oct 2026 16:41:55 +0000",
-      "summary": "The transaction would give Metaplanet access to US capital markets, where it plans to use preferred stock offerings to finance additional Bitcoin purchases."
+      "url": "https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 20 Oct 2026 16:47:48 +0000",
+      "summary": "Injective and BDACS plan to bring won-backed stablecoin KRW1 to tokenized asset markets as South Korea develops a regulatory framework for local currency stablecoins."
     },
     {
-      "title": "Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC  ",
+      "title": "Stablecoin transfers quadruple to $891B as US banks expand adoption: Report",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/strive-buys-335m-in-bitcoin-boosting-holdings-to-36818-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 19 Oct 2026 16:30:18 +0000",
-      "summary": "The Bitcoin treasury company added another 1,223 BTC after an earlier purchase pushed it past MARA Holdings, while continuing to expand its reserves through equity financing."
+      "url": "https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 20 Oct 2026 16:38:13 +0000",
+      "summary": "Coinbase reports growing adoption by banks and businesses, even as stablecoin market capitalization remains largely unchanged over the past year."
     },
     {
-      "title": "Bitcoin is rejected at $83K as US bond yields reverse higher with equities ",
+      "title": "Alphabet, Microsoft add objections to OKX-ICE proposed tokenized stock platform",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 19 Oct 2026 16:05:57 +0000",
-      "summary": "Bitcoin price action failed to improve with equities as a sell wall at $83,000 kept BTC in a tight range."
+      "url": "https://cointelegraph.com/news/alphabet-microsoft-goldman-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 20 Oct 2026 16:23:17 +0000",
+      "summary": "About 25% of the US-listed companies in OKXICE\u2019s initial tokenized stock platform proposal are asking to opt-out of the venture."
     },
     {
-      "title": "Made an \u2018honest\u2019 mistake with crypto taxes? New bill offers way out",
+      "title": "Bitcoin price spikes to $83.3K as US stocks rise on Q3 earnings, oil falls ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/magazine/made-an-honest-mistake-with-crypto-taxes-new-bill-offers-way-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 19 Oct 2026 13:30:00 +0000",
-      "summary": "A proposed US bill would let crypto investors correct past tax reporting mistakes through a dedicated disclosure program, with reduced penalties for eligible taxpayers."
+      "url": "https://cointelegraph.com/markets/bitcoin-price-spikes-to-833k-as-us-stocks-rise-on-q3-earnings-oil-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 20 Oct 2026 16:14:09 +0000",
+      "summary": "High US corporate earnings reports boosted stock markets and saw BTC price hit $83,300 before reversing at a 21-day trend line."
     }
   ],
   "aiNews": [
     {
-      "title": "Replika\u2019s founder built the AI assistant she pitched at Disrupt 12 years ago",
+      "title": "Meta\u2019s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-      "publishedAt": "Mon, 19 Oct 2026 18:49:04 +0000",
-      "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today."
+      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+      "publishedAt": "Tue, 20 Oct 2026 17:12:48 +0000",
+      "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher r"
     },
     {
-      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-      "publishedAt": "Mon, 19 Oct 2026 18:37:27 +0000",
-      "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent."
+      "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+      "publishedAt": "Tue, 20 Oct 2026 16:00:00 +0000",
+      "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems."
     },
     {
-      "title": "People are using AI to make their smart TVs dumb again",
+      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-      "publishedAt": "Mon, 19 Oct 2026 16:13:22 +0000",
-      "summary": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs."
+      "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+      "publishedAt": "Tue, 20 Oct 2026 14:13:32 +0000",
+      "summary": "Figma said it plans to support as many standards as possible without exposing all of its data."
     },
     {
-      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs\u00a0",
+      "title": "US orders federal agencies to remove China\u2019s DeepSeek AI from their systems",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-      "publishedAt": "Mon, 19 Oct 2026 15:37:09 +0000",
-      "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing."
+      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+      "publishedAt": "Tue, 20 Oct 2026 13:07:24 +0000",
+      "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns."
     },
     {
-      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-      "publishedAt": "Mon, 19 Oct 2026 12:30:00 +0000",
-      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in "
+      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "publishedAt": "Tue, 20 Oct 2026 13:00:00 +0000",
+      "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry. "
     }
   ],
   "techMovers": [
     {
-      "ticker": "AMZN",
-      "name": "Amazon.com",
-      "price": 262.3,
-      "change": 12.3,
-      "changePercent": 4.92
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla Inc",
-      "price": 368.97,
-      "change": 14.25,
-      "changePercent": 4.02
-    },
-    {
-      "ticker": "SNOW",
-      "name": "Snowflake Inc",
-      "price": 317.82,
-      "change": 10.98,
-      "changePercent": 3.58
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "price": 690.64,
+      "change": -14.8,
+      "changePercent": -2.1
     },
     {
       "ticker": "COIN",
       "name": "Coinbase",
-      "price": 169.19,
-      "change": -3.97,
-      "changePercent": -2.29
+      "price": 171.81,
+      "change": 3.36,
+      "changePercent": 1.99
     },
     {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 540.36,
-      "change": 11.61,
-      "changePercent": 2.2
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "price": 132.15,
+      "change": 2.56,
+      "changePercent": 1.98
+    },
+    {
+      "ticker": "SNOW",
+      "name": "Snowflake Inc",
+      "price": 321.41,
+      "change": 6.06,
+      "changePercent": 1.92
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla Inc",
+      "price": 374.31,
+      "change": 6.25,
+      "changePercent": 1.7
     }
   ],
-  "fearGreedIndex": 59,
+  "fearGreedIndex": 55,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 403.64,
-    "change": 1.04,
-    "changePercent": 0.26
+    "price": 407.29,
+    "change": 4.37,
+    "changePercent": 1.08
   },
   "sectors": [
     {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 1.78
-    },
-    {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": 1.48
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 0.19
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": -0.05
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": -0.19
-    },
-    {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": -0.37
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": -0.44
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": -0.55
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": -0.66
+      "changePercent": 2.42
     },
     {
       "ticker": "XLRE",
       "name": "Real Estate",
-      "changePercent": -1.2
+      "changePercent": 1.54
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": -1.92
+      "changePercent": 1.23
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 1.12
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": 0.91
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": 0.45
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": 0.25
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": 0.08
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": 0.05
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": 0.01
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": -0.13
     }
   ],
   "economicCalendar": [
