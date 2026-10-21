@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-10-20T17:44:54.690697+00:00",
+  "lastUpdated": "2026-10-21T17:52:27.346452+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
+      "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 20 Oct 2026 12:08:06 GMT",
-      "summary": "France's second city saw some of the worst violence as chaos gripped the country on Saturday."
+      "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 21 Oct 2026 17:42:34 GMT",
+      "summary": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg."
     },
     {
-      "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+      "title": "Macron accuses foreign leaders of exploiting French riots   ",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 20 Oct 2026 11:25:35 GMT",
-      "summary": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years."
+      "url": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 21 Oct 2026 14:04:28 GMT",
+      "summary": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks."
     },
     {
-      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+      "title": "Australian MP loses both legs after alleged car attack, husband says",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 20 Oct 2026 17:30:15 GMT",
-      "summary": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted."
+      "url": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 21 Oct 2026 07:56:30 GMT",
+      "summary": "Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday."
     },
     {
-      "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism ",
+      "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 20 Oct 2026 16:59:06 GMT",
-      "summary": "The Canadian province has voted overwhelmingly to remain part of Canada, though deep political divisions endure. "
+      "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 21 Oct 2026 08:42:49 GMT",
+      "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger."
     },
     {
-      "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
+      "title": "Pakistan arrests man wanted by US over $126m postage fraud case",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 20 Oct 2026 11:45:49 GMT",
-      "summary": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread."
+      "url": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 21 Oct 2026 05:46:33 GMT",
+      "summary": "Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 82764,
-      "change24h": 1.02409,
-      "marketCap": 1663470099112,
+      "price": 84586,
+      "change24h": 2.12667,
+      "marketCap": 1699869267903,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2448.65,
-      "change24h": 2.10135,
-      "marketCap": 299106196032,
+      "price": 2514.15,
+      "change24h": 2.56466,
+      "marketCap": 307011531025,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified",
+      "title": "UK financial watchdog opens consultations for DeFi guidance, crypto laws",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 20 Oct 2026 17:38:03 +0000",
-      "summary": "The Bitcoin treasury company could acquire an estimated 7,372 BTC with its net proceeds, potentially surpassing Metaplanet\u2019s holdings if it allocates the full amount."
+      "url": "https://cointelegraph.com/news/uk-fca-consultations-defi-crypto-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 21 Oct 2026 17:25:00 +0000",
+      "summary": "The UK Financial Conduct Authority consultations came just weeks after the agency opened applications for companies under its new crypto regulatory regime."
     },
     {
-      "title": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets ",
+      "title": "Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 20 Oct 2026 16:47:48 +0000",
-      "summary": "Injective and BDACS plan to bring won-backed stablecoin KRW1 to tokenized asset markets as South Korea develops a regulatory framework for local currency stablecoins."
+      "url": "https://cointelegraph.com/news/occ-finalizes-stablecoin-rules-genius-act-bessent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 21 Oct 2026 17:10:54 +0000",
+      "summary": "The OCC has finalized rules for stablecoin reserves and redemptions, with Bessent calling the GENIUS Act a \u201cwatershed moment for American finance.\u201d\n"
     },
     {
-      "title": "Stablecoin transfers quadruple to $891B as US banks expand adoption: Report",
+      "title": "Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 20 Oct 2026 16:38:13 +0000",
-      "summary": "Coinbase reports growing adoption by banks and businesses, even as stablecoin market capitalization remains largely unchanged over the past year."
+      "url": "https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 21 Oct 2026 16:09:26 +0000",
+      "summary": "Six major blockchain organizations urged the SEC to formally recognize digital commodities as non-securities in its proposed regulatory framework."
     },
     {
-      "title": "Alphabet, Microsoft add objections to OKX-ICE proposed tokenized stock platform",
+      "title": "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/alphabet-microsoft-goldman-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 20 Oct 2026 16:23:17 +0000",
-      "summary": "About 25% of the US-listed companies in OKXICE\u2019s initial tokenized stock platform proposal are asking to opt-out of the venture."
+      "url": "https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 21 Oct 2026 15:13:17 +0000",
+      "summary": "Bitcoin extended gains to approach $85,000 after US stock markets reacted to higher-than-expected SpaceX earnings."
     },
     {
-      "title": "Bitcoin price spikes to $83.3K as US stocks rise on Q3 earnings, oil falls ",
+      "title": "Solana\u2019s Alpenglow launches on mainnet, targets 99% faster finality ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-spikes-to-833k-as-us-stocks-rise-on-q3-earnings-oil-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 20 Oct 2026 16:14:09 +0000",
-      "summary": "High US corporate earnings reports boosted stock markets and saw BTC price hit $83,300 before reversing at a 21-day trend line."
+      "url": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 21 Oct 2026 13:57:14 +0000",
+      "summary": "Solana\u2019s first major consensus upgrade is targeting 99% finality reduction, seeking to offer users near-immediate transaction settlement and more responsive applications."
     }
   ],
   "aiNews": [
     {
-      "title": "Meta\u2019s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+      "title": "AI promises productivity, but for managers, it\u2019s mostly a headache for now",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-      "publishedAt": "Tue, 20 Oct 2026 17:12:48 +0000",
-      "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher r"
+      "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+      "publishedAt": "Wed, 21 Oct 2026 14:00:00 +0000",
+      "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey."
     },
     {
-      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-      "publishedAt": "Tue, 20 Oct 2026 16:00:00 +0000",
-      "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems."
+      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "publishedAt": "Tue, 20 Oct 2026 23:01:23 +0000",
+      "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge. "
     },
     {
-      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+      "title": "Hugging Face CEO warns that Netflix\u2019s OpenAI hack documentary isn\u2019t accurate",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
-      "publishedAt": "Tue, 20 Oct 2026 14:13:32 +0000",
-      "summary": "Figma said it plans to support as many standards as possible without exposing all of its data."
+      "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "publishedAt": "Tue, 20 Oct 2026 22:24:02 +0000",
+      "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate."
     },
     {
-      "title": "US orders federal agencies to remove China\u2019s DeepSeek AI from their systems",
+      "title": "Anthropic\u2019s cloud partnerships are getting messy",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-      "publishedAt": "Tue, 20 Oct 2026 13:07:24 +0000",
-      "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns."
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "publishedAt": "Tue, 20 Oct 2026 21:25:22 +0000",
+      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO"
     },
     {
-      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "title": "SpaceX\u2019s AI business is beating expectations",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-      "publishedAt": "Tue, 20 Oct 2026 13:00:00 +0000",
-      "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry. "
+      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "publishedAt": "Tue, 20 Oct 2026 20:40:41 +0000",
+      "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine. "
     }
   ],
   "techMovers": [
     {
-      "ticker": "META",
-      "name": "Meta Platforms",
-      "price": 690.64,
-      "change": -14.8,
-      "changePercent": -2.1
-    },
-    {
       "ticker": "COIN",
       "name": "Coinbase",
-      "price": 171.81,
-      "change": 3.36,
-      "changePercent": 1.99
+      "price": 179.55,
+      "change": 8.7,
+      "changePercent": 5.09
     },
     {
-      "ticker": "ORCL",
-      "name": "Oracle Corp",
-      "price": 132.15,
-      "change": 2.56,
-      "changePercent": 1.98
+      "ticker": "NFLX",
+      "name": "Netflix Inc",
+      "price": 65.67,
+      "change": -3.03,
+      "changePercent": -4.4
     },
     {
-      "ticker": "SNOW",
-      "name": "Snowflake Inc",
-      "price": 321.41,
-      "change": 6.06,
-      "changePercent": 1.92
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 554.01,
+      "change": 19.27,
+      "changePercent": 3.6
     },
     {
       "ticker": "TSLA",
       "name": "Tesla Inc",
-      "price": 374.31,
-      "change": 6.25,
-      "changePercent": 1.7
+      "price": 387.0,
+      "change": 13.29,
+      "changePercent": 3.56
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp",
+      "price": 221.68,
+      "change": 5.21,
+      "changePercent": 2.41
     }
   ],
-  "fearGreedIndex": 55,
+  "fearGreedIndex": 63,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 407.29,
-    "change": 4.37,
-    "changePercent": 1.08
+    "price": 409.09,
+    "change": 2.52,
+    "changePercent": 0.62
   },
   "sectors": [
     {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": 2.42
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 1.54
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": 1.23
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 1.12
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 0.91
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 0.45
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 0.25
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 0.08
-    },
-    {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": 0.05
+      "changePercent": 1.75
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": 0.01
+      "changePercent": 1.12
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": 0.68
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 0.64
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": 0.44
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": 0.18
     },
     {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": -0.13
+      "changePercent": 0.01
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -0.42
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -0.68
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -0.77
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -0.78
     }
   ],
   "economicCalendar": [
