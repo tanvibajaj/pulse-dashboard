@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-10-22T17:50:11.721130+00:00",
+  "lastUpdated": "2026-10-23T17:40:11.772434+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+      "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 22 Oct 2026 15:56:36 GMT",
-      "summary": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis."
+      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 23 Oct 2026 16:17:02 GMT",
+      "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended."
     },
     {
-      "title": "Race to update services' computer systems after cyber-security flaw found",
+      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 22 Oct 2026 17:12:51 GMT",
-      "summary": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered."
+      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 23 Oct 2026 16:33:11 GMT",
+      "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way."
     },
     {
-      "title": "Trump ordered to answer questions under oath in BBC lawsuit ",
+      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 22 Oct 2026 17:14:04 GMT",
-      "summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021. "
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 23 Oct 2026 15:37:07 GMT",
+      "summary": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning. "
     },
     {
-      "title": "Crowd of 50 beats foreigner to death in South Africa",
+      "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 22 Oct 2026 16:15:25 GMT",
-      "summary": "The attack on the unidentified victim follows a wave of anti-migrants protests in South Africa this year."
+      "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 23 Oct 2026 16:59:51 GMT",
+      "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive."
     },
     {
-      "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
+      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 22 Oct 2026 17:07:03 GMT",
-      "summary": "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year."
+      "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 23 Oct 2026 16:19:36 GMT",
+      "summary": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\"."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 81251,
-      "change24h": -3.9221,
-      "marketCap": 1633684586879,
+      "price": 81538,
+      "change24h": 0.38083,
+      "marketCap": 1639106597070,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2379.85,
-      "change24h": -5.31451,
-      "marketCap": 290842142239,
+      "price": 2404.19,
+      "change24h": 0.99854,
+      "marketCap": 293684294987,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Underdog taps zerohash to bring crypto deposits to prediction markets ",
+      "title": "SEC flags tokenization as high-risk area in 2027 market examinations",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/underdog-taps-zerohash-to-bring-crypto-deposits-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 22 Oct 2026 17:24:49 +0000",
-      "summary": "The new funding option, expected to launch later this year, will allow eligible Underdog users to deposit digital assets around the clock."
+      "url": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 23 Oct 2026 16:08:40 +0000",
+      "summary": "The SEC\u2019s latest priorities highlight tokenization as an emerging market risk, while cryptocurrencies remain absent as a standalone examination category."
     },
     {
-      "title": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition ",
+      "title": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 22 Oct 2026 16:50:51 +0000",
-      "summary": "According to BlocksBridge, Bitcoin\u2019s mining difficulty is rising despite the industry\u2019s AI transition, with smaller operators potentially absorbing equipment abandoned by larger competitors.\n"
+      "url": "https://cointelegraph.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 23 Oct 2026 15:39:17 +0000",
+      "summary": "Bitcoin dipped below $81,000 as stocks fell and Brent crude hit its highest level since March, leaving the 50-day moving average in focus."
     },
     {
-      "title": "Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures",
+      "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ireland-central-bank-coinbase-oversight-safeguard-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 22 Oct 2026 16:48:00 +0000",
-      "summary": "According to the Central Bank of Ireland, Coinbase Ireland had agreed with the facts around the enforcement action and will be subject to fines and sanctions upon approval by a high court."
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 23 Oct 2026 13:38:53 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower ",
+      "title": "China targets 2030 for its national blockchain network buildout",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-circles-815k-etf-cost-basis-as-trump-iran-comments-send-stocks-lower?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 22 Oct 2026 16:20:35 +0000",
-      "summary": "Bitcoin extended daily losses to 3% as US stocks came under pressure from President Donald Trump\u2019s comments on Iran military action.\n"
+      "url": "https://cointelegraph.com/news/china-2030-national-blockchain-network-buildout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 23 Oct 2026 13:21:07 +0000",
+      "summary": "China\u2019s five-year digital development plan calls for wider blockchain use in trade and manufacturing alongside stronger technical standards."
     },
     {
-      "title": "Fireblocks disputes report of $2.5B Visa acquisition talks",
+      "title": "New York AG seeks $1.37B from NovaTech founders over Ponzi scheme",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/fireblocks-disputes-report-of-25b-visa-acquisition-talks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 22 Oct 2026 14:41:00 +0000",
-      "summary": "Fireblocks told Cointelegraph that reports of a potential $2.5 billion acquisition by Visa are \u201cnot true at present time,\u201d while Visa declined to comment on the reported talks."
+      "url": "https://cointelegraph.com/news/new-york-ag-novatech-founders-companies-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 23 Oct 2026 12:33:37 +0000",
+      "summary": "The request follows an August 2025 default judgment, with the AG also announcing nearly $6 million in settlements with four promoters."
     }
   ],
   "aiNews": [
     {
-      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-      "publishedAt": "Thu, 22 Oct 2026 16:47:17 +0000",
-      "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers."
+      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "publishedAt": "Fri, 23 Oct 2026 04:00:00 +0000",
+      "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027."
     },
     {
-      "title": "Uber puts all 30,000 employees on ChatGPT Work",
+      "title": "Left alone with nothing to do, AI agents started playing",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-      "publishedAt": "Thu, 22 Oct 2026 16:00:00 +0000",
-      "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.  "
+      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "publishedAt": "Fri, 23 Oct 2026 00:45:37 +0000",
+      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs."
     },
     {
-      "title": "Spotify\u2019s current AI bet is about being the music service that agents choose",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-      "publishedAt": "Thu, 22 Oct 2026 15:03:58 +0000",
-      "summary": "Spotify co-CEO Gustav S\u00f6derstr\u00f6m explains why the rise of AI agents could be good news for the music service."
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "publishedAt": "Thu, 22 Oct 2026 22:08:24 +0000",
+      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever."
     },
     {
-      "title": "Claude Duet app is Anthropic\u2019s bet on agents",
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-      "publishedAt": "Thu, 22 Oct 2026 13:53:26 +0000",
-      "summary": "Claude Duet is available through waitlist for Pro and Max plan users."
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "publishedAt": "Thu, 22 Oct 2026 19:07:09 +0000",
+      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts. "
     },
     {
-      "title": "Nirva raises $33M for a pendant that only listens to you",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
-      "publishedAt": "Thu, 22 Oct 2026 13:26:52 +0000",
-      "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year. "
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "publishedAt": "Thu, 22 Oct 2026 19:00:00 +0000",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
     }
   ],
   "techMovers": [
     {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 511.31,
-      "change": -41.41,
-      "changePercent": -7.49
+      "ticker": "UBER",
+      "name": "Uber Technologies",
+      "price": 67.64,
+      "change": -1.43,
+      "changePercent": -2.06
     },
     {
-      "ticker": "META",
-      "name": "Meta Platforms",
-      "price": 646.55,
-      "change": -50.97,
-      "changePercent": -7.31
+      "ticker": "SNOW",
+      "name": "Snowflake Inc",
+      "price": 320.11,
+      "change": 6.15,
+      "changePercent": 1.96
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 516.35,
+      "change": 8.42,
+      "changePercent": 1.66
     },
     {
       "ticker": "COIN",
       "name": "Coinbase",
-      "price": 167.41,
-      "change": -9.67,
-      "changePercent": -5.46
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon.com",
-      "price": 250.63,
-      "change": -11.74,
-      "changePercent": -4.48
+      "price": 166.62,
+      "change": -2.47,
+      "changePercent": -1.46
     },
     {
       "ticker": "ORCL",
       "name": "Oracle Corp",
-      "price": 123.71,
-      "change": -5.42,
-      "changePercent": -4.2
+      "price": 127.25,
+      "change": 1.71,
+      "changePercent": 1.36
     }
   ],
-  "fearGreedIndex": 68,
+  "fearGreedIndex": 50,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 413.65,
-    "change": 5.8,
-    "changePercent": 1.42
+    "price": 408.86,
+    "change": -5.48,
+    "changePercent": -1.32
   },
   "sectors": [
     {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 2.65
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": 1.27
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": 1.14
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 0.85
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 0.62
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 0.08
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": -0.46
-    },
-    {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": -1.11
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": -1.55
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": -1.62
+      "changePercent": 2.54
     },
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": -3.23
+      "changePercent": 0.54
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -0.22
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -0.61
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": -0.99
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -1.09
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -1.14
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": -1.18
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": -1.32
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -1.52
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -2.08
     }
   ],
   "economicCalendar": [
@@ -248,6 +248,13 @@
       "event": "FOMC Interest Rate Decision",
       "importance": "high",
       "description": "Federal Reserve interest rate announcement and policy statement"
+    },
+    {
+      "date": "2026-11-06",
+      "time": "08:30 ET",
+      "event": "Non-Farm Payrolls",
+      "importance": "high",
+      "description": "Monthly jobs report - employment and wage data"
     }
   ],
   "marketIndicators": [
