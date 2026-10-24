@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-10-23T17:40:11.772434+00:00",
-  "marketStatus": "Open",
+  "lastUpdated": "2026-10-24T16:25:17.507770+00:00",
+  "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+      "title": "Ukraine says Starlink connection 'now stable' after network limits",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 23 Oct 2026 16:17:02 GMT",
-      "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended."
+      "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 24 Oct 2026 12:12:40 GMT",
+      "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week."
     },
     {
-      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+      "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 23 Oct 2026 16:33:11 GMT",
-      "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way."
+      "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 24 Oct 2026 15:21:44 GMT",
+      "summary": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany. "
     },
     {
-      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+      "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 23 Oct 2026 15:37:07 GMT",
-      "summary": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning. "
+      "url": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 23 Oct 2026 22:47:07 GMT",
+      "summary": "Kaylub Giamanco has been hailed as a hero for killing a teenager who fatally shot three children and a teacher. "
     },
     {
-      "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+      "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 23 Oct 2026 16:59:51 GMT",
-      "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive."
+      "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 24 Oct 2026 09:45:47 GMT",
+      "summary": "The children were subsequently rescued from the water, police say."
     },
     {
-      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis ",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 23 Oct 2026 16:19:36 GMT",
-      "summary": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\"."
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 24 Oct 2026 14:45:30 GMT",
+      "summary": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer."
     }
   ],
   "cryptoAssets": [
@@ -43,180 +43,175 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 81538,
-      "change24h": 0.38083,
-      "marketCap": 1639106597070,
+      "price": 79535,
+      "change24h": -2.38056,
+      "marketCap": 1599850589658,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2404.19,
-      "change24h": 0.99854,
-      "marketCap": 293684294987,
+      "price": 2295.6,
+      "change24h": -4.29481,
+      "marketCap": 280776418681,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
+    {
+      "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 23 Oct 2026 21:32:16 +0000",
+      "summary": "As of Friday, 22 companies had filed objections as part of the joint venture\u2019s proposed tokenized stock platform under the SEC\u2019s innovation exemption."
+    },
+    {
+      "title": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 23 Oct 2026 20:54:17 +0000",
+      "summary": "The US tax agency is targeting faster resolutions and more flexible payment options for taxpayers voluntarily disclosing past tax violations under a planned program overhaul."
+    },
+    {
+      "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 23 Oct 2026 18:39:02 +0000",
+      "summary": "The blockchain suspended its layer-1 network and rollups after security researchers identified unauthorized token minting and millions in assets transferred to Ethereum.\n"
+    },
+    {
+      "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 23 Oct 2026 17:42:12 +0000",
+      "summary": "The Democratic ranking member of the Senate Permanent Subcommittee on Investigations asked Paolo Ardoino for records related to a reported deal between Tether and Nxum."
+    },
     {
       "title": "SEC flags tokenization as high-risk area in 2027 market examinations",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "Fri, 23 Oct 2026 16:08:40 +0000",
       "summary": "The SEC\u2019s latest priorities highlight tokenization as an emerging market risk, while cryptocurrencies remain absent as a standalone examination category."
-    },
-    {
-      "title": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March ",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 23 Oct 2026 15:39:17 +0000",
-      "summary": "Bitcoin dipped below $81,000 as stocks fell and Brent crude hit its highest level since March, leaving the 50-day moving average in focus."
-    },
-    {
-      "title": "Here\u2019s what happened in crypto today",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 23 Oct 2026 13:38:53 +0000",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-    },
-    {
-      "title": "China targets 2030 for its national blockchain network buildout",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/china-2030-national-blockchain-network-buildout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 23 Oct 2026 13:21:07 +0000",
-      "summary": "China\u2019s five-year digital development plan calls for wider blockchain use in trade and manufacturing alongside stronger technical standards."
-    },
-    {
-      "title": "New York AG seeks $1.37B from NovaTech founders over Ponzi scheme",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/new-york-ag-novatech-founders-companies-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 23 Oct 2026 12:33:37 +0000",
-      "summary": "The request follows an August 2025 default judgment, with the AG also announcing nearly $6 million in settlements with four promoters."
     }
   ],
   "aiNews": [
     {
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+      "title": "Block\u2019s new voice model sounds eerily human",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-      "publishedAt": "Fri, 23 Oct 2026 04:00:00 +0000",
-      "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027."
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "publishedAt": "Sat, 24 Oct 2026 16:00:00 +0000",
+      "summary": "Block said that the voice model can run locally on a MacBook M4 Max"
     },
     {
-      "title": "Left alone with nothing to do, AI agents started playing",
+      "title": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats.\u00a0",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-      "publishedAt": "Fri, 23 Oct 2026 00:45:37 +0000",
-      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs."
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "publishedAt": "Sat, 24 Oct 2026 15:00:00 +0000",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
     },
     {
-      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "title": "Here are the top AI agents that can live in your text messages\u00a0",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-      "publishedAt": "Thu, 22 Oct 2026 22:08:24 +0000",
-      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever."
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "publishedAt": "Sat, 24 Oct 2026 14:00:00 +0000",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
     },
     {
-      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-      "publishedAt": "Thu, 22 Oct 2026 19:07:09 +0000",
-      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts. "
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "publishedAt": "Fri, 23 Oct 2026 23:05:49 +0000",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work. "
     },
     {
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "publishedAt": "Thu, 22 Oct 2026 19:00:00 +0000",
-      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
+      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "publishedAt": "Fri, 23 Oct 2026 21:59:19 +0000",
+      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command. "
     }
   ],
   "techMovers": [
     {
-      "ticker": "UBER",
-      "name": "Uber Technologies",
-      "price": 67.64,
-      "change": -1.43,
-      "changePercent": -2.06
-    },
-    {
       "ticker": "SNOW",
       "name": "Snowflake Inc",
-      "price": 320.11,
-      "change": 6.15,
-      "changePercent": 1.96
+      "price": 325.43,
+      "change": 11.47,
+      "changePercent": 3.65
     },
     {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 516.35,
-      "change": 8.42,
-      "changePercent": 1.66
+      "ticker": "UBER",
+      "name": "Uber Technologies",
+      "price": 66.7,
+      "change": -2.37,
+      "changePercent": -3.43
     },
     {
       "ticker": "COIN",
       "name": "Coinbase",
-      "price": 166.62,
-      "change": -2.47,
-      "changePercent": -1.46
+      "price": 164.45,
+      "change": -4.64,
+      "changePercent": -2.74
     },
     {
-      "ticker": "ORCL",
-      "name": "Oracle Corp",
-      "price": 127.25,
-      "change": 1.71,
-      "changePercent": 1.36
+      "ticker": "NFLX",
+      "name": "Netflix Inc",
+      "price": 65.85,
+      "change": -1.2,
+      "changePercent": -1.79
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 516.79,
+      "change": 8.86,
+      "changePercent": 1.74
     }
   ],
-  "fearGreedIndex": 50,
+  "fearGreedIndex": 51,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 408.86,
-    "change": -5.48,
-    "changePercent": -1.32
+    "price": 407.92,
+    "change": -6.42,
+    "changePercent": -1.55
   },
   "sectors": [
     {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": 2.54
+      "changePercent": 2.6
     },
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": 0.54
+      "changePercent": 0.49
     },
     {
       "ticker": "XLRE",
       "name": "Real Estate",
-      "changePercent": -0.22
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": -0.61
+      "changePercent": 0.12
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": -0.99
+      "changePercent": -0.72
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -0.74
     },
     {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": -1.09
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": -1.14
+      "changePercent": -1.11
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": -1.18
+      "changePercent": -1.27
     },
     {
       "ticker": "XLF",
@@ -226,12 +221,17 @@
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": -1.52
+      "changePercent": -1.66
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -1.78
     },
     {
       "ticker": "XLP",
       "name": "Consumer Staples",
-      "changePercent": -2.08
+      "changePercent": -1.92
     }
   ],
   "economicCalendar": [
