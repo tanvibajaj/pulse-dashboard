@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-10-25T16:56:45.734671+00:00",
-  "marketStatus": "Closed",
+  "lastUpdated": "2026-10-26T19:00:05.700863+00:00",
+  "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+      "title": "Lula wins fourth term in dramatic Brazil election comeback",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 25 Oct 2026 05:15:52 GMT",
-      "summary": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election."
+      "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 26 Oct 2026 18:26:19 GMT",
+      "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Fl\u00e1vio Bolsonaro."
     },
     {
-      "title": "Venezuelan opposition leader Mar\u00eda Machado returns after months in exile",
+      "title": "Celebrations in Serbia after veteran ruler Vu\u010di\u0107 loses election to student-led protest movement",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 25 Oct 2026 16:21:40 GMT",
-      "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicol\u00e1s Maduro. "
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 26 Oct 2026 14:34:52 GMT",
+      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future."
     },
     {
-      "title": "Early reports suggest record high turnout in Serbia elections",
+      "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 25 Oct 2026 16:05:15 GMT",
-      "summary": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vu\u010di\u0107."
+      "url": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 26 Oct 2026 14:16:09 GMT",
+      "summary": "The R&B star previously pleaded guilty to affray, after attacking a music producer with a glass bottle."
     },
     {
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 25 Oct 2026 09:00:00 GMT",
-      "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity."
+      "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 26 Oct 2026 16:27:17 GMT",
+      "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI."
     },
     {
-      "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+      "title": "Catholic bishops apologise for 'exploited' Trump meeting ",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 25 Oct 2026 15:32:51 GMT",
-      "summary": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said."
+      "url": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 26 Oct 2026 15:46:31 GMT",
+      "summary": "Two bishops in images that show them praying with Trump have said they believed the meeting was private."
     }
   ],
   "cryptoAssets": [
@@ -43,205 +43,198 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 80622,
-      "change24h": 0.61468,
-      "marketCap": 1620380822256,
+      "price": 79940,
+      "change24h": -0.78867,
+      "marketCap": 1606904201356,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2346.6,
-      "change24h": 1.35236,
-      "marketCap": 286545460722,
+      "price": 2312.64,
+      "change24h": -1.69409,
+      "marketCap": 282472211762,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "ECB official sees digital euro as key to protecting EU \u2018sovereignty\u2019",
+      "title": "AI company Anthropic announces IPO, expected as early as November",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ecb-official-sees-digital-euro-tool-to-protect-eu-sovereignty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 25 Oct 2026 15:11:00 +0000",
-      "summary": "Piero Cipollone said the bloc is on track to test real transactions in 2027 and roll out a digital euro as early as 2029, pending legislation this year."
+      "url": "https://cointelegraph.com/news/anthropic-artificial-intelligence-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 26 Oct 2026 18:42:41 +0000",
+      "summary": "The artificial intelligence company disclosed more than $16 billion in revenue and an $80 billion net loss for the first half of 2026."
     },
     {
-      "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
+      "title": "NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 25 Oct 2026 11:42:00 +0000",
-      "summary": "Ahead of elections, Prime Minister Benjamin Netanyahu said Israel could turn to blockchain and crypto to skirt potential international sanctions, to the dismay of opponents and the country\u2019s central b"
+      "url": "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 26 Oct 2026 17:46:09 +0000",
+      "summary": "The US professional basketball league is expanding into prediction markets with official data agreements and safeguards against insider trading."
     },
     {
-      "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
+      "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029 ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 23 Oct 2026 21:32:16 +0000",
-      "summary": "As of Friday, 22 companies had filed objections as part of the joint venture\u2019s proposed tokenized stock platform under the SEC\u2019s innovation exemption."
+      "url": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 26 Oct 2026 16:18:09 +0000",
+      "summary": "The Seoul government is reportedly weighing another delay for a 2020 income tax policy on digital assets, citing concerns with receiving data from US officials."
     },
     {
-      "title": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
+      "title": "Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 23 Oct 2026 20:54:17 +0000",
-      "summary": "The US tax agency is targeting faster resolutions and more flexible payment options for taxpayers voluntarily disclosing past tax violations under a planned program overhaul."
+      "url": "https://cointelegraph.com/news/sp-dow-jones-partners-with-kalshi-to-bring-financial-benchmarks-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 26 Oct 2026 15:54:15 +0000",
+      "summary": "The agreement adds S&P Dow Jones gauges to a growing list of Wall Street firms expanding their involvement in prediction markets."
     },
     {
-      "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+      "title": "PHP flaw shows AI \u2018vulnerability apocalypse\u2019 is on schedule: Immunefi CEO ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 23 Oct 2026 18:39:02 +0000",
-      "summary": "The blockchain suspended its layer-1 network and rollups after security researchers identified unauthorized token minting and millions in assets transferred to Ethereum.\n"
+      "url": "https://cointelegraph.com/news/php-flaw-ai-vulnerability-apocalypse-immunefi-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 26 Oct 2026 14:25:22 +0000",
+      "summary": "Mitchell Amador warned internet users that websites could remain compromised for weeks, particularly smaller websites slower to adopt the emergency upgrades."
     }
   ],
   "aiNews": [
     {
-      "title": "The hottest AI wearables and gadgets you should know about",
+      "title": "Anthropic\u2019s IPO filing reveals its strategy for keeping enterprise customers hooked",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-      "publishedAt": "Sun, 25 Oct 2026 14:10:00 +0000",
-      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more. "
+      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "publishedAt": "Mon, 26 Oct 2026 16:49:42 +0000",
+      "summary": "Anthropic\u2019s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that\u2019s making enterprise cust"
     },
     {
-      "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
+      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "publishedAt": "Sat, 24 Oct 2026 19:00:00 +0000",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+      "publishedAt": "Mon, 26 Oct 2026 16:46:36 +0000",
+      "summary": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statemen"
     },
     {
-      "title": "Block\u2019s new voice model sounds eerily human",
+      "title": "Anthropic officially files for its public debut",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-      "publishedAt": "Sat, 24 Oct 2026 16:00:00 +0000",
-      "summary": "Block said that the voice model can run locally on a MacBook M4 Max"
+      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "publishedAt": "Mon, 26 Oct 2026 14:35:22 +0000",
+      "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI sa"
     },
     {
-      "title": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats.\u00a0",
+      "title": "Grok releases the first seven minutes of its AI-generated \u2018Odyssey\u2019",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "publishedAt": "Sat, 24 Oct 2026 15:00:00 +0000",
-      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "publishedAt": "Sun, 25 Oct 2026 21:31:16 +0000",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
     },
     {
-      "title": "Here are the top AI agents that can live in your text messages\u00a0",
+      "title": "AI delivers \u2018zero financial payoff\u2019 to most companies, Apollo economist says",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "publishedAt": "Sat, 24 Oct 2026 14:00:00 +0000",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "publishedAt": "Sun, 25 Oct 2026 16:57:32 +0000",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\""
     }
   ],
   "techMovers": [
     {
-      "ticker": "SNOW",
-      "name": "Snowflake Inc",
-      "price": 325.43,
-      "change": 11.47,
-      "changePercent": 3.65
-    },
-    {
-      "ticker": "UBER",
-      "name": "Uber Technologies",
-      "price": 66.7,
-      "change": -2.37,
-      "changePercent": -3.43
-    },
-    {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "price": 164.45,
-      "change": -4.64,
-      "changePercent": -2.74
-    },
-    {
       "ticker": "NFLX",
       "name": "Netflix Inc",
-      "price": 65.85,
-      "change": -1.2,
-      "changePercent": -1.79
+      "price": 63.24,
+      "change": -2.6,
+      "changePercent": -3.96
     },
     {
       "ticker": "AMD",
       "name": "AMD Inc",
-      "price": 516.79,
-      "change": 8.86,
-      "changePercent": 1.74
+      "price": 531.82,
+      "change": 15.03,
+      "changePercent": 2.91
+    },
+    {
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "price": 159.71,
+      "change": -4.74,
+      "changePercent": -2.88
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "price": 330.4,
+      "change": 8.72,
+      "changePercent": 2.71
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp",
+      "price": 216.26,
+      "change": 5.3,
+      "changePercent": 2.51
     }
   ],
-  "fearGreedIndex": 54,
+  "fearGreedIndex": 50,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 407.92,
-    "change": -6.42,
-    "changePercent": -1.55
+    "price": 403.83,
+    "change": -4.09,
+    "changePercent": -1.0
   },
   "sectors": [
     {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": 2.6
-    },
-    {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": 0.49
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 0.12
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": -0.72
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": -0.74
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": -1.11
+      "changePercent": 1.84
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": -1.27
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": -1.32
+      "changePercent": 1.46
     },
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": -1.66
+      "changePercent": 0.96
     },
     {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": -1.78
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": 0.45
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": 0.39
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": 0.29
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 0.27
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": -0.06
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -0.36
     },
     {
       "ticker": "XLP",
       "name": "Consumer Staples",
-      "changePercent": -1.92
+      "changePercent": -0.67
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -1.8
     }
   ],
   "economicCalendar": [
-    {
-      "date": "2026-10-25",
-      "time": "08:30 ET",
-      "event": "GDP Growth Rate",
-      "importance": "high",
-      "description": "Quarterly economic growth data"
-    },
     {
       "date": "2026-11-04",
       "time": "14:00 ET",
