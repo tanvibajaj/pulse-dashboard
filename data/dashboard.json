@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-10-26T19:00:05.700863+00:00",
+  "lastUpdated": "2026-10-27T18:31:39.674762+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Lula wins fourth term in dramatic Brazil election comeback",
+      "title": "Fl\u00e1vio Bolsonaro's passports cancelled after he fails to surrender them",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 26 Oct 2026 18:26:19 GMT",
-      "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Fl\u00e1vio Bolsonaro."
+      "url": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 27 Oct 2026 17:08:24 GMT",
+      "summary": "The defeated presidential candidate is under investigation for alleged money laundering and barred from leaving Brazil."
     },
     {
-      "title": "Celebrations in Serbia after veteran ruler Vu\u010di\u0107 loses election to student-led protest movement",
+      "title": "Norway and Finland leaders hold rare call with Putin",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 26 Oct 2026 14:34:52 GMT",
-      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future."
+      "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 27 Oct 2026 18:28:23 GMT",
+      "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said."
     },
     {
-      "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
+      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 26 Oct 2026 14:16:09 GMT",
-      "summary": "The R&B star previously pleaded guilty to affray, after attacking a music producer with a glass bottle."
+      "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 27 Oct 2026 15:13:24 GMT",
+      "summary": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out."
     },
     {
-      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+      "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 26 Oct 2026 16:27:17 GMT",
-      "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI."
+      "url": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 27 Oct 2026 14:29:39 GMT",
+      "summary": "He is in jail accused of supporting terrorism after travelling to the politically sensitive region Kabylie."
     },
     {
-      "title": "Catholic bishops apologise for 'exploited' Trump meeting ",
+      "title": "Mbapp\u00e9 sorry for 'ill-judged' Mao remark after backlash in China",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 26 Oct 2026 15:46:31 GMT",
-      "summary": "Two bishops in images that show them praying with Trump have said they believed the meeting was private."
+      "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 27 Oct 2026 13:25:54 GMT",
+      "summary": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 79940,
-      "change24h": -0.78867,
-      "marketCap": 1606904201356,
+      "price": 80543,
+      "change24h": 0.47279,
+      "marketCap": 1619106691515,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2312.64,
-      "change24h": -1.69409,
-      "marketCap": 282472211762,
+      "price": 2344.9,
+      "change24h": 0.9641,
+      "marketCap": 286438960921,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "AI company Anthropic announces IPO, expected as early as November",
+      "title": "Majority of Americans want candidates who support US-based financial technology: Poll",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/anthropic-artificial-intelligence-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 26 Oct 2026 18:42:41 +0000",
-      "summary": "The artificial intelligence company disclosed more than $16 billion in revenue and an $80 billion net loss for the first half of 2026."
+      "url": "https://cointelegraph.com/news/us-voters-candidates-support-financial-technology-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 27 Oct 2026 18:08:00 +0000",
+      "summary": "The September survey offered a possible window into US voters who could consider fintech and digital asset policies on Election Day."
     },
     {
-      "title": "NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal",
+      "title": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 26 Oct 2026 17:46:09 +0000",
-      "summary": "The US professional basketball league is expanding into prediction markets with official data agreements and safeguards against insider trading."
+      "url": "https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 27 Oct 2026 16:37:15 +0000",
+      "summary": "The blockchain-based fund offers eligible non-US investors exposure to the Nasdaq-100 as Janus Henderson expands its institutional tokenization business."
     },
     {
-      "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029 ",
+      "title": "USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 26 Oct 2026 16:18:09 +0000",
-      "summary": "The Seoul government is reportedly weighing another delay for a 2020 income tax policy on digital assets, citing concerns with receiving data from US officials."
+      "url": "https://cointelegraph.com/news/usdc-overtakes-usdt-euro-stablecoin-trading-mica-kaiko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 27 Oct 2026 15:59:58 +0000",
+      "summary": "USDC\u2019s share of euro stablecoin trading has climbed to 56% since January 2024, with deeper liquidity as exchanges restrict USDT under MiCA.\n"
     },
     {
-      "title": "Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts",
+      "title": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/sp-dow-jones-partners-with-kalshi-to-bring-financial-benchmarks-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 26 Oct 2026 15:54:15 +0000",
-      "summary": "The agreement adds S&P Dow Jones gauges to a growing list of Wall Street firms expanding their involvement in prediction markets."
+      "url": "https://cointelegraph.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 27 Oct 2026 13:30:00 +0000",
+      "summary": "Former Morgan Stanley and Weiss executive Jordi Visser says AI agents are boosting demand for crypto as he expands his holdings beyond Bitcoin, Ether and Solana."
     },
     {
-      "title": "PHP flaw shows AI \u2018vulnerability apocalypse\u2019 is on schedule: Immunefi CEO ",
+      "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/php-flaw-ai-vulnerability-apocalypse-immunefi-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 26 Oct 2026 14:25:22 +0000",
-      "summary": "Mitchell Amador warned internet users that websites could remain compromised for weeks, particularly smaller websites slower to adopt the emergency upgrades."
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 27 Oct 2026 13:17:24 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     }
   ],
   "aiNews": [
     {
-      "title": "Anthropic\u2019s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-      "publishedAt": "Mon, 26 Oct 2026 16:49:42 +0000",
-      "summary": "Anthropic\u2019s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that\u2019s making enterprise cust"
+      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "publishedAt": "Tue, 27 Oct 2026 17:08:08 +0000",
+      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery"
     },
     {
-      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "title": "Google\u2019s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-      "publishedAt": "Mon, 26 Oct 2026 16:46:36 +0000",
-      "summary": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statemen"
+      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "publishedAt": "Tue, 27 Oct 2026 16:30:57 +0000",
+      "summary": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers."
     },
     {
-      "title": "Anthropic officially files for its public debut",
+      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-      "publishedAt": "Mon, 26 Oct 2026 14:35:22 +0000",
-      "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI sa"
+      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "publishedAt": "Tue, 27 Oct 2026 14:59:09 +0000",
+      "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite."
     },
     {
-      "title": "Grok releases the first seven minutes of its AI-generated \u2018Odyssey\u2019",
+      "title": "Japan internet giant GMO says hackers posted stolen customer data",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-      "publishedAt": "Sun, 25 Oct 2026 21:31:16 +0000",
-      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
+      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+      "publishedAt": "Tue, 27 Oct 2026 13:32:57 +0000",
+      "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach."
     },
     {
-      "title": "AI delivers \u2018zero financial payoff\u2019 to most companies, Apollo economist says",
+      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "publishedAt": "Sun, 25 Oct 2026 16:57:32 +0000",
-      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\""
+      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+      "publishedAt": "Tue, 27 Oct 2026 13:00:00 +0000",
+      "summary": "The new standard, WebAI, is designed to work with a variety of AI models."
     }
   ],
   "techMovers": [
     {
-      "ticker": "NFLX",
-      "name": "Netflix Inc",
-      "price": 63.24,
-      "change": -2.6,
-      "changePercent": -3.96
-    },
-    {
       "ticker": "AMD",
       "name": "AMD Inc",
-      "price": 531.82,
-      "change": 15.03,
-      "changePercent": 2.91
+      "price": 560.12,
+      "change": 28.84,
+      "changePercent": 5.43
     },
     {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "price": 159.71,
-      "change": -4.74,
-      "changePercent": -2.88
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "price": 131.7,
+      "change": 5.64,
+      "changePercent": 4.47
     },
     {
       "ticker": "AVGO",
       "name": "Broadcom Inc",
-      "price": 330.4,
-      "change": 8.72,
-      "changePercent": 2.71
+      "price": 342.54,
+      "change": 13.37,
+      "changePercent": 4.06
     },
     {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corp",
-      "price": 216.26,
-      "change": 5.3,
-      "changePercent": 2.51
+      "ticker": "TSLA",
+      "name": "Tesla Inc",
+      "price": 405.97,
+      "change": 14.35,
+      "changePercent": 3.66
+    },
+    {
+      "ticker": "CRM",
+      "name": "Salesforce Inc",
+      "price": 241.48,
+      "change": -6.13,
+      "changePercent": -2.48
     }
   ],
-  "fearGreedIndex": 50,
+  "fearGreedIndex": 48,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 403.83,
-    "change": -4.09,
-    "changePercent": -1.0
+    "price": 398.2,
+    "change": -5.96,
+    "changePercent": -1.47
   },
   "sectors": [
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": 1.84
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": 1.46
+      "changePercent": 1.6
     },
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": 0.96
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": 0.45
+      "changePercent": 1.0
     },
     {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": 0.39
+      "changePercent": 0.72
     },
     {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 0.29
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 0.27
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": 0.49
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": -0.06
+      "changePercent": 0.25
     },
     {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": -0.36
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": -0.67
+      "changePercent": -0.2
     },
     {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": -1.8
+      "changePercent": -0.21
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": -0.27
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -1.04
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -1.24
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": -1.87
     }
   ],
   "economicCalendar": [
