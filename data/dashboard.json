@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-10-27T18:31:39.674762+00:00",
+  "lastUpdated": "2026-10-28T18:38:05.694766+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Fl\u00e1vio Bolsonaro's passports cancelled after he fails to surrender them",
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 27 Oct 2026 17:08:24 GMT",
-      "summary": "The defeated presidential candidate is under investigation for alleged money laundering and barred from leaving Brazil."
+      "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 28 Oct 2026 16:59:47 GMT",
+      "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset."
     },
     {
-      "title": "Norway and Finland leaders hold rare call with Putin",
+      "title": "How could Israel break election deadlock? Here are four scenarios",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 27 Oct 2026 18:28:23 GMT",
-      "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said."
+      "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 28 Oct 2026 14:30:31 GMT",
+      "summary": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections. "
     },
     {
-      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+      "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 27 Oct 2026 15:13:24 GMT",
-      "summary": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out."
+      "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 28 Oct 2026 10:31:22 GMT",
+      "summary": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\"."
     },
     {
-      "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
+      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 27 Oct 2026 14:29:39 GMT",
-      "summary": "He is in jail accused of supporting terrorism after travelling to the politically sensitive region Kabylie."
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 28 Oct 2026 10:17:54 GMT",
+      "summary": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services."
     },
     {
-      "title": "Mbapp\u00e9 sorry for 'ill-judged' Mao remark after backlash in China",
+      "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 27 Oct 2026 13:25:54 GMT",
-      "summary": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes."
+      "url": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 28 Oct 2026 10:18:40 GMT",
+      "summary": "The energy minister described it as a \"major milestone\" for the East African nation."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 80543,
-      "change24h": 0.47279,
-      "marketCap": 1619106691515,
+      "price": 81120,
+      "change24h": 0.63493,
+      "marketCap": 1630916918589,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2344.9,
-      "change24h": 0.9641,
-      "marketCap": 286438960921,
+      "price": 2357.48,
+      "change24h": 0.42758,
+      "marketCap": 288013890749,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Majority of Americans want candidates who support US-based financial technology: Poll",
+      "title": "Strategy shareholders approve daily dividends for four preferred stocks ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/us-voters-candidates-support-financial-technology-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 27 Oct 2026 18:08:00 +0000",
-      "summary": "The September survey offered a possible window into US voters who could consider fintech and digital asset policies on Election Day."
+      "url": "https://cointelegraph.com/news/strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 28 Oct 2026 18:00:54 +0000",
+      "summary": "The largest Bitcoin treasury company will begin daily dividend payments on STRC in November, with three other preferred securities following in January 2027."
     },
     {
-      "title": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar ",
+      "title": "Crypto PAC spending before midterms possibly obscured after reported FEC hack",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 27 Oct 2026 16:37:15 +0000",
-      "summary": "The blockchain-based fund offers eligible non-US investors exposure to the Nasdaq-100 as Janus Henderson expands its institutional tokenization business."
+      "url": "https://cointelegraph.com/news/crypto-pac-spending-midterms-fec-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 28 Oct 2026 17:05:42 +0000",
+      "summary": "The FEC reported an \u201celectronic filing system outage\u201d on Tuesday as groups are expected to ramp up spending before the US midterm elections."
     },
     {
-      "title": "USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko ",
+      "title": "Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/usdc-overtakes-usdt-euro-stablecoin-trading-mica-kaiko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 27 Oct 2026 15:59:58 +0000",
-      "summary": "USDC\u2019s share of euro stablecoin trading has climbed to 56% since January 2024, with deeper liquidity as exchanges restrict USDT under MiCA.\n"
+      "url": "https://cointelegraph.com/markets/bitcoin-price-bounce-rejected-at-50-day-trend-line-ahead-of-fomc-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 28 Oct 2026 16:53:26 +0000",
+      "summary": "Bitcoin failed to move past its 50-day simple moving average as market participants awaited the outcome of the FOMC meeting and key tech earnings."
     },
     {
-      "title": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser",
+      "title": "Phantom launches Kalshi-powered prediction markets for US users ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 27 Oct 2026 13:30:00 +0000",
-      "summary": "Former Morgan Stanley and Weiss executive Jordi Visser says AI agents are boosting demand for crypto as he expands his holdings beyond Bitcoin, Ether and Solana."
+      "url": "https://cointelegraph.com/news/phantom-launches-kalshi-powered-prediction-markets-for-us-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 28 Oct 2026 16:40:02 +0000",
+      "summary": "The crypto wallet\u2019s new integration offers CFTC-regulated event contracts through Kalshi, as prediction markets face growing legal challenges in the US."
     },
     {
-      "title": "Here\u2019s what happened in crypto today",
+      "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 27 Oct 2026 13:17:24 +0000",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+      "url": "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 28 Oct 2026 13:47:51 +0000",
+      "summary": "Google Cloud has detailed its preview MPC service for institutional Bitcoin custody as it holds a New York symposium focused on digital asset security."
     }
   ],
   "aiNews": [
     {
-      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "title": "Chrome\u2019s AI-powered Autofill can now dig through your Gmail to fill out forms",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-      "publishedAt": "Tue, 27 Oct 2026 17:08:08 +0000",
-      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery"
+      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "publishedAt": "Wed, 28 Oct 2026 17:00:00 +0000",
+      "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission."
     },
     {
-      "title": "Google\u2019s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-      "publishedAt": "Tue, 27 Oct 2026 16:30:57 +0000",
-      "summary": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers."
+      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "publishedAt": "Wed, 28 Oct 2026 17:00:00 +0000",
+      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps."
     },
     {
-      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "title": "AI execs may be too out of touch to build for the general public",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-      "publishedAt": "Tue, 27 Oct 2026 14:59:09 +0000",
-      "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite."
+      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+      "publishedAt": "Wed, 28 Oct 2026 15:53:52 +0000",
+      "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families."
     },
     {
-      "title": "Japan internet giant GMO says hackers posted stolen customer data",
+      "title": "South Korea\u2019s financial industry hit by fresh wave of cyberattacks",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
-      "publishedAt": "Tue, 27 Oct 2026 13:32:57 +0000",
-      "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach."
+      "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+      "publishedAt": "Wed, 28 Oct 2026 15:41:18 +0000",
+      "summary": "South Korea\u2019s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia."
     },
     {
-      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-      "publishedAt": "Tue, 27 Oct 2026 13:00:00 +0000",
-      "summary": "The new standard, WebAI, is designed to work with a variety of AI models."
+      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "publishedAt": "Wed, 28 Oct 2026 15:00:00 +0000",
+      "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it\u2019s a big step for meeting and medical transcription tools"
     }
   ],
   "techMovers": [
     {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 560.12,
-      "change": 28.84,
-      "changePercent": 5.43
-    },
-    {
       "ticker": "ORCL",
       "name": "Oracle Corp",
-      "price": 131.7,
-      "change": 5.64,
-      "changePercent": 4.47
+      "price": 144.17,
+      "change": 13.64,
+      "changePercent": 10.45
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 576.15,
+      "change": 15.89,
+      "changePercent": 2.84
     },
     {
       "ticker": "AVGO",
       "name": "Broadcom Inc",
-      "price": 342.54,
-      "change": 13.37,
-      "changePercent": 4.06
+      "price": 351.04,
+      "change": 8.71,
+      "changePercent": 2.54
     },
     {
-      "ticker": "TSLA",
-      "name": "Tesla Inc",
-      "price": 405.97,
-      "change": 14.35,
-      "changePercent": 3.66
+      "ticker": "GOOG",
+      "name": "Alphabet Inc",
+      "price": 322.16,
+      "change": 5.33,
+      "changePercent": 1.68
     },
     {
-      "ticker": "CRM",
-      "name": "Salesforce Inc",
-      "price": 241.48,
-      "change": -6.13,
-      "changePercent": -2.48
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "price": 612.58,
+      "change": -7.61,
+      "changePercent": -1.23
     }
   ],
-  "fearGreedIndex": 48,
+  "fearGreedIndex": 51,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 398.2,
-    "change": -5.96,
-    "changePercent": -1.47
+    "price": 402.74,
+    "change": 0.88,
+    "changePercent": 0.22
   },
   "sectors": [
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": 1.6
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 1.0
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 0.72
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": 0.49
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": 0.25
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": -0.2
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": -0.21
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": -0.27
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": -1.04
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": -1.24
+      "changePercent": 0.92
     },
     {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": -1.87
+      "changePercent": 0.55
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": 0.47
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 0.45
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": 0.35
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -0.13
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -0.16
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -0.34
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -0.41
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": -0.62
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -0.99
     }
   ],
   "economicCalendar": [
