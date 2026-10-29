@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-10-28T18:38:05.694766+00:00",
+  "lastUpdated": "2026-10-29T18:46:17.926351+00:00",
   "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 28 Oct 2026 16:59:47 GMT",
-      "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset."
+      "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 29 Oct 2026 11:07:35 GMT",
+      "summary": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled."
     },
     {
-      "title": "How could Israel break election deadlock? Here are four scenarios",
+      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 28 Oct 2026 14:30:31 GMT",
-      "summary": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections. "
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 29 Oct 2026 14:17:35 GMT",
+      "summary": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy."
     },
     {
-      "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+      "title": "Fl\u00e1vio Bolsonaro calls himself 'leader of Brazil' after election loss",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 28 Oct 2026 10:31:22 GMT",
-      "summary": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\"."
+      "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 29 Oct 2026 14:58:28 GMT",
+      "summary": "The defeated presidential candidate says he will lead the opposition from the US. "
     },
     {
-      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+      "title": "Philippine police obtain warrant to search Thomas Markle's devices",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 28 Oct 2026 10:17:54 GMT",
-      "summary": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services."
+      "url": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 29 Oct 2026 13:25:07 GMT",
+      "summary": "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines."
     },
     {
-      "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
+      "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 28 Oct 2026 10:18:40 GMT",
-      "summary": "The energy minister described it as a \"major milestone\" for the East African nation."
+      "url": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 29 Oct 2026 13:44:39 GMT",
+      "summary": "One of the region's famous rock formations, known as \"fairy chimneys\", reportedly collapsed outside an open-air museum."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 81120,
-      "change24h": 0.63493,
-      "marketCap": 1630916918589,
+      "price": 80584,
+      "change24h": -0.53104,
+      "marketCap": 1620268197330,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2357.48,
-      "change24h": 0.42758,
-      "marketCap": 288013890749,
+      "price": 2325.34,
+      "change24h": -1.16064,
+      "marketCap": 284145292219,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Strategy shareholders approve daily dividends for four preferred stocks ",
+      "title": "HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 28 Oct 2026 18:00:54 +0000",
-      "summary": "The largest Bitcoin treasury company will begin daily dividend payments on STRC in November, with three other preferred securities following in January 2027."
+      "url": "https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 29 Oct 2026 17:12:03 +0000",
+      "summary": "Hyperliquid\u2019s token pumped following news of ICE and Trade[XYZ] unveiling plans for US perpetual futures."
     },
     {
-      "title": "Crypto PAC spending before midterms possibly obscured after reported FEC hack",
+      "title": "KuCoin suspends services in Russia and Belarus",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/crypto-pac-spending-midterms-fec-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 28 Oct 2026 17:05:42 +0000",
-      "summary": "The FEC reported an \u201celectronic filing system outage\u201d on Tuesday as groups are expected to ramp up spending before the US midterm elections."
+      "url": "https://cointelegraph.com/news/kucoin-services-russia-belarus-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 29 Oct 2026 17:08:41 +0000",
+      "summary": "The exchange cited legal and regulatory compliance in its reason for cutting off services to users based in the two countries, currently the targets of international sanctions."
     },
     {
-      "title": "Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings",
+      "title": "Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-bounce-rejected-at-50-day-trend-line-ahead-of-fomc-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 28 Oct 2026 16:53:26 +0000",
-      "summary": "Bitcoin failed to move past its 50-day simple moving average as market participants awaited the outcome of the FOMC meeting and key tech earnings."
+      "url": "https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 29 Oct 2026 16:27:39 +0000",
+      "summary": "The tokenized shares would carry the same shareholder rights as traditional stock, with round-the-clock trading and immediate settlement under the SEC\u2019s innovation exemption."
     },
     {
-      "title": "Phantom launches Kalshi-powered prediction markets for US users ",
+      "title": "Kalshi raises $1B at $40B valuation as non-sports revenue run rate tops $1B",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/phantom-launches-kalshi-powered-prediction-markets-for-us-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 28 Oct 2026 16:40:02 +0000",
-      "summary": "The crypto wallet\u2019s new integration offers CFTC-regulated event contracts through Kalshi, as prediction markets face growing legal challenges in the US."
+      "url": "https://cointelegraph.com/news/kalshi-closes-1b-funding-round-at-40b-valuation-as-non-sports-revenue-run-rate-tops-1b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 29 Oct 2026 15:52:43 +0000",
+      "summary": "The funding round comes as Kalshi expands its partnerships with the NBA and S&P Dow Jones Indices while facing legal challenges over its sports contracts."
     },
     {
-      "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
+      "title": "Bitcoin price jumps to $81.5K as US GDP data beats expectations",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 28 Oct 2026 13:47:51 +0000",
-      "summary": "Google Cloud has detailed its preview MPC service for institutional Bitcoin custody as it holds a New York symposium focused on digital asset security."
+      "url": "https://cointelegraph.com/markets/bitcoin-reaction-to-pce-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 29 Oct 2026 15:39:54 +0000",
+      "summary": "BTC price action returned to a key weekly resistance level as US stock markets digested Alphabet\u2019s Q3 earnings miss."
     }
   ],
   "aiNews": [
     {
-      "title": "Chrome\u2019s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "title": "Granola crunches up a dictation feature to compete with Wispr",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
-      "publishedAt": "Wed, 28 Oct 2026 17:00:00 +0000",
-      "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission."
+      "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+      "publishedAt": "Thu, 29 Oct 2026 17:54:38 +0000",
+      "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting."
     },
     {
-      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-      "publishedAt": "Wed, 28 Oct 2026 17:00:00 +0000",
-      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps."
+      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "publishedAt": "Thu, 29 Oct 2026 17:00:00 +0000",
+      "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.  "
     },
     {
-      "title": "AI execs may be too out of touch to build for the general public",
+      "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
-      "publishedAt": "Wed, 28 Oct 2026 15:53:52 +0000",
-      "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families."
+      "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+      "publishedAt": "Thu, 29 Oct 2026 16:42:32 +0000",
+      "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times. "
     },
     {
-      "title": "South Korea\u2019s financial industry hit by fresh wave of cyberattacks",
+      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
-      "publishedAt": "Wed, 28 Oct 2026 15:41:18 +0000",
-      "summary": "South Korea\u2019s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia."
+      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+      "publishedAt": "Thu, 29 Oct 2026 16:21:00 +0000",
+      "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit ar"
     },
     {
-      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
-      "publishedAt": "Wed, 28 Oct 2026 15:00:00 +0000",
-      "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it\u2019s a big step for meeting and medical transcription tools"
+      "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+      "publishedAt": "Thu, 29 Oct 2026 14:35:26 +0000",
+      "summary": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation."
     }
   ],
   "techMovers": [
     {
-      "ticker": "ORCL",
-      "name": "Oracle Corp",
-      "price": 144.17,
-      "change": 13.64,
-      "changePercent": 10.45
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 576.15,
-      "change": 15.89,
-      "changePercent": 2.84
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc",
-      "price": 351.04,
-      "change": 8.71,
-      "changePercent": 2.54
-    },
-    {
       "ticker": "GOOG",
       "name": "Alphabet Inc",
-      "price": 322.16,
-      "change": 5.33,
-      "changePercent": 1.68
+      "price": 280.44,
+      "change": -41.45,
+      "changePercent": -12.88
     },
     {
-      "ticker": "META",
-      "name": "Meta Platforms",
-      "price": 612.58,
-      "change": -7.61,
-      "changePercent": -1.23
+      "ticker": "CRM",
+      "name": "Salesforce Inc",
+      "price": 231.03,
+      "change": -11.08,
+      "changePercent": -4.58
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "price": 138.39,
+      "change": -6.15,
+      "changePercent": -4.26
+    },
+    {
+      "ticker": "SNOW",
+      "name": "Snowflake Inc",
+      "price": 326.42,
+      "change": -13.49,
+      "changePercent": -3.97
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon.com",
+      "price": 244.86,
+      "change": -9.74,
+      "changePercent": -3.83
     }
   ],
   "fearGreedIndex": 51,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 402.74,
-    "change": 0.88,
-    "changePercent": 0.22
+    "price": 410.22,
+    "change": 9.62,
+    "changePercent": 2.4
   },
   "sectors": [
     {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": 0.92
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": 0.55
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": 0.47
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 0.45
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": 1.86
     },
     {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": 0.35
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": -0.13
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": -0.16
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": -0.34
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": -0.41
+      "changePercent": 1.83
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": -0.62
+      "changePercent": 1.39
     },
     {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": -0.99
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 1.29
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": 1.25
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": 0.85
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": 0.66
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": 0.5
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": 0.01
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": -1.64
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": -1.98
     }
   ],
   "economicCalendar": [
@@ -248,6 +248,13 @@
       "event": "Non-Farm Payrolls",
       "importance": "high",
       "description": "Monthly jobs report - employment and wage data"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "08:30 ET",
+      "event": "CPI Inflation Data",
+      "importance": "high",
+      "description": "Consumer Price Index - key inflation measure"
     }
   ],
   "marketIndicators": [
