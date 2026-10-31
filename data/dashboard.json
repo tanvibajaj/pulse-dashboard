@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-10-30T18:23:13.249630+00:00",
-  "marketStatus": "Open",
+  "lastUpdated": "2026-10-31T17:29:24.042029+00:00",
+  "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 30 Oct 2026 17:39:43 GMT",
-      "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind."
+      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 31 Oct 2026 15:50:41 GMT",
+      "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive. "
     },
     {
-      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 30 Oct 2026 17:07:19 GMT",
-      "summary": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September. "
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 31 Oct 2026 16:32:08 GMT",
+      "summary": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit."
     },
     {
-      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 30 Oct 2026 16:26:11 GMT",
-      "summary": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers."
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 31 Oct 2026 15:16:20 GMT",
+      "summary": "Government data shows that more than 10,000 people have contracted the rare virus."
     },
     {
-      "title": "Prominent Russian newspaper shuts down under pressure from authorities",
+      "title": "Police deployed during stand-off over control of top Poland court",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 30 Oct 2026 11:23:06 GMT",
-      "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades."
+      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 31 Oct 2026 01:11:43 GMT",
+      "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them."
     },
     {
-      "title": "Spain transport minister says he won't resign over high-speed rail disaster",
+      "title": "Ethiopian PM puts ministers through military training",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 30 Oct 2026 15:03:39 GMT",
-      "summary": "\u00d3scar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people."
+      "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 31 Oct 2026 14:28:15 GMT",
+      "summary": "The prime minister has previously emphasised military preparedness as central to his government's ambitions."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 76909,
-      "change24h": -4.83362,
-      "marketCap": 1546486848342,
+      "price": 77518,
+      "change24h": 0.47815,
+      "marketCap": 1558542120294,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2232.93,
-      "change24h": -4.53982,
-      "marketCap": 272946131005,
+      "price": 2249.96,
+      "change24h": 0.34,
+      "marketCap": 274886025604,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Coinbase leads crypto stock selloff following $6.3B Binance hack",
+      "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/coinbase-leads-crypto-stock-selloff-shares-tumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 30 Oct 2026 17:48:27 +0000",
-      "summary": "Circle, Strategy and other crypto-linked stocks fell sharply Friday, a day after Binance disclosed a $6.3 billion security breach."
+      "url": "https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 31 Oct 2026 15:36:01 +0000",
+      "summary": "Less-liquid tokens make up the remaining shortfall as Binance continues buying replacement assets through market and over-the-counter trades."
     },
     {
-      "title": "Crypto Biz: Bitcoin\u2019s quantum threat is becoming an economic problem ",
+      "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 30 Oct 2026 17:09:31 +0000",
-      "summary": "Bitcoin faces mounting quantum security concerns as Ripple secures a US banking charter, USDC gains ground in Europe and VanEck adds BTC to a new ETF."
+      "url": "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 31 Oct 2026 15:26:46 +0000",
+      "summary": "Strive CEO Matt Cole says the Binance hack has not changed his long-term case for Bitcoin, but cautions it is too early to call a market bottom."
     },
     {
-      "title": "Recap: How Binance\u2019s record $6.3B hack unfolded",
+      "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 30 Oct 2026 16:53:46 +0000",
-      "summary": "A recap of Cointelegraph\u2019s live coverage of the Binance hack, including early breach reports and the exchange\u2019s full reimbursement pledge."
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 31 Oct 2026 15:09:55 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "As it happened: Binance\u2019s record $6.3B crypto hack",
+      "title": "Bitcoin turns 18: Has the original rebel grown up?",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 30 Oct 2026 16:49:50 +0000",
-      "summary": "How Binance\u2019s $6.3 billion hack unfolded, from the first onchain alerts to $3 billion in frozen funds and a widening security investigation."
+      "url": "https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 31 Oct 2026 14:27:52 +0000",
+      "summary": "In typical Bitcoin style, the number one cryptocurrency turns 18 today, amid AI-driven security threats, quantum fears and the biggest exchange hack in crypto history. "
     },
     {
-      "title": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold",
+      "title": "Texas brothers sentenced to 15 years in prison for armed crypto robbery, kidnapping",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 30 Oct 2026 16:06:28 +0000",
-      "summary": "Bitcoin circled $77,000 as crypto markets navigated US stock-market downside, while the gold price fell to its lowest in a year."
+      "url": "https://cointelegraph.com/news/texas-brothers-sentenced-to-15-years-in-prison-for-armed-crypto-robbery-kidnapping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 31 Oct 2026 13:37:49 +0000",
+      "summary": "Home invasions became the most common form of crypto wrench attacks worldwide during the first half of 2026, rising to 20 incidents from one."
     }
   ],
   "aiNews": [
     {
-      "title": "Zest\u2019s new AI agent finds restaurants and books reservations over text",
+      "title": "OpenAI reportedly lowers funding target for new round",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-      "publishedAt": "Fri, 30 Oct 2026 17:47:12 +0000",
-      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation."
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "publishedAt": "Sat, 31 Oct 2026 16:12:55 +0000",
+      "summary": "OpenAI\u2019s latest funding round doesn't seem to be living up to expectations."
     },
     {
-      "title": "Google\u2019s first data center satellite is online and writing poetry",
+      "title": "Nvidia weighs playing the cosigner for Nscale\u2019s AI data center in West Virginia",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-      "publishedAt": "Fri, 30 Oct 2026 17:00:00 +0000",
-      "summary": "The first TPU in space is a running a Google DeepMind Gemma 4 model and writing cheesy poetry. "
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "publishedAt": "Sat, 31 Oct 2026 01:20:05 +0000",
+      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan."
     },
     {
-      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is \u2018a great opportunity to go deceive people\u2019",
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-      "publishedAt": "Fri, 30 Oct 2026 16:03:45 +0000",
-      "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations. "
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "publishedAt": "Fri, 30 Oct 2026 22:56:13 +0000",
+      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week."
     },
     {
-      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+      "title": "Intel\u2019s stock crashes, knocking $12B from government\u2019s stake",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-      "publishedAt": "Fri, 30 Oct 2026 14:00:00 +0000",
-      "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1"
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "publishedAt": "Fri, 30 Oct 2026 21:54:34 +0000",
+      "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise."
     },
     {
-      "title": "DoorDash said it\u2019s only received \u2018several hundred\u2019 orders from AI agents",
+      "title": "Anthropic expected to receive high \u2018junk\u2019 rating from credit agencies following IPO, FT report says",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-      "publishedAt": "Fri, 30 Oct 2026 13:54:25 +0000",
-      "summary": "DoorDash said that it is open to working with third-party agent makers."
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "publishedAt": "Fri, 30 Oct 2026 21:52:03 +0000",
+      "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has u"
     }
   ],
   "techMovers": [
     {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "price": 138.17,
-      "change": -22.42,
-      "changePercent": -13.96
-    },
-    {
       "ticker": "AMD",
       "name": "AMD Inc",
-      "price": 497.14,
-      "change": -69.28,
-      "changePercent": -12.23
+      "price": 504.8,
+      "change": -61.62,
+      "changePercent": -10.88
+    },
+    {
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "price": 143.54,
+      "change": -17.05,
+      "changePercent": -10.62
     },
     {
       "ticker": "SNOW",
       "name": "Snowflake Inc",
-      "price": 297.64,
-      "change": -32.62,
-      "changePercent": -9.88
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc",
-      "price": 320.95,
-      "change": -24.05,
-      "changePercent": -6.97
+      "price": 306.08,
+      "change": -24.19,
+      "changePercent": -7.32
     },
     {
       "ticker": "ORCL",
       "name": "Oracle Corp",
-      "price": 129.95,
-      "change": -9.61,
-      "changePercent": -6.89
+      "price": 130.67,
+      "change": -8.89,
+      "changePercent": -6.37
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "price": 326.08,
+      "change": -18.92,
+      "changePercent": -5.48
     }
   ],
   "fearGreedIndex": 30,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 415.4,
-    "change": 4.86,
-    "changePercent": 1.19
+    "price": 413.59,
+    "change": 3.05,
+    "changePercent": 0.74
   },
   "sectors": [
     {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 1.71
-    },
-    {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": 1.39
+      "changePercent": 1.91
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": 1.41
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": 1.01
+      "changePercent": 0.67
     },
     {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": 0.65
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
       "changePercent": 0.45
     },
     {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": -0.43
+      "changePercent": 0.4
     },
     {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": -0.96
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": 0.26
     },
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": -0.98
+      "changePercent": -0.71
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": -0.76
     },
     {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": -1.54
+      "changePercent": -1.29
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": -1.8
+      "changePercent": -1.6
     },
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": -5.98
+      "changePercent": -4.89
     }
   ],
   "economicCalendar": [
