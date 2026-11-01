@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-10-31T17:29:24.042029+00:00",
+  "lastUpdated": "2026-11-01T18:14:06.098654+00:00",
   "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "title": "Shops looted as German cost-of-living protests turn violent",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 31 Oct 2026 15:50:41 GMT",
-      "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive. "
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 01 Nov 2026 11:57:48 GMT",
+      "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France."
     },
     {
-      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 31 Oct 2026 16:32:08 GMT",
-      "summary": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit."
+      "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 01 Nov 2026 17:06:32 GMT",
+      "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say."
     },
     {
-      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+      "title": "Armed police start patrols in Sydney after Bondi Beach attack",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 31 Oct 2026 15:16:20 GMT",
-      "summary": "Government data shows that more than 10,000 people have contracted the rare virus."
+      "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 01 Nov 2026 17:56:47 GMT",
+      "summary": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival."
     },
     {
-      "title": "Police deployed during stand-off over control of top Poland court",
+      "title": "India's opposition holds mega rally seeking election chief's resignation",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 31 Oct 2026 01:11:43 GMT",
-      "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them."
+      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 01 Nov 2026 07:00:55 GMT",
+      "summary": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down. "
     },
     {
-      "title": "Ethiopian PM puts ministers through military training",
+      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 31 Oct 2026 14:28:15 GMT",
-      "summary": "The prime minister has previously emphasised military preparedness as central to his government's ambitions."
+      "url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 01 Nov 2026 00:41:24 GMT",
+      "summary": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book."
     }
   ],
   "cryptoAssets": [
@@ -43,59 +43,80 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 77518,
-      "change24h": 0.47815,
-      "marketCap": 1558542120294,
+      "price": 77915,
+      "change24h": 0.38781,
+      "marketCap": 1566502726053,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2249.96,
-      "change24h": 0.34,
-      "marketCap": 274886025604,
+      "price": 2262.12,
+      "change24h": 0.29169,
+      "marketCap": 276386452535,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
+    {
+      "title": "Here\u2019s what happened in crypto today",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 01 Nov 2026 14:17:00 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "DeepSeek developing AI agent requiring less human input: Report \u00a0",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/deepseek-developing-ai-agent-requiring-less-human-input-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 01 Nov 2026 13:40:33 +0000",
+      "summary": "The proposal comes amid intense competition among AI developers, including US companies Anthropic and OpenAI, the SCMP said."
+    },
+    {
+      "title": "Binance says phase one of withdrawals opens after $6.3B hack",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 01 Nov 2026 09:38:18 +0000",
+      "summary": "The crypto exchange said it has begun phased withdrawals after the record hack the FBI has blamed on North Korea."
+    },
+    {
+      "title": "FBI blames North Korea for record $6.3B Binance hack",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/fbi-blames-north-korea-for-record-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 01 Nov 2026 07:44:38 +0000",
+      "summary": "US agency seeks private-sector help to block further money-laundering of stolen digital assets."
+    },
     {
       "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "Sat, 31 Oct 2026 15:36:01 +0000",
       "summary": "Less-liquid tokens make up the remaining shortfall as Binance continues buying replacement assets through market and over-the-counter trades."
-    },
-    {
-      "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 31 Oct 2026 15:26:46 +0000",
-      "summary": "Strive CEO Matt Cole says the Binance hack has not changed his long-term case for Bitcoin, but cautions it is too early to call a market bottom."
-    },
-    {
-      "title": "Here\u2019s what happened in crypto today",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 31 Oct 2026 15:09:55 +0000",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-    },
-    {
-      "title": "Bitcoin turns 18: Has the original rebel grown up?",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 31 Oct 2026 14:27:52 +0000",
-      "summary": "In typical Bitcoin style, the number one cryptocurrency turns 18 today, amid AI-driven security threats, quantum fears and the biggest exchange hack in crypto history. "
-    },
-    {
-      "title": "Texas brothers sentenced to 15 years in prison for armed crypto robbery, kidnapping",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/texas-brothers-sentenced-to-15-years-in-prison-for-armed-crypto-robbery-kidnapping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 31 Oct 2026 13:37:49 +0000",
-      "summary": "Home invasions became the most common form of crypto wrench attacks worldwide during the first half of 2026, rising to 20 incidents from one."
     }
   ],
   "aiNews": [
+    {
+      "title": "Apple CEO says the company doesn\u2019t \u2018want to ship AI for AI\u2019s sake\u2019",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "publishedAt": "Sat, 31 Oct 2026 21:41:00 +0000",
+      "summary": "Apple's new CEO defended the company's current position in the AI landscape."
+    },
+    {
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "publishedAt": "Sat, 31 Oct 2026 21:36:07 +0000",
+      "summary": "On November 4 at Boston\u2019s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your id"
+    },
+    {
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "publishedAt": "Sat, 31 Oct 2026 21:17:03 +0000",
+      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
+    },
     {
       "title": "OpenAI reportedly lowers funding target for new round",
       "source": "TechCrunch",
@@ -109,27 +130,6 @@
       "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
       "publishedAt": "Sat, 31 Oct 2026 01:20:05 +0000",
       "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan."
-    },
-    {
-      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-      "publishedAt": "Fri, 30 Oct 2026 22:56:13 +0000",
-      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week."
-    },
-    {
-      "title": "Intel\u2019s stock crashes, knocking $12B from government\u2019s stake",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-      "publishedAt": "Fri, 30 Oct 2026 21:54:34 +0000",
-      "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise."
-    },
-    {
-      "title": "Anthropic expected to receive high \u2018junk\u2019 rating from credit agencies following IPO, FT report says",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-      "publishedAt": "Fri, 30 Oct 2026 21:52:03 +0000",
-      "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has u"
     }
   ],
   "techMovers": [
@@ -169,7 +169,7 @@
       "changePercent": -5.48
     }
   ],
-  "fearGreedIndex": 30,
+  "fearGreedIndex": 34,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
@@ -243,18 +243,18 @@
       "description": "Federal Reserve interest rate announcement and policy statement"
     },
     {
-      "date": "2026-11-06",
-      "time": "08:30 ET",
-      "event": "Non-Farm Payrolls",
-      "importance": "high",
-      "description": "Monthly jobs report - employment and wage data"
-    },
-    {
       "date": "2026-11-12",
       "time": "08:30 ET",
       "event": "CPI Inflation Data",
       "importance": "high",
       "description": "Consumer Price Index - key inflation measure"
+    },
+    {
+      "date": "2026-11-15",
+      "time": "08:30 ET",
+      "event": "Retail Sales",
+      "importance": "medium",
+      "description": "Monthly consumer spending data"
     }
   ],
   "marketIndicators": [
