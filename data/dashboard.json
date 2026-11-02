@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-11-01T18:14:06.098654+00:00",
-  "marketStatus": "Closed",
+  "lastUpdated": "2026-11-02T22:05:36.835556+00:00",
+  "marketStatus": "After Hours",
   "globalNews": [
     {
-      "title": "Shops looted as German cost-of-living protests turn violent",
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 01 Nov 2026 11:57:48 GMT",
-      "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France."
+      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 02 Nov 2026 21:10:04 GMT",
+      "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack."
     },
     {
-      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 01 Nov 2026 17:06:32 GMT",
-      "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say."
+      "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 02 Nov 2026 19:58:34 GMT",
+      "summary": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground!\""
     },
     {
-      "title": "Armed police start patrols in Sydney after Bondi Beach attack",
+      "title": "Shop freezers in seven European countries hit by cyber-attack",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 01 Nov 2026 17:56:47 GMT",
-      "summary": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival."
+      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 02 Nov 2026 17:38:11 GMT",
+      "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C."
     },
     {
-      "title": "India's opposition holds mega rally seeking election chief's resignation",
+      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 01 Nov 2026 07:00:55 GMT",
-      "summary": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down. "
+      "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 02 Nov 2026 17:33:19 GMT",
+      "summary": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on."
     },
     {
-      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+      "title": "Legal challenge to Australia's social media ban to start in High Court",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 01 Nov 2026 00:41:24 GMT",
-      "summary": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book."
+      "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 02 Nov 2026 19:12:59 GMT",
+      "summary": "A rights group will argue the world-leading policy robs under-16s of their right to free communication."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 77915,
-      "change24h": 0.38781,
-      "marketCap": 1566502726053,
+      "price": 76756,
+      "change24h": -1.36373,
+      "marketCap": 1543208307449,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2262.12,
-      "change24h": 0.29169,
-      "marketCap": 276386452535,
+      "price": 2255.1,
+      "change24h": -0.2505,
+      "marketCap": 275534957971,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Here\u2019s what happened in crypto today",
+      "title": "AI poses greater threat to Bitcoin than quantum computing, Swan founder says",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 01 Nov 2026 14:17:00 +0000",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+      "url": "https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 02 Nov 2026 21:54:41 +0000",
+      "summary": "The Swan Bitcoin founder warned that hackers are using large language models to exploit security flaws with just a few prompts."
     },
     {
-      "title": "DeepSeek developing AI agent requiring less human input: Report \u00a0",
+      "title": "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/deepseek-developing-ai-agent-requiring-less-human-input-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 01 Nov 2026 13:40:33 +0000",
-      "summary": "The proposal comes amid intense competition among AI developers, including US companies Anthropic and OpenAI, the SCMP said."
+      "url": "https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 02 Nov 2026 21:16:24 +0000",
+      "summary": "A European entity may have lost $106 million from exchange accounts, while a wallet associated with a Solana arbitrage bot may have lost another $786,000."
     },
     {
-      "title": "Binance says phase one of withdrawals opens after $6.3B hack",
+      "title": "Coinbase hit with 50% price target cut as post-earnings rout deepens",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 01 Nov 2026 09:38:18 +0000",
-      "summary": "The crypto exchange said it has begun phased withdrawals after the record hack the FBI has blamed on North Korea."
+      "url": "https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 02 Nov 2026 20:22:23 +0000",
+      "summary": "Slowing trading activity and fallout from the Binance hack are clouding Coinbase\u2019s revenue prospects, prompting Morgan Stanley to lower its rating on the stock."
     },
     {
-      "title": "FBI blames North Korea for record $6.3B Binance hack",
+      "title": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/fbi-blames-north-korea-for-record-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 01 Nov 2026 07:44:38 +0000",
-      "summary": "US agency seeks private-sector help to block further money-laundering of stolen digital assets."
+      "url": "https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 02 Nov 2026 19:27:58 +0000",
+      "summary": "Bitcoin fell around 1.7% on Monday as stocks pared early gains fueled by hopes of a diplomatic resolution to the US-Iran war."
     },
     {
-      "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
+      "title": "Mercado Bitcoin wallets show post-hack transfers after $46M theft",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 31 Oct 2026 15:36:01 +0000",
-      "summary": "Less-liquid tokens make up the remaining shortfall as Binance continues buying replacement assets through market and over-the-counter trades."
+      "url": "https://cointelegraph.com/news/mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 02 Nov 2026 19:05:35 +0000",
+      "summary": "Brazil\u2019s exchange Mercado Bitcoin paused deposits and withdrawals after a security breach, saying customer funds and data were safe."
     }
   ],
   "aiNews": [
     {
-      "title": "Apple CEO says the company doesn\u2019t \u2018want to ship AI for AI\u2019s sake\u2019",
+      "title": "Web host Squarespace lays off 19% of its employees",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "publishedAt": "Sat, 31 Oct 2026 21:41:00 +0000",
-      "summary": "Apple's new CEO defended the company's current position in the AI landscape."
+      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+      "publishedAt": "Mon, 02 Nov 2026 19:25:59 +0000",
+      "summary": "The website builder said that the job losses are part of a broader restructuring of its organization. "
     },
     {
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-      "publishedAt": "Sat, 31 Oct 2026 21:36:07 +0000",
-      "summary": "On November 4 at Boston\u2019s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your id"
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "publishedAt": "Mon, 02 Nov 2026 19:19:17 +0000",
+      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet\u2019s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Pe"
     },
     {
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "title": "42AI comes out of stealth with $62.5M and a world model that can \u2018predict human behavior\u2019",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-      "publishedAt": "Sat, 31 Oct 2026 21:17:03 +0000",
-      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
+      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "publishedAt": "Mon, 02 Nov 2026 16:30:00 +0000",
+      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?"
     },
     {
-      "title": "OpenAI reportedly lowers funding target for new round",
+      "title": "Elon Musk throttles Grok Bot limits due to \u2018unsustainably high\u2019 costs",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "publishedAt": "Sat, 31 Oct 2026 16:12:55 +0000",
-      "summary": "OpenAI\u2019s latest funding round doesn't seem to be living up to expectations."
+      "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+      "publishedAt": "Mon, 02 Nov 2026 16:23:21 +0000",
+      "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\""
     },
     {
-      "title": "Nvidia weighs playing the cosigner for Nscale\u2019s AI data center in West Virginia",
+      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "publishedAt": "Sat, 31 Oct 2026 01:20:05 +0000",
-      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan."
+      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "publishedAt": "Mon, 02 Nov 2026 15:00:00 +0000",
+      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal. "
     }
   ],
   "techMovers": [
     {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 504.8,
-      "change": -61.62,
-      "changePercent": -10.88
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "price": 119.22,
+      "change": -11.45,
+      "changePercent": -8.76
     },
     {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "price": 143.54,
-      "change": -17.05,
-      "changePercent": -10.62
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 466.84,
+      "change": -37.96,
+      "changePercent": -7.52
     },
     {
       "ticker": "SNOW",
       "name": "Snowflake Inc",
-      "price": 306.08,
-      "change": -24.19,
-      "changePercent": -7.32
+      "price": 290.68,
+      "change": -15.4,
+      "changePercent": -5.03
     },
     {
-      "ticker": "ORCL",
-      "name": "Oracle Corp",
-      "price": 130.67,
-      "change": -8.89,
-      "changePercent": -6.37
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "price": 137.83,
+      "change": -5.71,
+      "changePercent": -3.98
     },
     {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc",
-      "price": 326.08,
-      "change": -18.92,
-      "changePercent": -5.48
+      "ticker": "MSFT",
+      "name": "Microsoft Corp",
+      "price": 507.12,
+      "change": -14.79,
+      "changePercent": -2.83
     }
   ],
-  "fearGreedIndex": 34,
+  "fearGreedIndex": 37,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 413.59,
-    "change": 3.05,
-    "changePercent": 0.74
+    "price": 425.51,
+    "change": 11.92,
+    "changePercent": 2.88
   },
   "sectors": [
     {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": 1.91
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 1.41
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": 0.67
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": 0.45
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 0.4
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 0.26
-    },
-    {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": -0.71
+      "changePercent": 2.41
     },
     {
       "ticker": "XLF",
       "name": "Financials",
-      "changePercent": -0.76
+      "changePercent": 1.86
     },
     {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": -1.29
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": 1.76
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": 1.58
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": -1.6
+      "changePercent": 1.38
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": 1.09
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": 0.55
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": 0.36
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -0.15
     },
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": -4.89
+      "changePercent": -2.95
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": -3.96
     }
   ],
   "economicCalendar": [
