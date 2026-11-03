@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-11-02T22:05:36.835556+00:00",
-  "marketStatus": "After Hours",
+  "lastUpdated": "2026-11-03T19:56:47.214856+00:00",
+  "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "title": "Seven flights across Europe targeted by suspected bomb threats",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 02 Nov 2026 21:10:04 GMT",
-      "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack."
+      "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 03 Nov 2026 17:56:03 GMT",
+      "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats."
     },
     {
-      "title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
+      "title": "Tenerife striker De Miguel dies after on-field collision ",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 02 Nov 2026 19:58:34 GMT",
-      "summary": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground!\""
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 03 Nov 2026 09:09:18 GMT",
+      "summary": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match."
     },
     {
-      "title": "Shop freezers in seven European countries hit by cyber-attack",
+      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 02 Nov 2026 17:38:11 GMT",
-      "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C."
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 03 Nov 2026 16:19:29 GMT",
+      "summary": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says."
     },
     {
-      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+      "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 02 Nov 2026 17:33:19 GMT",
-      "summary": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on."
+      "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 03 Nov 2026 16:57:41 GMT",
+      "summary": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble."
     },
     {
-      "title": "Legal challenge to Australia's social media ban to start in High Court",
+      "title": "Libya's top religious authority rules against wearing Nike clothes",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 02 Nov 2026 19:12:59 GMT",
-      "summary": "A rights group will argue the world-leading policy robs under-16s of their right to free communication."
+      "url": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 03 Nov 2026 14:56:46 GMT",
+      "summary": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 76756,
-      "change24h": -1.36373,
-      "marketCap": 1543208307449,
+      "price": 77472,
+      "change24h": 0.85247,
+      "marketCap": 1557598885856,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2255.1,
-      "change24h": -0.2505,
-      "marketCap": 275534957971,
+      "price": 2284.89,
+      "change24h": 1.78395,
+      "marketCap": 279181663284,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "AI poses greater threat to Bitcoin than quantum computing, Swan founder says",
+      "title": "US midterms: Prediction markets favor Democrats in key crypto races",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 02 Nov 2026 21:54:41 +0000",
-      "summary": "The Swan Bitcoin founder warned that hackers are using large language models to exploit security flaws with just a few prompts."
+      "url": "https://cointelegraph.com/news/us-midterm-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 03 Nov 2026 19:38:19 +0000",
+      "summary": "Kalshi and Polymarket price a 75% chance of a Democratic sweep, days after markets misjudged Brazil\u2019s runoff."
     },
     {
-      "title": "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
+      "title": "Wall Street killed Bitcoin\u2019s wild rallies: 10x\u2019s Markus Thielen ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 02 Nov 2026 21:16:24 +0000",
-      "summary": "A European entity may have lost $106 million from exchange accounts, while a wallet associated with a Solana arbitrage bot may have lost another $786,000."
+      "url": "https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 03 Nov 2026 16:47:01 +0000",
+      "summary": "Markus Thielen sees Bitcoin reaching $90,000 by year-end, questions institutional ETF demand and says Ethereum must do more for holders."
     },
     {
-      "title": "Coinbase hit with 50% price target cut as post-earnings rout deepens",
+      "title": "Binance traces $6.3B hack to fake job interviews, compromised AI tool",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 02 Nov 2026 20:22:23 +0000",
-      "summary": "Slowing trading activity and fallout from the Binance hack are clouding Coinbase\u2019s revenue prospects, prompting Morgan Stanley to lower its rating on the stock."
+      "url": "https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 03 Nov 2026 16:44:06 +0000",
+      "summary": "Hackers exploited compromised employee computers and stolen credentials to breach Binance\u2019s wallet infrastructure, according to the exchange\u2019s investigation."
     },
     {
-      "title": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
+      "title": "Bitcoin price defends $76K lows as analysts see stocks pricing in \u2018political gridlock\u2019",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 02 Nov 2026 19:27:58 +0000",
-      "summary": "Bitcoin fell around 1.7% on Monday as stocks pared early gains fueled by hopes of a diplomatic resolution to the US-Iran war."
+      "url": "https://cointelegraph.com/markets/bitcoin-price-defends-76k-lows-as-analysis-sees-stocks-pricing-in-political-gridlock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 03 Nov 2026 15:44:42 +0000",
+      "summary": "Bitcoin made modest gains at the start of Wall Street trading on Tuesday as markets awaited cues from the US midterm elections."
     },
     {
-      "title": "Mercado Bitcoin wallets show post-hack transfers after $46M theft",
+      "title": "What\u2019s at stake for crypto as the US votes in the 2026 midterms?",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 02 Nov 2026 19:05:35 +0000",
-      "summary": "Brazil\u2019s exchange Mercado Bitcoin paused deposits and withdrawals after a security breach, saying customer funds and data were safe."
+      "url": "https://cointelegraph.com/news/us-midterms-2026-stake-crypto-election-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 03 Nov 2026 13:53:07 +0000",
+      "summary": "Crypto groups spent about $176 million ahead of the US midterms, with control of Congress and the future of crypto legislation at stake."
     }
   ],
   "aiNews": [
     {
-      "title": "Web host Squarespace lays off 19% of its employees",
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-      "publishedAt": "Mon, 02 Nov 2026 19:25:59 +0000",
-      "summary": "The website builder said that the job losses are part of a broader restructuring of its organization. "
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "publishedAt": "Tue, 03 Nov 2026 19:34:43 +0000",
+      "summary": "The five-year-old startup raised a $1.3  billion round led by Bessemer."
     },
     {
-      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "title": "Netflix\u2019s new AI Discover tab helps you find something to watch based on your mood",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-      "publishedAt": "Mon, 02 Nov 2026 19:19:17 +0000",
-      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet\u2019s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Pe"
+      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+      "publishedAt": "Tue, 03 Nov 2026 18:42:16 +0000",
+      "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for. "
     },
     {
-      "title": "42AI comes out of stealth with $62.5M and a world model that can \u2018predict human behavior\u2019",
+      "title": "Anthropic is still grappling with the economics of compute",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-      "publishedAt": "Mon, 02 Nov 2026 16:30:00 +0000",
-      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?"
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+      "publishedAt": "Tue, 03 Nov 2026 17:07:01 +0000",
+      "summary": "At a moment when Anthropic's compute margins should be getting better, they\u2019re getting worse."
     },
     {
-      "title": "Elon Musk throttles Grok Bot limits due to \u2018unsustainably high\u2019 costs",
+      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-      "publishedAt": "Mon, 02 Nov 2026 16:23:21 +0000",
-      "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\""
+      "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+      "publishedAt": "Tue, 03 Nov 2026 16:30:34 +0000",
+      "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine."
     },
     {
-      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "title": "Apple restricts dating apps and AI companions to users 18 and up",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-      "publishedAt": "Mon, 02 Nov 2026 15:00:00 +0000",
-      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal. "
+      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+      "publishedAt": "Tue, 03 Nov 2026 15:38:27 +0000",
+      "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content. "
     }
   ],
   "techMovers": [
     {
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "price": 145.15,
+      "change": 7.32,
+      "changePercent": 5.31
+    },
+    {
       "ticker": "ORCL",
       "name": "Oracle Corp",
-      "price": 119.22,
-      "change": -11.45,
-      "changePercent": -8.76
+      "price": 124.29,
+      "change": 5.07,
+      "changePercent": 4.25
     },
     {
       "ticker": "AMD",
       "name": "AMD Inc",
-      "price": 466.84,
-      "change": -37.96,
-      "changePercent": -7.52
-    },
-    {
-      "ticker": "SNOW",
-      "name": "Snowflake Inc",
-      "price": 290.68,
-      "change": -15.4,
-      "changePercent": -5.03
-    },
-    {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "price": 137.83,
-      "change": -5.71,
-      "changePercent": -3.98
+      "price": 485.66,
+      "change": 18.82,
+      "changePercent": 4.03
     },
     {
       "ticker": "MSFT",
       "name": "Microsoft Corp",
-      "price": 507.12,
-      "change": -14.79,
-      "changePercent": -2.83
+      "price": 521.44,
+      "change": 14.32,
+      "changePercent": 2.82
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "price": 331.13,
+      "change": 8.9,
+      "changePercent": 2.76
     }
   ],
-  "fearGreedIndex": 37,
+  "fearGreedIndex": 26,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 425.51,
-    "change": 11.92,
-    "changePercent": 2.88
+    "price": 421.96,
+    "change": -3.55,
+    "changePercent": -0.83
   },
   "sectors": [
     {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 2.41
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 1.86
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 1.76
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 1.58
-    },
-    {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": 1.38
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 1.09
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": 0.55
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 0.36
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": -0.15
+      "changePercent": 1.03
     },
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": -2.95
+      "changePercent": 0.94
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": 0.86
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -0.08
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -0.1
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": -0.22
     },
     {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": -3.96
+      "changePercent": -0.52
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": -0.54
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -0.83
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -1.73
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -1.96
     }
   ],
   "economicCalendar": [
