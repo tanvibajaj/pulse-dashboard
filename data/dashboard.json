@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-11-03T19:56:47.214856+00:00",
-  "marketStatus": "Open",
+  "lastUpdated": "2026-11-04T20:14:26.543510+00:00",
+  "marketStatus": "After Hours",
   "globalNews": [
     {
-      "title": "Seven flights across Europe targeted by suspected bomb threats",
+      "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 03 Nov 2026 17:56:03 GMT",
-      "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats."
+      "url": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 04 Nov 2026 13:33:30 GMT",
+      "summary": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them."
     },
     {
-      "title": "Tenerife striker De Miguel dies after on-field collision ",
+      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 03 Nov 2026 09:09:18 GMT",
-      "summary": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match."
+      "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 04 Nov 2026 18:01:31 GMT",
+      "summary": "With Canada-US trade talks back on, Tuesday\u2019s midterm Democratic wave puts pressure on the White House to come to a deal."
     },
     {
-      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 03 Nov 2026 16:19:29 GMT",
-      "summary": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says."
+      "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 04 Nov 2026 17:45:58 GMT",
+      "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says. "
     },
     {
-      "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+      "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 03 Nov 2026 16:57:41 GMT",
-      "summary": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble."
+      "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 04 Nov 2026 16:26:15 GMT",
+      "summary": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers."
     },
     {
-      "title": "Libya's top religious authority rules against wearing Nike clothes",
+      "title": "'Most difficult days of my life' for keeper Owono",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 03 Nov 2026 14:56:46 GMT",
-      "summary": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic."
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 04 Nov 2026 16:40:38 GMT",
+      "summary": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death."
     }
   ],
   "cryptoAssets": [
@@ -43,205 +43,198 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 77472,
-      "change24h": 0.85247,
-      "marketCap": 1557598885856,
+      "price": 80094,
+      "change24h": 3.20603,
+      "marketCap": 1610325516875,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2284.89,
-      "change24h": 1.78395,
-      "marketCap": 279181663284,
+      "price": 2408.41,
+      "change24h": 5.44471,
+      "marketCap": 294281041925,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "US midterms: Prediction markets favor Democrats in key crypto races",
+      "title": "Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/us-midterm-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 03 Nov 2026 19:38:19 +0000",
-      "summary": "Kalshi and Polymarket price a 75% chance of a Democratic sweep, days after markets misjudged Brazil\u2019s runoff."
+      "url": "https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 04 Nov 2026 19:15:39 +0000",
+      "summary": "The official Trump and World Liberty Financial tokens were the two biggest losers among the top 100 cryptocurrencies on Wednesday even as Bitcoin and Ether rallied."
     },
     {
-      "title": "Wall Street killed Bitcoin\u2019s wild rallies: 10x\u2019s Markus Thielen ",
+      "title": "Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 03 Nov 2026 16:47:01 +0000",
-      "summary": "Markus Thielen sees Bitcoin reaching $90,000 by year-end, questions institutional ETF demand and says Ethereum must do more for holders."
+      "url": "https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 04 Nov 2026 18:47:56 +0000",
+      "summary": "Bitcoin miner Riot sold BTC to finance its AI expansion, while Hut 8 reported falling revenue and rising costs before its major data center leases generate income."
     },
     {
-      "title": "Binance traces $6.3B hack to fake job interviews, compromised AI tool",
+      "title": "Circle\u2019s ARC token sale lifts earnings as lower yields weigh on USDC income",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 03 Nov 2026 16:44:06 +0000",
-      "summary": "Hackers exploited compromised employee computers and stolen credentials to breach Binance\u2019s wallet infrastructure, according to the exchange\u2019s investigation."
+      "url": "https://cointelegraph.com/news/circles-arc-token-sale-earnings-yields-usdc-income?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 04 Nov 2026 18:02:42 +0000",
+      "summary": "Circle is looking to payments fees and future staking rewards to diversify revenue as its core stablecoin business faces pressure from lower yields and growing competition."
     },
     {
-      "title": "Bitcoin price defends $76K lows as analysts see stocks pricing in \u2018political gridlock\u2019",
+      "title": "Bitcoin hits $80.5K as US stocks rally on midterm election results",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-defends-76k-lows-as-analysis-sees-stocks-pricing-in-political-gridlock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 03 Nov 2026 15:44:42 +0000",
-      "summary": "Bitcoin made modest gains at the start of Wall Street trading on Tuesday as markets awaited cues from the US midterm elections."
+      "url": "https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 04 Nov 2026 15:29:23 +0000",
+      "summary": "Bitcoin climbed toward $80,500 as risk assets rallied on Democrats\u2019 midterm election gains and oil prices fell."
     },
     {
-      "title": "What\u2019s at stake for crypto as the US votes in the 2026 midterms?",
+      "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/us-midterms-2026-stake-crypto-election-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 03 Nov 2026 13:53:07 +0000",
-      "summary": "Crypto groups spent about $176 million ahead of the US midterms, with control of Congress and the future of crypto legislation at stake."
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 04 Nov 2026 13:47:43 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     }
   ],
   "aiNews": [
     {
-      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "title": "Open source AI is booming. Hugging Face explains who profits.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-      "publishedAt": "Tue, 03 Nov 2026 19:34:43 +0000",
-      "summary": "The five-year-old startup raised a $1.3  billion round led by Bessemer."
+      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+      "publishedAt": "Wed, 04 Nov 2026 19:30:04 +0000",
+      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable model"
     },
     {
-      "title": "Netflix\u2019s new AI Discover tab helps you find something to watch based on your mood",
+      "title": "DuckDuckGo pitches itself to schools amid backlash over Google\u2019s AI policy",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-      "publishedAt": "Tue, 03 Nov 2026 18:42:16 +0000",
-      "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for. "
+      "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+      "publishedAt": "Wed, 04 Nov 2026 19:29:52 +0000",
+      "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features."
     },
     {
-      "title": "Anthropic is still grappling with the economics of compute",
+      "title": "Building on open source AI? Hugging Face\u2019s policy chief on the costs, risks, and trade-offs",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-      "publishedAt": "Tue, 03 Nov 2026 17:07:01 +0000",
-      "summary": "At a moment when Anthropic's compute margins should be getting better, they\u2019re getting worse."
+      "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+      "publishedAt": "Wed, 04 Nov 2026 18:44:57 +0000",
+      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable model"
     },
     {
-      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "title": "I tried Apple\u2019s Siri Recaps. They\u2019re surprisingly useful \u2014 and a little unsettling",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-      "publishedAt": "Tue, 03 Nov 2026 16:30:34 +0000",
-      "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine."
+      "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+      "publishedAt": "Wed, 04 Nov 2026 16:51:35 +0000",
+      "summary": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement."
     },
     {
-      "title": "Apple restricts dating apps and AI companions to users 18 and up",
+      "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-      "publishedAt": "Tue, 03 Nov 2026 15:38:27 +0000",
-      "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content. "
+      "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+      "publishedAt": "Wed, 04 Nov 2026 16:17:22 +0000",
+      "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly."
     }
   ],
   "techMovers": [
     {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "price": 145.15,
-      "change": 7.32,
-      "changePercent": 5.31
-    },
-    {
-      "ticker": "ORCL",
-      "name": "Oracle Corp",
-      "price": 124.29,
-      "change": 5.07,
-      "changePercent": 4.25
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 485.66,
-      "change": 18.82,
-      "changePercent": 4.03
-    },
-    {
       "ticker": "MSFT",
       "name": "Microsoft Corp",
-      "price": 521.44,
-      "change": 14.32,
-      "changePercent": 2.82
+      "price": 558.14,
+      "change": 37.15,
+      "changePercent": 7.13
     },
     {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc",
-      "price": 331.13,
-      "change": 8.9,
-      "changePercent": 2.76
+      "ticker": "AMZN",
+      "name": "Amazon.com",
+      "price": 267.61,
+      "change": 16.92,
+      "changePercent": 6.75
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc",
+      "price": 352.21,
+      "change": 20.31,
+      "changePercent": 6.12
+    },
+    {
+      "ticker": "UBER",
+      "name": "Uber Technologies",
+      "price": 70.14,
+      "change": 3.54,
+      "changePercent": 5.32
+    },
+    {
+      "ticker": "NFLX",
+      "name": "Netflix Inc",
+      "price": 66.53,
+      "change": 3.11,
+      "changePercent": 4.9
     }
   ],
-  "fearGreedIndex": 26,
+  "fearGreedIndex": 34,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 421.96,
-    "change": -3.55,
-    "changePercent": -0.83
+    "price": 434.13,
+    "change": 13.71,
+    "changePercent": 3.26
   },
   "sectors": [
     {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": 1.03
-    },
-    {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": 0.94
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 0.86
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": -0.08
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": -0.1
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": -0.22
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": -0.52
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": -0.54
-    },
-    {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": -0.83
+      "changePercent": 4.3
     },
     {
       "ticker": "XLP",
       "name": "Consumer Staples",
-      "changePercent": -1.73
+      "changePercent": 3.58
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": 3.49
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 3.17
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": 3.02
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": 3.01
     },
     {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": -1.96
+      "changePercent": 2.1
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": 0.54
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": 0.07
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": -1.11
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": -5.35
     }
   ],
   "economicCalendar": [
-    {
-      "date": "2026-11-04",
-      "time": "14:00 ET",
-      "event": "FOMC Interest Rate Decision",
-      "importance": "high",
-      "description": "Federal Reserve interest rate announcement and policy statement"
-    },
     {
       "date": "2026-11-12",
       "time": "08:30 ET",
