@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-11-04T20:14:26.543510+00:00",
+  "lastUpdated": "2026-11-05T20:27:19.429435+00:00",
   "marketStatus": "After Hours",
   "globalNews": [
     {
-      "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+      "title": "Hoax bomb threats target European airlines and airports for second time in a week",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 04 Nov 2026 13:33:30 GMT",
-      "summary": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them."
+      "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 05 Nov 2026 17:39:48 GMT",
+      "summary": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\"."
     },
     {
-      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+      "title": "Who could be behind hoax bomb threats to European air travel?",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 04 Nov 2026 18:01:31 GMT",
-      "summary": "With Canada-US trade talks back on, Tuesday\u2019s midterm Democratic wave puts pressure on the White House to come to a deal."
+      "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 05 Nov 2026 19:58:40 GMT",
+      "summary": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups. "
     },
     {
-      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "title": "California governor commutes death sentences for all 548 people on death row",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 04 Nov 2026 17:45:58 GMT",
-      "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says. "
+      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 05 Nov 2026 20:12:03 GMT",
+      "summary": "California has historically had the largest population of death row inmates in the US."
     },
     {
-      "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+      "title": "French protests see numbers surge as unions join strikes over high cost of living",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 04 Nov 2026 16:26:15 GMT",
-      "summary": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers."
+      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 05 Nov 2026 17:59:53 GMT",
+      "summary": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher."
     },
     {
-      "title": "'Most difficult days of my life' for keeper Owono",
+      "title": "Paraguay President Santiago Pe\u00f1a resigns after bank collapse",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 04 Nov 2026 16:40:38 GMT",
-      "summary": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death."
+      "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 05 Nov 2026 17:40:40 GMT",
+      "summary": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 80094,
-      "change24h": 3.20603,
-      "marketCap": 1610325516875,
+      "price": 76028,
+      "change24h": -5.1469,
+      "marketCap": 1528562701272,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2408.41,
-      "change24h": 5.44471,
-      "marketCap": 294281041925,
+      "price": 2247.07,
+      "change24h": -6.94565,
+      "marketCap": 274574042184,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms ",
+      "title": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 04 Nov 2026 19:15:39 +0000",
-      "summary": "The official Trump and World Liberty Financial tokens were the two biggest losers among the top 100 cryptocurrencies on Wednesday even as Bitcoin and Ether rallied."
+      "url": "https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 05 Nov 2026 19:02:19 +0000",
+      "summary": "SignalPlus said attackers compromised an engineer\u2019s computer in a breach that resulted in losses of less than $82,000, which the crypto trading platform pledged to reimburse in full."
     },
     {
-      "title": "Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss",
+      "title": "Fed, OCC check US banks after Binance hack as experts flag security risks ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 04 Nov 2026 18:47:56 +0000",
-      "summary": "Bitcoin miner Riot sold BTC to finance its AI expansion, while Hut 8 reported falling revenue and rising costs before its major data center leases generate income."
+      "url": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 05 Nov 2026 18:32:45 +0000",
+      "summary": "US regulators reportedly contacted banks following last week\u2019s $6.3 billion Binance security hack, while experts raised concerns about transaction security and crypto risks."
     },
     {
-      "title": "Circle\u2019s ARC token sale lifts earnings as lower yields weigh on USDC income",
+      "title": "Europe\u2019s largest asset manager Amundi tokenizes equity index fund on Ethereum",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/circles-arc-token-sale-earnings-yields-usdc-income?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 04 Nov 2026 18:02:42 +0000",
-      "summary": "Circle is looking to payments fees and future staking rewards to diversify revenue as its core stablecoin business faces pressure from lower yields and growing competition."
+      "url": "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 05 Nov 2026 18:09:38 +0000",
+      "summary": "The new share class offers blockchain-based exposure to an index tracking 600 companies across European markets. "
     },
     {
-      "title": "Bitcoin hits $80.5K as US stocks rally on midterm election results",
+      "title": "Paraguay president resigns after collapse of Ueno digital bank",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 04 Nov 2026 15:29:23 +0000",
-      "summary": "Bitcoin climbed toward $80,500 as risk assets rallied on Democrats\u2019 midterm election gains and oil prices fell."
+      "url": "https://cointelegraph.com/news/paraguay-president-resigns-after-collapse-ueno-digital-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 05 Nov 2026 17:40:25 +0000",
+      "summary": "Santiago Pe\u00f1a stepped down amid mounting scrutiny over his former ties to Ueno Bank\u2019s parent company, as the lender\u2019s collapse left millions of customers unable to access their funds."
     },
     {
-      "title": "Here\u2019s what happened in crypto today",
+      "title": "Bitcoin crashes 6% to 7-week low as US stocks erase election gains ",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 04 Nov 2026 13:47:43 +0000",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+      "url": "https://cointelegraph.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 05 Nov 2026 16:48:41 +0000",
+      "summary": "Bitcoin saw sudden downside at the Wall Street open as stocks witnessed a snap sell-off, reversing post-election gains."
     }
   ],
   "aiNews": [
     {
-      "title": "Open source AI is booming. Hugging Face explains who profits.",
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-      "publishedAt": "Wed, 04 Nov 2026 19:30:04 +0000",
-      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable model"
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "publishedAt": "Thu, 05 Nov 2026 19:48:28 +0000",
+      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life."
     },
     {
-      "title": "DuckDuckGo pitches itself to schools amid backlash over Google\u2019s AI policy",
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-      "publishedAt": "Wed, 04 Nov 2026 19:29:52 +0000",
-      "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features."
+      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "publishedAt": "Thu, 05 Nov 2026 19:12:39 +0000",
+      "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects."
     },
     {
-      "title": "Building on open source AI? Hugging Face\u2019s policy chief on the costs, risks, and trade-offs",
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
-      "publishedAt": "Wed, 04 Nov 2026 18:44:57 +0000",
-      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable model"
+      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "publishedAt": "Thu, 05 Nov 2026 19:06:12 +0000",
+      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure."
     },
     {
-      "title": "I tried Apple\u2019s Siri Recaps. They\u2019re surprisingly useful \u2014 and a little unsettling",
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
-      "publishedAt": "Wed, 04 Nov 2026 16:51:35 +0000",
-      "summary": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement."
+      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "publishedAt": "Thu, 05 Nov 2026 18:02:27 +0000",
+      "summary": "OpenAI president Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business."
     },
     {
-      "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+      "title": "Claude can now analyze your spending with its new Personal Finance tool",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
-      "publishedAt": "Wed, 04 Nov 2026 16:17:22 +0000",
-      "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly."
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "publishedAt": "Thu, 05 Nov 2026 18:00:00 +0000",
+      "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances. "
     }
   ],
   "techMovers": [
     {
-      "ticker": "MSFT",
-      "name": "Microsoft Corp",
-      "price": 558.14,
-      "change": 37.15,
-      "changePercent": 7.13
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 415.27,
+      "change": -73.51,
+      "changePercent": -15.04
     },
     {
-      "ticker": "AMZN",
-      "name": "Amazon.com",
-      "price": 267.61,
-      "change": 16.92,
-      "changePercent": 6.75
+      "ticker": "TSLA",
+      "name": "Tesla Inc",
+      "price": 343.44,
+      "change": -41.75,
+      "changePercent": -10.84
     },
     {
-      "ticker": "AAPL",
-      "name": "Apple Inc",
-      "price": 352.21,
-      "change": 20.31,
-      "changePercent": 6.12
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "price": 295.89,
+      "change": -29.59,
+      "changePercent": -9.09
     },
     {
-      "ticker": "UBER",
-      "name": "Uber Technologies",
-      "price": 70.14,
-      "change": 3.54,
-      "changePercent": 5.32
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "price": 137.91,
+      "change": -13.59,
+      "changePercent": -8.97
     },
     {
-      "ticker": "NFLX",
-      "name": "Netflix Inc",
-      "price": 66.53,
-      "change": 3.11,
-      "changePercent": 4.9
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp",
+      "price": 183.49,
+      "change": -16.64,
+      "changePercent": -8.31
     }
   ],
-  "fearGreedIndex": 34,
+  "fearGreedIndex": 50,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 434.13,
-    "change": 13.71,
-    "changePercent": 3.26
+    "price": 424.59,
+    "change": -11.98,
+    "changePercent": -2.74
   },
   "sectors": [
     {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 4.3
-    },
-    {
       "ticker": "XLP",
       "name": "Consumer Staples",
-      "changePercent": 3.58
+      "changePercent": NaN
     },
     {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": 3.49
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 3.17
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 3.02
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": 3.01
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 2.1
+      "changePercent": -0.57
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": 0.54
-    },
-    {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": 0.07
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
       "changePercent": -1.11
     },
     {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": -5.35
+      "changePercent": -1.59
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -1.92
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -2.43
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": -2.74
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -3.36
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": -3.94
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -4.01
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": -7.12
     }
   ],
   "economicCalendar": [
