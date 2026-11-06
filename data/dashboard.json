@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-11-05T20:27:19.429435+00:00",
-  "marketStatus": "After Hours",
+  "lastUpdated": "2026-11-06T19:49:38.336569+00:00",
+  "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "Hoax bomb threats target European airlines and airports for second time in a week",
+      "title": "AI stocks climb after trillions wiped from market values",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 05 Nov 2026 17:39:48 GMT",
-      "summary": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\"."
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 06 Nov 2026 19:37:10 GMT",
+      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development."
     },
     {
-      "title": "Who could be behind hoax bomb threats to European air travel?",
+      "title": "Four midterms takeaways for 2028 White House race",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 05 Nov 2026 19:58:40 GMT",
-      "summary": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups. "
+      "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 06 Nov 2026 16:12:22 GMT",
+      "summary": "The buzz about the presidential election is already under way - here's what we learned this week."
     },
     {
-      "title": "California governor commutes death sentences for all 548 people on death row",
+      "title": "Two dead after bus crashes in France, officials say",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 05 Nov 2026 20:12:03 GMT",
-      "summary": "California has historically had the largest population of death row inmates in the US."
+      "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 06 Nov 2026 15:33:52 GMT",
+      "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured."
     },
     {
-      "title": "French protests see numbers surge as unions join strikes over high cost of living",
+      "title": "New wave of bomb threats hit European airlines",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 05 Nov 2026 17:59:53 GMT",
-      "summary": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher."
+      "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 06 Nov 2026 15:25:35 GMT",
+      "summary": "No link has been established between the threats against the airlines and those against the media outlets."
     },
     {
-      "title": "Paraguay President Santiago Pe\u00f1a resigns after bank collapse",
+      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 05 Nov 2026 17:40:40 GMT",
-      "summary": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him."
+      "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 06 Nov 2026 14:46:03 GMT",
+      "summary": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\"."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 76028,
-      "change24h": -5.1469,
-      "marketCap": 1528562701272,
+      "price": 75699,
+      "change24h": -0.97995,
+      "marketCap": 1521843844115,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2247.07,
-      "change24h": -6.94565,
-      "marketCap": 274574042184,
+      "price": 2229.7,
+      "change24h": -1.58887,
+      "marketCap": 272435144451,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack",
+      "title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 05 Nov 2026 19:02:19 +0000",
-      "summary": "SignalPlus said attackers compromised an engineer\u2019s computer in a breach that resulted in losses of less than $82,000, which the crypto trading platform pledged to reimburse in full."
+      "url": "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 06 Nov 2026 18:47:45 +0000",
+      "summary": "The rules allow retail investors to trade BTC, ETH and USDT through regulated intermediaries, with Moscow Exchange planning to launch crypto trading in December."
     },
     {
-      "title": "Fed, OCC check US banks after Binance hack as experts flag security risks ",
+      "title": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 05 Nov 2026 18:32:45 +0000",
-      "summary": "US regulators reportedly contacted banks following last week\u2019s $6.3 billion Binance security hack, while experts raised concerns about transaction security and crypto risks."
+      "url": "https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 06 Nov 2026 18:22:42 +0000",
+      "summary": "Bitcoin treasury company Strive reported $509 million in third-quarter net income and purchased 15,124 BTC in October, bringing its total holdings to 43,124 BTC."
     },
     {
-      "title": "Europe\u2019s largest asset manager Amundi tokenizes equity index fund on Ethereum",
+      "title": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 05 Nov 2026 18:09:38 +0000",
-      "summary": "The new share class offers blockchain-based exposure to an index tracking 600 companies across European markets. "
+      "url": "https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 06 Nov 2026 17:49:33 +0000",
+      "summary": "BTC price action stayed weak after US nonfarm payrolls data significantly beat forecasts, increasing bets of a December interest-rate hike."
     },
     {
-      "title": "Paraguay president resigns after collapse of Ueno digital bank",
+      "title": "What Democrats\u2019 US midterm sweep means for the CLARITY Act",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/paraguay-president-resigns-after-collapse-ueno-digital-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 05 Nov 2026 17:40:25 +0000",
-      "summary": "Santiago Pe\u00f1a stepped down amid mounting scrutiny over his former ties to Ueno Bank\u2019s parent company, as the lender\u2019s collapse left millions of customers unable to access their funds."
+      "url": "https://cointelegraph.com/magazine/clarity-act-faces-new-test-under-democratic-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 06 Nov 2026 14:30:00 +0000",
+      "summary": "The CLARITY Act faces a new test as Democrats control Congress, raising questions over consumer protections, ethics and what the crypto industry may have to concede."
     },
     {
-      "title": "Bitcoin crashes 6% to 7-week low as US stocks erase election gains ",
+      "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 05 Nov 2026 16:48:41 +0000",
-      "summary": "Bitcoin saw sudden downside at the Wall Street open as stocks witnessed a snap sell-off, reversing post-election gains."
+      "url": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 06 Nov 2026 13:57:14 +0000",
+      "summary": "Nigeria has banned algorithmic stablecoins and introduced reserve requirements for issuers as it expands central bank oversight of crypto payment services."
     }
   ],
   "aiNews": [
     {
-      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-      "publishedAt": "Thu, 05 Nov 2026 19:48:28 +0000",
-      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life."
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "publishedAt": "Fri, 06 Nov 2026 18:44:38 +0000",
+      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool."
     },
     {
-      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-      "publishedAt": "Thu, 05 Nov 2026 19:12:39 +0000",
-      "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects."
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "publishedAt": "Fri, 06 Nov 2026 18:44:20 +0000",
+      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.  "
     },
     {
-      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "title": "How a Blue Wave midterm might reshape the AI industry",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-      "publishedAt": "Thu, 05 Nov 2026 19:06:12 +0000",
-      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure."
+      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "publishedAt": "Fri, 06 Nov 2026 18:00:00 +0000",
+      "summary": "Democrats\u2019 historic victories in this week\u2019s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday \u2014 in all but one, the "
     },
     {
-      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "title": "After the midterms, is the AI industry in for a rough two years?",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-      "publishedAt": "Thu, 05 Nov 2026 18:02:27 +0000",
-      "summary": "OpenAI president Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business."
+      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "publishedAt": "Fri, 06 Nov 2026 17:23:52 +0000",
+      "summary": "Democrats\u2019 historic victories in this week\u2019s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday \u2014 in all but one, the "
     },
     {
-      "title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-      "publishedAt": "Thu, 05 Nov 2026 18:00:00 +0000",
-      "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances. "
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "publishedAt": "Fri, 06 Nov 2026 15:54:47 +0000",
+      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth."
     }
   ],
   "techMovers": [
     {
       "ticker": "AMD",
       "name": "AMD Inc",
-      "price": 415.27,
-      "change": -73.51,
-      "changePercent": -15.04
+      "price": 445.77,
+      "change": 41.37,
+      "changePercent": 10.23
     },
     {
       "ticker": "TSLA",
       "name": "Tesla Inc",
-      "price": 343.44,
-      "change": -41.75,
-      "changePercent": -10.84
+      "price": 360.27,
+      "change": 16.58,
+      "changePercent": 4.82
     },
     {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc",
-      "price": 295.89,
-      "change": -29.59,
-      "changePercent": -9.09
-    },
-    {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "price": 137.91,
-      "change": -13.59,
-      "changePercent": -8.97
+      "ticker": "CRM",
+      "name": "Salesforce Inc",
+      "price": 213.94,
+      "change": -8.47,
+      "changePercent": -3.81
     },
     {
       "ticker": "NVDA",
       "name": "NVIDIA Corp",
-      "price": 183.49,
-      "change": -16.64,
-      "changePercent": -8.31
+      "price": 187.9,
+      "change": 6.3,
+      "changePercent": 3.47
+    },
+    {
+      "ticker": "NFLX",
+      "name": "Netflix Inc",
+      "price": 63.69,
+      "change": -1.87,
+      "changePercent": -2.86
     }
   ],
-  "fearGreedIndex": 50,
+  "fearGreedIndex": 28,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 424.59,
-    "change": -11.98,
-    "changePercent": -2.74
+    "price": 423.25,
+    "change": 0.66,
+    "changePercent": 0.16
   },
   "sectors": [
     {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": NaN
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": 1.72
     },
     {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": -0.57
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": -1.11
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": -1.59
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": -1.92
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": -2.43
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": -2.74
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": -3.36
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": -3.94
+      "changePercent": 1.04
     },
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": -4.01
+      "changePercent": 0.48
     },
     {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": -7.12
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": 0.43
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": 0.28
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": 0.1
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": -0.03
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": -0.17
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -0.33
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -0.55
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -1.01
     }
   ],
   "economicCalendar": [
