@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-11-06T19:49:38.336569+00:00",
-  "marketStatus": "Open",
+  "lastUpdated": "2026-11-07T17:55:48.026078+00:00",
+  "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "AI stocks climb after trillions wiped from market values",
+      "title": "No clear winner after tight New Zealand general election",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 19:37:10 GMT",
-      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development."
+      "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 07 Nov 2026 15:56:28 GMT",
+      "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament."
     },
     {
-      "title": "Four midterms takeaways for 2028 White House race",
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 16:12:22 GMT",
-      "summary": "The buzz about the presidential election is already under way - here's what we learned this week."
+      "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 07 Nov 2026 15:19:35 GMT",
+      "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\"."
     },
     {
-      "title": "Two dead after bus crashes in France, officials say",
+      "title": "With Stephen Miller pick, Trump readies for a battle",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 15:33:52 GMT",
-      "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured."
+      "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 06 Nov 2026 23:24:15 GMT",
+      "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress. "
     },
     {
-      "title": "New wave of bomb threats hit European airlines",
+      "title": "Paraguay's president impeached and under house arrest after bank collapse",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 15:25:35 GMT",
-      "summary": "No link has been established between the threats against the airlines and those against the media outlets."
+      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 07 Nov 2026 07:20:00 GMT",
+      "summary": "Santiago Pe\u00f1a was ousted due to a banking crisis which left millions of people unable to access their money."
     },
     {
-      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+      "title": "Pope in 'pretty good health' as he starts Latin America tour",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 14:46:03 GMT",
-      "summary": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\"."
+      "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 07 Nov 2026 06:59:48 GMT",
+      "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer."
     }
   ],
   "cryptoAssets": [
@@ -43,59 +43,73 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 75699,
-      "change24h": -0.97995,
-      "marketCap": 1521843844115,
+      "price": 75787,
+      "change24h": 0.34316,
+      "marketCap": 1524001617934,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2229.7,
-      "change24h": -1.58887,
-      "marketCap": 272435144451,
+      "price": 2233.79,
+      "change24h": 0.61105,
+      "marketCap": 272964295601,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
+      "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 06 Nov 2026 18:47:45 +0000",
-      "summary": "The rules allow retail investors to trade BTC, ETH and USDT through regulated intermediaries, with Moscow Exchange planning to launch crypto trading in December."
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 07 Nov 2026 14:22:00 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders",
+      "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 06 Nov 2026 18:22:42 +0000",
-      "summary": "Bitcoin treasury company Strive reported $509 million in third-quarter net income and purchased 15,124 BTC in October, bringing its total holdings to 43,124 BTC."
+      "url": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 07 Nov 2026 14:16:00 +0000",
+      "summary": "Yaroch paid off his debts and intended to use the proceeds to finance a new life in Portugal, where he planned to buy a vineyard."
     },
     {
-      "title": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
+      "title": "Bitcoin holders have received eCash \u2014 What can you do with it?",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 06 Nov 2026 17:49:33 +0000",
-      "summary": "BTC price action stayed weak after US nonfarm payrolls data significantly beat forecasts, increasing bets of a December interest-rate hike."
+      "url": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 07 Nov 2026 13:30:00 +0000",
+      "summary": "Bitcoin\u2019s eCash fork gives eligible holders an equivalent balance of ECX, but questions remain over where they can trade the tokens and what they can do with them."
     },
     {
-      "title": "What Democrats\u2019 US midterm sweep means for the CLARITY Act",
+      "title": "US sanctions Canadian money-exchange firms over Iran ties",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/magazine/clarity-act-faces-new-test-under-democratic-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 06 Nov 2026 14:30:00 +0000",
-      "summary": "The CLARITY Act faces a new test as Democrats control Congress, raising questions over consumer protections, ethics and what the crypto industry may have to concede."
+      "url": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 07 Nov 2026 11:10:47 +0000",
+      "summary": "US  also offers as much as $20 million and possible relocation for information about Iran\u2019s nuclear program."
     },
     {
-      "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
+      "title": "Suspicious prediction market activity seen before election poll release: NYT",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 06 Nov 2026 13:57:14 +0000",
-      "summary": "Nigeria has banned algorithmic stablecoins and introduced reserve requirements for issuers as it expands central bank oversight of crypto payment services."
+      "url": "https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 07 Nov 2026 09:10:35 +0000",
+      "summary": "Bets were placed shortly before two recent New York Times/Siena political polls were released to the public, according to a report."
     }
   ],
   "aiNews": [
+    {
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "publishedAt": "Sat, 07 Nov 2026 01:40:28 +0000",
+      "summary": "The deal highlights the challenges of developing massive AI data centers."
+    },
+    {
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "publishedAt": "Fri, 06 Nov 2026 22:53:46 +0000",
+      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks. "
+    },
     {
       "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
       "source": "TechCrunch",
@@ -116,122 +130,108 @@
       "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
       "publishedAt": "Fri, 06 Nov 2026 18:00:00 +0000",
       "summary": "Democrats\u2019 historic victories in this week\u2019s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday \u2014 in all but one, the "
-    },
-    {
-      "title": "After the midterms, is the AI industry in for a rough two years?",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-      "publishedAt": "Fri, 06 Nov 2026 17:23:52 +0000",
-      "summary": "Democrats\u2019 historic victories in this week\u2019s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday \u2014 in all but one, the "
-    },
-    {
-      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-      "publishedAt": "Fri, 06 Nov 2026 15:54:47 +0000",
-      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth."
     }
   ],
   "techMovers": [
     {
       "ticker": "AMD",
       "name": "AMD Inc",
-      "price": 445.77,
-      "change": 41.37,
-      "changePercent": 10.23
+      "price": 449.04,
+      "change": 44.64,
+      "changePercent": 11.04
     },
     {
       "ticker": "TSLA",
       "name": "Tesla Inc",
-      "price": 360.27,
-      "change": 16.58,
-      "changePercent": 4.82
+      "price": 358.22,
+      "change": 14.53,
+      "changePercent": 4.23
     },
     {
       "ticker": "CRM",
       "name": "Salesforce Inc",
-      "price": 213.94,
-      "change": -8.47,
-      "changePercent": -3.81
-    },
-    {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corp",
-      "price": 187.9,
-      "change": 6.3,
-      "changePercent": 3.47
+      "price": 213.65,
+      "change": -8.76,
+      "changePercent": -3.94
     },
     {
       "ticker": "NFLX",
       "name": "Netflix Inc",
-      "price": 63.69,
-      "change": -1.87,
-      "changePercent": -2.86
+      "price": 63.41,
+      "change": -2.15,
+      "changePercent": -3.28
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp",
+      "price": 186.64,
+      "change": 5.04,
+      "changePercent": 2.78
     }
   ],
-  "fearGreedIndex": 28,
+  "fearGreedIndex": 25,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 423.25,
-    "change": 0.66,
-    "changePercent": 0.16
+    "price": 422.65,
+    "change": 0.06,
+    "changePercent": 0.01
   },
   "sectors": [
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": 1.72
+      "changePercent": 1.45
     },
     {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": 1.04
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 0.48
+      "changePercent": 0.43
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": 0.43
+      "changePercent": 0.12
     },
     {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": 0.28
+      "changePercent": -0.02
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -0.05
     },
     {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": 0.1
+      "changePercent": -0.06
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": -0.03
+      "changePercent": -0.39
     },
     {
       "ticker": "XLF",
       "name": "Financials",
-      "changePercent": -0.17
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": -0.33
+      "changePercent": -0.59
     },
     {
       "ticker": "XLRE",
       "name": "Real Estate",
-      "changePercent": -0.55
+      "changePercent": -0.68
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -0.73
     },
     {
       "ticker": "XLP",
       "name": "Consumer Staples",
-      "changePercent": -1.01
+      "changePercent": -1.28
     }
   ],
   "economicCalendar": [
