@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-11-08T18:11:37.788166+00:00",
-  "marketStatus": "Closed",
+  "lastUpdated": "2026-11-09T22:50:59.006385+00:00",
+  "marketStatus": "After Hours",
   "globalNews": [
     {
-      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "title": "France accuses Iran of supermarket fridge hacking",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 08 Nov 2026 17:59:03 GMT",
-      "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more."
+      "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 09 Nov 2026 20:20:08 GMT",
+      "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up."
     },
     {
-      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 08 Nov 2026 17:35:13 GMT",
-      "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza."
+      "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 09 Nov 2026 19:58:01 GMT",
+      "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia. "
     },
     {
-      "title": "Homes and temples glow across India to mark Diwali",
+      "title": "Trump questions midterm elections integrity after previously accepting results",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 08 Nov 2026 14:42:09 GMT",
-      "summary": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets."
+      "url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 09 Nov 2026 17:47:29 GMT",
+      "summary": "Trump made the claims, without evidence, on Truth Social on Monday. "
     },
     {
-      "title": "Iran executes three men for 'armed unrest' after January protests",
+      "title": "Turkey steel factory blast kills at least 17 people",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 08 Nov 2026 13:37:50 GMT",
-      "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year."
+      "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 09 Nov 2026 20:42:04 GMT",
+      "summary": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga."
     },
     {
-      "title": "Houthis say at least 33 killed in Saudi air strike",
+      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 08 Nov 2026 04:03:12 GMT",
-      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented."
+      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 09 Nov 2026 21:37:02 GMT",
+      "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process."
     }
   ],
   "cryptoAssets": [
@@ -43,18 +43,18 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 75736,
-      "change24h": -0.08199,
-      "marketCap": 1523015581505,
+      "price": 75185,
+      "change24h": 1.2042,
+      "marketCap": 1511968929334,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2229.1,
-      "change24h": -0.28187,
-      "marketCap": 272403780060,
+      "price": 2132.93,
+      "change24h": 0.54447,
+      "marketCap": 260652239872,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
@@ -63,175 +63,175 @@
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 08 Nov 2026 13:33:00 +0000",
+      "publishedAt": "Mon, 09 Nov 2026 22:06:26 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Binance France emails announce closure of its users\u2019 accounts on Dec. 31",
+      "title": "Should you leave Australia to avoid paying 47% tax on crypto gains?",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/binance-france-emails-announce-closure-of-its-users-accounts-on-dec-31?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 08 Nov 2026 12:57:51 +0000",
-      "summary": "Any assets left on the exchange will be charged monthly fees starting on Nov. 29, company says."
+      "url": "https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 09 Nov 2026 21:00:00 +0000",
+      "summary": "Some Australian crypto investors are moving overseas to avoid the huge CGT increase from July 2027. But there are also less drastic ways you can pay less tax."
     },
     {
-      "title": "Amsterdam protesters break into Microsoft data center construction site: Report",
+      "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 08 Nov 2026 09:48:48 +0000",
-      "summary": "Dutch police said they detained 150-200 people for trespassing during the protest."
+      "url": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 09 Nov 2026 20:26:34 +0000",
+      "summary": "The blockchain firm traced stolen funds through six new tokens on NEAR, where hackers used liquidity pools to obscure transfers between wallets."
     },
     {
-      "title": "Binance\u2019s  finance chief Kaiser Ng to leave company, report says",
+      "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 08 Nov 2026 08:12:56 +0000",
-      "summary": "Ng will be replaced by Justin Yek, who was formerly vice-president of finance at Airwallex."
+      "url": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 09 Nov 2026 19:52:34 +0000",
+      "summary": "The proposed venue would offer 24/7 trading of tokenized shares from Galaxy Digital, Exodus and Forward Industries, with a launch planned for early 2027."
     },
     {
-      "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
+      "title": "Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 07 Nov 2026 14:16:00 +0000",
-      "summary": "Yaroch paid off his debts and intended to use the proceeds to finance a new life in Portugal, where he planned to buy a vineyard."
+      "url": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 09 Nov 2026 18:25:29 +0000",
+      "summary": "Customers can view their pre-hack balances as access returns in phases. The exchange has yet to say when withdrawals will resume."
     }
   ],
   "aiNews": [
     {
-      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "title": "A short seller flagged Nvidia CEO\u2019s ties to a suspected Chinese spy six months before the scandal",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-      "publishedAt": "Sat, 07 Nov 2026 22:07:22 +0000",
-      "summary": "On Equity, we unpacked what the midterms mean for the tech industry."
+      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "publishedAt": "Mon, 09 Nov 2026 22:46:09 +0000",
+      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive."
     },
     {
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "title": "The race is on to sue Nvidia",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "publishedAt": "Sat, 07 Nov 2026 21:17:08 +0000",
-      "summary": "A memo circulated earlier this year reportedly claimed that China\u2019s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO."
+      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "publishedAt": "Mon, 09 Nov 2026 22:23:42 +0000",
+      "summary": "Nvidia\u2019s stock slid more than 4% after its board opened an investigation into Jensen Huang\u2019s relationship with a suspected Chinese spy, and one securities law expert says the company\u2019s earlier insiste"
     },
     {
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-      "publishedAt": "Sat, 07 Nov 2026 01:40:28 +0000",
-      "summary": "The deal highlights the challenges of developing massive AI data centers."
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "publishedAt": "Mon, 09 Nov 2026 20:09:06 +0000",
+      "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier."
     },
     {
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "publishedAt": "Fri, 06 Nov 2026 22:53:46 +0000",
-      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks. "
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "publishedAt": "Mon, 09 Nov 2026 19:24:51 +0000",
+      "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users."
     },
     {
-      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "title": "Jensen Huang\u2019s affair with alleged Chinese spy puts Nvidia\u2019s China ambitions under scrutiny",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-      "publishedAt": "Fri, 06 Nov 2026 18:44:38 +0000",
-      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool."
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+      "publishedAt": "Mon, 09 Nov 2026 18:09:52 +0000",
+      "summary": "Jensen Huang\u2019s alleged affair with a suspected Chinese spy threatens to complicate Nvidia\u2019s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China\u2019s lucrative AI market."
     }
   ],
   "techMovers": [
     {
       "ticker": "AMD",
       "name": "AMD Inc",
-      "price": 449.04,
-      "change": 44.64,
-      "changePercent": 11.04
+      "price": 508.58,
+      "change": 59.54,
+      "changePercent": 13.26
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "price": 319.48,
+      "change": 25.79,
+      "changePercent": 8.78
     },
     {
       "ticker": "TSLA",
       "name": "Tesla Inc",
-      "price": 358.22,
-      "change": 14.53,
-      "changePercent": 4.23
+      "price": 378.05,
+      "change": 19.83,
+      "changePercent": 5.54
     },
     {
-      "ticker": "CRM",
-      "name": "Salesforce Inc",
-      "price": 213.65,
-      "change": -8.76,
-      "changePercent": -3.94
+      "ticker": "SNOW",
+      "name": "Snowflake Inc",
+      "price": 291.14,
+      "change": 15.26,
+      "changePercent": 5.53
     },
     {
-      "ticker": "NFLX",
-      "name": "Netflix Inc",
-      "price": 63.41,
-      "change": -2.15,
-      "changePercent": -3.28
-    },
-    {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corp",
-      "price": 186.64,
-      "change": 5.04,
-      "changePercent": 2.78
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "price": 641.37,
+      "change": 31.22,
+      "changePercent": 5.12
     }
   ],
-  "fearGreedIndex": 28,
+  "fearGreedIndex": 29,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 422.65,
-    "change": 0.06,
-    "changePercent": 0.01
+    "price": 422.16,
+    "change": -0.49,
+    "changePercent": -0.12
   },
   "sectors": [
     {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": 1.45
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 0.43
-    },
-    {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": 0.12
+      "changePercent": 3.82
     },
     {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": -0.02
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": 3.73
     },
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": -0.05
+      "changePercent": 2.92
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": 2.45
     },
     {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": -0.06
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": -0.39
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": -0.59
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": -0.68
+      "changePercent": 1.91
     },
     {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": -0.73
+      "changePercent": 1.91
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": 1.53
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 1.45
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": 1.45
     },
     {
       "ticker": "XLP",
       "name": "Consumer Staples",
-      "changePercent": -1.28
+      "changePercent": 0.9
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": 0.52
     }
   ],
   "economicCalendar": [
