@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-11-10T20:11:07.281091+00:00",
-  "marketStatus": "After Hours",
+  "lastUpdated": "2026-11-11T19:59:03.404398+00:00",
+  "marketStatus": "Open",
   "globalNews": [
     {
-      "title": "First day of Ukraine peace talks constructive, Zelensky says",
+      "title": "Spain sees widespread disruption in first general strike for 14 years",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 10 Nov 2026 17:29:36 GMT",
-      "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February."
+      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 11 Nov 2026 17:44:32 GMT",
+      "summary": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections."
     },
     {
-      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 10 Nov 2026 18:33:51 GMT",
-      "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund."
+      "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 11 Nov 2026 18:04:58 GMT",
+      "summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday."
     },
     {
-      "title": "Israel's new parliament sworn in as leaders compete to form government",
+      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 10 Nov 2026 17:03:16 GMT",
-      "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister."
+      "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 11 Nov 2026 16:45:11 GMT",
+      "summary": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns. "
     },
     {
-      "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 10 Nov 2026 15:21:18 GMT",
-      "summary": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza."
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 11 Nov 2026 18:38:45 GMT",
+      "summary": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public. It is not known if the incidents are linked."
     },
     {
-      "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+      "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 10 Nov 2026 18:04:18 GMT",
-      "summary": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones."
+      "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 11 Nov 2026 16:38:07 GMT",
+      "summary": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 73327,
-      "change24h": -2.03047,
-      "marketCap": 1474673118845,
+      "price": 74326,
+      "change24h": 1.30032,
+      "marketCap": 1494742497787,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2040.54,
-      "change24h": -4.05107,
-      "marketCap": 249376688008,
+      "price": 2074.97,
+      "change24h": 1.61176,
+      "marketCap": 253576046041,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Mercado Bitcoin to resume cash withdrawals after $49M hack",
+      "title": "OKXICE moves ahead with tokenized stocks as blue chips push back",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 10 Nov 2026 18:12:07 +0000",
-      "summary": "Starting next week, customers can deposit and withdraw money through Brazil\u2019s instant payment system. Crypto transfers remain suspended."
+      "url": "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 11 Nov 2026 18:30:43 +0000",
+      "summary": "The Nov. 23 debut puts a new SEC exemption to the test as Nasdaq pursues its own tokenized stock plans after warning that trading across platforms could fragment liquidity."
     },
     {
-      "title": "Hot US inflation raises odds of half-point Fed hike in December",
+      "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 10 Nov 2026 17:31:09 +0000",
-      "summary": "US inflation came in above forecasts in October, increasing expectations of a bigger rate hike in December and raising concerns for crypto investors."
+      "url": "https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 11 Nov 2026 16:26:00 +0000",
+      "summary": "Bitcoin traded in a narrow range as investors bought the dip in tech stocks and US bond yields climbed on high CPI inflation data."
     },
     {
-      "title": "Polymarket US trading volume jumps 266% despite regulatory battles",
+      "title": "Deutsche Bank launches crypto custody for companies and institutions",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/polymarket-us-trading-volume-jumps-regulatory-battles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 10 Nov 2026 17:07:48 +0000",
-      "summary": "Trading volume on Polymarket\u2019s US exchange surged from June to October, fueled by sports betting, even as the platform faces mounting regulatory scrutiny. "
+      "url": "https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 11 Nov 2026 14:02:18 +0000",
+      "summary": "Clients can store and transfer Bitcoin, Ether and select stablecoins through the bank, which manages their wallets and private keys."
     },
     {
-      "title": "Bitcoin nears 11-week low after \u2018discouraging\u2019 US CPI inflation beat",
+      "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 10 Nov 2026 16:25:03 +0000",
-      "summary": "Bitcoin and US stocks initially fall after October inflation tops forecasts, with traders expecting a quarter-point Fed rate hike in December."
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 11 Nov 2026 13:38:15 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Poland\u2019s lower house backs sanctions bill covering crypto freezes",
+      "title": "Paraguay bank collapse shows stablecoins can offer a lifeline... of sorts",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/poland-bill-freeze-sanctions-crypto-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 10 Nov 2026 13:40:39 +0000",
-      "summary": "The bill is now before the Senate and would broaden the grounds for adding people and companies to Poland\u2019s national sanctions list."
+      "url": "https://cointelegraph.com/magazine/paraguay-bank-collapse-shows-stablecoins-can-offer-a-lifeline-of-sorts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 11 Nov 2026 13:30:00 +0000",
+      "summary": "Ueno\u2019s collapse exposed the fragility of digital banking in Paraguay, as customers scrambled for access to their money and stablecoins offered a lifeline."
     }
   ],
   "aiNews": [
     {
-      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-      "publishedAt": "Tue, 10 Nov 2026 19:57:52 +0000",
-      "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the"
+      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "publishedAt": "Wed, 11 Nov 2026 19:54:00 +0000",
+      "summary": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company\u2019s third"
     },
     {
-      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "title": "With $720M round, Britain\u2019s Fractile gets a leg up in the race for AI chips",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-      "publishedAt": "Tue, 10 Nov 2026 19:23:34 +0000",
-      "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing \u201cuncertainty in the IPO market.\u201d"
+      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+      "publishedAt": "Wed, 11 Nov 2026 19:34:55 +0000",
+      "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips. "
     },
     {
-      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-      "publishedAt": "Tue, 10 Nov 2026 19:03:52 +0000",
-      "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades. "
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "publishedAt": "Wed, 11 Nov 2026 19:22:22 +0000",
+      "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy."
     },
     {
-      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "title": "Is Jensen Huang\u2019s bad behavior more commonplace than it seems?",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-      "publishedAt": "Tue, 10 Nov 2026 18:49:52 +0000",
-      "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that. "
+      "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+      "publishedAt": "Wed, 11 Nov 2026 16:16:07 +0000",
+      "summary": "\u201cThere are a lot of senior people in the industry that know this is happening, and are effectively condoning it,\u201d an investment intel consultant said."
     },
     {
-      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "title": "OpenAI\u2019s quarterly revenue reportedly crosses $10B for the first time",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-      "publishedAt": "Tue, 10 Nov 2026 17:30:00 +0000",
-      "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such "
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "publishedAt": "Wed, 11 Nov 2026 16:14:44 +0000",
+      "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter. "
     }
   ],
   "techMovers": [
     {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corp",
-      "price": 167.85,
-      "change": -10.82,
-      "changePercent": -6.06
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "price": 129.38,
+      "change": 11.4,
+      "changePercent": 9.67
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 558.7,
+      "change": 43.49,
+      "changePercent": 8.44
     },
     {
       "ticker": "AVGO",
       "name": "Broadcom Inc",
-      "price": 331.31,
-      "change": 11.83,
-      "changePercent": 3.7
+      "price": 349.3,
+      "change": 17.32,
+      "changePercent": 5.22
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp",
+      "price": 175.66,
+      "change": 6.77,
+      "changePercent": 4.01
     },
     {
       "ticker": "COIN",
       "name": "Coinbase",
-      "price": 131.24,
-      "change": -4.86,
-      "changePercent": -3.57
-    },
-    {
-      "ticker": "ORCL",
-      "name": "Oracle Corp",
-      "price": 117.28,
-      "change": -2.51,
-      "changePercent": -2.1
-    },
-    {
-      "ticker": "UBER",
-      "name": "Uber Technologies",
-      "price": 69.68,
-      "change": -1.49,
-      "changePercent": -2.09
+      "price": 137.38,
+      "change": 5.25,
+      "changePercent": 3.97
     }
   ],
-  "fearGreedIndex": 32,
+  "fearGreedIndex": 29,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 423.38,
-    "change": 1.22,
-    "changePercent": 0.29
+    "price": 424.54,
+    "change": 1.54,
+    "changePercent": 0.36
   },
   "sectors": [
     {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": 3.66
+    },
+    {
       "ticker": "XLE",
       "name": "Energy",
-      "changePercent": 0.61
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 0.53
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 0.25
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 0.24
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": 0.07
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": -0.07
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": -0.19
+      "changePercent": 1.39
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": -0.28
+      "changePercent": 1.31
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 0.51
     },
     {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": -0.35
+      "changePercent": 0.28
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": -0.38
+      "changePercent": 0.13
     },
     {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": -1.49
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": 0.12
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -0.04
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -0.24
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": NaN
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": 0.9
     }
   ],
   "economicCalendar": [
