@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-11-12T20:37:39.631708+00:00",
+  "lastUpdated": "2026-11-13T20:16:53.358982+00:00",
   "marketStatus": "After Hours",
   "globalNews": [
     {
-      "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 12 Nov 2026 18:28:59 GMT",
-      "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks."
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 13 Nov 2026 18:36:57 GMT",
+      "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage."
     },
     {
-      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 12 Nov 2026 20:09:16 GMT",
-      "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea."
+      "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 13 Nov 2026 11:43:27 GMT",
+      "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot."
     },
     {
-      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 12 Nov 2026 19:23:02 GMT",
-      "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations."
+      "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 13 Nov 2026 16:40:31 GMT",
+      "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says."
     },
     {
-      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 12 Nov 2026 12:56:55 GMT",
-      "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate."
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 13 Nov 2026 19:53:57 GMT",
+      "summary": "Scott Bessent suggests Howard Lutnick\u2019s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China."
     },
     {
-      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 12 Nov 2026 18:47:35 GMT",
-      "summary": "Specialist Thomas Iglesias was given a Joint Service Commendation Medal for the execution of his duties after Wednesday's incident. "
+      "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 13 Nov 2026 15:42:52 GMT",
+      "summary": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage."
     }
   ],
   "cryptoAssets": [
@@ -43,205 +43,198 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 71389,
-      "change24h": -4.14629,
-      "marketCap": 1435721773189,
+      "price": 68983,
+      "change24h": -3.51941,
+      "marketCap": 1387361410436,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 2014.12,
-      "change24h": -3.1077,
-      "marketCap": 246150609765,
+      "price": 1951.28,
+      "change24h": -3.23202,
+      "marketCap": 238489161281,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
+      "title": "Metaplanet swings to $170M loss as Bitcoin sale hits earnings",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 12 Nov 2026 20:07:41 +0000",
-      "summary": "The US securities clearinghouse plans to bring tokenized stocks to Solana in 2027, but analysts say restrictions could limit adoption."
+      "url": "https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 13 Nov 2026 18:28:29 +0000",
+      "summary": "Bitcoin sales, valuation losses and rising borrowing costs weighed on the Japanese company\u2019s earnings despite higher revenue and operating profit."
     },
     {
-      "title": "Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down",
+      "title": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 12 Nov 2026 15:46:06 +0000",
-      "summary": "Bitcoin fell to its lowest leve since Aug. 20 as tech stocks slid following the resignation of Nvidia CEO Jensen Huang."
+      "url": "https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 13 Nov 2026 16:39:11 +0000",
+      "summary": "Bitcoin was down about 4% on the day amid a tepid market reaction to October\u2019s US PPI reading, which came in below expected levels."
     },
     {
-      "title": "Jensen Huang resigns as Nvidia CEO, exits board; shares plunge",
+      "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/jensen-huang-resigns-nvidia-ceo-board-member?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 12 Nov 2026 13:59:02 +0000",
-      "summary": "Colette Kress will remain Nvidia\u2019s chief financial officer while serving as interim CEO as the board searches for a permanent successor."
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 13 Nov 2026 13:49:44 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Bit Digital stock falls 5% in pre-market after Q3 revenue miss",
+      "title": "Arthur Hayes \u2018flattered\u2019 as Coinbase backs US stock perps",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bit-digital-stock-falls-q3-revenue-miss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 12 Nov 2026 13:52:39 +0000",
-      "summary": "Bit Digital\u2019s $27 million third-quarter revenue came in 16% below analyst consensus estimates, marking an over $5 million shortfall."
+      "url": "https://cointelegraph.com/news/arthur-hayes-coinbase-us-stock-perps-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 13 Nov 2026 13:41:26 +0000",
+      "summary": "Arthur Hayes said he was \u201cflattered\u201d by Coinbase\u2019s defense of US stock perpetual futures, a decade after BitMEX launched perpetual swaps."
     },
     {
-      "title": "Thailand proposes $148K daily cap on stablecoin deposits and withdrawals",
+      "title": "Nakamoto shares fall 6% premarket after Q3 revenue turns negative",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/thailand-tighter-stablecoin-rules-crypto-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 12 Nov 2026 13:44:03 +0000",
-      "summary": "Thailand\u2019s SEC would set separate daily caps for stablecoin deposits and withdrawals and require customers to use wallets they own."
+      "url": "https://cointelegraph.com/markets/nakamoto-shares-fall-after-negative-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 13 Nov 2026 13:04:19 +0000",
+      "summary": "A $5.8 million Bitcoin options loss pushed Nakamoto\u2019s quarterly operating revenue below zero, while the company extended repayment of $60 million in Kraken debt to 2027."
     }
   ],
   "aiNews": [
     {
-      "title": "Jensen Huang was having a third affair, Reuters reports",
+      "title": "AI agent startup LangChain hits $3B valuation",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
-      "publishedAt": "Thu, 12 Nov 2026 20:26:47 +0000",
-      "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia."
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "publishedAt": "Fri, 13 Nov 2026 19:37:57 +0000",
+      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith. "
     },
     {
-      "title": "Google\u2019s latest Search upgrade promises better answers to your most complicated questions",
+      "title": "Export-banned Nvidia chips are behind China\u2019s most powerful AI models \u2014 uh oh, Jensen!",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-      "publishedAt": "Thu, 12 Nov 2026 19:27:45 +0000",
-      "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses."
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "publishedAt": "Fri, 13 Nov 2026 18:40:30 +0000",
+      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips."
     },
     {
-      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "title": "ChatGPT\u2019s new Wallet lets AI agents shop and check out for you",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-      "publishedAt": "Thu, 12 Nov 2026 19:11:00 +0000",
-      "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results."
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "publishedAt": "Fri, 13 Nov 2026 16:00:12 +0000",
+      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers."
     },
     {
-      "title": "Jensen Huang\u2019s exit puts Nvidia\u2019s support for open source in question",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-      "publishedAt": "Thu, 12 Nov 2026 18:39:23 +0000",
-      "summary": "Jensen Huang\u2019s resignation raises questions about Nvidia\u2019s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company n"
+      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "publishedAt": "Fri, 13 Nov 2026 15:58:00 +0000",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
     },
     {
-      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang\u2019s exit",
+      "title": "ElevenLabs\u2019 new app combines meeting note-taking and dictation for teams",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-      "publishedAt": "Thu, 12 Nov 2026 17:36:40 +0000",
-      "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition."
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "publishedAt": "Fri, 13 Nov 2026 14:44:48 +0000",
+      "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises."
     }
   ],
   "techMovers": [
     {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corp",
-      "price": 163.54,
-      "change": -10.18,
-      "changePercent": -5.86
-    },
-    {
       "ticker": "AMD",
       "name": "AMD Inc",
-      "price": 580.58,
-      "change": 27.68,
-      "changePercent": 5.01
+      "price": 532.94,
+      "change": -52.36,
+      "changePercent": -8.95
     },
     {
       "ticker": "AVGO",
       "name": "Broadcom Inc",
-      "price": 362.11,
-      "change": 16.89,
-      "changePercent": 4.89
+      "price": 345.74,
+      "change": -18.61,
+      "changePercent": -5.11
     },
     {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "price": 130.55,
-      "change": -5.72,
-      "changePercent": -4.2
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "price": 641.22,
+      "change": 17.61,
+      "changePercent": 2.82
     },
     {
-      "ticker": "NFLX",
-      "name": "Netflix Inc",
-      "price": 62.98,
-      "change": -1.56,
-      "changePercent": -2.42
+      "ticker": "SNOW",
+      "name": "Snowflake Inc",
+      "price": 291.98,
+      "change": -6.72,
+      "changePercent": -2.25
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp",
+      "price": 162.83,
+      "change": -3.36,
+      "changePercent": -2.02
     }
   ],
-  "fearGreedIndex": 28,
+  "fearGreedIndex": 20,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 421.54,
-    "change": -4.01,
-    "changePercent": -0.94
+    "price": 425.73,
+    "change": 5.42,
+    "changePercent": 1.29
   },
   "sectors": [
     {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": 1.77
-    },
-    {
       "ticker": "XLP",
       "name": "Consumer Staples",
-      "changePercent": -0.21
+      "changePercent": 1.11
     },
     {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": -0.38
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": -0.38
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": -0.55
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": 0.64
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": -0.72
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
       "changePercent": NaN
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": 0.24
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": -0.21
-    },
-    {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": -0.8
     },
     {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": -0.83
+      "changePercent": 0.97
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": 0.65
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 0.51
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": 0.22
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -0.2
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -0.3
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -0.46
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": -2.07
     }
   ],
   "economicCalendar": [
-    {
-      "date": "2026-11-12",
-      "time": "08:30 ET",
-      "event": "CPI Inflation Data",
-      "importance": "high",
-      "description": "Consumer Price Index - key inflation measure"
-    },
     {
       "date": "2026-11-15",
       "time": "08:30 ET",
