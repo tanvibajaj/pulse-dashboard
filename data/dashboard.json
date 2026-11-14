@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-11-13T20:16:53.358982+00:00",
-  "marketStatus": "After Hours",
+  "lastUpdated": "2026-11-14T18:38:00.899368+00:00",
+  "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 13 Nov 2026 18:36:57 GMT",
-      "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage."
+      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 14 Nov 2026 17:16:36 GMT",
+      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment."
     },
     {
-      "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 13 Nov 2026 11:43:27 GMT",
-      "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot."
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 14 Nov 2026 15:15:57 GMT",
+      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia."
     },
     {
-      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+      "title": "Italy fines Meta \u20ac805m over accessing users' photos",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 13 Nov 2026 16:40:31 GMT",
-      "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says."
+      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 14 Nov 2026 18:28:06 GMT",
+      "summary": "The social media giant is accused of not informing 20 million users it had access to their photos."
     },
     {
-      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+      "title": "Philippines wins first Eurovision Song Contest Asia ",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 13 Nov 2026 19:53:57 GMT",
-      "summary": "Scott Bessent suggests Howard Lutnick\u2019s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China."
+      "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 14 Nov 2026 18:17:58 GMT",
+      "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra."
     },
     {
-      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+      "title": "Second catch attempt for SpaceX Starship rocket",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 13 Nov 2026 15:42:52 GMT",
-      "summary": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage."
+      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 14 Nov 2026 14:18:41 GMT",
+      "summary": "The attempt follows an unsuccessful effort to catch of the rocket\u2019s booster which instead came down in the ocean.\n\n"
     }
   ],
   "cryptoAssets": [
@@ -43,59 +43,80 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 68983,
-      "change24h": -3.51941,
-      "marketCap": 1387361410436,
+      "price": 65852,
+      "change24h": -4.36564,
+      "marketCap": 1324265798334,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1951.28,
-      "change24h": -3.23202,
-      "marketCap": 238489161281,
+      "price": 1838.99,
+      "change24h": -5.23821,
+      "marketCap": 224727079306,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Metaplanet swings to $170M loss as Bitcoin sale hits earnings",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 13 Nov 2026 18:28:29 +0000",
-      "summary": "Bitcoin sales, valuation losses and rising borrowing costs weighed on the Japanese company\u2019s earnings despite higher revenue and operating profit."
-    },
-    {
-      "title": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 13 Nov 2026 16:39:11 +0000",
-      "summary": "Bitcoin was down about 4% on the day amid a tepid market reaction to October\u2019s US PPI reading, which came in below expected levels."
-    },
-    {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 13 Nov 2026 13:49:44 +0000",
+      "publishedAt": "Sat, 14 Nov 2026 11:28:12 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Arthur Hayes \u2018flattered\u2019 as Coinbase backs US stock perps",
+      "title": "Microsoft confirms global outage resolved, rules out cyberattack",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/arthur-hayes-coinbase-us-stock-perps-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 13 Nov 2026 13:41:26 +0000",
-      "summary": "Arthur Hayes said he was \u201cflattered\u201d by Coinbase\u2019s defense of US stock perpetual futures, a decade after BitMEX launched perpetual swaps."
+      "url": "https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 14 Nov 2026 10:34:06 +0000",
+      "summary": "Microsoft attributed the outage to a network capacity upgrade issue, confirming that the disruption was unrelated to cyberattacks or AI agents."
     },
     {
-      "title": "Nakamoto shares fall 6% premarket after Q3 revenue turns negative",
+      "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/nakamoto-shares-fall-after-negative-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 13 Nov 2026 13:04:19 +0000",
-      "summary": "A $5.8 million Bitcoin options loss pushed Nakamoto\u2019s quarterly operating revenue below zero, while the company extended repayment of $60 million in Kraken debt to 2027."
+      "url": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 14 Nov 2026 08:12:30 +0000",
+      "summary": "MegaETH co-founder Shuyao Kong said the restructuring affected employees who helped build the project\u2019s blockchain, wallet and ecosystem."
+    },
+    {
+      "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock\u2019s losing streak hits 11",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 14 Nov 2026 06:33:13 +0000",
+      "summary": "US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock\u2019s IBIT accounting for $143.5 million and Fidelity\u2019s FBTC shedding $41.9 million."
+    },
+    {
+      "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 13 Nov 2026 22:01:03 +0000",
+      "summary": "OpenAI\u2019s new payment wallet lets AI agents complete purchases using existing card networks, with plans to eventually allow preauthorized transactions."
     }
   ],
   "aiNews": [
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "publishedAt": "Sat, 14 Nov 2026 17:30:00 +0000",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+    },
+    {
+      "title": "Asian governments react to Nvidia CEO Jensen Huang\u2019s exit",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "publishedAt": "Sat, 14 Nov 2026 16:34:15 +0000",
+      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations."
+    },
+    {
+      "title": "Jensen Huang\u2019s departure blasts big hole in AI startup funding, VCs and founders say",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "publishedAt": "Fri, 13 Nov 2026 22:43:00 +0000",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations."
+    },
     {
       "title": "AI agent startup LangChain hits $3B valuation",
       "source": "TechCrunch",
@@ -104,134 +125,113 @@
       "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith. "
     },
     {
-      "title": "Export-banned Nvidia chips are behind China\u2019s most powerful AI models \u2014 uh oh, Jensen!",
+      "title": "Export-banned Nvidia chips are behind China\u2019s most powerful AI models \u2014 uh-oh, Jensen!",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
       "publishedAt": "Fri, 13 Nov 2026 18:40:30 +0000",
       "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips."
-    },
-    {
-      "title": "ChatGPT\u2019s new Wallet lets AI agents shop and check out for you",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "publishedAt": "Fri, 13 Nov 2026 16:00:12 +0000",
-      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers."
-    },
-    {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "publishedAt": "Fri, 13 Nov 2026 15:58:00 +0000",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
-    },
-    {
-      "title": "ElevenLabs\u2019 new app combines meeting note-taking and dictation for teams",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
-      "publishedAt": "Fri, 13 Nov 2026 14:44:48 +0000",
-      "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises."
     }
   ],
   "techMovers": [
     {
       "ticker": "AMD",
       "name": "AMD Inc",
-      "price": 532.94,
-      "change": -52.36,
-      "changePercent": -8.95
+      "price": 534.06,
+      "change": -51.24,
+      "changePercent": -8.75
     },
     {
       "ticker": "AVGO",
       "name": "Broadcom Inc",
-      "price": 345.74,
-      "change": -18.61,
-      "changePercent": -5.11
+      "price": 347.01,
+      "change": -17.35,
+      "changePercent": -4.76
     },
     {
       "ticker": "META",
       "name": "Meta Platforms",
-      "price": 641.22,
-      "change": 17.61,
-      "changePercent": 2.82
+      "price": 641.69,
+      "change": 18.08,
+      "changePercent": 2.9
     },
     {
       "ticker": "SNOW",
       "name": "Snowflake Inc",
-      "price": 291.98,
-      "change": -6.72,
-      "changePercent": -2.25
+      "price": 291.0,
+      "change": -7.7,
+      "changePercent": -2.58
     },
     {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corp",
-      "price": 162.83,
-      "change": -3.36,
-      "changePercent": -2.02
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "price": 127.65,
+      "change": -3.02,
+      "changePercent": -2.31
     }
   ],
-  "fearGreedIndex": 20,
+  "fearGreedIndex": 13,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 425.73,
-    "change": 5.42,
-    "changePercent": 1.29
+    "price": 425.76,
+    "change": 5.45,
+    "changePercent": 1.3
   },
   "sectors": [
     {
       "ticker": "XLP",
       "name": "Consumer Staples",
-      "changePercent": 1.11
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": 0.64
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": NaN
+      "changePercent": 1.42
     },
     {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": 0.97
+      "changePercent": 1.05
     },
     {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": 0.65
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": 0.98
     },
     {
       "ticker": "XLF",
       "name": "Financials",
-      "changePercent": 0.51
+      "changePercent": 0.81
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": 0.54
     },
     {
       "ticker": "XLU",
       "name": "Utilities",
-      "changePercent": 0.22
+      "changePercent": 0.52
     },
     {
       "ticker": "XLRE",
       "name": "Real Estate",
-      "changePercent": -0.2
+      "changePercent": 0.02
     },
     {
       "ticker": "XLB",
       "name": "Materials",
-      "changePercent": -0.3
+      "changePercent": -0.21
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": -0.39
     },
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": -0.46
+      "changePercent": -0.4
     },
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": -2.07
+      "changePercent": -2.01
     }
   ],
   "economicCalendar": [
