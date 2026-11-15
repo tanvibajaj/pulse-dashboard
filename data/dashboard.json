@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-11-14T18:38:00.899368+00:00",
+  "lastUpdated": "2026-11-15T19:13:36.161311+00:00",
   "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 14 Nov 2026 17:16:36 GMT",
-      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment."
+      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 15 Nov 2026 18:08:20 GMT",
+      "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks."
     },
     {
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "title": "Iran targets US military base in Bahrain with drone attack",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 14 Nov 2026 15:15:57 GMT",
-      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia."
+      "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 15 Nov 2026 13:42:58 GMT",
+      "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz."
     },
     {
-      "title": "Italy fines Meta \u20ac805m over accessing users' photos",
+      "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 14 Nov 2026 18:28:06 GMT",
-      "summary": "The social media giant is accused of not informing 20 million users it had access to their photos."
+      "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 15 Nov 2026 11:06:32 GMT",
+      "summary": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month."
     },
     {
-      "title": "Philippines wins first Eurovision Song Contest Asia ",
+      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 14 Nov 2026 18:17:58 GMT",
-      "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra."
+      "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 15 Nov 2026 13:37:45 GMT",
+      "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test."
     },
     {
-      "title": "Second catch attempt for SpaceX Starship rocket",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says ",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 14 Nov 2026 14:18:41 GMT",
-      "summary": "The attempt follows an unsuccessful effort to catch of the rocket\u2019s booster which instead came down in the ocean.\n\n"
+      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 15 Nov 2026 14:56:21 GMT",
+      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions."
     }
   ],
   "cryptoAssets": [
@@ -43,59 +43,73 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 65852,
-      "change24h": -4.36564,
-      "marketCap": 1324265798334,
+      "price": 65040,
+      "change24h": -0.75379,
+      "marketCap": 1308409946375,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1838.99,
-      "change24h": -5.23821,
-      "marketCap": 224727079306,
+      "price": 1825.63,
+      "change24h": -0.29908,
+      "marketCap": 223197565933,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
+      "title": "Enterprise blockchain is going to come back from the dead",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 15 Nov 2026 14:30:00 +0000",
+      "summary": "With scalability, privacy tools and onchain liquidity improving, businesses may finally have the infrastructure to make enterprise blockchain work."
+    },
+    {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 14 Nov 2026 11:28:12 +0000",
+      "publishedAt": "Sun, 15 Nov 2026 11:18:48 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Microsoft confirms global outage resolved, rules out cyberattack",
+      "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 14 Nov 2026 10:34:06 +0000",
-      "summary": "Microsoft attributed the outage to a network capacity upgrade issue, confirming that the disruption was unrelated to cyberattacks or AI agents."
+      "url": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 15 Nov 2026 10:23:17 +0000",
+      "summary": "The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses."
     },
     {
-      "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
+      "title": "Coinone warns of phishing, identity theft after customer data breach",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 14 Nov 2026 08:12:30 +0000",
-      "summary": "MegaETH co-founder Shuyao Kong said the restructuring affected employees who helped build the project\u2019s blockchain, wallet and ecosystem."
+      "url": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 15 Nov 2026 08:07:58 +0000",
+      "summary": "The South Korean crypto exchange said potentially exposed information includes passwords, bank account numbers, national identification numbers and crypto wallet addresses."
     },
     {
-      "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock\u2019s losing streak hits 11",
+      "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 14 Nov 2026 06:33:13 +0000",
-      "summary": "US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock\u2019s IBIT accounting for $143.5 million and Fidelity\u2019s FBTC shedding $41.9 million."
-    },
-    {
-      "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 13 Nov 2026 22:01:03 +0000",
-      "summary": "OpenAI\u2019s new payment wallet lets AI agents complete purchases using existing card networks, with plans to eventually allow preauthorized transactions."
+      "url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 15 Nov 2026 06:27:26 +0000",
+      "summary": "The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all underlying assets remain fully backed."
     }
   ],
   "aiNews": [
+    {
+      "title": "Where was Nvidia\u2019s security team?",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "publishedAt": "Sun, 15 Nov 2026 00:08:07 +0000",
+      "summary": "Nvidia\u2019s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to Chin"
+    },
+    {
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "publishedAt": "Sat, 14 Nov 2026 21:41:22 +0000",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon."
+    },
     {
       "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
       "source": "TechCrunch",
@@ -116,20 +130,6 @@
       "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
       "publishedAt": "Fri, 13 Nov 2026 22:43:00 +0000",
       "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations."
-    },
-    {
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "publishedAt": "Fri, 13 Nov 2026 19:37:57 +0000",
-      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith. "
-    },
-    {
-      "title": "Export-banned Nvidia chips are behind China\u2019s most powerful AI models \u2014 uh-oh, Jensen!",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "publishedAt": "Fri, 13 Nov 2026 18:40:30 +0000",
-      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips."
     }
   ],
   "techMovers": [
@@ -169,7 +169,7 @@
       "changePercent": -2.31
     }
   ],
-  "fearGreedIndex": 13,
+  "fearGreedIndex": 10,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
