@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-11-17T21:29:01.161063+00:00",
+  "lastUpdated": "2026-11-18T21:03:48.670195+00:00",
   "marketStatus": "After Hours",
   "globalNews": [
     {
-      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 17 Nov 2026 21:24:35 GMT",
-      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan."
+      "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 18 Nov 2026 17:00:40 GMT",
+      "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones."
     },
     {
-      "title": "How the attack on Crimean Bridge unfolded",
+      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 17 Nov 2026 15:38:10 GMT",
-      "summary": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv."
+      "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 18 Nov 2026 17:00:04 GMT",
+      "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region."
     },
     {
-      "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 17 Nov 2026 18:24:21 GMT",
-      "summary": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return."
+      "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 18 Nov 2026 16:10:44 GMT",
+      "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit."
     },
     {
-      "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 17 Nov 2026 17:19:57 GMT",
-      "summary": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea."
+      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 18 Nov 2026 20:14:57 GMT",
+      "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation."
     },
     {
-      "title": "Russian military plane crashes killing all 19 on board",
+      "title": "William and Kate meet PM Modi as they wrap up India tour",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 17 Nov 2026 21:06:11 GMT",
-      "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region."
+      "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 18 Nov 2026 20:07:08 GMT",
+      "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize"
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 64353,
-      "change24h": -1.30506,
-      "marketCap": 1294909407028,
+      "price": 62571,
+      "change24h": -2.15597,
+      "marketCap": 1258519950299,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1806.11,
-      "change24h": -1.03198,
-      "marketCap": 220810737482,
+      "price": 1754.8,
+      "change24h": -2.56577,
+      "marketCap": 214490124285,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins",
+      "title": "Bain Capital Crypto leads $110M Variational round at $1.5B valuation",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/eastern-europe-crypto-activity-decline-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 17 Nov 2026 20:05:04 +0000",
-      "summary": "Chainalysis found that Eastern Europe recorded the steepest decline in crypto activity of any region, while cross-border stablecoin transfers to Ukraine continued amid the ongoing war."
+      "url": "https://cointelegraph.com/news/variational-series-b-bain-capital-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 18 Nov 2026 20:32:06 +0000",
+      "summary": "Variational raised $110 million at a $1.5 billion valuation to expand Omni\u2019s derivatives markets and increase trading limits."
     },
     {
-      "title": "Lighter incident exposes risks beyond withdrawal controls",
+      "title": "Binance says it obtained $6.5B worldwide freezing order after hack",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/lighter-incident-exposes-risks-beyond-withdrawal-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 17 Nov 2026 17:51:53 +0000",
-      "summary": "Crypto platforms need enforceable limits on every route an API key can use to transfer value, including trades, internal transfers and shared pools."
+      "url": "https://cointelegraph.com/news/binance-says-won-65b-worldwide-freezing-order-after-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 18 Nov 2026 20:20:37 +0000",
+      "summary": "The court orders allow legal notices to be served via blockchain and provide for a continuously updated list of 26,000 wallet addresses linked to stolen assets, Binance\u2019s lawyers said."
     },
     {
-      "title": "Fed\u2019s Waller cites Binance hack in warning over tokenized finance",
+      "title": "MARA prices $185M debt offering after $1.1B Bitcoin sale",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/feds-waller-cites-binance-hack-in-warning-over-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 17 Nov 2026 17:39:41 +0000",
-      "summary": "Fed Governor Christopher Waller questioned who bears responsibility for fraud, compromised keys and failed transactions as traditional financial assets move onto blockchains."
+      "url": "https://cointelegraph.com/markets/mara-long-ridge-debt-offering-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 18 Nov 2026 18:27:52 +0000",
+      "summary": "The Bitcoin miner is taking on new debt to finance its AI infrastructure expansion, with the Long Ridge acquisition adding nearly $69 million in annual interest costs."
     },
     {
-      "title": "Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings",
+      "title": "$25M Ethereum MEV acquittal tests criminal enforcement limits",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 17 Nov 2026 16:39:43 +0000",
-      "summary": "Bitcoin price downside sees local lows of $63,269 as Nvidia stock targets $150 as traders brace for volatility over Q3 earnings."
+      "url": "https://cointelegraph.com/news/25m-ethereum-mev-acquittal-tests-criminal-enforcement-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 18 Nov 2026 17:05:04 +0000",
+      "summary": "BlackRock\u2019s staked Ether ETF earns a cut of what traders pay for priority on Ethereum, the acquittal left the legal risk to that income unresolved."
     },
     {
-      "title": "Here\u2019s what happened in crypto today",
+      "title": "Polymarket US takes rapid-fire crypto trading format to oil, natural gas",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 17 Nov 2026 14:54:40 +0000",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+      "url": "https://cointelegraph.com/news/polymarket-us-takes-rapid-fire-crypto-trading-format-oil-natural-gas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 18 Nov 2026 17:00:00 +0000",
+      "summary": "Polymarket US said it attracted more than 300,000 traders to its short-duration crypto markets in six weeks and is now expanding the format to energy commodities. "
     }
   ],
   "aiNews": [
     {
-      "title": "Model ML raises $250M to automate investment banking grunt work",
+      "title": "Sam Altman says his life is so weird that he\u2019s unfazed by Andrew Garfield portraying him in upcoming movie",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
-      "publishedAt": "Tue, 17 Nov 2026 19:32:11 +0000",
-      "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affec"
+      "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+      "publishedAt": "Wed, 18 Nov 2026 20:07:01 +0000",
+      "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said."
     },
     {
-      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
-      "publishedAt": "Tue, 17 Nov 2026 19:02:20 +0000",
-      "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf. "
+      "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+      "publishedAt": "Wed, 18 Nov 2026 19:56:39 +0000",
+      "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says."
     },
     {
-      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "title": "Google\u2019s AI feature in Search gets its own incognito mode",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
-      "publishedAt": "Tue, 17 Nov 2026 18:48:23 +0000",
-      "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks."
+      "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+      "publishedAt": "Wed, 18 Nov 2026 18:04:05 +0000",
+      "summary": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations."
     },
     {
-      "title": "As decision model use skyrockets, is customization the next frontier?",
+      "title": "More banks say customers using AI agents are on their own \u2014 even if they get hacked",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
-      "publishedAt": "Tue, 17 Nov 2026 18:10:00 +0000",
-      "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities. "
+      "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "publishedAt": "Wed, 18 Nov 2026 17:32:10 +0000",
+      "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents. "
     },
     {
-      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
-      "publishedAt": "Tue, 17 Nov 2026 18:04:16 +0000",
-      "summary": "The company uses agentic AI to make supply chains faster and more reliable."
+      "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+      "publishedAt": "Wed, 18 Nov 2026 16:59:00 +0000",
+      "summary": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control."
     }
   ],
   "techMovers": [
     {
-      "ticker": "CRM",
-      "name": "Salesforce Inc",
-      "price": 194.52,
-      "change": -20.31,
-      "changePercent": -9.45
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 530.14,
+      "change": 26.73,
+      "changePercent": 5.31
     },
     {
       "ticker": "COIN",
       "name": "Coinbase",
-      "price": 115.02,
-      "change": -4.82,
-      "changePercent": -4.02
+      "price": 110.51,
+      "change": -4.51,
+      "changePercent": -3.92
     },
     {
-      "ticker": "ORCL",
-      "name": "Oracle Corp",
-      "price": 115.0,
-      "change": -4.09,
-      "changePercent": -3.43
-    },
-    {
-      "ticker": "SNOW",
-      "name": "Snowflake Inc",
-      "price": 272.94,
-      "change": -7.6,
-      "changePercent": -2.71
+      "ticker": "AMZN",
+      "name": "Amazon.com",
+      "price": 267.74,
+      "change": 9.85,
+      "changePercent": 3.82
     },
     {
       "ticker": "AVGO",
       "name": "Broadcom Inc",
-      "price": 341.6,
-      "change": 8.2,
-      "changePercent": 2.46
+      "price": 354.05,
+      "change": 12.45,
+      "changePercent": 3.64
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp",
+      "price": 150.96,
+      "change": -4.5,
+      "changePercent": -2.89
     }
   ],
-  "fearGreedIndex": 12,
+  "fearGreedIndex": 11,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 416.77,
-    "change": -9.69,
-    "changePercent": -2.27
+    "price": 415.1,
+    "change": -1.67,
+    "changePercent": -0.4
   },
   "sectors": [
     {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": -0.52
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": -0.55
-    },
-    {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": -0.89
+      "changePercent": 1.79
     },
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": -0.91
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": -1.22
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": -1.23
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": -1.41
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": -1.89
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": NaN
+      "changePercent": 0.32
     },
     {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": -1.46
+      "changePercent": 0.32
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": 0.28
     },
     {
       "ticker": "XLRE",
       "name": "Real Estate",
-      "changePercent": -1.49
+      "changePercent": 0.09
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": -0.05
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -0.3
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -0.79
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": -1.12
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -2.21
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": -3.24
     }
   ],
   "economicCalendar": [
