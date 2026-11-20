@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-11-19T21:09:02.339490+00:00",
+  "lastUpdated": "2026-11-20T20:54:02.868527+00:00",
   "marketStatus": "After Hours",
   "globalNews": [
     {
-      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 19 Nov 2026 20:07:02 GMT",
-      "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands."
+      "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 20 Nov 2026 17:49:48 GMT",
+      "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme."
     },
     {
-      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 19 Nov 2026 17:38:22 GMT",
-      "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion."
+      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 20 Nov 2026 16:54:29 GMT",
+      "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow."
     },
     {
-      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 19 Nov 2026 19:16:21 GMT",
-      "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin."
+      "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 20 Nov 2026 13:01:16 GMT",
+      "summary": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine."
     },
     {
-      "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
+      "title": "G\u00e9rard Depardieu and French author investigated over sexual allegations",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 19 Nov 2026 15:52:26 GMT",
-      "summary": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people."
+      "url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 20 Nov 2026 19:45:20 GMT",
+      "summary": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\"."
     },
     {
-      "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 19 Nov 2026 13:07:35 GMT",
-      "summary": "The bridge - a symbol of Russia's occupation of the Crimean Peninsula - suffered major damaged following a combined attack by Ukraine earlier this week."
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 20 Nov 2026 20:00:53 GMT",
+      "summary": "Other tech companies have also taken a hit as share markets broadly slump."
     }
   ],
   "cryptoAssets": [
@@ -43,198 +43,205 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 61915,
-      "change24h": -0.91342,
-      "marketCap": 1245386601530,
+      "price": 58418,
+      "change24h": -6.16291,
+      "marketCap": 1175287147318,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1754.59,
-      "change24h": 0.06228,
-      "marketCap": 214468939116,
+      "price": 1601.93,
+      "change24h": -9.25992,
+      "marketCap": 195890880717,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "MoonPay seeks US bank charter for stablecoin, custody services",
+      "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 19 Nov 2026 21:01:42 +0000",
-      "summary": "MoonPay\u2019s proposed national trust bank would offer stablecoin issuance and redemption, reserve management and digital asset custody under federal oversight."
+      "url": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 20 Nov 2026 19:37:27 +0000",
+      "summary": "Bitquery traced $13.5 million in suspicious sales of the wrapped Monero token, as its operator blamed a security breach and promised to reimburse affected traders."
     },
     {
-      "title": "Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price",
+      "title": "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/markets/hyperliquid-anthropic-futures-nasdaq-opening-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 19 Nov 2026 20:33:24 +0000",
-      "summary": "Hyperliquid traders priced Anthropic futures within 1% of the stock\u2019s Nasdaq opening price, as trading surged ahead of the AI company\u2019s IPO."
+      "url": "https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 20 Nov 2026 18:37:10 +0000",
+      "summary": "Sky says its USDS stablecoin held its $1 value despite more than $2 billion in withdrawals, as it disputes a report linking the protocol to illicit activity."
     },
     {
-      "title": "Trump\u2019s SEC nominee Johnson backs formal rulemaking for tokenized stock trading",
+      "title": "Bitcoin falls below $60K for first time since July amid broader market selloff",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 19 Nov 2026 20:06:34 +0000",
-      "summary": "Former CFTC Commissioner and Democrat Kristin Johnson and ex-SEC aide Steven Levine appeared before lawmakers Thursday."
+      "url": "https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 20 Nov 2026 16:55:51 +0000",
+      "summary": "Bitcoin fell nearly 6% as US stocks declined, with the Nasdaq dropping more than 2% and Anthropic shares losing almost 10%."
     },
     {
-      "title": "Ethereum\u2019s Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
+      "title": "US Senate advances prediction market restrictions with DEATH BETS Act",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 19 Nov 2026 18:20:49 +0000",
-      "summary": "Ethereum developers are weighing changes to gas pricing proposals that could disrupt existing smart contracts, after contacting at least 50 affected companies."
+      "url": "https://cointelegraph.com/news/us-senate-advances-prediction-market-restrictions-with-death-bets-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 20 Nov 2026 15:55:22 +0000",
+      "summary": "The Senate-approved bill would ban prediction market contracts tied to war, assassination and death amid concerns over potential insider trading on military events."
     },
     {
-      "title": "Why higher rates could slow Bitcoin buying at treasury firms",
+      "title": "Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 19 Nov 2026 18:09:32 +0000",
-      "summary": "A treasury company can have years of dividends covered and still struggle to sell new shares on terms that make another Bitcoin purchase worthwhile."
+      "url": "https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 20 Nov 2026 15:52:06 +0000",
+      "summary": "Bitcoin price strength felt pressure from falling US equities as traders reassessed AI prospects after Anthropic\u2019s IPO."
     }
   ],
   "aiNews": [
     {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "title": "Daniel Ek backs AI researcher\u2019s fusion power startup. Here\u2019s what they\u2019re building.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "publishedAt": "Thu, 19 Nov 2026 20:18:49 +0000",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "publishedAt": "Fri, 20 Nov 2026 19:53:41 +0000",
+      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building."
     },
     {
-      "title": "Anthropic\u2019s IPO could deliver $156 billion to charity",
+      "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis \u2014 and a human did, too",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-      "publishedAt": "Thu, 19 Nov 2026 19:10:45 +0000",
-      "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion."
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "publishedAt": "Fri, 20 Nov 2026 19:32:08 +0000",
+      "summary": "Mathematicians are having their minds blown by the latest AI-driven result \u2014 and there's a competing human solution, too. "
     },
     {
-      "title": "Google gives Gemini the ability to use your Mac for you",
+      "title": "Chips can survive the space environment \u2014 can their financing?",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-      "publishedAt": "Thu, 19 Nov 2026 18:09:11 +0000",
-      "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows."
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "publishedAt": "Fri, 20 Nov 2026 17:40:01 +0000",
+      "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?"
     },
     {
-      "title": "Meta\u2019s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+      "title": "The fallout from Nvidia\u2019s Jensen Huang scandal continues",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-      "publishedAt": "Thu, 19 Nov 2026 17:38:40 +0000",
-      "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balan"
+      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+      "publishedAt": "Fri, 20 Nov 2026 14:55:44 +0000",
+      "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue."
     },
     {
-      "title": "Former Alibaba exec\u2019s Everful raises $48.5M to connect retailers with Chinese factories",
+      "title": "Six AI-powered gadgets that could make your home office smarter",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-      "publishedAt": "Thu, 19 Nov 2026 17:00:00 +0000",
-      "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers."
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "publishedAt": "Fri, 20 Nov 2026 14:00:00 +0000",
+      "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace."
     }
   ],
   "techMovers": [
     {
       "ticker": "AMD",
       "name": "AMD Inc",
-      "price": 489.19,
-      "change": -40.95,
-      "changePercent": -7.72
+      "price": 426.56,
+      "change": -62.63,
+      "changePercent": -12.8
     },
     {
-      "ticker": "UBER",
-      "name": "Uber Technologies",
-      "price": 65.61,
-      "change": -3.15,
-      "changePercent": -4.59
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp",
+      "price": 127.42,
+      "change": -18.56,
+      "changePercent": -12.71
     },
     {
-      "ticker": "SNOW",
-      "name": "Snowflake Inc",
-      "price": 268.55,
-      "change": -11.07,
-      "changePercent": -3.96
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "price": 303.19,
+      "change": -43.46,
+      "changePercent": -12.54
     },
     {
-      "ticker": "AMZN",
-      "name": "Amazon.com",
-      "price": 257.37,
-      "change": -10.37,
-      "changePercent": -3.87
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "price": 101.4,
+      "change": -9.17,
+      "changePercent": -8.29
     },
     {
-      "ticker": "CRM",
-      "name": "Salesforce Inc",
-      "price": 183.42,
-      "change": -6.98,
-      "changePercent": -3.67
+      "ticker": "TSLA",
+      "name": "Tesla Inc",
+      "price": 346.85,
+      "change": -27.56,
+      "changePercent": -7.36
     }
   ],
-  "fearGreedIndex": 10,
+  "fearGreedIndex": 12,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 402.54,
-    "change": -12.68,
-    "changePercent": -3.06
+    "price": 402.39,
+    "change": 0.14,
+    "changePercent": 0.03
   },
   "sectors": [
     {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": -0.64
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": -1.22
-    },
-    {
       "ticker": "XLP",
       "name": "Consumer Staples",
-      "changePercent": -1.41
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": -1.45
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": -1.71
-    },
-    {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": -1.91
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": -2.0
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": -2.03
+      "changePercent": 0.63
     },
     {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": -2.06
+      "changePercent": -0.2
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": -0.44
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": -0.72
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": -0.89
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": -1.72
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": -2.21
     },
     {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": -2.69
+      "changePercent": -2.48
     },
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": -2.81
+      "changePercent": -2.99
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": -3.19
+    },
+    {
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": -7.17
     }
   ],
   "economicCalendar": [
+    {
+      "date": "2026-12-04",
+      "time": "08:30 ET",
+      "event": "Non-Farm Payrolls",
+      "importance": "high",
+      "description": "Monthly jobs report - employment and wage data"
+    },
     {
       "date": "2026-12-16",
       "time": "14:00 ET",
