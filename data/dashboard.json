@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-11-21T19:54:43.216977+00:00",
+  "lastUpdated": "2026-11-22T20:06:46.496022+00:00",
   "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 21 Nov 2026 13:17:38 GMT",
-      "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine."
+      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 22 Nov 2026 18:17:59 GMT",
+      "summary": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.  "
     },
     {
-      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "title": "What's next after no deal at COP31 climate talks?",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 22 Nov 2026 18:57:24 GMT",
+      "summary": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal."
+    },
+    {
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 22 Nov 2026 19:52:50 GMT",
+      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.\n"
+    },
+    {
+      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 22 Nov 2026 17:57:43 GMT",
+      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region."
+    },
+    {
+      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
       "source": "BBC",
       "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 21 Nov 2026 19:20:22 GMT",
-      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel."
-    },
-    {
-      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 20 Nov 2026 22:42:47 GMT",
-      "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory."
-    },
-    {
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 21 Nov 2026 19:33:49 GMT",
-      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement."
-    },
-    {
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 21 Nov 2026 16:35:15 GMT",
-      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information."
+      "publishedAt": "Sun, 22 Nov 2026 17:18:26 GMT",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment."
     }
   ],
   "cryptoAssets": [
@@ -43,59 +43,80 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 60316,
-      "change24h": 3.20204,
-      "marketCap": 1213290379178,
+      "price": 60676,
+      "change24h": 0.71898,
+      "marketCap": 1220574616392,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1685.76,
-      "change24h": 5.01048,
-      "marketCap": 206072963379,
+      "price": 1713.44,
+      "change24h": 1.76451,
+      "marketCap": 209456893590,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
+      "title": "The future of onchain FX could start with users, not institutional liquidity",
+      "source": "CoinTelegraph",
+      "url": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 22 Nov 2026 14:30:00 +0000",
+      "summary": "Onchain FX does not need to recreate the trillion-dollar institutional market to become useful. Real demand can make smaller markets work first."
+    },
+    {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 21 Nov 2026 11:18:52 +0000",
+      "publishedAt": "Sun, 22 Nov 2026 11:25:27 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
+      "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 21 Nov 2026 09:48:56 +0000",
-      "summary": "Industry groups have until Dec. 11 to apply for the ECB\u2019s first experimental exercises under its Appia initiative, with later submissions reviewed on a rolling basis."
+      "url": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 22 Nov 2026 09:33:06 +0000",
+      "summary": "Kraken said all orders were processed correctly and found no evidence of a security breach or compromised accounts."
     },
     {
-      "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
+      "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 21 Nov 2026 07:51:47 +0000",
-      "summary": "Whistleblowers could receive 10% to 30% of monetary sanctions in qualifying prediction market fraud cases exceeding $1 million in penalties. "
+      "url": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 22 Nov 2026 07:24:05 +0000",
+      "summary": "Cyber reported unexpected minting of CYBER tokens on Solana, followed by tokens moving out of its Ethereum bridge lockbox, prompting an investigation."
     },
     {
-      "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
+      "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 21 Nov 2026 05:40:35 +0000",
-      "summary": "Hong Kong\u2019s securities regulator says the proposal would strengthen investor protections, with the bill set for its first reading in the Legislative Council on Dec. 2."
-    },
-    {
-      "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
-      "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 20 Nov 2026 19:37:27 +0000",
-      "summary": "Bitquery traced $13.5 million in suspicious sales of the wrapped Monero token, as its operator blamed a security breach and promised to reimburse affected traders."
+      "url": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 22 Nov 2026 05:28:43 +0000",
+      "summary": "Chainflip offered the attacker a 10% bounty to return 90% of the stolen funds by Nov. 23, promising to treat the return as a white-hat recovery and withdraw law enforcement complaints."
     }
   ],
   "aiNews": [
+    {
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "publishedAt": "Sun, 22 Nov 2026 18:08:43 +0000",
+      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\""
+    },
+    {
+      "title": "Signal restricts mobile screenshots as it confronts \u2018existential threat\u2019 of AI surveillance",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "publishedAt": "Sat, 21 Nov 2026 21:37:10 +0000",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps."
+    },
+    {
+      "title": "A tale of two Nvidias",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "publishedAt": "Sat, 21 Nov 2026 21:07:42 +0000",
+      "summary": "We got two very different pictures of Nvidia \u2014  the company\u2019s latest earnings report vs. the tech executives loudly calling for Jensen Huang\u2019s return."
+    },
     {
       "title": "Here are the top AI agents that can live in your text messages\u00a0",
       "source": "TechCrunch",
@@ -109,27 +130,6 @@
       "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
       "publishedAt": "Sat, 21 Nov 2026 16:00:00 +0000",
       "summary": "An actor has licensed his face to a microdrama startup \u2014 in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too. "
-    },
-    {
-      "title": "Daniel Ek backs AI researcher\u2019s fusion power startup. Here\u2019s what they\u2019re building.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-      "publishedAt": "Fri, 20 Nov 2026 19:53:41 +0000",
-      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building."
-    },
-    {
-      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis \u2014 and a human did, too",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-      "publishedAt": "Fri, 20 Nov 2026 19:32:08 +0000",
-      "summary": "Mathematicians are having their minds blown by the latest AI-driven result \u2014 and there's a competing human solution, too. "
-    },
-    {
-      "title": "Chips can survive the space environment \u2014 can their financing?",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
-      "publishedAt": "Fri, 20 Nov 2026 17:40:01 +0000",
-      "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?"
     }
   ],
   "techMovers": [
@@ -169,7 +169,7 @@
       "changePercent": -7.64
     }
   ],
-  "fearGreedIndex": 12,
+  "fearGreedIndex": 11,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
@@ -214,11 +214,6 @@
       "changePercent": -2.19
     },
     {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": -2.66
-    },
-    {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
       "changePercent": -2.95
@@ -232,6 +227,11 @@
       "ticker": "XLK",
       "name": "Technology",
       "changePercent": -7.27
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": NaN
     }
   ],
   "economicCalendar": [
