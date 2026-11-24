@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-11-22T20:06:46.496022+00:00",
+  "lastUpdated": "2026-11-24T00:33:30.559705+00:00",
   "marketStatus": "Closed",
   "globalNews": [
     {
-      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 22 Nov 2026 18:17:59 GMT",
-      "summary": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.  "
+      "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 23 Nov 2026 23:16:08 GMT",
+      "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public."
     },
     {
-      "title": "What's next after no deal at COP31 climate talks?",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 22 Nov 2026 18:57:24 GMT",
-      "summary": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal."
-    },
-    {
-      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
       "source": "BBC",
       "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 22 Nov 2026 19:52:50 GMT",
-      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.\n"
+      "publishedAt": "Mon, 23 Nov 2026 15:41:23 GMT",
+      "summary": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya."
     },
     {
-      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 22 Nov 2026 17:57:43 GMT",
-      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region."
+      "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 23 Nov 2026 20:48:35 GMT",
+      "summary": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner. "
     },
     {
-      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+      "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 22 Nov 2026 17:18:26 GMT",
-      "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment."
+      "url": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 23 Nov 2026 18:04:20 GMT",
+      "summary": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom."
+    },
+    {
+      "title": "What failure of COP31 reveals about a divided world",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 23 Nov 2026 17:24:25 GMT",
+      "summary": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 60676,
-      "change24h": 0.71898,
-      "marketCap": 1220574616392,
+      "price": 61187,
+      "change24h": -0.08118,
+      "marketCap": 1230729487710,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1713.44,
-      "change24h": 1.76451,
-      "marketCap": 209456893590,
+      "price": 1708.94,
+      "change24h": -0.61859,
+      "marketCap": 208852342996,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "The future of onchain FX could start with users, not institutional liquidity",
+      "title": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 22 Nov 2026 14:30:00 +0000",
-      "summary": "Onchain FX does not need to recreate the trillion-dollar institutional market to become useful. Real demand can make smaller markets work first."
+      "url": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 23 Nov 2026 23:43:34 +0000",
+      "summary": "The staff guidance allows Bitcoin, Ether and payment stablecoins to count towards operating reserves."
     },
     {
       "title": "Here\u2019s what happened in crypto today",
       "source": "CoinTelegraph",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 22 Nov 2026 11:25:27 +0000",
+      "publishedAt": "Mon, 23 Nov 2026 21:40:44 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+      "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 22 Nov 2026 09:33:06 +0000",
-      "summary": "Kraken said all orders were processed correctly and found no evidence of a security breach or compromised accounts."
+      "url": "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 23 Nov 2026 21:04:03 +0000",
+      "summary": "US prosecutors are seeking control of stolen USDC, while Elliptic says hackers have moved $247 million through Bitcoin mixers."
     },
     {
-      "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
+      "title": "Kalshi secures temporary win in New York gambling law dispute",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 22 Nov 2026 07:24:05 +0000",
-      "summary": "Cyber reported unexpected minting of CYBER tokens on Solana, followed by tokens moving out of its Ethereum bridge lockbox, prompting an investigation."
+      "url": "https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 23 Nov 2026 20:38:43 +0000",
+      "summary": "The ruling allows Kalshi to continue operating as its legal battle with New York over sports-related event contracts moves toward a January hearing."
     },
     {
-      "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
+      "title": "BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 22 Nov 2026 05:28:43 +0000",
-      "summary": "Chainflip offered the attacker a 10% bounty to return 90% of the stolen funds by Nov. 23, promising to treat the return as a white-hat recovery and withdraw law enforcement complaints."
+      "url": "https://cointelegraph.com/news/btcs-offloads-44m-eth-reduce-defi-debt-market-downturn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 23 Nov 2026 19:35:06 +0000",
+      "summary": "BTCS sold more than half its Ether holdings to reduce leverage following the market sell-off, while BitMine added another 7,819 ETH to its treasury."
     }
   ],
   "aiNews": [
     {
-      "title": "Why data centers are at the center of the Big Tech backlash",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
-      "publishedAt": "Sun, 22 Nov 2026 18:08:43 +0000",
-      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\""
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "publishedAt": "Mon, 23 Nov 2026 22:05:50 +0000",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals."
     },
     {
-      "title": "Signal restricts mobile screenshots as it confronts \u2018existential threat\u2019 of AI surveillance",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-      "publishedAt": "Sat, 21 Nov 2026 21:37:10 +0000",
-      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps."
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "publishedAt": "Mon, 23 Nov 2026 22:02:05 +0000",
+      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself."
     },
     {
-      "title": "A tale of two Nvidias",
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-      "publishedAt": "Sat, 21 Nov 2026 21:07:42 +0000",
-      "summary": "We got two very different pictures of Nvidia \u2014  the company\u2019s latest earnings report vs. the tech executives loudly calling for Jensen Huang\u2019s return."
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "publishedAt": "Mon, 23 Nov 2026 21:47:41 +0000",
+      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in."
     },
     {
-      "title": "Here are the top AI agents that can live in your text messages\u00a0",
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "publishedAt": "Sat, 21 Nov 2026 17:00:00 +0000",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "publishedAt": "Mon, 23 Nov 2026 21:25:42 +0000",
+      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government. "
     },
     {
-      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company\u2019s HQ",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-      "publishedAt": "Sat, 21 Nov 2026 16:00:00 +0000",
-      "summary": "An actor has licensed his face to a microdrama startup \u2014 in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too. "
+      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "publishedAt": "Mon, 23 Nov 2026 20:38:53 +0000",
+      "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees."
     }
   ],
   "techMovers": [
     {
       "ticker": "NVDA",
       "name": "NVIDIA Corp",
-      "price": 125.53,
-      "change": -20.45,
-      "changePercent": -14.01
-    },
-    {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 424.39,
-      "change": -64.8,
-      "changePercent": -13.25
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc",
-      "price": 304.41,
-      "change": -42.24,
-      "changePercent": -12.19
+      "price": 165.05,
+      "change": 39.52,
+      "changePercent": 31.48
     },
     {
       "ticker": "ORCL",
       "name": "Oracle Corp",
-      "price": 101.19,
-      "change": -9.38,
-      "changePercent": -8.48
+      "price": 113.68,
+      "change": 12.49,
+      "changePercent": 12.34
     },
     {
       "ticker": "TSLA",
       "name": "Tesla Inc",
-      "price": 345.82,
-      "change": -28.59,
-      "changePercent": -7.64
+      "price": 385.46,
+      "change": 39.64,
+      "changePercent": 11.46
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 453.46,
+      "change": 29.07,
+      "changePercent": 6.85
+    },
+    {
+      "ticker": "COIN",
+      "name": "Coinbase",
+      "price": 108.78,
+      "change": 6.81,
+      "changePercent": 6.68
     }
   ],
   "fearGreedIndex": 11,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 401.87,
-    "change": -0.38,
-    "changePercent": -0.09
+    "price": 409.4,
+    "change": 7.53,
+    "changePercent": 1.87
   },
   "sectors": [
     {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 0.67
-    },
-    {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": -0.12
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": -0.62
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": -0.74
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": -0.98
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": -1.82
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": -2.19
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": 8.97
     },
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": -2.95
+      "changePercent": 3.97
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": -3.09
-    },
-    {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": -7.27
+      "changePercent": 3.9
     },
     {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": NaN
+      "changePercent": 3.57
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": 3.23
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 1.98
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": 1.48
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": 1.23
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": 1.04
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": -0.09
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": -1.06
     }
   ],
   "economicCalendar": [
