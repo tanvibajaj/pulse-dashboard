@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-11-24T22:53:22.321732+00:00",
+  "lastUpdated": "2026-11-25T22:06:52.780059+00:00",
   "marketStatus": "After Hours",
   "globalNews": [
     {
-      "title": "US attorney general dodges questions about Nvidia investigation",
+      "title": "US announces new tariffs on host of countries including China",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 24 Nov 2026 21:19:42 GMT",
-      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement."
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 25 Nov 2026 16:21:34 GMT",
+      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU."
     },
     {
-      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+      "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 24 Nov 2026 16:49:07 GMT",
-      "summary": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year."
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 25 Nov 2026 17:30:16 GMT",
+      "summary": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago"
     },
     {
-      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+      "title": "At least 30 killed in massive fire as fuel tanker crashes on Cairo highway",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 24 Nov 2026 18:07:46 GMT",
-      "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged."
+      "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 25 Nov 2026 21:25:14 GMT",
+      "summary": "Another 19 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital."
     },
     {
-      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 24 Nov 2026 22:24:23 GMT",
-      "summary": "The verdict follows a months-long trial in New York."
+      "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 25 Nov 2026 19:47:39 GMT",
+      "summary": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases."
     },
     {
-      "title": "Land mine casualties soar in Syria, two years after war",
+      "title": "US stocks fall further as fears over AI intensify",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 24 Nov 2026 15:17:28 GMT",
-      "summary": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show."
+      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 25 Nov 2026 21:43:18 GMT",
+      "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%."
     }
   ],
   "cryptoAssets": [
@@ -43,195 +43,195 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 59948,
-      "change24h": -1.8373,
-      "marketCap": 1205974113519,
+      "price": 60114,
+      "change24h": 0.26313,
+      "marketCap": 1209325018056,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1684.02,
-      "change24h": -1.33584,
-      "marketCap": 205874215822,
+      "price": 1682.82,
+      "change24h": -0.01888,
+      "marketCap": 205726459082,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "Here\u2019s what happened in crypto today",
+      "title": "Switzerland clears 57 jurisdictions for crypto tax data sharing",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 24 Nov 2026 22:12:10 +0000",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+      "url": "https://cointelegraph.com/news/switzerland-clears-57-jurisdictions-crypto-tax-data-sharing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 25 Nov 2026 21:53:38 +0000",
+      "summary": "The move paves the way for Switzerland to exchange crypto tax data with foreign authorities starting in 2028 as part of a global effort to combat tax evasion."
     },
     {
-      "title": "Europol follows $28.5M crypto trail in streaming piracy crackdown",
+      "title": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/europol-crypto-trail-streaming-piracy-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 24 Nov 2026 21:50:25 +0000",
-      "summary": "Authorities from 11 countries worked with Binance, Coinbase and Chainalysis to trace financial transactions and disrupt illegal streaming services."
+      "url": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 25 Nov 2026 21:22:19 +0000",
+      "summary": "Bitcoin mining pool operator Braiins warned that attackers are exploiting unsecured connections to hijack miners\u2019 computing power and potentially steal rewards."
     },
     {
-      "title": "Utah moves to dismiss criminal charges against Kalshi after trading halt",
+      "title": "Why ECB collateral eligibility could boost demand for tokenized bonds",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 24 Nov 2026 20:48:27 +0000",
-      "summary": "Utah\u2019s attorney general warned that the criminal charges could be refiled if Kalshi resumes operations in the state, while separate civil litigation remains unresolved."
+      "url": "https://cointelegraph.com/news/why-ecb-collateral-eligibility-could-boost-demand-tokenized-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 25 Nov 2026 21:11:39 +0000",
+      "summary": "Past ECB decisions offer clues to the value of using bonds as collateral, while US derivatives exchanges face a different calculation over their Bitcoin holdings."
     },
     {
-      "title": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares",
+      "title": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 24 Nov 2026 19:44:23 +0000",
-      "summary": "The crypto asset manager warned that Bitcoin\u2019s downturn could persist amid weak investor demand, while forecasting an uneven recovery across crypto sectors."
+      "url": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 25 Nov 2026 18:54:51 +0000",
+      "summary": "Ethlabs co-founder Julian Ma told Cointelegraph that AI poses a more immediate threat as Ethereum prepares for one of its biggest security overhauls since the Merge."
     },
     {
-      "title": "Coldcard reveals how Bitcoin wallet flaw went undetected for over 5 years",
+      "title": "US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 24 Nov 2026 19:04:26 +0000",
-      "summary": "Coldcard maker Coinkite explained why years of security checks failed to catch the flaw and said it has yet to decide on compensation for affected customers."
+      "url": "https://cointelegraph.com/news/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 25 Nov 2026 17:53:10 +0000",
+      "summary": "US core inflation rose more than expected in October as markets anticipate a December interest rate hike, which could slow a crypto market recovery."
     }
   ],
   "aiNews": [
     {
-      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
-      "publishedAt": "Tue, 24 Nov 2026 22:27:52 +0000",
-      "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder."
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "publishedAt": "Wed, 25 Nov 2026 20:03:27 +0000",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences."
     },
     {
-      "title": "In all-hands meeting, Jensen Huang thanks White House and says he\u2019s in therapy",
+      "title": "Jensen Huang broke Nvidia\u2019s code of conduct, and his employees may not forget it",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
-      "publishedAt": "Tue, 24 Nov 2026 21:48:27 +0000",
-      "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company. "
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "publishedAt": "Wed, 25 Nov 2026 19:54:57 +0000",
+      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences."
     },
     {
-      "title": "Even the best AI agents struggle with everyday life",
+      "title": "Anthropic\u2019s Dario Amodei calls accusations of surrendering human control to AI \u2018absurd\u2019",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-      "publishedAt": "Tue, 24 Nov 2026 21:33:29 +0000",
-      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new prob"
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "publishedAt": "Wed, 25 Nov 2026 19:44:24 +0000",
+      "summary": "Anthropic CEO Dario Amodei pushes back against rivals\u2019 accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model devel"
     },
     {
-      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
-      "publishedAt": "Tue, 24 Nov 2026 21:32:38 +0000",
-      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta\u2019s AI agent."
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "publishedAt": "Wed, 25 Nov 2026 18:11:46 +0000",
+      "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional develop"
     },
     {
-      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "title": "Character.AI\u2019s plan to auction off users\u2019 private chats challenged by state AGs",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
-      "publishedAt": "Tue, 24 Nov 2026 21:19:52 +0000",
-      "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data."
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "publishedAt": "Wed, 25 Nov 2026 17:35:58 +0000",
+      "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said."
     }
   ],
   "techMovers": [
     {
-      "ticker": "AMD",
-      "name": "AMD Inc",
-      "price": 413.27,
-      "change": -40.19,
-      "changePercent": -8.86
-    },
-    {
-      "ticker": "COIN",
-      "name": "Coinbase",
-      "price": 102.35,
-      "change": -6.43,
-      "changePercent": -5.92
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "price": 103.88,
+      "change": -5.62,
+      "changePercent": -5.13
     },
     {
       "ticker": "NVDA",
       "name": "NVIDIA Corp",
-      "price": 155.38,
-      "change": -9.67,
-      "changePercent": -5.86
+      "price": 149.3,
+      "change": -6.08,
+      "changePercent": -3.91
     },
     {
-      "ticker": "CRM",
-      "name": "Salesforce Inc",
-      "price": 193.26,
-      "change": 7.8,
-      "changePercent": 4.21
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "price": 609.89,
+      "change": 20.07,
+      "changePercent": 3.4
     },
     {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc",
-      "price": 301.08,
-      "change": -12.47,
-      "changePercent": -3.98
+      "ticker": "AMZN",
+      "name": "Amazon.com",
+      "price": 244.43,
+      "change": -7.86,
+      "changePercent": -3.12
+    },
+    {
+      "ticker": "UBER",
+      "name": "Uber Technologies",
+      "price": 66.35,
+      "change": 1.65,
+      "changePercent": 2.55
     }
   ],
-  "fearGreedIndex": 11,
+  "fearGreedIndex": 13,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 416.78,
-    "change": 7.38,
-    "changePercent": 1.8
+    "price": 424.39,
+    "change": 7.61,
+    "changePercent": 1.83
   },
   "sectors": [
     {
-      "ticker": "XLV",
-      "name": "Healthcare",
-      "changePercent": 2.95
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 1.66
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": 2.07
     },
     {
       "ticker": "XLRE",
       "name": "Real Estate",
-      "changePercent": 1.31
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": 0.97
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 0.83
+      "changePercent": 0.92
     },
     {
       "ticker": "XLC",
       "name": "Communication Services",
-      "changePercent": 0.82
-    },
-    {
-      "ticker": "XLY",
-      "name": "Consumer Discretionary",
-      "changePercent": 0.68
-    },
-    {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 0.54
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": 0.18
+      "changePercent": 0.89
     },
     {
       "ticker": "XLI",
       "name": "Industrials",
-      "changePercent": -0.53
+      "changePercent": 0.83
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": 0.74
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 0.71
+    },
+    {
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": 0.48
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": 0.46
+    },
+    {
+      "ticker": "XLY",
+      "name": "Consumer Discretionary",
+      "changePercent": -0.2
+    },
+    {
+      "ticker": "XLV",
+      "name": "Healthcare",
+      "changePercent": -0.56
     },
     {
       "ticker": "XLK",
       "name": "Technology",
-      "changePercent": -3.26
+      "changePercent": -0.83
     }
   ],
   "economicCalendar": [
