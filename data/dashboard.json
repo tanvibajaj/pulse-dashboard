@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-11-26T22:05:07.603674+00:00",
+  "lastUpdated": "2026-11-27T21:47:26.815008+00:00",
   "marketStatus": "After Hours",
   "globalNews": [
     {
-      "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
+      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 26 Nov 2026 19:26:16 GMT",
-      "summary": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins."
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 27 Nov 2026 21:40:01 GMT",
+      "summary": "Prime Minister Pedro S\u00e1nchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\"."
     },
     {
-      "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 26 Nov 2026 05:00:24 GMT",
-      "summary": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm."
+      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 27 Nov 2026 18:00:40 GMT",
+      "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war."
     },
     {
-      "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
+      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 26 Nov 2026 05:00:27 GMT",
-      "summary": "Marvin Reuter is contesting extradition to France, where he could face smuggling, criminal conspiracy and involuntary manslaughter charges."
+      "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 27 Nov 2026 18:42:50 GMT",
+      "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?"
     },
     {
-      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+      "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 26 Nov 2026 22:01:22 GMT",
-      "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service."
+      "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 27 Nov 2026 20:06:31 GMT",
+      "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck."
     },
     {
-      "title": "G\u00e9rard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
+      "title": "Brazil pushes back on Macron calling its meat 'doped'",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 26 Nov 2026 14:44:26 GMT",
-      "summary": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould."
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 27 Nov 2026 15:54:15 GMT",
+      "summary": "France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and poultry products."
     }
   ],
   "cryptoAssets": [
@@ -43,56 +43,56 @@
       "id": "bitcoin",
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 60712,
-      "change24h": 1.01954,
-      "marketCap": 1221389545470,
+      "price": 59774,
+      "change24h": -1.73215,
+      "marketCap": 1202518079166,
       "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 1701.44,
-      "change24h": 1.15838,
-      "marketCap": 208006986739,
+      "price": 1664.51,
+      "change24h": -2.44312,
+      "marketCap": 203464939924,
       "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
     }
   ],
   "cryptoNews": [
     {
-      "title": "BNB Chain details new layer-1 for trading, private finance and AI",
+      "title": "Franklin Templeton makes room for HYPE in crypto index ETF",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 26 Nov 2026 21:42:43 +0000",
-      "summary": "\nThe proposed network will operate alongside BNB Smart Chain and retain BNB as its native token, with a public testnet targeted for the first quarter of 2027."
+      "url": "https://cointelegraph.com/news/franklin-templeton-hype-crypto-index-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 27 Nov 2026 21:15:29 +0000",
+      "summary": "The addition comes as US spot investment products tracking Hyperliquid\u2019s native token reach $266.5 million in assets under management."
     },
     {
-      "title": "Binance completes withdrawal recovery four weeks after $6.3B hack",
+      "title": "Bitcoin whales pile into BTC despite shrinking profit cushion",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 26 Nov 2026 21:33:47 +0000",
-      "summary": "The announcement concludes a phased withdrawal recovery that began on Nov. 1, when Binance restored Bitcoin withdrawals following the record crypto theft."
+      "url": "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 27 Nov 2026 19:23:00 +0000",
+      "summary": "CryptoQuant data shows Bitcoin whales are breaking with historical fourth-quarter selling patterns despite a market downturn."
     },
     {
-      "title": "UK is \u2018getting it wrong\u2019 on DeFi regulation, says Coinbase",
+      "title": "China sets March 2027 rollout for blockchain identity regulations",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/uk-wrong-defi-regulation-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 26 Nov 2026 21:13:53 +0000",
-      "summary": "Coinbase and Stand With Crypto argue that the FCA\u2019s proposed DeFi rules could leave UK users without regulated access to decentralized finance."
+      "url": "https://cointelegraph.com/news/china-march-2027-rollout-blockchain-identity-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 27 Nov 2026 17:37:23 +0000",
+      "summary": "China has issued new regulations governing blockchain-based digital identities, setting rules for cross-platform verification and data privacy."
     },
     {
-      "title": "Japan weighs tighter oversight of DeFi, self-custodial wallets",
+      "title": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 26 Nov 2026 20:05:18 +0000",
-      "summary": "Japan\u2019s financial regulator is exploring measures to curb illicit finance risks, including potential restrictions on access to DeFi services."
+      "url": "https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 27 Nov 2026 16:48:51 +0000",
+      "summary": "Bitcoin price volatility returned at the Wall Street open as BTC/USD dropped to local lows of $58,700 while stocks and gold headed higher."
     },
     {
-      "title": "Spain moves to grant financial watchdog power to freeze crypto accounts",
+      "title": "What was Coinbase worth while Nasdaq was closed?",
       "source": "CoinTelegraph",
-      "url": "https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 26 Nov 2026 18:26:31 +0000",
-      "summary": "A new decree would allow Spain\u2019s financial intelligence unit to suspend crypto accounts, with firms facing fines for noncompliance."
+      "url": "https://cointelegraph.com/news/what-was-coinbase-worth-while-nasdaq-was-closed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 27 Nov 2026 14:40:54 +0000",
+      "summary": "A Thanksgiving buyer paid 106.24 USDC per Coinbase share. Whether that looked like a holiday rally depended on when you\u2019d last checked the stock."
     }
   ],
   "aiNews": [
@@ -134,104 +134,104 @@
   ],
   "techMovers": [
     {
-      "ticker": "ORCL",
-      "name": "Oracle Corp",
-      "price": 103.88,
-      "change": -5.62,
-      "changePercent": -5.13
+      "ticker": "TSLA",
+      "name": "Tesla Inc",
+      "price": 400.0,
+      "change": 19.86,
+      "changePercent": 5.22
     },
     {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corp",
-      "price": 149.3,
-      "change": -6.08,
-      "changePercent": -3.91
-    },
-    {
-      "ticker": "META",
-      "name": "Meta Platforms",
-      "price": 609.89,
-      "change": 20.07,
-      "changePercent": 3.4
+      "ticker": "AMD",
+      "name": "AMD Inc",
+      "price": 424.54,
+      "change": 18.51,
+      "changePercent": 4.56
     },
     {
       "ticker": "AMZN",
       "name": "Amazon.com",
-      "price": 244.43,
-      "change": -7.86,
-      "changePercent": -3.12
+      "price": 254.12,
+      "change": 9.69,
+      "changePercent": 3.96
     },
     {
-      "ticker": "UBER",
-      "name": "Uber Technologies",
-      "price": 66.35,
-      "change": 1.65,
-      "changePercent": 2.55
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "price": 312.34,
+      "change": 11.48,
+      "changePercent": 3.82
+    },
+    {
+      "ticker": "SNOW",
+      "name": "Snowflake Inc",
+      "price": 276.29,
+      "change": 8.57,
+      "changePercent": 3.2
     }
   ],
-  "fearGreedIndex": 11,
+  "fearGreedIndex": 12,
   "visaStock": {
     "ticker": "V",
     "name": "Visa Inc",
-    "price": 424.39,
-    "change": 7.61,
-    "changePercent": 1.83
+    "price": 429.56,
+    "change": 5.17,
+    "changePercent": 1.22
   },
   "sectors": [
     {
-      "ticker": "XLB",
-      "name": "Materials",
-      "changePercent": 2.07
-    },
-    {
-      "ticker": "XLRE",
-      "name": "Real Estate",
-      "changePercent": 0.92
-    },
-    {
-      "ticker": "XLC",
-      "name": "Communication Services",
-      "changePercent": 0.89
-    },
-    {
-      "ticker": "XLI",
-      "name": "Industrials",
-      "changePercent": 0.83
-    },
-    {
-      "ticker": "XLE",
-      "name": "Energy",
-      "changePercent": 0.74
-    },
-    {
-      "ticker": "XLF",
-      "name": "Financials",
-      "changePercent": 0.71
-    },
-    {
-      "ticker": "XLU",
-      "name": "Utilities",
-      "changePercent": 0.48
-    },
-    {
-      "ticker": "XLP",
-      "name": "Consumer Staples",
-      "changePercent": 0.46
+      "ticker": "XLK",
+      "name": "Technology",
+      "changePercent": 2.8
     },
     {
       "ticker": "XLY",
       "name": "Consumer Discretionary",
-      "changePercent": -0.2
+      "changePercent": 2.11
+    },
+    {
+      "ticker": "XLC",
+      "name": "Communication Services",
+      "changePercent": 1.99
+    },
+    {
+      "ticker": "XLB",
+      "name": "Materials",
+      "changePercent": 1.84
+    },
+    {
+      "ticker": "XLI",
+      "name": "Industrials",
+      "changePercent": 1.6
+    },
+    {
+      "ticker": "XLE",
+      "name": "Energy",
+      "changePercent": 1.26
+    },
+    {
+      "ticker": "XLF",
+      "name": "Financials",
+      "changePercent": 1.15
+    },
+    {
+      "ticker": "XLRE",
+      "name": "Real Estate",
+      "changePercent": 0.64
+    },
+    {
+      "ticker": "XLP",
+      "name": "Consumer Staples",
+      "changePercent": 0.41
     },
     {
       "ticker": "XLV",
       "name": "Healthcare",
-      "changePercent": -0.56
+      "changePercent": 0.28
     },
     {
-      "ticker": "XLK",
-      "name": "Technology",
-      "changePercent": -0.83
+      "ticker": "XLU",
+      "name": "Utilities",
+      "changePercent": 0.28
     }
   ],
   "economicCalendar": [
